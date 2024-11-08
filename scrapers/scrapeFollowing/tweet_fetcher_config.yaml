@@ -1,5 +1,5 @@
 # API settings
-api_endpoint: 'http://localhost:8080/api/v1/data/twitter/followers/list' 
+api_endpoint: 'http://localhost:8080/api/v1/data/twitter/tweets/recent' 
 headers:
   accept: 'application/json'
   Content-Type: 'application/json'
@@ -7,6 +7,11 @@ headers:
 # Query settings
 account: 'NEARMobile_app'  # The account whose followed list we want to fetch
 count_per_request: 30
+
+# Add start_date and end_date
+start_date: '2024-10-8'
+end_date: '2024-11-8'
+days_per_iteration: 2
 
 # File settings
 data_directory: 'data/NEARMobileAppFollowedAccounts'

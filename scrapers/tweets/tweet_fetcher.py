@@ -279,7 +279,7 @@ def fetch_tweets(config):
                             attempts += 1
                         elif response.status_code == 500:
                             logging.warning("500 Error. Retrying after delay...")
-                            time.sleep(exponential_backoff(attempts, base=config['request_delay']))
+                            time.sleep(exponential_backoff(attempts, base=config['retry_delay']))
                             attempts += 1
                     else:
                         logging.error(f"Failed to fetch tweets: {response.status_code}")
