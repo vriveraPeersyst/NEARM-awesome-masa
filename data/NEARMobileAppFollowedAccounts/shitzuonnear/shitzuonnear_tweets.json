@@ -1,0 +1,1573 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854046709170495852",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "I stake with <a href=\"https://twitter.com/shitzuonnear\">@shitzuonnear</a><br> <br>Why aren\u2019t you?",
+            "ID": "1854046709170495852",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1799466871101562880",
+                    "Username": "shitzuonnear",
+                    "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1854046709170495852",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1853835826494632434",
+            "Replies": 3,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "I stake with @shitzuonnear\n \nWhy aren\u2019t you?",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T06:22:36Z",
+            "Timestamp": 1730874156,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 1208,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852836570778206451",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/MITTE_gg\">@MITTE_gg</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <br><a href=\"https://t.co/UmDpGvzpy0\"><img src=\"https://pbs.twimg.com/media/GbpyYSIWwAA8mly.png\"/></a>",
+            "ID": "1853920010055418105",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852836570778206451",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1670981747440517123",
+                    "Username": "MITTE_gg",
+                    "Name": "MITTE"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1853920010055418105",
+            "Photos": [
+                {
+                    "ID": "1853919958125690880",
+                    "URL": "https://pbs.twimg.com/media/GbpyYSIWwAA8mly.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@MITTE_gg @ShitzuCommunity https://t.co/UmDpGvzpy0",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T21:59:09Z",
+            "Timestamp": 1730843949,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 150,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853919671394910567",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Unraveling the layers of Shitzu - a cheatsheet\ud83d\uddd2\ufe0f<br><br>As you may know, Shitzu is evolving into a dynamic ecosystem with a variety of projects and services. To provide the community with a comprehensive overview, we've created an official cheat sheet. This to ensure you're interacting <br><a href=\"https://t.co/nFPOroLxwW\"><img src=\"https://pbs.twimg.com/media/GbpxdS5XQAAa8_4.jpg\"/></a>",
+            "ID": "1853919671394910567",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 22,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1853919671394910567",
+            "Photos": [
+                {
+                    "ID": "1853918944718962688",
+                    "URL": "https://pbs.twimg.com/media/GbpxdS5XQAAa8_4.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Unraveling the layers of Shitzu - a cheatsheet\ud83d\uddd2\ufe0f\n\nAs you may know, Shitzu is evolving into a dynamic ecosystem with a variety of projects and services. To provide the community with a comprehensive overview, we've created an official cheat sheet. This to ensure you're interacting https://t.co/nFPOroLxwW",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T21:57:48Z",
+            "Timestamp": 1730843868,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 434,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853534188529745921",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud835\udc0d\ud835\udc1e\ud835\udc30 \ud835\udc2f\ud835\udc1a\ud835\udc25\ud835\udc22\ud835\udc1d\ud835\udc1a\ud835\udc2d\ud835\udc28\ud835\udc2b \ud835\udc2c\ud835\udc21\ud835\udc22\ud835\udc2d\ud835\udc33\ud835\udc2e\ud835\udc1a\ud835\udc29\ud835\udc1e\ud835\udc2c.\ud835\udc29\ud835\udc28\ud835\udc28\ud835\udc25.\ud835\udc27\ud835\udc1e\ud835\udc1a\ud835\udc2b \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04!\ud83c\udf7e<br><br>Our shitzu validators are the digital Super Saiyans, blasting away bad guys with computational power! Want to join the fun and protect <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a>?<br><br>\u26a1\ufe0fStake $NEAR for $NEAR with shitzuapes.pool.near; <br><a href=\"https://t.co/8jaYRtbdLY\"><img src=\"https://pbs.twimg.com/media/GbkSsACWwAEo39j.jpg\"/></a>",
+            "ID": "1853534188529745921",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 45,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1853534188529745921",
+            "Photos": [
+                {
+                    "ID": "1853533268773093377",
+                    "URL": "https://pbs.twimg.com/media/GbkSsACWwAEo39j.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud835\udc0d\ud835\udc1e\ud835\udc30 \ud835\udc2f\ud835\udc1a\ud835\udc25\ud835\udc22\ud835\udc1d\ud835\udc1a\ud835\udc2d\ud835\udc28\ud835\udc2b \ud835\udc2c\ud835\udc21\ud835\udc22\ud835\udc2d\ud835\udc33\ud835\udc2e\ud835\udc1a\ud835\udc29\ud835\udc1e\ud835\udc2c.\ud835\udc29\ud835\udc28\ud835\udc28\ud835\udc25.\ud835\udc27\ud835\udc1e\ud835\udc1a\ud835\udc2b \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04!\ud83c\udf7e\n\nOur shitzu validators are the digital Super Saiyans, blasting away bad guys with computational power! Want to join the fun and protect @NEARProtocol?\n\n\u26a1\ufe0fStake $NEAR for $NEAR with shitzuapes.pool.near; https://t.co/8jaYRtbdLY",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T20:26:02Z",
+            "Timestamp": 1730751962,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 1104,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853154982683357323",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Something is happening with Shitzu x Meteor..\ud83c\udf7f<br><br>Start snooping around and you'll find out soon enough\ud83d\udc40<br><br>Remember, remember the 6th of??<br><br><a href=\"https://twitter.com/NearTinkerUnion\">@NearTinkerUnion</a> <a href=\"https://twitter.com/MeteorWallet\">@MeteorWallet</a> <br><a href=\"https://t.co/YzrXjhGmA7\"><img src=\"https://pbs.twimg.com/media/Gbe4K8TbQAAjXJX.jpg\"/></a>",
+            "ID": "1853154982683357323",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 67,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1485183036455284739",
+                    "Username": "NearTinkerUnion",
+                    "Name": "Near Tinker Union | NTU"
+                },
+                {
+                    "ID": "1527219489351385088",
+                    "Username": "MeteorWallet",
+                    "Name": "Meteor Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1853154982683357323",
+            "Photos": [
+                {
+                    "ID": "1853152269812056064",
+                    "URL": "https://pbs.twimg.com/media/Gbe4K8TbQAAjXJX.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 19,
+            "Retweets": 18,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Something is happening with Shitzu x Meteor..\ud83c\udf7f\n\nStart snooping around and you'll find out soon enough\ud83d\udc40\n\nRemember, remember the 6th of??\n\n@NearTinkerUnion @MeteorWallet https://t.co/YzrXjhGmA7",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T19:19:12Z",
+            "Timestamp": 1730661552,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 2729,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852836570778206451",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udea8Shitzurians, MITTErians, Ten-Hut!\ud83d\udea8<br><br>Our friends from <a href=\"https://twitter.com/MITTE_gg\">@MITTE_gg</a> have provided the <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> the unique opportunity to snipe down 10 MITTErians NFT's! That's right squad, we are raffling 10 soldiers!<br><br>This new NFT collection will be revealed next week\ud83d\udc40<br><br>How to <br><a href=\"https://t.co/z8U9C5qhXC\"><img src=\"https://pbs.twimg.com/media/GbaZCcnbcAAViqH.jpg\"/></a>",
+            "ID": "1852836570778206451",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 58,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1670981747440517123",
+                    "Username": "MITTE_gg",
+                    "Name": "MITTE"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1852836570778206451",
+            "Photos": [
+                {
+                    "ID": "1852836564029894656",
+                    "URL": "https://pbs.twimg.com/media/GbaZCcnbcAAViqH.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 37,
+            "Retweets": 36,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udea8Shitzurians, MITTErians, Ten-Hut!\ud83d\udea8\n\nOur friends from @MITTE_gg have provided the @ShitzuCommunity the unique opportunity to snipe down 10 MITTErians NFT's! That's right squad, we are raffling 10 soldiers!\n\nThis new NFT collection will be revealed next week\ud83d\udc40\n\nHow to https://t.co/z8U9C5qhXC",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T22:13:57Z",
+            "Timestamp": 1730585637,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 2005,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852462169637679268",
+            "GIFs": [
+                {
+                    "ID": "1852458579782930432",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbVBQ3kWEAAz19U.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbVBQ3kWEAAz19U.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "\ud83d\udea8Shitzu Community Alert! \ud83d\udea8 <br>Our community has joined the latest potlock round \"CREATE./DEV\" and we urgently need your support! <br><br>Benefits for Donating:<br>\ud83c\udf895% Referral Rewards: Invite friends to join the support and earn!<br>\ud83c\udfc6NFT Giveaway: Every 4 days, a random supporter will win <br><a href=\"https://t.co/XfET9sAkjX\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbVBQ3kWEAAz19U.jpg\"/></a>",
+            "ID": "1852462169637679268",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1852462169637679268",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udea8Shitzu Community Alert! \ud83d\udea8 \nOur community has joined the latest potlock round \"CREATE./DEV\" and we urgently need your support! \n\nBenefits for Donating:\n\ud83c\udf895% Referral Rewards: Invite friends to join the support and earn!\n\ud83c\udfc6NFT Giveaway: Every 4 days, a random supporter will win https://t.co/XfET9sAkjX",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T21:26:12Z",
+            "Timestamp": 1730496372,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 577,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850598802626895875",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Just me and my buddy <a href=\"https://twitter.com/dragonisnear\">@dragonisnear</a> arguing who've got the best PFPs on <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a>\ud83d\udcf8\ud83e\udd23<br><br>Did you know that you can earn a fat bag of memes; which includes 2.71% $BLACKDRAGON APR by staking your $NEAR on shitzu.pool.near?\ud83d\udcb9<br><a href=\"http://app.shitzuapes.xyz\">https://t.co/iD6T9oIRov</a> <br><a href=\"https://t.co/lgL4XIoG5g\"><img src=\"https://pbs.twimg.com/media/Ga6lzWyW8AAaKPS.jpg\"/></a>",
+            "ID": "1850598802626895875",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 51,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1850598802626895875",
+            "Photos": [
+                {
+                    "ID": "1850598798604562432",
+                    "URL": "https://pbs.twimg.com/media/Ga6lzWyW8AAaKPS.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Just me and my buddy @dragonisnear arguing who've got the best PFPs on @NEARProtocol\ud83d\udcf8\ud83e\udd23\n\nDid you know that you can earn a fat bag of memes; which includes 2.71% $BLACKDRAGON APR by staking your $NEAR on shitzu.pool.near?\ud83d\udcb9\nhttps://t.co/iD6T9oIRov https://t.co/lgL4XIoG5g",
+            "Thread": null,
+            "TimeParsed": "2024-10-27T18:01:51Z",
+            "Timestamp": 1730052111,
+            "URLs": [
+                "http://app.shitzuapes.xyz"
+            ],
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 982,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849382551636390263",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "veShitzu got a new scanner to continuously scout new gems to ape into on <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a>. Which one to become the next Oozaru?\ud83d\udc40 <br><a href=\"https://t.co/JFI88C0IJJ\"><img src=\"https://pbs.twimg.com/media/GapToOnWEAAYdKu.jpg\"/></a>",
+            "ID": "1849382551636390263",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1849382551636390263",
+            "Photos": [
+                {
+                    "ID": "1849382547572002816",
+                    "URL": "https://pbs.twimg.com/media/GapToOnWEAAYdKu.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "veShitzu got a new scanner to continuously scout new gems to ape into on @memedotcooking. Which one to become the next Oozaru?\ud83d\udc40 https://t.co/JFI88C0IJJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T09:28:54Z",
+            "Timestamp": 1729762134,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 522,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849163366851395689",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Once autonomous agents take over, they just:<br>- go default to the easiest blockchain system which is going to be <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> <br>- and meet it's infantry <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> showcasing $NEAR's true power. <br><a href=\"https://t.co/NorO0hRGJy\"><img src=\"https://pbs.twimg.com/media/GamMR8mWcAAPTWW.jpg\"/></a>",
+            "ID": "1849163366851395689",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 36,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1849163366851395689",
+            "Photos": [
+                {
+                    "ID": "1849163361964945408",
+                    "URL": "https://pbs.twimg.com/media/GamMR8mWcAAPTWW.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Once autonomous agents take over, they just:\n- go default to the easiest blockchain system which is going to be @NEARProtocol @nearai_intern \n- and meet it's infantry @ShitzuCommunity showcasing $NEAR's true power. https://t.co/NorO0hRGJy",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T18:57:57Z",
+            "Timestamp": 1729709877,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 952,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848806357333643585",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udca9Shitzu quartet!\ud83d\udd22<br> - Ofcourse our famous ticker.<br>- And we've got dogshit.<br>- Sure you know shitstars.<br>- But how about some shitchat?<br><br>Join the NFT gated alpha channel for the exclusive <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> perks. Another layer within the shitzu stack!<br><br>Sneak peak\ud83d\udc40wdyt? <br><a href=\"https://t.co/CFclDNsZKv\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1848803601826611200/pu/img/4yoQRccCYkM0uM8m.jpg\"/></a>",
+            "ID": "1848806357333643585",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 28,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1848806357333643585",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udca9Shitzu quartet!\ud83d\udd22\n - Ofcourse our famous ticker.\n- And we've got dogshit.\n- Sure you know shitstars.\n- But how about some shitchat?\n\nJoin the NFT gated alpha channel for the exclusive @NEARProtocol perks. Another layer within the shitzu stack!\n\nSneak peak\ud83d\udc40wdyt? https://t.co/CFclDNsZKv",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T19:19:19Z",
+            "Timestamp": 1729624759,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": [
+                {
+                    "ID": "1848803601826611200",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1848803601826611200/pu/img/4yoQRccCYkM0uM8m.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1848803601826611200/pu/vid/avc1/450x942/3WfDXnLX-yGgy4VZ.mp4?tag=12"
+                }
+            ],
+            "Views": 964,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848440582068109788",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Updated Boost Schedule<br>This week we are stepping up on content creation!<br>We will be picking one project on <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> per week... Shitstars can submit their nominations on Shitchat or in TG.\ud83e\udd16<br><br>This week, we'll focus on creating content about <a href=\"https://twitter.com/pumpopoly\">@pumpopoly</a>, with a fun twist on <br><a href=\"https://t.co/PpTeH9c9t7\"><img src=\"https://pbs.twimg.com/media/Gab6YcsWcAAfJQd.jpg\"/></a>",
+            "ID": "1848440582068109788",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 41,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1485182981681848330",
+                    "Username": "pumpopoly",
+                    "Name": "Pumpopoly.com"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1848440582068109788",
+            "Photos": [
+                {
+                    "ID": "1848439995008184320",
+                    "URL": "https://pbs.twimg.com/media/Gab6YcsWcAAfJQd.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Updated Boost Schedule\nThis week we are stepping up on content creation!\nWe will be picking one project on @NEARProtocol per week... Shitstars can submit their nominations on Shitchat or in TG.\ud83e\udd16\n\nThis week, we'll focus on creating content about @pumpopoly, with a fun twist on https://t.co/PpTeH9c9t7",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T19:05:51Z",
+            "Timestamp": 1729537551,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 997,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847674067681263735",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "In Amsterdam, touching grass has a whole different meaning.\ud83e\udd23<br><br>Have it your way. Take a break, relax. <br><a href=\"https://t.co/CNP5kyQkfl\"><img src=\"https://pbs.twimg.com/media/GaRBxYOXwAA_TeU.jpg\"/></a>",
+            "ID": "1847674067681263735",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 33,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1847674067681263735",
+            "Photos": [
+                {
+                    "ID": "1847674063700869120",
+                    "URL": "https://pbs.twimg.com/media/GaRBxYOXwAA_TeU.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "In Amsterdam, touching grass has a whole different meaning.\ud83e\udd23\n\nHave it your way. Take a break, relax. https://t.co/CNP5kyQkfl",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T16:20:00Z",
+            "Timestamp": 1729354800,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 921,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847234525211795656",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The catch rate of this rare species is dropping rapidly over the last mount (180+%). Make sure to get yourself some $Shitzu before we break free. <br><a href=\"https://t.co/sisBZdiLW7\"><img src=\"https://pbs.twimg.com/media/GaKxP38WQAAZNoA.jpg\"/></a>",
+            "ID": "1847234525211795656",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 22,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1847234525211795656",
+            "Photos": [
+                {
+                    "ID": "1847233683448545280",
+                    "URL": "https://pbs.twimg.com/media/GaKxP38WQAAZNoA.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The catch rate of this rare species is dropping rapidly over the last mount (180+%). Make sure to get yourself some $Shitzu before we break free. https://t.co/sisBZdiLW7",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T11:13:25Z",
+            "Timestamp": 1729250005,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 746,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847183083847463210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The shitzu community is regarded as a safe and (meme)inclusive environment. We will foster and raise these tokens as our own, until they are ready for new adventures.\u2764\ufe0f<br><br>CA:         shit.0xshitzu.near<br>venue:   shitzu.pool.near<br>shelter: shitzu.sputnik-dao.near<br><br><a href=\"https://twitter.com/HijackNear\">@HijackNear</a> <br><a href=\"https://t.co/rXvNYUOhSl\"><img src=\"https://pbs.twimg.com/media/GaKBXN5WQAAj2gZ.png\"/></a>",
+            "ID": "1847183083847463210",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 34,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1842150318794006528",
+                    "Username": "HijackNear",
+                    "Name": "HiJack Community"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1847183083847463210",
+            "Photos": [
+                {
+                    "ID": "1847181033042493440",
+                    "URL": "https://pbs.twimg.com/media/GaKBXN5WQAAj2gZ.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The shitzu community is regarded as a safe and (meme)inclusive environment. We will foster and raise these tokens as our own, until they are ready for new adventures.\u2764\ufe0f\n\nCA:         shit.0xshitzu.near\nvenue:   shitzu.pool.near\nshelter: shitzu.sputnik-dao.near\n\n@HijackNear https://t.co/rXvNYUOhSl",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T07:49:00Z",
+            "Timestamp": 1729237740,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 1267,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846858369623085468",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The fight is at our shelter. <br>The fight for digital sovereignty. <br>The fight against Big Dogs<br><br>[REDACTED] is not just a conference, it\u2019s a call to take back what\u2019s yours.<br><br>Oh yeah AND free beer \ud83c\udf7a <br><a href=\"https://t.co/qCF2wWhbvU\"><img src=\"https://pbs.twimg.com/media/GaFb35YXQAAUvGm.jpg\"/></a>",
+            "ID": "1846858369623085468",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1846858369623085468",
+            "Photos": [
+                {
+                    "ID": "1846858338052554752",
+                    "URL": "https://pbs.twimg.com/media/GaFb35YXQAAUvGm.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The fight is at our shelter. \nThe fight for digital sovereignty. \nThe fight against Big Dogs\n\n[REDACTED] is not just a conference, it\u2019s a call to take back what\u2019s yours.\n\nOh yeah AND free beer \ud83c\udf7a https://t.co/qCF2wWhbvU",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T10:18:42Z",
+            "Timestamp": 1729160322,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 588,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846152173391888762",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The Flying Nimbus (\u7b4b\u6597\u96f2,\u00a0Kinto'un) can only be ridden by those who are pure of heart like <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a>.<br>One of the few communities within the web3 that are doing things so diligently and intentionally with integrity. <br><a href=\"https://t.co/J6yNvKnG6j\"><img src=\"https://pbs.twimg.com/media/GZ7Y37vXwAAe13g.jpg\"/></a>",
+            "ID": "1846152173391888762",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 25,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1846152173391888762",
+            "Photos": [
+                {
+                    "ID": "1846151352709267456",
+                    "URL": "https://pbs.twimg.com/media/GZ7Y37vXwAAe13g.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The Flying Nimbus (\u7b4b\u6597\u96f2,\u00a0Kinto'un) can only be ridden by those who are pure of heart like @ShitzuCommunity.\nOne of the few communities within the web3 that are doing things so diligently and intentionally with integrity. https://t.co/J6yNvKnG6j",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T11:32:32Z",
+            "Timestamp": 1728991952,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 755,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846144370115789089",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The meme-validator shitzu.pool.near increased to over 17%!\ud83d\udcb9\ud83e\udd11<br><br>Have you checked out the shitzu validator on <a href=\"https://app.shitzuapes.xyz/stake\">https://t.co/1zvFRfHdGQ</a> yet? It basically let's you stake $NEAR for a bag of memes wrapped in $DOGSHIT\ud83d\udca9can you believe it? <br><br>The validator received an additional 21K+ <br><a href=\"https://t.co/b7TQcsuQim\"><img src=\"https://pbs.twimg.com/media/GZ7OUM5XkAADSKE.png\"/></a>",
+            "ID": "1846144370115789089",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 27,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1846144370115789089",
+            "Photos": [
+                {
+                    "ID": "1846139743723032576",
+                    "URL": "https://pbs.twimg.com/media/GZ7OUM5XkAADSKE.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The meme-validator shitzu.pool.near increased to over 17%!\ud83d\udcb9\ud83e\udd11\n\nHave you checked out the shitzu validator on https://t.co/1zvFRfHdGQ yet? It basically let's you stake $NEAR for a bag of memes wrapped in $DOGSHIT\ud83d\udca9can you believe it? \n\nThe validator received an additional 21K+ https://t.co/b7TQcsuQim",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T11:01:32Z",
+            "Timestamp": 1728990092,
+            "URLs": [
+                "https://app.shitzuapes.xyz/stake"
+            ],
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 1166,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846128903896944664",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/crypto_wangyu\">@crypto_wangyu</a> <a href=\"https://twitter.com/4illia_\">@4illia_</a> <a href=\"http://shard.dog/shitzu\">https://t.co/cfO1dhC9R6</a>",
+            "ID": "1846137097154933195",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846128903896944664",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1104050593193172992",
+                    "Username": "crypto_wangyu",
+                    "Name": "CRYPTO-\u53e5\u8dc3\uff08\u91d1\uff09"
+                },
+                {
+                    "ID": "1806271708094939136",
+                    "Username": "4illia_",
+                    "Name": "illia4NEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1846137097154933195",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@crypto_wangyu @4illia_ https://t.co/cfO1dhC9R6",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T10:32:38Z",
+            "Timestamp": 1728988358,
+            "URLs": [
+                "http://shard.dog/shitzu"
+            ],
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 78,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845764901601460493",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Relaxing with friends waiting nearby green candles! <br><a href=\"https://t.co/Hk7G1eXOZz\"><img src=\"https://pbs.twimg.com/media/GZ15Y8WX0AEY3I_.jpg\"/></a>",
+            "ID": "1845764901601460493",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 33,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1845764901601460493",
+            "Photos": [
+                {
+                    "ID": "1845764891715555329",
+                    "URL": "https://pbs.twimg.com/media/GZ15Y8WX0AEY3I_.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Relaxing with friends waiting nearby green candles! https://t.co/Hk7G1eXOZz",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T09:53:39Z",
+            "Timestamp": 1728899619,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 874,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844823857867407831",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/ Another $10k+ is aggressively stacking up to enter the play!<br>The current sentiment for Shitzu is bullish, which is recognized by the pile of buy orders that are sidelined to grab more $SHITZU!\ud83c\udfaf<br><br>The market section summarizes the future trade data, and highlights an intended <br><a href=\"https://t.co/4vgyQqmjYW\"><img src=\"https://pbs.twimg.com/media/GZoAb_YWsAsgrxC.jpg\"/></a>",
+            "ID": "1844823862011191807",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844823857867407831",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1844823862011191807",
+            "Photos": [
+                {
+                    "ID": "1844787478231691275",
+                    "URL": "https://pbs.twimg.com/media/GZoAb_YWsAsgrxC.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/ Another $10k+ is aggressively stacking up to enter the play!\nThe current sentiment for Shitzu is bullish, which is recognized by the pile of buy orders that are sidelined to grab more $SHITZU!\ud83c\udfaf\n\nThe market section summarizes the future trade data, and highlights an intended https://t.co/4vgyQqmjYW",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T19:34:18Z",
+            "Timestamp": 1728675258,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 398,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844823857867407831",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "1/ Impressive ROI for Shitzu trading bots! <br>Below trading vault on <a href=\"https://twitter.com/DeltaBotTeam\">@DeltaBotTeam</a> has been Dollar Cost Averaging into $SHITZU on an hourly basis and made a 82.4% ($1.6k) profit!\ud83e\udd11<br><br>The Shitzu DAO buyback bot is also actively targeting the $SHITZU/$NEAR pair. They fire up a buy <br><a href=\"https://t.co/ZltZrjXFTn\"><img src=\"https://pbs.twimg.com/media/GZn-qDhXgAolzHk.jpg\"/></a>",
+            "ID": "1844823857867407831",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 29,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1730425081724297216",
+                    "Username": "DeltaBotTeam",
+                    "Name": "DeltaTrade"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1844823857867407831",
+            "Photos": [
+                {
+                    "ID": "1844785520838148106",
+                    "URL": "https://pbs.twimg.com/media/GZn-qDhXgAolzHk.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "1/ Impressive ROI for Shitzu trading bots! \nBelow trading vault on @DeltaBotTeam has been Dollar Cost Averaging into $SHITZU on an hourly basis and made a 82.4% ($1.6k) profit!\ud83e\udd11\n\nThe Shitzu DAO buyback bot is also actively targeting the $SHITZU/$NEAR pair. They fire up a buy https://t.co/ZltZrjXFTn",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T19:34:17Z",
+            "Timestamp": 1728675257,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 1146,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844465037630636046",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Prep cooks! We got you covered! If you are brewing new niches, we facilitate lower cap launches on <a href=\"https://twitter.com/finance_ref\">@finance_ref</a><br>With only 100 $NEAR. For stronger brews, you can customize the caps accordingly! <br>Hold my beer\ud83c\udf7a <br><a href=\"https://t.co/bkuRzOvs2s\"><img src=\"https://pbs.twimg.com/media/GZjbKoOXEA0eS57.jpg\"/></a>",
+            "ID": "1844465037630636046",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 22,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1844465037630636046",
+            "Photos": [
+                {
+                    "ID": "1844465023051042829",
+                    "URL": "https://pbs.twimg.com/media/GZjbKoOXEA0eS57.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Prep cooks! We got you covered! If you are brewing new niches, we facilitate lower cap launches on @finance_ref\nWith only 100 $NEAR. For stronger brews, you can customize the caps accordingly! \nHold my beer\ud83c\udf7a https://t.co/bkuRzOvs2s",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T19:48:28Z",
+            "Timestamp": 1728589708,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 705,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844459256642142390",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "3/ I just set free 2007,32 $SHITZU from old CA\u2019s!<br><br>1\u20e3 Post a screenshot of the amount of $NEAR that you have reclaimed from prior contracts.<br>2\u20e3 Follow <a href=\"https://twitter.com/shitzuonnear\">@shitzuonnear</a>.<br>3\u20e3 Retweet. <br><a href=\"https://t.co/8q6zkNSYPr\"><img src=\"https://pbs.twimg.com/media/GZjVeyxWQA80Fke.png\"/></a>",
+            "ID": "1844459268914938262",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844459264351351018",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1799466871101562880",
+                    "Username": "shitzuonnear",
+                    "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1844459268914938262",
+            "Photos": [
+                {
+                    "ID": "1844458772409761807",
+                    "URL": "https://pbs.twimg.com/media/GZjVeyxWQA80Fke.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "3/ I just set free 2007,32 $SHITZU from old CA\u2019s!\n\n1\u20e3 Post a screenshot of the amount of $NEAR that you have reclaimed from prior contracts.\n2\u20e3 Follow @shitzuonnear.\n3\u20e3 Retweet. https://t.co/8q6zkNSYPr",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T19:25:32Z",
+            "Timestamp": 1728588332,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 397,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844459256642142390",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/ Storage management has been standardized via NEP-145 so that there's an interface for users of a smart contract to pay for the storage that they are using. Fortunately we can use this standard to also refund $NEAR, that isn't used for storage staking, but has been paid by your",
+            "ID": "1844459264351351018",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844459260840902834",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1844459264351351018",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/ Storage management has been standardized via NEP-145 so that there's an interface for users of a smart contract to pay for the storage that they are using. Fortunately we can use this standard to also refund $NEAR, that isn't used for storage staking, but has been paid by your",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T19:25:31Z",
+            "Timestamp": 1728588331,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 409,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844459256642142390",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "1/ This BOS app allows you to free unused $NEAR, that you have been depositing for storage staking. Storage staking is a concept unique to <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> where the contract owner needs to lock $NEAR, if data is stored in a wallet/contract.",
+            "ID": "1844459260840902834",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844459256642142390",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1844459260840902834",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "1/ This BOS app allows you to free unused $NEAR, that you have been depositing for storage staking. Storage staking is a concept unique to @NEARProtocol where the contract owner needs to lock $NEAR, if data is stored in a wallet/contract.",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T19:25:30Z",
+            "Timestamp": 1728588330,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 257,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844459256642142390",
+            "GIFs": [
+                {
+                    "ID": "1844457048907419656",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZjT6eOXkAgeCgl.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZjT6eOXkAgeCgl.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "Free unused storage staked NEAR!\ud83c\udf7e<br>Have you tried this ingenious tool from <a href=\"https://twitter.com/shitzuonnear\">@shitzuonnear</a> by <a href=\"https://twitter.com/marior_dev\">@marior_dev</a> yet? It basically sets your locked $NEAR free that has been deposited for storage staking!\ud83e\udd73 <br><br>It\u2019s time to reclaim your sovereignty! How much $SHITZU worth in $NEAR have you <br><a href=\"https://t.co/lkdfr4idlE\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZjT6eOXkAgeCgl.jpg\"/></a>",
+            "ID": "1844459256642142390",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 82,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1799466871101562880",
+                    "Username": "shitzuonnear",
+                    "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334"
+                },
+                {
+                    "ID": "1308661819536535552",
+                    "Username": "marior_dev",
+                    "Name": "Mario Reder (marior.near)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1844459256642142390",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 68,
+            "Retweets": 65,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Free unused storage staked NEAR!\ud83c\udf7e\nHave you tried this ingenious tool from @shitzuonnear by @marior_dev yet? It basically sets your locked $NEAR free that has been deposited for storage staking!\ud83e\udd73 \n\nIt\u2019s time to reclaim your sovereignty! How much $SHITZU worth in $NEAR have you https://t.co/lkdfr4idlE",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T19:25:29Z",
+            "Timestamp": 1728588329,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 2016,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844066218522837016",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Want a precious tip? I bought shitzu before reaching $0.01 <br><a href=\"https://t.co/HnvLxMGdHe\"><img src=\"https://pbs.twimg.com/media/GZdwWOyWMAABWYn.jpg\"/></a>",
+            "ID": "1844066218522837016",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1844066218522837016",
+            "Photos": [
+                {
+                    "ID": "1844066099660206080",
+                    "URL": "https://pbs.twimg.com/media/GZdwWOyWMAABWYn.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Want a precious tip? I bought shitzu before reaching $0.01 https://t.co/HnvLxMGdHe",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T17:23:42Z",
+            "Timestamp": 1728494622,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 599,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843625604224045274",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "GM ALL <br><a href=\"https://t.co/Y02PDZqoeR\"><img src=\"https://pbs.twimg.com/media/GZXftZPXAAAeo4F.jpg\"/></a>",
+            "ID": "1843625604224045274",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1843625604224045274",
+            "Photos": [
+                {
+                    "ID": "1843625593440501760",
+                    "URL": "https://pbs.twimg.com/media/GZXftZPXAAAeo4F.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "GM ALL https://t.co/Y02PDZqoeR",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T12:12:51Z",
+            "Timestamp": 1728389571,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 613,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843594644715909612",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Have you discovered the <a href=\"https://twitter.com/DeltaBotTeam\">@DeltaBotTeam</a> DCA bot for $SHITZU already? Next to USDC as quote token, the token pair with wNEAR is now live\ud83e\udd73 <br><br><a href=\"https://www.deltatrade.ai/bots/dca/vault/SHITZU_NEAR?ref=glorix.near&chain=near\">https://t.co/ZkXgqSJyQ0</a><br><br>The <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> DAO has already setup an initial bot to relaunch the buybacks..\ud83d\ude80 <br><a href=\"https://t.co/v6M3n7yiJb\"><img src=\"https://pbs.twimg.com/media/GZXDjnvWIAAt9rK.jpg\"/></a>",
+            "ID": "1843594644715909612",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1730425081724297216",
+                    "Username": "DeltaBotTeam",
+                    "Name": "DeltaTrade"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1843594644715909612",
+            "Photos": [
+                {
+                    "ID": "1843594639208488960",
+                    "URL": "https://pbs.twimg.com/media/GZXDjnvWIAAt9rK.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Have you discovered the @DeltaBotTeam DCA bot for $SHITZU already? Next to USDC as quote token, the token pair with wNEAR is now live\ud83e\udd73 \n\nhttps://t.co/ZkXgqSJyQ0\n\nThe @ShitzuCommunity DAO has already setup an initial bot to relaunch the buybacks..\ud83d\ude80 https://t.co/v6M3n7yiJb",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T10:09:50Z",
+            "Timestamp": 1728382190,
+            "URLs": [
+                "https://www.deltatrade.ai/bots/dca/vault/SHITZU_NEAR?ref=glorix.near&chain=near"
+            ],
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 476,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843250412192690317",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Did you know that the Shitzu DAO holds more than 1% of the total $BLACKDRAGON supply? IYKYK.\ud83d\udc40<br><br>Both <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> as well as <a href=\"https://twitter.com/dragonisnear\">@dragonisnear</a> are transcending the meme narrative and are pushing the limits of what a meme token really can be as far as an ecosystem, with all these <br><a href=\"https://t.co/inmdgZGlwM\"><img src=\"https://pbs.twimg.com/media/GZSKerVWQAA7Z0r.png\"/></a>",
+            "ID": "1843250412192690317",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 39,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": [
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1843250412192690317",
+            "Photos": [
+                {
+                    "ID": "1843250407134347264",
+                    "URL": "https://pbs.twimg.com/media/GZSKerVWQAA7Z0r.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Did you know that the Shitzu DAO holds more than 1% of the total $BLACKDRAGON supply? IYKYK.\ud83d\udc40\n\nBoth @ShitzuCommunity as well as @dragonisnear are transcending the meme narrative and are pushing the limits of what a meme token really can be as far as an ecosystem, with all these https://t.co/inmdgZGlwM",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T11:21:58Z",
+            "Timestamp": 1728300118,
+            "URLs": null,
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 1351,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851860187621060983",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Trick or treat!\ud83e\udd21 <br> <br>Have you filled your bag with tokens yet? <br> <br>CA: token.0xshitzu.near <br>$SHITZU<br><br><a href=\"http://shard.dog/trickortreat\">https://t.co/ibbwkRB6GL</a>",
+            "ID": "1851860187621060983",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 51,
+            "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/shitzuonnear/status/1851860187621060983",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 13,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Trick or treat!\ud83e\udd21 \n \nHave you filled your bag with tokens yet? \n \nCA: token.0xshitzu.near \n$SHITZU\n\nhttps://t.co/ibbwkRB6GL",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T05:34:09Z",
+            "Timestamp": 1730352849,
+            "URLs": [
+                "http://shard.dog/trickortreat"
+            ],
+            "UserID": "1799466871101562880",
+            "Username": "shitzuonnear",
+            "Videos": null,
+            "Views": 897,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

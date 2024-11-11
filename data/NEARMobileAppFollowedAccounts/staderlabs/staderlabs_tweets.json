@@ -1,0 +1,1081 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854572698107888019",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Do you actively use words like \"WAGMI\", \"Apeing\", \"rekt\" and more?<br><br>Well we're hiring interns who fall in this category.<br><br>\ud83d\udd17 <a href=\"https://www.linkedin.com/jobs/view/3910775122\">https://t.co/kbfv8KfAi6</a> <br><a href=\"https://t.co/KYg9tqFv8U\"><img src=\"https://pbs.twimg.com/media/GbzD_ZDbIAENS32.jpg\"/></a>",
+            "ID": "1854572698107888019",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 50,
+            "Name": "Stader Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/staderlabs/status/1854572698107888019",
+            "Photos": [
+                {
+                    "ID": "1854572640394223617",
+                    "URL": "https://pbs.twimg.com/media/GbzD_ZDbIAENS32.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Do you actively use words like \"WAGMI\", \"Apeing\", \"rekt\" and more?\n\nWell we're hiring interns who fall in this category.\n\n\ud83d\udd17 https://t.co/kbfv8KfAi6 https://t.co/KYg9tqFv8U",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T17:12:42Z",
+            "Timestamp": 1730999562,
+            "URLs": [
+                "https://www.linkedin.com/jobs/view/3910775122"
+            ],
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 4245,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853404630421574125",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Grow your $SD while keeping the Ethereum network secure!<br><br>\ud83c\udf1f 14%+ rewards for delegating your SD to the SD Utility Pool.<br><br>Why just hold $SD? Start delegating today!<br><br>\ud83d\udd17 <a href=\"http://staderlabs.com/sd/utility_pool/\">https://t.co/ooxHFzy7WQ</a> <br><a href=\"https://t.co/f771dHp3Ur\"><img src=\"https://pbs.twimg.com/media/GbidkiiagAArwfY.jpg\"/></a>",
+            "ID": "1853404630421574125",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 66,
+            "Name": "Stader Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/staderlabs/status/1853404630421574125",
+            "Photos": [
+                {
+                    "ID": "1853404497734959104",
+                    "URL": "https://pbs.twimg.com/media/GbidkiiagAArwfY.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 16,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Grow your $SD while keeping the Ethereum network secure!\n\n\ud83c\udf1f 14%+ rewards for delegating your SD to the SD Utility Pool.\n\nWhy just hold $SD? Start delegating today!\n\n\ud83d\udd17 https://t.co/ooxHFzy7WQ https://t.co/f771dHp3Ur",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T11:51:13Z",
+            "Timestamp": 1730721073,
+            "URLs": [
+                "http://staderlabs.com/sd/utility_pool/"
+            ],
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 5688,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851230364796395916",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Stader is dedicated to make liquid staking more accessible.<br><br>We have partnered with 12+ wallets allowing you to stake with Stader directly from your wallet app.<br><br>Discover why leading wallets like <a href=\"https://twitter.com/Ledger\">@Ledger</a> &amp; <a href=\"https://twitter.com/iSafePal\">@iSafePal</a> trust Stader for seamless staking, enhanced security &amp; <br><a href=\"https://t.co/PmOI58EX5L\"><img src=\"https://pbs.twimg.com/media/GbDkJ10bkAA3nUn.jpg\"/></a>",
+            "ID": "1851230364796395916",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 67,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "2652239532",
+                    "Username": "Ledger",
+                    "Name": "Ledger"
+                },
+                {
+                    "ID": "1068417957686992896",
+                    "Username": "iSafePal",
+                    "Name": "SafePal - Crypto Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1851230364796395916",
+            "Photos": [
+                {
+                    "ID": "1851230304566218752",
+                    "URL": "https://pbs.twimg.com/media/GbDkJ10bkAA3nUn.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 15,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Stader is dedicated to make liquid staking more accessible.\n\nWe have partnered with 12+ wallets allowing you to stake with Stader directly from your wallet app.\n\nDiscover why leading wallets like @Ledger &amp; @iSafePal trust Stader for seamless staking, enhanced security &amp; https://t.co/PmOI58EX5L",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T11:51:27Z",
+            "Timestamp": 1730202687,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 6030,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851167099949138387",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/stader_hbar\">@stader_hbar</a> Lets get<br><br>STAKING!! \ud83d\udd25",
+            "ID": "1851168473998901489",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851167099949138387",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1481204190542458881",
+                    "Username": "stader_hbar",
+                    "Name": "Stader.Hedera"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1851168473998901489",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@stader_hbar Lets get\n\nSTAKING!! \ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T07:45:31Z",
+            "Timestamp": 1730187931,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 153,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848725712477561217",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Grab these opportunities before they run out.<br><br>Boost your staking rewards with DeFi now with $ETHx, $BNBx, $MaticX &amp; $HBARX.<br><br>Explore more about Stader &amp; its LSTs here.<br><br>\ud83d\udd17 <a href=\"http://www.staderlabs.com\">https://t.co/YKjnIvkbC7</a>",
+            "ID": "1848725728181030960",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848725725731557674",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 20,
+            "Name": "Stader Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/staderlabs/status/1848725728181030960",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Grab these opportunities before they run out.\n\nBoost your staking rewards with DeFi now with $ETHx, $BNBx, $MaticX &amp; $HBARX.\n\nExplore more about Stader &amp; its LSTs here.\n\n\ud83d\udd17 https://t.co/YKjnIvkbC7",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:58:55Z",
+            "Timestamp": 1729605535,
+            "URLs": [
+                "http://www.staderlabs.com"
+            ],
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 3354,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848725712477561217",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "4/ HBARx<br><br>Staking rewards: 4.6%<br><br>Top DeFi opportunities:<br><br>\u25bb 12% rewards with HBARX / HBARx Pool on <a href=\"https://twitter.com/pangolindex\">@pangolindex</a><br>\ud83d\udd17 <a href=\"https://app.pangolin.exchange/#/pool\">https://t.co/zPMaeicb9P</a><br><br>\u25bb 8.39% rewards with HSUITE / HBARx Pool on <a href=\"https://twitter.com/SaucerSwapLabs\">@SaucerSwapLabs</a><br>\ud83d\udd17 <a href=\"https://www.saucerswap.finance/liquidity/0.0.1087981\">https://t.co/OnGpkTTDEy</a>",
+            "ID": "1848725725731557674",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848725723256943037",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1330644600801865728",
+                    "Username": "pangolindex",
+                    "Name": "Pangolin (V3 coming soon)"
+                },
+                {
+                    "ID": "1498442237419700225",
+                    "Username": "SaucerSwapLabs",
+                    "Name": "SaucerSwap Labs \ud83e\uddea"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1848725725731557674",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 11,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "4/ HBARx\n\nStaking rewards: 4.6%\n\nTop DeFi opportunities:\n\n\u25bb 12% rewards with HBARX / HBARx Pool on @pangolindex\n\ud83d\udd17 https://t.co/zPMaeicb9P\n\n\u25bb 8.39% rewards with HSUITE / HBARx Pool on @SaucerSwapLabs\n\ud83d\udd17 https://t.co/OnGpkTTDEy",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:58:55Z",
+            "Timestamp": 1729605535,
+            "URLs": [
+                "https://app.pangolin.exchange/#/pool",
+                "https://www.saucerswap.finance/liquidity/0.0.1087981"
+            ],
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 3034,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848725712477561217",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "3/ BNBx<br><br>Staking rewards: 0.51%<br><br>Top DeFi opportunities:<br><br>\u25bb 27.17% rewards with BNBx / SD on <a href=\"https://twitter.com/ThenaFi_\">@ThenaFi_</a><br>\ud83d\udd17 <a href=\"https://thena.fi/pools/0x9698e0c7af13b6cef8017a5c34eb2b3d053c491c\">https://t.co/7urLDQviYB</a><br><br>\u25bb 11.39% rewards with BNBx / BNB - Thena Pool on <a href=\"https://twitter.com/planet_finance\">@planet_finance</a><br>\ud83d\udd17 <a href=\"https://app.planet.finance/pools\">https://t.co/jLiBiRgZWE</a>",
+            "ID": "1848725723256943037",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848725720706781509",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1582734583216447493",
+                    "Username": "ThenaFi_",
+                    "Name": "THENA"
+                },
+                {
+                    "ID": "1385997577791868930",
+                    "Username": "planet_finance",
+                    "Name": "Planet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1848725723256943037",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "3/ BNBx\n\nStaking rewards: 0.51%\n\nTop DeFi opportunities:\n\n\u25bb 27.17% rewards with BNBx / SD on @ThenaFi_\n\ud83d\udd17 https://t.co/7urLDQviYB\n\n\u25bb 11.39% rewards with BNBx / BNB - Thena Pool on @planet_finance\n\ud83d\udd17 https://t.co/jLiBiRgZWE",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:58:54Z",
+            "Timestamp": 1729605534,
+            "URLs": [
+                "https://thena.fi/pools/0x9698e0c7af13b6cef8017a5c34eb2b3d053c491c",
+                "https://app.planet.finance/pools"
+            ],
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 1858,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848725712477561217",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/ MaticX<br><br>Staking rewards: 5.16%<br><br>Top DeFi opportunities:<br><br>\u25bb 7.66% rewards with Leveraged staking strategy using <a href=\"https://twitter.com/CIAN_protocol\">@CIAN_protocol</a><br>\ud83d\udd17 <a href=\"https://dapp.cian.app/strategy/maticleveraged/create\">https://t.co/tbRbqSwiNK</a><br><br>\u25bb 6.7% rewards with MaticX 5x Smart Loop on <a href=\"https://twitter.com/VaultCraft_io\">@VaultCraft_io</a><br>\ud83d\udd17 <a href=\"https://app.vaultcraft.io/vaults/0x3C30fEe45Fb024045c36f4de781df3704787c4a0?chainId=137\">https://t.co/BeBxq9Ustf</a>",
+            "ID": "1848725720706781509",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848725716109824091",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1504409607568982018",
+                    "Username": "CIAN_protocol",
+                    "Name": "CIAN \ud83d\udfe1"
+                },
+                {
+                    "ID": "1366906648204353538",
+                    "Username": "VaultCraft_io",
+                    "Name": "VaultCraft"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1848725720706781509",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/ MaticX\n\nStaking rewards: 5.16%\n\nTop DeFi opportunities:\n\n\u25bb 7.66% rewards with Leveraged staking strategy using @CIAN_protocol\n\ud83d\udd17 https://t.co/tbRbqSwiNK\n\n\u25bb 6.7% rewards with MaticX 5x Smart Loop on @VaultCraft_io\n\ud83d\udd17 https://t.co/BeBxq9Ustf",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:58:54Z",
+            "Timestamp": 1729605534,
+            "URLs": [
+                "https://dapp.cian.app/strategy/maticleveraged/create",
+                "https://app.vaultcraft.io/vaults/0x3C30fEe45Fb024045c36f4de781df3704787c4a0?chainId=137"
+            ],
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 1379,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848725712477561217",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "1/ ETHx<br><br>Staking rewards: 2.97%<br><br>Top DeFi opportunities:<br><br>\u25bb 34.1% rewards with USDC / ETHx on <a href=\"https://twitter.com/PancakeSwap\">@PancakeSwap</a><br>\ud83d\udd17 <a href=\"https://pancakeswap.finance/position-managers?chain=eth&search=ethx\">https://t.co/X8qNtTTG5I</a><br><br>\u25bb 11% rewards with ETHx 10x Smart Loop on <a href=\"https://twitter.com/VaultCraft_io\">@VaultCraft_io</a><br>\ud83d\udd17 <a href=\"https://app.vaultcraft.io/vaults/0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE?chainId=1\">https://t.co/C7jaKA6tPc</a>",
+            "ID": "1848725716109824091",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848725712477561217",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1305349277422477313",
+                    "Username": "PancakeSwap",
+                    "Name": "PancakeSwap"
+                },
+                {
+                    "ID": "1366906648204353538",
+                    "Username": "VaultCraft_io",
+                    "Name": "VaultCraft"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1848725716109824091",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "1/ ETHx\n\nStaking rewards: 2.97%\n\nTop DeFi opportunities:\n\n\u25bb 34.1% rewards with USDC / ETHx on @PancakeSwap\n\ud83d\udd17 https://t.co/X8qNtTTG5I\n\n\u25bb 11% rewards with ETHx 10x Smart Loop on @VaultCraft_io\n\ud83d\udd17 https://t.co/C7jaKA6tPc",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:58:53Z",
+            "Timestamp": 1729605533,
+            "URLs": [
+                "https://pancakeswap.finance/position-managers?chain=eth&search=ethx",
+                "https://app.vaultcraft.io/vaults/0x77f6fFa847Af61aC45F2f69F4F3d7119D70f51bE?chainId=1"
+            ],
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 1864,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848725712477561217",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Best in class DeFi rewards with Stader LSTs!<br><br>With top protocols like <a href=\"https://twitter.com/PancakeSwap\">@PancakeSwap</a>, <a href=\"https://twitter.com/VaultCraft_io\">@VaultCraft_io</a>, <a href=\"https://twitter.com/CIAN_protocol\">@CIAN_protocol</a>, <a href=\"https://twitter.com/ThenaFi_\">@ThenaFi_</a> and <a href=\"https://twitter.com/SaucerSwapLabs\">@SaucerSwapLabs</a>,<br><br>It's time to grow your staking rewards using DeFi.<br><br>A quick roundup.<br><br>\ud83e\uddf5\ud83d\udc47 <br><a href=\"https://t.co/cSB8A5W2k4\"><img src=\"https://pbs.twimg.com/media/Gaf92PzbwAAHdH2.jpg\"/></a>",
+            "ID": "1848725712477561217",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 33,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1305349277422477313",
+                    "Username": "PancakeSwap",
+                    "Name": "PancakeSwap"
+                },
+                {
+                    "ID": "1366906648204353538",
+                    "Username": "VaultCraft_io",
+                    "Name": "VaultCraft"
+                },
+                {
+                    "ID": "1504409607568982018",
+                    "Username": "CIAN_protocol",
+                    "Name": "CIAN \ud83d\udfe1"
+                },
+                {
+                    "ID": "1582734583216447493",
+                    "Username": "ThenaFi_",
+                    "Name": "THENA"
+                },
+                {
+                    "ID": "1498442237419700225",
+                    "Username": "SaucerSwapLabs",
+                    "Name": "SaucerSwap Labs \ud83e\uddea"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1848725712477561217",
+            "Photos": [
+                {
+                    "ID": "1848725280455901184",
+                    "URL": "https://pbs.twimg.com/media/Gaf92PzbwAAHdH2.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Best in class DeFi rewards with Stader LSTs!\n\nWith top protocols like @PancakeSwap, @VaultCraft_io, @CIAN_protocol, @ThenaFi_ and @SaucerSwapLabs,\n\nIt's time to grow your staking rewards using DeFi.\n\nA quick roundup.\n\n\ud83e\uddf5\ud83d\udc47 https://t.co/cSB8A5W2k4",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:58:52Z",
+            "Timestamp": 1729605532,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 2730,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846190836641579493",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/YannickLegendre\">@YannickLegendre</a> Rewards are paid out in $SD.",
+            "ID": "1846314604718444903",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846211592087572903",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "3322636343",
+                    "Username": "YannickLegendre",
+                    "Name": "Yannick Legendre"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1846314604718444903",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@YannickLegendre Rewards are paid out in $SD.",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T22:17:59Z",
+            "Timestamp": 1729030679,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 468,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846190836641579493",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Upto 16% rewards for delegating your $SD to the SD Utility Pool.<br><br>Grow $SD with SD Utility Pool,<br><br>While helping keep Ethereum decentralized.<br><br>\ud83d\udd17 <a href=\"http://staderlabs.com/sd/utility_pool/\">https://t.co/ooxHFzyFMo</a> <br><a href=\"https://t.co/VfOn7CnH2D\"><img src=\"https://pbs.twimg.com/media/GZ78lMXaMAAW0x-.jpg\"/></a>",
+            "ID": "1846190836641579493",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 41,
+            "Name": "Stader Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/staderlabs/status/1846190836641579493",
+            "Photos": [
+                {
+                    "ID": "1846190613173252096",
+                    "URL": "https://pbs.twimg.com/media/GZ78lMXaMAAW0x-.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 17,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Upto 16% rewards for delegating your $SD to the SD Utility Pool.\n\nGrow $SD with SD Utility Pool,\n\nWhile helping keep Ethereum decentralized.\n\n\ud83d\udd17 https://t.co/ooxHFzyFMo https://t.co/VfOn7CnH2D",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T14:06:10Z",
+            "Timestamp": 1729001170,
+            "URLs": [
+                "http://staderlabs.com/sd/utility_pool/"
+            ],
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 3863,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "And that's a wrap on this month's Stader Report!<br><br>Stay in the loop\u2014follow us on socials and hop into our Discord for all things Stader.<br><br>Dive deeper into the Stader ecosystem here:<br><br>\ud83d\udd17 <a href=\"http://www.staderlabs.com\">https://t.co/YKjnIvkbC7</a>",
+            "ID": "1843649886304297385",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843649863466266979",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Stader Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649886304297385",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "And that's a wrap on this month's Stader Report!\n\nStay in the loop\u2014follow us on socials and hop into our Discord for all things Stader.\n\nDive deeper into the Stader ecosystem here:\n\n\ud83d\udd17 https://t.co/YKjnIvkbC7",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:49:20Z",
+            "Timestamp": 1728395360,
+            "URLs": [
+                "http://www.staderlabs.com"
+            ],
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 1794,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "5/ HBARx | <a href=\"https://twitter.com/stader_hbar\">@stader_hbar</a><br><br>Pre-season points have been distributed by <a href=\"https://twitter.com/bonzo_finance\">@bonzo_finance</a> to $HBARx holders.",
+            "ID": "1843649863466266979",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843649840435331577",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1481204190542458881",
+                    "Username": "stader_hbar",
+                    "Name": "Stader.Hedera"
+                },
+                {
+                    "ID": "1615957865000230912",
+                    "Username": "bonzo_finance",
+                    "Name": "Bonzo Finance Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649863466266979",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1836632299095376291",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "5/ HBARx | @stader_hbar\n\nPre-season points have been distributed by @bonzo_finance to $HBARx holders.",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:49:15Z",
+            "Timestamp": 1728395355,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 2816,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "4/ BNBx | <a href=\"https://twitter.com/stader_bnb\">@stader_bnb</a><br><br>BNBx - BNB Concentrated Liquidity Pool by <a href=\"https://twitter.com/ThenaFi_\">@ThenaFi_</a> is now listed on <a href=\"https://twitter.com/rivoxyz\">@rivoxyz</a>.",
+            "ID": "1843649840435331577",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843649817228259496",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1526565369649025024",
+                    "Username": "stader_bnb",
+                    "Name": "Stader.BNB"
+                },
+                {
+                    "ID": "1582734583216447493",
+                    "Username": "ThenaFi_",
+                    "Name": "THENA"
+                },
+                {
+                    "ID": "1684503851620089856",
+                    "Username": "rivoxyz",
+                    "Name": "Rivo.xyz"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649840435331577",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1831331534164377988",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "4/ BNBx | @stader_bnb\n\nBNBx - BNB Concentrated Liquidity Pool by @ThenaFi_ is now listed on @rivoxyz.",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:49:09Z",
+            "Timestamp": 1728395349,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 1230,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Bailsec is currently auditing smart contracts for MaticX,<br><br>Which will allows users to stake $POL and accrue staking rewards with MaticX.",
+            "ID": "1843649817228259496",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843649794067312784",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Stader Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649817228259496",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1843192850630000667",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Bailsec is currently auditing smart contracts for MaticX,\n\nWhich will allows users to stake $POL and accrue staking rewards with MaticX.",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:49:04Z",
+            "Timestamp": 1728395344,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 377,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "3/ MaticX | <a href=\"https://twitter.com/stader_polygon\">@stader_polygon</a><br><br>MaticX 5x and 10x Smart Loop Strategy vaults went live on <a href=\"https://twitter.com/VaultCraft_io\">@VaultCraft_io</a>.<br><br>Users can use leveraged loop strategies and get upto 14% boosted staking rewards using this strategy.<br><br>Here are the details. \ud83d\udc47",
+            "ID": "1843649794067312784",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843649771204161865",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1490640197348106242",
+                    "Username": "stader_polygon",
+                    "Name": "Stader Polygon"
+                },
+                {
+                    "ID": "1366906648204353538",
+                    "Username": "VaultCraft_io",
+                    "Name": "VaultCraft"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649794067312784",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1833854180596813958",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "3/ MaticX | @stader_polygon\n\nMaticX 5x and 10x Smart Loop Strategy vaults went live on @VaultCraft_io.\n\nUsers can use leveraged loop strategies and get upto 14% boosted staking rewards using this strategy.\n\nHere are the details. \ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:48:58Z",
+            "Timestamp": 1728395338,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 1070,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "ETHx 5x and 10x Smart Loop Strategy vault went live on <a href=\"https://twitter.com/VaultCraft_io\">@VaultCraft_io</a>.<br><br>More details here. \ud83d\udc47",
+            "ID": "1843649771204161865",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843649748143944007",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 15,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1366906648204353538",
+                    "Username": "VaultCraft_io",
+                    "Name": "VaultCraft"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649771204161865",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1834525816878727673",
+            "Replies": 4,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "ETHx 5x and 10x Smart Loop Strategy vault went live on @VaultCraft_io.\n\nMore details here. \ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:48:53Z",
+            "Timestamp": 1728395333,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 1360,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/ ETHx | <a href=\"https://twitter.com/staderlabs_eth\">@staderlabs_eth</a><br><br>ETHx Hyperloop vault went live on <a href=\"https://twitter.com/enzymefinance\">@enzymefinance</a>.<br><br>Users can deposit $ETHx and let the smart contract automatically manage their position, targeting a 5.5-6.5x\u00a0 staking rewards boost.<br><br>Check it out here. \ud83d\udc47",
+            "ID": "1843649748143944007",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843649725201035415",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1592885902195404801",
+                    "Username": "staderlabs_eth",
+                    "Name": "Stader Ethereum"
+                },
+                {
+                    "ID": "763039521936203776",
+                    "Username": "enzymefinance",
+                    "Name": "Enzyme"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649748143944007",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1839330481072226718",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/ ETHx | @staderlabs_eth\n\nETHx Hyperloop vault went live on @enzymefinance.\n\nUsers can deposit $ETHx and let the smart contract automatically manage their position, targeting a 5.5-6.5x\u00a0 staking rewards boost.\n\nCheck it out here. \ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:48:47Z",
+            "Timestamp": 1728395327,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 423,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Stader shares the vision behind the SD Tokenomics Reboot.<br><br>Take a look at how SD is looking forward to the leap in the future. \ud83d\udc47",
+            "ID": "1843649725201035415",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843649702195319051",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Stader Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649725201035415",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1832050642325758183",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Stader shares the vision behind the SD Tokenomics Reboot.\n\nTake a look at how SD is looking forward to the leap in the future. \ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:48:42Z",
+            "Timestamp": 1728395322,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 439,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/staderlabs_eth\">@staderlabs_eth</a> <a href=\"https://twitter.com/stader_polygon\">@stader_polygon</a> <a href=\"https://twitter.com/stader_bnb\">@stader_bnb</a> <a href=\"https://twitter.com/stader_hbar\">@stader_hbar</a> 1/ SD<br><br>Stader announced $2Mn ARR as of September 2024,<br><br>Showcasing sustainable development across the Stader\u2019s LSTs.",
+            "ID": "1843649702195319051",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843649678438740347",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Stader Labs",
+            "Mentions": [
+                {
+                    "ID": "1592885902195404801",
+                    "Username": "staderlabs_eth",
+                    "Name": "Stader Ethereum"
+                },
+                {
+                    "ID": "1490640197348106242",
+                    "Username": "stader_polygon",
+                    "Name": "Stader Polygon"
+                },
+                {
+                    "ID": "1526565369649025024",
+                    "Username": "stader_bnb",
+                    "Name": "Stader.BNB"
+                },
+                {
+                    "ID": "1481204190542458881",
+                    "Username": "stader_hbar",
+                    "Name": "Stader.Hedera"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649702195319051",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1838410145736593647",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@staderlabs_eth @stader_polygon @stader_bnb @stader_hbar 1/ SD\n\nStader announced $2Mn ARR as of September 2024,\n\nShowcasing sustainable development across the Stader\u2019s LSTs.",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:48:37Z",
+            "Timestamp": 1728395317,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 522,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843649678438740347",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Exciting times in October starting with the latest Stader\u2019s monthly update! \ud83d\ude80<br><br>Get the scoop on the hottest updates in the Stader ecosystem.<br><br>Ready? Let\u2019s dive in.<br><br>\ud83e\uddf5\ud83d\udc47 <br><a href=\"https://t.co/AnXR3n3yuF\"><img src=\"https://pbs.twimg.com/media/GZX1nESbAAAgTB5.jpg\"/></a>",
+            "ID": "1843649678438740347",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 57,
+            "Name": "Stader Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/staderlabs/status/1843649678438740347",
+            "Photos": [
+                {
+                    "ID": "1843649673992798208",
+                    "URL": "https://pbs.twimg.com/media/GZX1nESbAAAgTB5.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 14,
+            "Retweets": 16,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Exciting times in October starting with the latest Stader\u2019s monthly update! \ud83d\ude80\n\nGet the scoop on the hottest updates in the Stader ecosystem.\n\nReady? Let\u2019s dive in.\n\n\ud83e\uddf5\ud83d\udc47 https://t.co/AnXR3n3yuF",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:48:31Z",
+            "Timestamp": 1728395311,
+            "URLs": null,
+            "UserID": "1387924807480664067",
+            "Username": "staderlabs",
+            "Videos": null,
+            "Views": 6466,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

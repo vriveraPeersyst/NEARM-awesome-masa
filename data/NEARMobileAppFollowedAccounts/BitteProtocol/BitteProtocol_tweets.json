@@ -1,0 +1,4021 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854576758252880054",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Luis (<a href=\"https://twitter.com/microchipgnu\">@microchipgnu</a>) will join the 'What Happens When Web3 Powers AI' panel at the Superintelligence Summit in Bangkok, covering the Decentralized Agent Discovery Protocol, AI-driven transactions, and Universal Accounts for multi-chain asset management. <br><br>Register:",
+            "ID": "1854576758252880054",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "252700513",
+                    "Username": "microchipgnu",
+                    "Name": "luis \ud83c\uddf9\ud83c\udded"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854576758252880054",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854539787174039750",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Luis (@microchipgnu) will join the 'What Happens When Web3 Powers AI' panel at the Superintelligence Summit in Bangkok, covering the Decentralized Agent Discovery Protocol, AI-driven transactions, and Universal Accounts for multi-chain asset management. \n\nRegister:",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T17:28:50Z",
+            "Timestamp": 1731000530,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 821,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854515832334037105",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/MichaelBartelm1\">@MichaelBartelm1</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/hotdao_\">@hotdao_</a> <a href=\"https://twitter.com/Dune\">@Dune</a> <a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> Big difference. <br><br>Take our prompt engine for example, people can add tokens to all the chains and just use natural language to trigger multiple transactions on different chains without needing to bounce them around connecting to different networks or wallets.<br><br>So if you are",
+            "ID": "1854536352068411708",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854529245009109503",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1535863664578002944",
+                    "Username": "MichaelBartelm1",
+                    "Name": "CryptoFacts4You"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1759443844884520960",
+                    "Username": "hotdao_",
+                    "Name": "HOT Protocol \ud83d\udd25"
+                },
+                {
+                    "ID": "1039449274344529920",
+                    "Username": "Dune",
+                    "Name": "Dune @ DuneCon | Devcon \ud83c\uddf9\ud83c\udded"
+                },
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854536352068411708",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@MichaelBartelm1 @ilblackdragon @hotdao_ @Dune @flipsidecrypto Big difference. \n\nTake our prompt engine for example, people can add tokens to all the chains and just use natural language to trigger multiple transactions on different chains without needing to bounce them around connecting to different networks or wallets.\n\nSo if you are",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T14:48:16Z",
+            "Timestamp": 1730990896,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 12,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853820758436217333",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/HowardNguyenx\">@HowardNguyenx</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> You can send EVM tokens to the Safe Account, but make sure we support that network in the drop down. <br><a href=\"https://t.co/VGwjQUhOQs\"><img src=\"https://pbs.twimg.com/media/GbyenUgXoAAdPJv.jpg\"/></a>",
+            "ID": "1854531551091888379",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854446670387548173",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1435071862728368135",
+                    "Username": "HowardNguyenx",
+                    "Name": "Howard Nguyenx"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854531551091888379",
+            "Photos": [
+                {
+                    "ID": "1854531544926363648",
+                    "URL": "https://pbs.twimg.com/media/GbyenUgXoAAdPJv.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@HowardNguyenx @safe @WalletConnect @base @ethereum @Optimism @BNBCHAIN @arbitrum You can send EVM tokens to the Safe Account, but make sure we support that network in the drop down. https://t.co/VGwjQUhOQs",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T14:29:11Z",
+            "Timestamp": 1730989751,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 33,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854524571547746712",
+            "GIFs": null,
+            "Hashtags": [
+                "DevconBangkok"
+            ],
+            "HTML": "Now boarding to <a href=\"https://twitter.com/hashtag/DevconBangkok\">#DevconBangkok</a> and [redacted] Bitte <br><a href=\"https://t.co/TMY2ML0e70\"><img src=\"https://pbs.twimg.com/media/GbyWccVWgAkWEav.jpg\"/></a>",
+            "ID": "1854524571547746712",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854524571547746712",
+            "Photos": [
+                {
+                    "ID": "1854522561956053001",
+                    "URL": "https://pbs.twimg.com/media/GbyWccVWgAkWEav.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Now boarding to #DevconBangkok and [redacted] Bitte https://t.co/TMY2ML0e70",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T14:01:27Z",
+            "Timestamp": 1730988087,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 456,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853820758436217333",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "To see it all in action\u2026<br><br><a href=\"https://x.com/bitteprotocol/status/1854454766920683801?s=46\">https://t.co/H9COp5SQfj</a>",
+            "ID": "1854520675798495719",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853820758436217333",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854520675798495719",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854454766920683801",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "To see it all in action\u2026\n\nhttps://t.co/H9COp5SQfj",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T13:45:59Z",
+            "Timestamp": 1730987159,
+            "URLs": [
+                "https://x.com/bitteprotocol/status/1854454766920683801?s=46"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 451,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854363397674217948",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> Ready!",
+            "ID": "1854514298703262154",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854363397674217948",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854514298703262154",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rhymetaylor Ready!",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T13:20:38Z",
+            "Timestamp": 1730985638,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 79,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854514061829972402",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "All the networks, working together \ud83e\udd1d<br><br>This is Chain Abstraction.",
+            "ID": "1854514061829972402",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854514061829972402",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854506416930955315",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "All the networks, working together \ud83e\udd1d\n\nThis is Chain Abstraction.",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T13:19:42Z",
+            "Timestamp": 1730985582,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 855,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854454766920683801",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "What does a universal account backed by a <a href=\"https://twitter.com/safe\">@safe</a> signed by <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> mean and how do you use it?<br><br><a href=\"https://twitter.com/nategeier\">@nategeier</a> breaks it down and deploys a Safe on <a href=\"https://twitter.com/base\">@base</a> using <a href=\"https://twitter.com/CoinbaseWallet\">@CoinbaseWallet</a>, <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a>  and Bitte. <br><a href=\"https://t.co/GCTKZwHq3R\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1854454214526656520/pu/img/rfE4nmrMh3eRuSND.jpg\"/></a>",
+            "ID": "1854454766920683801",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 52,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "16331393",
+                    "Username": "nategeier",
+                    "Name": "Nate | Bitte \ud83d\ude4f\ud83c\udffc"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "790627436832579584",
+                    "Username": "CoinbaseWallet",
+                    "Name": "Coinbase Wallet \ud83d\udee1\ufe0f"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854454766920683801",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "What does a universal account backed by a @safe signed by @NEARProtocol mean and how do you use it?\n\n@nategeier breaks it down and deploys a Safe on @base using @CoinbaseWallet, @WalletConnect  and Bitte. https://t.co/GCTKZwHq3R",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T09:24:05Z",
+            "Timestamp": 1730971445,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1854454214526656520",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1854454214526656520/pu/img/rfE4nmrMh3eRuSND.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1854454214526656520/pu/vid/avc1/1280x720/A3MhX0RNzhwsOAXm.mp4?tag=12"
+                }
+            ],
+            "Views": 10610,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854196022614098032",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Nate and Luis will be speaking at [REDACTED] Bangkok:<br><br>\ud83d\udd51 2:00 PM - <a href=\"https://twitter.com/nategeier\">@nategeier</a> on decentralized agent selection protocol, covering chain abstraction, <a href=\"https://twitter.com/safe\">@safe</a> integration, and cross-dApp functionality.<br><br>\ud83d\udd5f 4:15 PM - <a href=\"https://twitter.com/microchipgnu\">@microchipgnu</a> on AI agents in <a href=\"http://wallet.bitte.ai\">https://t.co/uXdynUcE0i</a>, detailing <br><a href=\"https://t.co/6dFGGGmlI7\"><img src=\"https://pbs.twimg.com/media/Gbtna4lXYAwMhTQ.jpg\"/></a>",
+            "ID": "1854196022614098032",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "16331393",
+                    "Username": "nategeier",
+                    "Name": "Nate | Bitte \ud83d\ude4f\ud83c\udffc"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "252700513",
+                    "Username": "microchipgnu",
+                    "Name": "luis \ud83c\uddf9\ud83c\udded"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854196022614098032",
+            "Photos": [
+                {
+                    "ID": "1854189383156457484",
+                    "URL": "https://pbs.twimg.com/media/Gbtna4lXYAwMhTQ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Nate and Luis will be speaking at [REDACTED] Bangkok:\n\n\ud83d\udd51 2:00 PM - @nategeier on decentralized agent selection protocol, covering chain abstraction, @safe integration, and cross-dApp functionality.\n\n\ud83d\udd5f 4:15 PM - @microchipgnu on AI agents in https://t.co/uXdynUcE0i, detailing https://t.co/6dFGGGmlI7",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T16:15:55Z",
+            "Timestamp": 1730909755,
+            "URLs": [
+                "http://wallet.bitte.ai"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 618,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854041440445169989",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/survivalisnear\">@survivalisnear</a> <a href=\"https://twitter.com/plugrel\">@plugrel</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/0xPolygon\">@0xPolygon</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> The <a href=\"https://twitter.com/safe\">@safe</a> only deploys once you make your first transaction on that chain. <br><br>We are just teeing up the deterministic account.",
+            "ID": "1854117714287034835",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854082619551666300",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1754807483993042944",
+                    "Username": "survivalisnear",
+                    "Name": "Survival Is Near \ud83d\udc1d"
+                },
+                {
+                    "ID": "1654266255711301632",
+                    "Username": "plugrel",
+                    "Name": "Web3Plug"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "914738730740715521",
+                    "Username": "0xPolygon",
+                    "Name": "Polygon (\u203b,\u203b)"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1854117714287034835",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@survivalisnear @plugrel @base @arbitrum @ethereum @0xPolygon @BNBCHAIN The @safe only deploys once you make your first transaction on that chain. \n\nWe are just teeing up the deterministic account.",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T11:04:45Z",
+            "Timestamp": 1730891085,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 60,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853832748177232372",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NearMultiverse\">@NearMultiverse</a> <a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/safe\">@safe</a> Let\u2019s get that <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> DAO and staking agent up and verified \ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f",
+            "ID": "1853899178461511841",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853873105854222414",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "3494135668",
+                    "Username": "NearMultiverse",
+                    "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app"
+                },
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853899178461511841",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NearMultiverse @jarednotjerry1 @NEARProtocol @safe Let\u2019s get that @meta_pool DAO and staking agent up and verified \ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T20:36:22Z",
+            "Timestamp": 1730838982,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 46,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853832748177232372",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/KaizenCore\">@KaizenCore</a> <a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/safe\">@safe</a> On the list, but first we are nailing the EDSA chains like Bitcoin and EVMs, then we can move on to other like $sui and $sol",
+            "ID": "1853896511341346892",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853895645209469101",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1499872516659355648",
+                    "Username": "KaizenCore",
+                    "Name": "Kaizen Core"
+                },
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853896511341346892",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@KaizenCore @jarednotjerry1 @NEARProtocol @safe On the list, but first we are nailing the EDSA chains like Bitcoin and EVMs, then we can move on to other like $sui and $sol",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T20:25:46Z",
+            "Timestamp": 1730838346,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 70,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853820758436217333",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/sowmaler\">@sowmaler</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> You can from Coinbase Exchange / website, but yes you can\u2019t send EVM tokens to $near account. <br><br>We\u2019ll look into some bridging option to see if we can change that.",
+            "ID": "1853895961895976981",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853895263393350087",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "54577897",
+                    "Username": "sowmaler",
+                    "Name": "Saratoshi Nagamoto"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853895961895976981",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@sowmaler @safe @WalletConnect @base @ethereum @Optimism @BNBCHAIN @arbitrum You can from Coinbase Exchange / website, but yes you can\u2019t send EVM tokens to $near account. \n\nWe\u2019ll look into some bridging option to see if we can change that.",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T20:23:35Z",
+            "Timestamp": 1730838215,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 137,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853820758436217333",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/TABASCOweb3\">@TABASCOweb3</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> Why the quizzical look? The $near account is the main signer for all the EVM accounts. <br><br>Let us know if you have questions.",
+            "ID": "1853893052240453652",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853827517053841588",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1524455456743206912",
+                    "Username": "TABASCOweb3",
+                    "Name": "TABASCOweb3"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853893052240453652",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@TABASCOweb3 @safe @WalletConnect @base @ethereum @Optimism @BNBCHAIN @arbitrum Why the quizzical look? The $near account is the main signer for all the EVM accounts. \n\nLet us know if you have questions.",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T20:12:01Z",
+            "Timestamp": 1730837521,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 309,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853820758436217333",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/sowmaler\">@sowmaler</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> You can send $near to the $near address from Coinbase. Should be good there, but if you are looking for bridging, someone is working on that agent now. <br><br>The EVM base address is the one right next to the word \u201cSafe\u201d <br><a href=\"https://t.co/Ivq2U6Bsdx\"><img src=\"https://pbs.twimg.com/media/GbpZZYnWMAAIavF.jpg\"/></a>",
+            "ID": "1853892494305734708",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853889538575524169",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "54577897",
+                    "Username": "sowmaler",
+                    "Name": "Saratoshi Nagamoto"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853892494305734708",
+            "Photos": [
+                {
+                    "ID": "1853892489255464960",
+                    "URL": "https://pbs.twimg.com/media/GbpZZYnWMAAIavF.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@sowmaler @safe @WalletConnect @base @ethereum @Optimism @BNBCHAIN @arbitrum You can send $near to the $near address from Coinbase. Should be good there, but if you are looking for bridging, someone is working on that agent now. \n\nThe EVM base address is the one right next to the word \u201cSafe\u201d https://t.co/Ivq2U6Bsdx",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T20:09:48Z",
+            "Timestamp": 1730837388,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 144,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853820758436217333",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Crypto_Spieler\">@Crypto_Spieler</a> <a href=\"https://twitter.com/sowmaler\">@sowmaler</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> Not by us \ud83e\udee0",
+            "ID": "1853886629775134777",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853881714806010298",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1379443922380988417",
+                    "Username": "Crypto_Spieler",
+                    "Name": "CryptoSpieler"
+                },
+                {
+                    "ID": "54577897",
+                    "Username": "sowmaler",
+                    "Name": "Saratoshi Nagamoto"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853886629775134777",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Crypto_Spieler @sowmaler @safe @WalletConnect @base @ethereum @Optimism @BNBCHAIN @arbitrum Not by us \ud83e\udee0",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T19:46:30Z",
+            "Timestamp": 1730835990,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853820758436217333",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/sowmaler\">@sowmaler</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> You get a <a href=\"https://twitter.com/safe\">@safe</a> address that you can send <a href=\"https://twitter.com/base\">@base</a> tokens to, and then interact with dapps on base. <br><br>Once AI base agents come on board you can interact with them with natural langue or use <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> to connect on Base.",
+            "ID": "1853886468361433351",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853844520632308085",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "54577897",
+                    "Username": "sowmaler",
+                    "Name": "Saratoshi Nagamoto"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853886468361433351",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@sowmaler @safe @WalletConnect @base @ethereum @Optimism @BNBCHAIN @arbitrum You get a @safe address that you can send @base tokens to, and then interact with dapps on base. \n\nOnce AI base agents come on board you can interact with them with natural langue or use @WalletConnect to connect on Base.",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T19:45:52Z",
+            "Timestamp": 1730835952,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 460,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853848981123526703",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/surge_code\">@surge_code</a> <a href=\"https://twitter.com/PancakeSwap\">@PancakeSwap</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> So many things to do",
+            "ID": "1853867461818679404",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853848981123526703",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1557668121510649857",
+                    "Username": "surge_code",
+                    "Name": "\u27e2 Surge"
+                },
+                {
+                    "ID": "1305349277422477313",
+                    "Username": "PancakeSwap",
+                    "Name": "PancakeSwap"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853867461818679404",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@surge_code @PancakeSwap @NEARProtocol @WalletConnect So many things to do",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T18:30:20Z",
+            "Timestamp": 1730831420,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 83,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853827545969598680",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/RyzeLabs\">@RyzeLabs</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> Now we can focus on onboarding the millions of chain agents. <br><br>Let's go!",
+            "ID": "1853842521975029941",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853827545969598680",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "2972233924",
+                    "Username": "RyzeLabs",
+                    "Name": "Ryze Labs"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853842521975029941",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@RyzeLabs @safe @WalletConnect Now we can focus on onboarding the millions of chain agents. \n\nLet's go!",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T16:51:14Z",
+            "Timestamp": 1730825474,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853820758436217333",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Universal Accounts is live on mainnet, enabling one account to control multiple blockchains. This integration supports <a href=\"https://twitter.com/safe\">@safe</a> (formerly Gnosis Safe) and <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a>, enhancing security and accessibility.<br><br>Launching today: <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> <br><a href=\"https://t.co/j8yN0veaYs\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1853815951591923712/pu/img/jK82JgziKB9KI3Zy.jpg\"/></a>",
+            "ID": "1853820758436217333",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 134,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853820758436217333",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 24,
+            "Retweets": 37,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Universal Accounts is live on mainnet, enabling one account to control multiple blockchains. This integration supports @safe (formerly Gnosis Safe) and @WalletConnect, enhancing security and accessibility.\n\nLaunching today: @base @ethereum @Optimism @BNBCHAIN @arbitrum https://t.co/j8yN0veaYs",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T15:24:45Z",
+            "Timestamp": 1730820285,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1853815951591923712",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1853815951591923712/pu/img/jK82JgziKB9KI3Zy.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1853815951591923712/pu/vid/avc1/1920x1080/U9WBWFHF9LRNbLgz.mp4?tag=14"
+                }
+            ],
+            "Views": 78338,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853517435909153147",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The gears are turning \u2699\ufe0f",
+            "ID": "1853517435909153147",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853517435909153147",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1853516513615245587",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The gears are turning \u2699\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T19:19:28Z",
+            "Timestamp": 1730747968,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 997,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851958139978957072",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AvbNear\">@AvbNear</a> <a href=\"https://twitter.com/joespano_\">@joespano_</a> made a podcast out of it...<br><br><a href=\"https://x.com/joespano_/status/1852005375077150898\">https://t.co/hmgmN1inAX</a>",
+            "ID": "1853365393902993788",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853274066943344817",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1329286069028675585",
+                    "Username": "AvbNear",
+                    "Name": "AVB | avBrownDragon.near"
+                },
+                {
+                    "ID": "20245489",
+                    "Username": "joespano_",
+                    "Name": "Joe"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1853365393902993788",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852005375077150898",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AvbNear @joespano_ made a podcast out of it...\n\nhttps://t.co/hmgmN1inAX",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T09:15:18Z",
+            "Timestamp": 1730711718,
+            "URLs": [
+                "https://x.com/joespano_/status/1852005375077150898"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 88,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852476451615862906",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "We're working on <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> integration for any EVM app.<br><br>Successful tests with <a href=\"https://twitter.com/CoWSwap\">@CoWSwap</a> and <a href=\"https://twitter.com/opensea\">@opensea</a> mean users will soon access <a href=\"https://twitter.com/safe\">@safe</a> from their NEAR accounts to manage ownership and explore features\u2014all from one interface. Big updates coming next week. <br><a href=\"https://t.co/LHu4U7lCLT\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1852475168779558913/pu/img/Jfu1kLNrf_72jYRV.jpg\"/></a>",
+            "ID": "1852476451615862906",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                },
+                {
+                    "ID": "1383143419128782848",
+                    "Username": "CoWSwap",
+                    "Name": "CoW DAO | Don't get milked \u2122\ufe0f"
+                },
+                {
+                    "ID": "946213559213555712",
+                    "Username": "opensea",
+                    "Name": "OpenSea"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1852476451615862906",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "We're working on @WalletConnect integration for any EVM app.\n\nSuccessful tests with @CoWSwap and @opensea mean users will soon access @safe from their NEAR accounts to manage ownership and explore features\u2014all from one interface. Big updates coming next week. https://t.co/LHu4U7lCLT",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T22:22:58Z",
+            "Timestamp": 1730499778,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1852475168779558913",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1852475168779558913/pu/img/Jfu1kLNrf_72jYRV.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1852475168779558913/pu/vid/avc1/1280x720/ZPQfbVodnEQ_ZRvf.mp4?tag=12"
+                }
+            ],
+            "Views": 868,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852026917064487029",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/davidtsocy\">@davidtsocy</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/MurrLincoln\">@MurrLincoln</a> <a href=\"https://twitter.com/CoinbaseDev\">@CoinbaseDev</a> <a href=\"https://twitter.com/virtuals_io\">@virtuals_io</a> <a href=\"https://twitter.com/base\">@base</a> may or may not go live next week \ud83d\ude09<br><br>Our bones are ready.",
+            "ID": "1852278852132704544",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852216195476582433",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1435969146001321984",
+                    "Username": "davidtsocy",
+                    "Name": "David Tso (dave.base.eth) \ud83d\udee1\ufe0f"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "3352352914",
+                    "Username": "MurrLincoln",
+                    "Name": "lincoln.base.eth"
+                },
+                {
+                    "ID": "1374418187047952399",
+                    "Username": "CoinbaseDev",
+                    "Name": "Coinbase Developer Platform\ud83d\udee1\ufe0f"
+                },
+                {
+                    "ID": "1438365197505232902",
+                    "Username": "virtuals_io",
+                    "Name": "Virtuals Protocol"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1852278852132704544",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@davidtsocy @base @MurrLincoln @CoinbaseDev @virtuals_io @base may or may not go live next week \ud83d\ude09\n\nOur bones are ready.",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T09:17:46Z",
+            "Timestamp": 1730452666,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852277327926882720",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Got featured on <a href=\"https://twitter.com/wasmerio\">@wasmerio</a> blog \ud83e\udd80<br><br>Beginning of asking the AI to build wasm code (Rust, Python, C/C++, Java, Go....) and execute it on the runtime. <br><br>If you want autonomous agents, this is how you get autonomous agents....<br><br>Creating agents from an agent \ud83e\uddd0<br><a href=\"https://wasmer.io/posts/wasmer-js-sdk-now-supports-node-and-bun\">https://t.co/5RrYrx2bE6</a>",
+            "ID": "1852277327926882720",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1065483270584844288",
+                    "Username": "wasmerio",
+                    "Name": "Wasmer"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1852277327926882720",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851706339745239166",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Got featured on @wasmerio blog \ud83e\udd80\n\nBeginning of asking the AI to build wasm code (Rust, Python, C/C++, Java, Go....) and execute it on the runtime. \n\nIf you want autonomous agents, this is how you get autonomous agents....\n\nCreating agents from an agent \ud83e\uddd0\nhttps://t.co/5RrYrx2bE6",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T09:11:43Z",
+            "Timestamp": 1730452303,
+            "URLs": [
+                "https://wasmer.io/posts/wasmer-js-sdk-now-supports-node-and-bun"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 1262,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852026917064487029",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/davidtsocy\">@davidtsocy</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/MurrLincoln\">@MurrLincoln</a> <a href=\"https://twitter.com/CoinbaseDev\">@CoinbaseDev</a> <a href=\"https://twitter.com/virtuals_io\">@virtuals_io</a> \ud83d\udc4b launching on Base monday \ud83e\udd73",
+            "ID": "1852158136494248197",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852026917064487029",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1435969146001321984",
+                    "Username": "davidtsocy",
+                    "Name": "David Tso (dave.base.eth) \ud83d\udee1\ufe0f"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "3352352914",
+                    "Username": "MurrLincoln",
+                    "Name": "lincoln.base.eth"
+                },
+                {
+                    "ID": "1374418187047952399",
+                    "Username": "CoinbaseDev",
+                    "Name": "Coinbase Developer Platform\ud83d\udee1\ufe0f"
+                },
+                {
+                    "ID": "1438365197505232902",
+                    "Username": "virtuals_io",
+                    "Name": "Virtuals Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1852158136494248197",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@davidtsocy @base @MurrLincoln @CoinbaseDev @virtuals_io \ud83d\udc4b launching on Base monday \ud83e\udd73",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T01:18:05Z",
+            "Timestamp": 1730423885,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 361,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852005375077150898",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/joespano_\">@joespano_</a> so fast!",
+            "ID": "1852017441745838241",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852005375077150898",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "20245489",
+                    "Username": "joespano_",
+                    "Name": "Joe"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1852017441745838241",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@joespano_ so fast!",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T15:59:01Z",
+            "Timestamp": 1730390341,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 39,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851958139978957072",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jasperflux\">@jasperflux</a> \ud83d\udc40",
+            "ID": "1851986063041970657",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851985765829611943",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "2801775861",
+                    "Username": "jasperflux",
+                    "Name": "jasper"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1851986063041970657",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jasperflux \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T13:54:20Z",
+            "Timestamp": 1730382860,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 68,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851958139978957072",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Delegated agent staking is essential for the success of the cross-chain network. It prevents fraud, promotes agent growth, and strengthens the ecosystem.<br><br>Decentralized solvers will monitor agent performance, maintain checks and balances, and ensure the network runs without <br><a href=\"https://t.co/IDDnf9Fh4F\"><img src=\"https://pbs.twimg.com/media/GbN9wldXsAEvu1w.jpg\"/></a>",
+            "ID": "1851962612621234264",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851958139978957072",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1851962612621234264",
+            "Photos": [
+                {
+                    "ID": "1851962145421897729",
+                    "URL": "https://pbs.twimg.com/media/GbN9wldXsAEvu1w.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Delegated agent staking is essential for the success of the cross-chain network. It prevents fraud, promotes agent growth, and strengthens the ecosystem.\n\nDecentralized solvers will monitor agent performance, maintain checks and balances, and ensure the network runs without https://t.co/IDDnf9Fh4F",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T12:21:09Z",
+            "Timestamp": 1730377269,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 457,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851958139978957072",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcdd White paper is here!<br><br>Agent discovery needs to be fast, safe, and decentralised for human thrival.<br><a href=\"https://docsend.com/view/ngd388tyqh7jhe4y\">https://t.co/eFZtQt7ZnF</a> <br><a href=\"https://t.co/PAQhJtKWqr\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1851955915743801344/pu/img/pLKxTq9oDVujzFXg.jpg\"/></a>",
+            "ID": "1851958139978957072",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 50,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1851958139978957072",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcdd White paper is here!\n\nAgent discovery needs to be fast, safe, and decentralised for human thrival.\nhttps://t.co/eFZtQt7ZnF https://t.co/PAQhJtKWqr",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T12:03:22Z",
+            "Timestamp": 1730376202,
+            "URLs": [
+                "https://docsend.com/view/ngd388tyqh7jhe4y"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1851955915743801344",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1851955915743801344/pu/img/pLKxTq9oDVujzFXg.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1851955915743801344/pu/vid/avc1/1200x720/LNycemK54_9-KfkK.mp4?tag=12"
+                }
+            ],
+            "Views": 6790,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851276263748772289",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/hosseeb\">@hosseeb</a> This might help explain the AI side on top of the chain abstraction ^^ <a href=\"https://twitter.com/hosseeb\">@hosseeb</a> <br><br><a href=\"https://x.com/BitteProtocol/status/1846915379932651684\">https://t.co/cqAui54rVt</a>",
+            "ID": "1851313347599139176",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851280235607494877",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "231208649",
+                    "Username": "hosseeb",
+                    "Name": "Haseeb \uff1e|\uff1c"
+                },
+                {
+                    "ID": "231208649",
+                    "Username": "hosseeb",
+                    "Name": "Haseeb \uff1e|\uff1c"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1851313347599139176",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846915379932651684",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol @hosseeb This might help explain the AI side on top of the chain abstraction ^^ @hosseeb \n\nhttps://t.co/cqAui54rVt",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T17:21:12Z",
+            "Timestamp": 1730222472,
+            "URLs": [
+                "https://x.com/BitteProtocol/status/1846915379932651684"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 47,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850825097801506889",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Give them a try on testnet today, and build EVM agents: <a href=\"https://twitter.com/CoWSwap\">@CoWSwap</a> <a href=\"https://twitter.com/Uniswap\">@Uniswap</a> <a href=\"https://twitter.com/opensea\">@opensea</a> we are ready! <a href=\"https://testnet.wallet.bitte.ai/\">https://t.co/Y3IPQ2tvHd</a>",
+            "ID": "1850825464664797612",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850825097801506889",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1383143419128782848",
+                    "Username": "CoWSwap",
+                    "Name": "CoW DAO | Don't get milked \u2122\ufe0f"
+                },
+                {
+                    "ID": "984188226826010624",
+                    "Username": "Uniswap",
+                    "Name": "Uniswap Labs \ud83e\udd84"
+                },
+                {
+                    "ID": "946213559213555712",
+                    "Username": "opensea",
+                    "Name": "OpenSea"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1850825464664797612",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Give them a try on testnet today, and build EVM agents: @CoWSwap @Uniswap @opensea we are ready! https://t.co/Y3IPQ2tvHd",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T09:02:32Z",
+            "Timestamp": 1730106152,
+            "URLs": [
+                "https://testnet.wallet.bitte.ai/"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 1146,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850825097801506889",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Multiple transactions on multiple chains from a single account using  natural language is less science-fictiony. <br><br>Chain abstraction with the security of a Gnosis <a href=\"https://twitter.com/safe\">@safe</a> as the EVM account signed by <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><br>On testnet now: <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/0xPolygon\">@0xPolygon</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> <br><a href=\"https://t.co/I0RmawTdQ0\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1850822746189537281/pu/img/hK551o5vAmKVDlc1.jpg\"/></a>",
+            "ID": "1850825097801506889",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 111,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "914738730740715521",
+                    "Username": "0xPolygon",
+                    "Name": "Polygon | Aggregated"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1850825097801506889",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 21,
+            "Retweets": 24,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Multiple transactions on multiple chains from a single account using  natural language is less science-fictiony. \n\nChain abstraction with the security of a Gnosis @safe as the EVM account signed by @NEARProtocol \n\nOn testnet now: @base @Optimism @ethereum @0xPolygon @arbitrum https://t.co/I0RmawTdQ0",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T09:01:04Z",
+            "Timestamp": 1730106064,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1850822746189537281",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1850822746189537281/pu/img/hK551o5vAmKVDlc1.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1850822746189537281/pu/vid/avc1/1280x720/OZT3WJhJ8eDCnZIX.mp4?tag=12"
+                }
+            ],
+            "Views": 50123,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850618483794461096",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "We know",
+            "ID": "1850618483794461096",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 20,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1850618483794461096",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850582876775174642",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "We know",
+            "Thread": null,
+            "TimeParsed": "2024-10-27T19:20:04Z",
+            "Timestamp": 1730056804,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 1710,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850512261120475170",
+            "GIFs": null,
+            "Hashtags": [
+                "SHARDDOG"
+            ],
+            "HTML": "Mint fast with Bitte Wallet!<br><br>Oct 28, 10 AM ET \u2013 snag exclusive NFTs or $BLACKDRAGON tokens in the <a href=\"https://twitter.com/hashtag/SHARDDOG\">#SHARDDOG</a> Drop. No NEAR wallet? Set one up with Bitte in seconds.<br><br>Follow <a href=\"https://twitter.com/TatToTheToo\">@TatToTheToo</a> &amp; <a href=\"https://twitter.com/dragon_tech_Bot\">@dragon_tech_Bot</a> on X for the link drop!",
+            "ID": "1850512261120475170",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 37,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "787763325383872512",
+                    "Username": "TatToTheToo",
+                    "Name": "TatToTheToo \u26ab You go first"
+                },
+                {
+                    "ID": "1650651390912483334",
+                    "Username": "Dragon_Tech_Bot",
+                    "Name": "Dragon Tech \ud83d\udc32\ud83e\udd16"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1850512261120475170",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850243745565852077",
+            "Replies": 9,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Mint fast with Bitte Wallet!\n\nOct 28, 10 AM ET \u2013 snag exclusive NFTs or $BLACKDRAGON tokens in the #SHARDDOG Drop. No NEAR wallet? Set one up with Bitte in seconds.\n\nFollow @TatToTheToo &amp; @dragon_tech_Bot on X for the link drop!",
+            "Thread": null,
+            "TimeParsed": "2024-10-27T12:17:58Z",
+            "Timestamp": 1730031478,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 4194,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849849300450500853",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "+45k accounts created. <br><br>What slow and steady real / unpaid crypto growth looks like over the year. <br><a href=\"https://t.co/FXoxVCRGBg\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1849849076357169152/pu/img/ctt8vPKARfmem8EH.jpg\"/></a>",
+            "ID": "1849849300450500853",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849849300450500853",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "+45k accounts created. \n\nWhat slow and steady real / unpaid crypto growth looks like over the year. https://t.co/FXoxVCRGBg",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T16:23:36Z",
+            "Timestamp": 1729873416,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1849849076357169152",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1849849076357169152/pu/img/ctt8vPKARfmem8EH.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1849849076357169152/pu/vid/avc1/1200x720/hYv9dG9lXvgC3MIu.mp4?tag=12"
+                }
+            ],
+            "Views": 1026,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849783497101087148",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "See you in Bangkok on the 11th. <br><br><a href=\"https://twitter.com/nategeier\">@nategeier</a> <a href=\"https://twitter.com/microchipgnu\">@microchipgnu</a> <a href=\"https://twitter.com/PKuveke\">@PKuveke</a> will be on ground from the 8th-17th.",
+            "ID": "1849783497101087148",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "16331393",
+                    "Username": "nategeier",
+                    "Name": "Nate | Bitte \ud83d\ude4f\ud83c\udffc"
+                },
+                {
+                    "ID": "252700513",
+                    "Username": "microchipgnu",
+                    "Name": "luis \ud83c\uddf9\ud83c\udded"
+                },
+                {
+                    "ID": "1024777667508416512",
+                    "Username": "PKuveke",
+                    "Name": "Paul Kuveke"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849783497101087148",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849144652575989903",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "See you in Bangkok on the 11th. \n\n@nategeier @microchipgnu @PKuveke will be on ground from the 8th-17th.",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T12:02:07Z",
+            "Timestamp": 1729857727,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 772,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849725304698192210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Our origins was <a href=\"https://twitter.com/fullnode_berlin\">@fullnode_berlin</a> in 2018 with <a href=\"https://twitter.com/mintbase\">@mintbase</a>.<br><br>Great showing how much we have grown.",
+            "ID": "1849725304698192210",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "928300643160416261",
+                    "Username": "fullnode_berlin",
+                    "Name": "FULL NODE"
+                },
+                {
+                    "ID": "1714174922396745728",
+                    "Username": "mintbase",
+                    "Name": "Mintbase"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849725304698192210",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849702599865344311",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Our origins was @fullnode_berlin in 2018 with @mintbase.\n\nGreat showing how much we have grown.",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T08:10:53Z",
+            "Timestamp": 1729843853,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 562,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849485142349525017",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Boldrin71\">@Boldrin71</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Join our telegram <a href=\"https://twitter.com/Mintbase\">@Mintbase</a>",
+            "ID": "1849653801298366884",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849513772785848462",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1299277625936896001",
+                    "Username": "Boldrin71",
+                    "Name": "Boldrin \ud83d\udeeb"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1714174922396745728",
+                    "Username": "mintbase",
+                    "Name": "Mintbase"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849653801298366884",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Boldrin71 @NEARProtocol Join our telegram @Mintbase",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T03:26:45Z",
+            "Timestamp": 1729826805,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 15,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849558452432929134",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/potlock_\">@potlock_</a> Love it",
+            "ID": "1849653276624515284",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849558452432929134",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1677467602933645318",
+                    "Username": "potlock_",
+                    "Name": "POTLOCK"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849653276624515284",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@potlock_ Love it",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T03:24:40Z",
+            "Timestamp": 1729826680,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849505090228330757",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Get verified<br><br>By open-sourcing your code you are getting your agent tested by the Bitte team, and you become eligible for getting your agent verified and showing up in our agents\u2019 featured list plus you win $3K. <br><a href=\"https://t.co/vixW4IdkR7\"><img src=\"https://pbs.twimg.com/media/GarCU0BXgAAYse0.jpg\"/></a>",
+            "ID": "1849505101016097070",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849505098231119920",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849505101016097070",
+            "Photos": [
+                {
+                    "ID": "1849504259806560256",
+                    "URL": "https://pbs.twimg.com/media/GarCU0BXgAAYse0.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Get verified\n\nBy open-sourcing your code you are getting your agent tested by the Bitte team, and you become eligible for getting your agent verified and showing up in our agents\u2019 featured list plus you win $3K. https://t.co/vixW4IdkR7",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:35:52Z",
+            "Timestamp": 1729791352,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 210,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849505090228330757",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Make your agent live<br><br>Once you are happy with the results, you can deploy your app to your provider and use make-agent to register it. This can be included in your CI/CD process as well. <br><a href=\"https://t.co/Gmhtz2tfvR\"><img src=\"https://pbs.twimg.com/media/GarAvNIXwAAKKVb.jpg\"/></a>",
+            "ID": "1849505098231119920",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849505095139926214",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849505098231119920",
+            "Photos": [
+                {
+                    "ID": "1849502514200166400",
+                    "URL": "https://pbs.twimg.com/media/GarAvNIXwAAKKVb.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Make your agent live\n\nOnce you are happy with the results, you can deploy your app to your provider and use make-agent to register it. This can be included in your CI/CD process as well. https://t.co/Gmhtz2tfvR",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:35:52Z",
+            "Timestamp": 1729791352,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 218,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849505090228330757",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Customize the Agent Manifest<br><br>Your Agent Manifest follows the OpenAPI standard and is the core of your agent. It specifies your agent's behavior like its functions and instructions. <br><a href=\"https://t.co/6WBZ4QMZVX\"><img src=\"https://pbs.twimg.com/media/GarAg_VXgAARxrh.jpg\"/></a>",
+            "ID": "1849505095139926214",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849505092833022122",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849505095139926214",
+            "Photos": [
+                {
+                    "ID": "1849502269978411008",
+                    "URL": "https://pbs.twimg.com/media/GarAg_VXgAARxrh.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Customize the Agent Manifest\n\nYour Agent Manifest follows the OpenAPI standard and is the core of your agent. It specifies your agent's behavior like its functions and instructions. https://t.co/6WBZ4QMZVX",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:35:51Z",
+            "Timestamp": 1729791351,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 17,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849505090228330757",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Develop Locally, Test Effortlessly<br><br>Run and test your agents locally with the make-agent CLI tool. Use our playground to tweak and edit in real-time, seeing changes instantly reflected in your agent\u2019s behavior. <br><a href=\"https://t.co/ifcE71fZDr\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1849486374228922369/pu/img/EK2jkufmKEA2gXBb.jpg\"/></a>",
+            "ID": "1849505092833022122",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849505090228330757",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849505092833022122",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Develop Locally, Test Effortlessly\n\nRun and test your agents locally with the make-agent CLI tool. Use our playground to tweak and edit in real-time, seeing changes instantly reflected in your agent\u2019s behavior. https://t.co/ifcE71fZDr",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:35:50Z",
+            "Timestamp": 1729791350,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1849486374228922369",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1849486374228922369/pu/img/EK2jkufmKEA2gXBb.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1849486374228922369/pu/vid/avc1/1280x720/IKlb6ZfyHatxD2yz.mp4?tag=12"
+                }
+            ],
+            "Views": 40,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849505090228330757",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Bootstrap your AI Agent with Bitte in minutes.<br><br>We provide templates and boilerplate code to get you started quickly on building your AI agent. Fork from our prebuilt options (<a href=\"https://twitter.com/finance_ref\">@finance_ref</a>, <a href=\"https://twitter.com/coingecko\">@coingecko</a>, and more) and customize them to fit your needs.<br><br>\ud83d\udd17 <a href=\"http://docs.bitte.ai/agents/quick-start\">https://t.co/uQKGXq7k7Z</a> <br><a href=\"https://t.co/yHaXKoBneg\"><img src=\"https://pbs.twimg.com/media/GarAYWjXYAA6ovv.jpg\"/></a>",
+            "ID": "1849505090228330757",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "2412652615",
+                    "Username": "coingecko",
+                    "Name": "CoinGecko"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849505090228330757",
+            "Photos": [
+                {
+                    "ID": "1849502121592315904",
+                    "URL": "https://pbs.twimg.com/media/GarAYWjXYAA6ovv.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Bootstrap your AI Agent with Bitte in minutes.\n\nWe provide templates and boilerplate code to get you started quickly on building your AI agent. Fork from our prebuilt options (@finance_ref, @coingecko, and more) and customize them to fit your needs.\n\n\ud83d\udd17 https://t.co/uQKGXq7k7Z https://t.co/yHaXKoBneg",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:35:50Z",
+            "Timestamp": 1729791350,
+            "URLs": [
+                "http://docs.bitte.ai/agents/quick-start"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 541,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849485142349525017",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Excited to create new agents? Check out the easy guidelines here: <a href=\"http://docs.bitte.ai/agents/introduction\">https://t.co/3gDCyNPoYu</a> <br><a href=\"https://t.co/6OPP8CH5DI\"><img src=\"https://pbs.twimg.com/media/Gaq-7zQX0AADaIf.jpg\"/></a>",
+            "ID": "1849500726675878176",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849485142349525017",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849500726675878176",
+            "Photos": [
+                {
+                    "ID": "1849500531569446912",
+                    "URL": "https://pbs.twimg.com/media/Gaq-7zQX0AADaIf.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol Excited to create new agents? Check out the easy guidelines here: https://t.co/3gDCyNPoYu https://t.co/6OPP8CH5DI",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:18:29Z",
+            "Timestamp": 1729790309,
+            "URLs": [
+                "http://docs.bitte.ai/agents/introduction"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 213,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849140799830987036",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "This week, we are shaking things up. While we\u2019re holding off on a BIG product announcement until next week, we\u2019d like to offer you a glimpse into the forward-thinking vision of our CTO, <a href=\"https://twitter.com/microchipgnu\">@microchipgnu</a>.<br><br>Read the full article: <a href=\"http://tinyurl.com/mujhfdd6\">https://t.co/LSFALsdeWj</a> <br><a href=\"https://t.co/jiwyaZYtLP\"><img src=\"https://pbs.twimg.com/media/Gal2vIRXcAAUgJi.jpg\"/></a>",
+            "ID": "1849140799830987036",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "252700513",
+                    "Username": "microchipgnu",
+                    "Name": "luis"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1849140799830987036",
+            "Photos": [
+                {
+                    "ID": "1849139674058551296",
+                    "URL": "https://pbs.twimg.com/media/Gal2vIRXcAAUgJi.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "This week, we are shaking things up. While we\u2019re holding off on a BIG product announcement until next week, we\u2019d like to offer you a glimpse into the forward-thinking vision of our CTO, @microchipgnu.\n\nRead the full article: https://t.co/LSFALsdeWj https://t.co/jiwyaZYtLP",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T17:28:16Z",
+            "Timestamp": 1729704496,
+            "URLs": [
+                "http://tinyurl.com/mujhfdd6"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 893,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848789706223280253",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Quick look at our AI Agents on Bitte workshop during the <a href=\"https://twitter.com/Supermooncamp\">@Supermooncamp</a> + <a href=\"https://twitter.com/DoraHacks\">@DoraHacks</a> Hackathon.<br><br><a href=\"https://twitter.com/microchipgnu\">@microchipgnu</a> showed how agents act like open APIs, processing on/off-chain data. Supporting <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> now, with EVM coming next week \ud83d\udc40<br><br>Full video: <a href=\"http://youtube.com/live/sxTAncOl2W8?si=LsgcGsabF1hmxo5O\">https://t.co/TySo9Qx2bI</a> <br><a href=\"https://t.co/fNhOQvhvVe\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1848784623016222720/pu/img/_n6HcfzYuXhjr0wz.jpg\"/></a>",
+            "ID": "1848789706223280253",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 22,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1434701775337107457",
+                    "Username": "Supermooncamp",
+                    "Name": "Supermoon \ud83d\udfe3"
+                },
+                {
+                    "ID": "954957643445166080",
+                    "Username": "DoraHacks",
+                    "Name": "DoraHacks"
+                },
+                {
+                    "ID": "252700513",
+                    "Username": "microchipgnu",
+                    "Name": "luis"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1848789706223280253",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Quick look at our AI Agents on Bitte workshop during the @Supermooncamp + @DoraHacks Hackathon.\n\n@microchipgnu showed how agents act like open APIs, processing on/off-chain data. Supporting @NEARProtocol now, with EVM coming next week \ud83d\udc40\n\nFull video: https://t.co/TySo9Qx2bI https://t.co/fNhOQvhvVe",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T18:13:09Z",
+            "Timestamp": 1729620789,
+            "URLs": [
+                "http://youtube.com/live/sxTAncOl2W8?si=LsgcGsabF1hmxo5O"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1848784623016222720",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1848784623016222720/pu/img/_n6HcfzYuXhjr0wz.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1848784623016222720/pu/vid/avc1/1280x720/t1C48w4AMTqQR6-D.mp4?tag=12"
+                }
+            ],
+            "Views": 1226,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848712502521303046",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Join the Web3 x AI Hackathon with <a href=\"https://twitter.com/Supermooncamp\">@Supermooncamp</a>, <a href=\"https://twitter.com/DoraHacks\">@DoraHacks</a> &amp; <a href=\"https://twitter.com/ventureminer\">@ventureminer</a>. <br><br>We've prepared everything for developers to make-agents easily, check our docs: <a href=\"http://docs.bitte.ai/agents/make-agent\">https://t.co/rlffJlcRsV</a>.<br><br>Compete for $3,000 per agent, here: <a href=\"http://dorahacks.io/hackathon/web3-ai/bounties\">https://t.co/5eZSk8IR4G</a> <br><a href=\"https://t.co/ZfxUaZHte6\"><img src=\"https://pbs.twimg.com/media/GafxsodXAAEY2sm.jpg\"/></a>",
+            "ID": "1848712502521303046",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1434701775337107457",
+                    "Username": "Supermooncamp",
+                    "Name": "Supermoon \ud83d\udfe3"
+                },
+                {
+                    "ID": "954957643445166080",
+                    "Username": "DoraHacks",
+                    "Name": "DoraHacks"
+                },
+                {
+                    "ID": "1567136835796697091",
+                    "Username": "ventureminer",
+                    "Name": "Venture Miner"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1848712502521303046",
+            "Photos": [
+                {
+                    "ID": "1848711921135976449",
+                    "URL": "https://pbs.twimg.com/media/GafxsodXAAEY2sm.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Join the Web3 x AI Hackathon with @Supermooncamp, @DoraHacks &amp; @ventureminer. \n\nWe've prepared everything for developers to make-agents easily, check our docs: https://t.co/rlffJlcRsV.\n\nCompete for $3,000 per agent, here: https://t.co/5eZSk8IR4G https://t.co/ZfxUaZHte6",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:06:22Z",
+            "Timestamp": 1729602382,
+            "URLs": [
+                "http://docs.bitte.ai/agents/make-agent",
+                "http://dorahacks.io/hackathon/web3-ai/bounties"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 675,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848679240612339838",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Syncing the big picture into your soft brains will take longer than making a smart contract an agent \ud83e\udde0",
+            "ID": "1848679240612339838",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1848679240612339838",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847288792085893165",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Syncing the big picture into your soft brains will take longer than making a smart contract an agent \ud83e\udde0",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T10:54:12Z",
+            "Timestamp": 1729594452,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 829,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848385785688375337",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marcus_NEAR\">@marcus_NEAR</a> Truth bombs. What until you hear about hooking up a <a href=\"https://twitter.com/Reddit\">@Reddit</a> agent to cross chain.<br><br>More from <a href=\"https://twitter.com/microchipgnu\">@microchipgnu</a>",
+            "ID": "1848424396152520930",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848385785688375337",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1401917448140595203",
+                    "Username": "marcus_NEAR",
+                    "Name": "Marcus"
+                },
+                {
+                    "ID": "811377",
+                    "Username": "Reddit",
+                    "Name": "Reddit, Inc."
+                },
+                {
+                    "ID": "252700513",
+                    "Username": "microchipgnu",
+                    "Name": "luis \ud83c\uddf9\ud83c\udded"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1848424396152520930",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marcus_NEAR Truth bombs. What until you hear about hooking up a @Reddit agent to cross chain.\n\nMore from @microchipgnu",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T18:01:32Z",
+            "Timestamp": 1729533692,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 59,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848358490009395350",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "New deadline, same chance to win.<br><br>[REDACTED] is extended until Oct 31st, with $15K still up for grabs! Now\u2019s the time to register your AI agents on Bitte Wallet.<br><br>We\u2019ve simplified the process to make an agent here: <a href=\"http://docs.bitte.ai/agents/make-agent\">https://t.co/rlffJlcjDn</a>",
+            "ID": "1848358490009395350",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1848358490009395350",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848336897606611307",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "New deadline, same chance to win.\n\n[REDACTED] is extended until Oct 31st, with $15K still up for grabs! Now\u2019s the time to register your AI agents on Bitte Wallet.\n\nWe\u2019ve simplified the process to make an agent here: https://t.co/rlffJlcjDn",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T13:39:39Z",
+            "Timestamp": 1729517979,
+            "URLs": [
+                "http://docs.bitte.ai/agents/make-agent"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 583,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848340489621193104",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Dark mode is here <br><a href=\"https://t.co/YnfKWusDmu\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1848340358666629121/pu/img/o95HKGVMJCqeQQFs.jpg\"/></a>",
+            "ID": "1848340489621193104",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1848340489621193104",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Dark mode is here https://t.co/YnfKWusDmu",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T12:28:07Z",
+            "Timestamp": 1729513687,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1848340358666629121",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1848340358666629121/pu/img/o95HKGVMJCqeQQFs.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1848340358666629121/pu/vid/avc1/1200x720/oeBiwQIQuJfeirmA.mp4?tag=12"
+                }
+            ],
+            "Views": 1327,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847277333717135584",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Check the last <a href=\"https://twitter.com/surge_code\">@surge_code</a> breakdown on how to convert a <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> contract into an agent:<br><a href=\"https://x.com/surge_code/status/1847288792085893165\">https://t.co/V4g8hNX9kX</a>",
+            "ID": "1847302554754981894",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847277333717135584",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1557668121510649857",
+                    "Username": "surge_code",
+                    "Name": "\u27e2 Surge"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1847302554754981894",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847288792085893165",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Check the last @surge_code breakdown on how to convert a @NEARProtocol contract into an agent:\nhttps://t.co/V4g8hNX9kX",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T15:43:44Z",
+            "Timestamp": 1729266224,
+            "URLs": [
+                "https://x.com/surge_code/status/1847288792085893165"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 361,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847277333717135584",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Playground Mode is on!<br><br>Developers can now test and refine agents in a risk-free environment. This makes deploying and optimizing agents before going live easier than ever.<br><br>Plus, our updated documentation streamlines the entire process: <a href=\"http://docs.bitte.ai/agents/introduction\">https://t.co/3gDCyNPoYu</a> <br><a href=\"https://t.co/5MFNy4CGmn\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1847273791103070208/pu/img/qi2iVj4TuFkYLYot.jpg\"/></a>",
+            "ID": "1847277333717135584",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1847277333717135584",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Playground Mode is on!\n\nDevelopers can now test and refine agents in a risk-free environment. This makes deploying and optimizing agents before going live easier than ever.\n\nPlus, our updated documentation streamlines the entire process: https://t.co/3gDCyNPoYu https://t.co/5MFNy4CGmn",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T14:03:31Z",
+            "Timestamp": 1729260211,
+            "URLs": [
+                "http://docs.bitte.ai/agents/introduction"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1847273791103070208",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1847273791103070208/pu/img/qi2iVj4TuFkYLYot.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1847273791103070208/pu/vid/avc1/1280x720/dcgM4w4f-ASJ36YS.mp4?tag=12"
+                }
+            ],
+            "Views": 789,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847234144364843491",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "We\u2019ll be live in 3 hours with <a href=\"https://twitter.com/microchipgnu\">@microchipgnu</a> for another workshop on how to build your AI agent. <br><br>Curious to see what will be built on this one \ud83d\udc40.",
+            "ID": "1847234144364843491",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "252700513",
+                    "Username": "microchipgnu",
+                    "Name": "luis"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1847234144364843491",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845858017289363469",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "We\u2019ll be live in 3 hours with @microchipgnu for another workshop on how to build your AI agent. \n\nCurious to see what will be built on this one \ud83d\udc40.",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T11:11:54Z",
+            "Timestamp": 1729249914,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 591,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847184266087575704",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The feels you get when you realize how easy it is to build a chain agent.<br><br><a href=\"https://twitter.com/Brand0mand0\">@Brand0mand0</a> working on a <a href=\"https://twitter.com/pikespeak_ai\">@pikespeak_ai</a> agent <a href=\"https://twitter.com/microchipgnu\">@microchipgnu</a><br><a href=\"https://docs.bitte.ai/agents/quick-start\">https://t.co/hVaLN1Z0PU</a> <br><a href=\"https://t.co/PHjm9XDbfX\"><img src=\"https://pbs.twimg.com/media/GaKEMQhXQAAR6gx.jpg\"/></a>",
+            "ID": "1847184266087575704",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1439052485490929666",
+                    "Username": "Brand0mand0",
+                    "Name": "Brand0mand0"
+                },
+                {
+                    "ID": "1434794937351036934",
+                    "Username": "pikespeak_ai",
+                    "Name": "Pikespeak"
+                },
+                {
+                    "ID": "252700513",
+                    "Username": "microchipgnu",
+                    "Name": "luis"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1847184266087575704",
+            "Photos": [
+                {
+                    "ID": "1847184143303524352",
+                    "URL": "https://pbs.twimg.com/media/GaKEMQhXQAAR6gx.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The feels you get when you realize how easy it is to build a chain agent.\n\n@Brand0mand0 working on a @pikespeak_ai agent @microchipgnu\nhttps://t.co/hVaLN1Z0PU https://t.co/PHjm9XDbfX",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T07:53:42Z",
+            "Timestamp": 1729238022,
+            "URLs": [
+                "https://docs.bitte.ai/agents/quick-start"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 431,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847000875408982261",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/chronear\">@chronear</a> The future is very clear. We need decentralized agent picking now.",
+            "ID": "1847007648656326743",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847000875408982261",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1380577920465403909",
+                    "Username": "chronear",
+                    "Name": "chronear"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1847007648656326743",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@chronear The future is very clear. We need decentralized agent picking now.",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T20:11:53Z",
+            "Timestamp": 1729195913,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 41,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847006493813678214",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> <a href=\"https://twitter.com/nategeier\">@nategeier</a> So do we! <br><br>Wait until you see how the decentralized agent selector is going to work \ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f",
+            "ID": "1847007090184770042",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847006493813678214",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                },
+                {
+                    "ID": "16331393",
+                    "Username": "nategeier",
+                    "Name": "Nate | Bitte \ud83d\ude4f\ud83c\udffc"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1847007090184770042",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jarednotjerry1 @nategeier So do we! \n\nWait until you see how the decentralized agent selector is going to work \ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T20:09:40Z",
+            "Timestamp": 1729195780,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 31,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846915379932651684",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Execute multiple dapps from a single prompt, new agent selector is live \ud83d\udc33<br><br><a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> staking<br><a href=\"https://twitter.com/finance_ref\">@finance_ref</a> swap<br><a href=\"https://twitter.com/potlock_\">@potlock_</a>  funding<br><a href=\"https://twitter.com/mintbase\">@mintbase</a> NFTs AI image gen<br><br>\ud83d\udd00 Cross chain siggies around the corner <br><a href=\"https://t.co/tb2OvtkEST\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1846914844928225280/pu/img/iyY7yd-Fl8Y2TG6y.jpg\"/></a>",
+            "ID": "1846915379932651684",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 62,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "1677467602933645318",
+                    "Username": "potlock_",
+                    "Name": "POTLOCK"
+                },
+                {
+                    "ID": "1714174922396745728",
+                    "Username": "mintbase",
+                    "Name": "Mintbase"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1846915379932651684",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 10,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Execute multiple dapps from a single prompt, new agent selector is live \ud83d\udc33\n\n@NEARProtocol staking\n@finance_ref swap\n@potlock_  funding\n@mintbase NFTs AI image gen\n\n\ud83d\udd00 Cross chain siggies around the corner https://t.co/tb2OvtkEST",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:05:15Z",
+            "Timestamp": 1729173915,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": [
+                {
+                    "ID": "1846914844928225280",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1846914844928225280/pu/img/iyY7yd-Fl8Y2TG6y.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1846914844928225280/pu/vid/avc1/1280x720/720mmg3MNjwFkp3S.mp4?tag=12"
+                }
+            ],
+            "Views": 6808,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846591456561230149",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Select Your Agents directly in Bitte Wallet.<br><br>Now, choose which agent to use directly from the wallet interface. See the wallet\u2019s capabilities at a glance and give a spotlight to agent creators. <br><br>Make your wallet smarter, faster, and more personalized. \ud83d\udd17 <a href=\"http://wallet.bitte.ai/smart-actions\">https://t.co/90lzYW1TRi</a> <br><a href=\"https://t.co/a1vudcoaLC\"><img src=\"https://pbs.twimg.com/media/GaBlLzMXMAMqE4d.jpg\"/></a>",
+            "ID": "1846591456561230149",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 16,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1846591456561230149",
+            "Photos": [
+                {
+                    "ID": "1846587100616929283",
+                    "URL": "https://pbs.twimg.com/media/GaBlLzMXMAMqE4d.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Select Your Agents directly in Bitte Wallet.\n\nNow, choose which agent to use directly from the wallet interface. See the wallet\u2019s capabilities at a glance and give a spotlight to agent creators. \n\nMake your wallet smarter, faster, and more personalized. \ud83d\udd17 https://t.co/90lzYW1TRi https://t.co/a1vudcoaLC",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T16:38:05Z",
+            "Timestamp": 1729096685,
+            "URLs": [
+                "http://wallet.bitte.ai/smart-actions"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 445,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846141882537046302",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Around Berlin? Into AI agents? <br>Join <a href=\"https://twitter.com/bh2smith\">@bh2smith</a> and <a href=\"https://twitter.com/surge_code\">@surge_code</a> at \"<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> x AI Agents Berlin\".<br><br>We'll demo a tool that converts NEAR contracts into AI agents with our make-agent CLI. Plus get insights on EVM-related AI agents.<br><br>\ud83d\udcc5 Save your spot: <a href=\"https://lu.ma/wsriiv4c?tk=NYpMg2\">https://t.co/FOrlJlQYz3</a>",
+            "ID": "1846141882537046302",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1021325127085150208",
+                    "Username": "bh2smith",
+                    "Name": "bh2smith.eth"
+                },
+                {
+                    "ID": "1557668121510649857",
+                    "Username": "surge_code",
+                    "Name": "\u27e2 Surge"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1846141882537046302",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Around Berlin? Into AI agents? \nJoin @bh2smith and @surge_code at \"@NEARProtocol x AI Agents Berlin\".\n\nWe'll demo a tool that converts NEAR contracts into AI agents with our make-agent CLI. Plus get insights on EVM-related AI agents.\n\n\ud83d\udcc5 Save your spot: https://t.co/FOrlJlQYz3",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T10:51:39Z",
+            "Timestamp": 1728989499,
+            "URLs": [
+                "https://lu.ma/wsriiv4c?tk=NYpMg2"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 484,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845885996413452294",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "4/4<br>Ready to build your agent? If you have any questions or need guidance, feel free to drop them in our Telegram chat!<br><br>Also, if you\u2019d like to connect with us in Bangkok, send us a request in the channel. Let\u2019s make it happen!<br><a href=\"http://t.me/Mintbase\">https://t.co/73zwrP1OSG</a>",
+            "ID": "1845886004781015489",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845886002713276880",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1845886004781015489",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "4/4\nReady to build your agent? If you have any questions or need guidance, feel free to drop them in our Telegram chat!\n\nAlso, if you\u2019d like to connect with us in Bangkok, send us a request in the channel. Let\u2019s make it happen!\nhttps://t.co/73zwrP1OSG",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T17:54:53Z",
+            "Timestamp": 1728928493,
+            "URLs": [
+                "http://t.me/Mintbase"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 219,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845885996413452294",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "3/4 <br>Jump into AI automation with Bitte Agents! Whether you're building workflows or custom actions, our quick-start guide will help you get started fast.<br><br>No extensive coding skills? No problem\u2014our tools let you automate and scale tasks easily. <br>Learn more here:",
+            "ID": "1845886002713276880",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845886000461238700",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1845886002713276880",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "3/4 \nJump into AI automation with Bitte Agents! Whether you're building workflows or custom actions, our quick-start guide will help you get started fast.\n\nNo extensive coding skills? No problem\u2014our tools let you automate and scale tasks easily. \nLearn more here:",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T17:54:52Z",
+            "Timestamp": 1728928492,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 232,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845885996413452294",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/4 <br>We aim to collaborate with indie builders to create and launch the next viral AI agents on <a href=\"https://twitter.com/ProductHunt\">@ProductHunt</a>. We finance the agent development and work closely with you to ensure a successful launch.<br><br>Interested in how you can build your agent? Keep reading! \ud83d\udc47",
+            "ID": "1845886000461238700",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845885996413452294",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "2208027565",
+                    "Username": "ProductHunt",
+                    "Name": "Product Hunt \ud83d\ude38"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1845886000461238700",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/4 \nWe aim to collaborate with indie builders to create and launch the next viral AI agents on @ProductHunt. We finance the agent development and work closely with you to ensure a successful launch.\n\nInterested in how you can build your agent? Keep reading! \ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T17:54:52Z",
+            "Timestamp": 1728928492,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 51,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845885996413452294",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The countdown is on! You have until the 25th to register your AI agents on Bitte Wallet. With $15,000 up for grabs, now\u2019s your chance to create the next viral plugin.<br><br>Join the [REDACTED]: <a href=\"https://redacted.devpost.com\">https://t.co/ETe7A98PCz</a><br><br>1/4\ud83e\uddf5\ud83d\udc47 <br><a href=\"https://t.co/MJvRJArQtc\"><img src=\"https://pbs.twimg.com/media/GZ3lTAnXQAAJr_d.jpg\"/></a>",
+            "ID": "1845885996413452294",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1845885996413452294",
+            "Photos": [
+                {
+                    "ID": "1845883537037148160",
+                    "URL": "https://pbs.twimg.com/media/GZ3lTAnXQAAJr_d.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The countdown is on! You have until the 25th to register your AI agents on Bitte Wallet. With $15,000 up for grabs, now\u2019s your chance to create the next viral plugin.\n\nJoin the [REDACTED]: https://t.co/ETe7A98PCz\n\n1/4\ud83e\uddf5\ud83d\udc47 https://t.co/MJvRJArQtc",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T17:54:51Z",
+            "Timestamp": 1728928491,
+            "URLs": [
+                "https://redacted.devpost.com"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 769,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844789413147992322",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/kenjohnscreates\">@kenjohnscreates</a> <a href=\"https://twitter.com/base\">@base</a> wen Kenny agent?",
+            "ID": "1844828214180376898",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844789413147992322",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "26529850",
+                    "Username": "kenjohnscreates",
+                    "Name": "Kenny Johns \ud83c\udf88"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1844828214180376898",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@kenjohnscreates @base wen Kenny agent?",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T19:51:36Z",
+            "Timestamp": 1728676296,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 21,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844722390665695617",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf36\ufe0f P\u0304h\u0115d m\u0101k (Very Spicy) <br><br>We'll see you building chain agents with us in Bangkok.<br><br>Headliner <a href=\"https://twitter.com/Snowden\">@Snowden</a> \ud83e\udd2f <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><a href=\"https://redactedbangkok.ai/\">https://t.co/sI8GnJL9lj</a> <br><a href=\"https://t.co/StV08vmWCR\"><img src=\"https://pbs.twimg.com/media/GZnCfsKWMAQgp_I.jpg\"/></a>",
+            "ID": "1844722390665695617",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "2916305152",
+                    "Username": "Snowden",
+                    "Name": "Edward Snowden"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1844722390665695617",
+            "Photos": [
+                {
+                    "ID": "1844719372071219204",
+                    "URL": "https://pbs.twimg.com/media/GZnCfsKWMAQgp_I.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf36\ufe0f P\u0304h\u0115d m\u0101k (Very Spicy) \n\nWe'll see you building chain agents with us in Bangkok.\n\nHeadliner @Snowden \ud83e\udd2f @NEARProtocol \nhttps://t.co/sI8GnJL9lj https://t.co/StV08vmWCR",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T12:51:05Z",
+            "Timestamp": 1728651065,
+            "URLs": [
+                "https://redactedbangkok.ai/"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 546,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844722313263992974",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Meet <a href=\"https://twitter.com/AmpleProtocol\">@AmpleProtocol</a>: a video launchpad for streaming &amp; token-gated content, built with <a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a> tech and supported by our Grants. Powered by <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> + <a href=\"https://twitter.com/Livepeer\">@Livepeer</a>.<br><br>Imagine: an AI agent automating rentals &amp; token gating from the Bitte Wallet. Who\u2019s building it next? \ud83d\udc40",
+            "ID": "1844722313263992974",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1420092898608037891",
+                    "Username": "AmpleProtocol",
+                    "Name": "AMPLE"
+                },
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "842813286773145601",
+                    "Username": "Livepeer",
+                    "Name": "Livepeer"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1844722313263992974",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844587715305799688",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Meet @AmpleProtocol: a video launchpad for streaming &amp; token-gated content, built with @BitteProtocol tech and supported by our Grants. Powered by @NEARProtocol + @Livepeer.\n\nImagine: an AI agent automating rentals &amp; token gating from the Bitte Wallet. Who\u2019s building it next? \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T12:50:47Z",
+            "Timestamp": 1728651047,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 447,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844453333098168494",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Neat demo! <br>Curious to see what builders come up with using <a href=\"https://twitter.com/BitteProtocol\u2019s\">@BitteProtocol\u2019s</a> AI agents and <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> contracts.",
+            "ID": "1844453333098168494",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1844453333098168494",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844422372616700174",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Neat demo! \nCurious to see what builders come up with using @BitteProtocol\u2019s AI agents and @NEARProtocol contracts.",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T19:01:57Z",
+            "Timestamp": 1728586917,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 580,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843785231360504249",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CadeBergmann\">@CadeBergmann</a> <a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/crypto_groggs\">@crypto_groggs</a> <a href=\"https://twitter.com/finelady_p\">@finelady_p</a> <a href=\"https://twitter.com/RealZackHerm\">@RealZackHerm</a> <a href=\"https://twitter.com/Luacantu\">@Luacantu</a> <a href=\"https://twitter.com/monzaNFT\">@monzaNFT</a> Locked and loaded",
+            "ID": "1844057544769274237",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843785231360504249",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Bitte",
+            "Mentions": [
+                {
+                    "ID": "2245630679",
+                    "Username": "CadeBergmann",
+                    "Name": "Cade \ud83d\udc3a"
+                },
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1476508372455378945",
+                    "Username": "crypto_groggs",
+                    "Name": "Groggs \u2618\ufe0f"
+                },
+                {
+                    "ID": "1458910224551747593",
+                    "Username": "finelady_p",
+                    "Name": "\u20acmm\u00a5 \ud83d\udcb6\ud83d\udcb4"
+                },
+                {
+                    "ID": "25475314",
+                    "Username": "RealZackHerm",
+                    "Name": "Zack Hermayer"
+                },
+                {
+                    "ID": "442096128",
+                    "Username": "Luacantu",
+                    "Name": "Luana"
+                },
+                {
+                    "ID": "2558911163",
+                    "Username": "monzaNFT",
+                    "Name": "NEAR MONZA"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1844057544769274237",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CadeBergmann @NEARWEEK @NEARProtocol @meta_pool @crypto_groggs @finelady_p @RealZackHerm @Luacantu @monzaNFT Locked and loaded",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T16:49:14Z",
+            "Timestamp": 1728492554,
+            "URLs": null,
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 84,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843677413848559921",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "$15,000 on the table for you to build the next agent plugin for Bitte\u2019s AI-powered wallet. <br><br>Get started here: <a href=\"https://docs.bitte.ai/agents/quick-start\">https://t.co/hVaLN1ZyFs</a>   <br><br>Also, set a reminder for Thursday, 5 PM UTC\u2014Nate\u2019s dropping the latest on NEAR Alpha Show.",
+            "ID": "1843677413848559921",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "Bitte",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/BitteProtocol/status/1843677413848559921",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1843673540652150790",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "$15,000 on the table for you to build the next agent plugin for Bitte\u2019s AI-powered wallet. \n\nGet started here: https://t.co/hVaLN1ZyFs   \n\nAlso, set a reminder for Thursday, 5 PM UTC\u2014Nate\u2019s dropping the latest on NEAR Alpha Show.",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T15:38:43Z",
+            "Timestamp": 1728401923,
+            "URLs": [
+                "https://docs.bitte.ai/agents/quick-start"
+            ],
+            "UserID": "1084436562929242113",
+            "Username": "BitteProtocol",
+            "Videos": null,
+            "Views": 991,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

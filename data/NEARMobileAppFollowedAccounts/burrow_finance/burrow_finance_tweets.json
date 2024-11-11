@@ -1,0 +1,3237 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854560759449289031",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "With BTC hitting new ATH, Trump era is a bullish sign for multi-chain dapps powered by <a href=\"https://twitter.com/hashtag/NEAR's\">#NEAR's</a> Chain Abstraction \ud83c\uddfa\ud83c\uddf8\ud83d\udcc8<br><br>\ud83d\udcaaStay positioned by supplying $wBTC on Burrow<br><br><a href=\"https://app.burrow.finance\">https://t.co/KzCkQQKxmC</a>",
+            "ID": "1854560759449289031",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1854560759449289031",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854537287922806987",
+            "Replies": 0,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "With BTC hitting new ATH, Trump era is a bullish sign for multi-chain dapps powered by #NEAR's Chain Abstraction \ud83c\uddfa\ud83c\uddf8\ud83d\udcc8\n\n\ud83d\udcaaStay positioned by supplying $wBTC on Burrow\n\nhttps://t.co/KzCkQQKxmC",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T16:25:15Z",
+            "Timestamp": 1730996715,
+            "URLs": [
+                "https://app.burrow.finance"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 1198,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854147802202608109",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details on $BRRR Token BuyBack: <a href=\"https://burrowfinance.medium.com/burrows-token-buyback-e132e1e86834\">https://t.co/ljSlv3pl2f</a>   <br><br>Get Started with Burrow: <a href=\"https://app.burrow.finance\">https://t.co/KzCkQQKxmC</a>  <br><br> \u2014 End of Tweet \u2014 <br><a href=\"https://t.co/qJg9KivXIr\"><img src=\"https://pbs.twimg.com/media/GbtBCZ2akAAeRkN.jpg\"/></a>",
+            "ID": "1854147805834887282",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854147802202608109",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1854147805834887282",
+            "Photos": [
+                {
+                    "ID": "1854147181147754496",
+                    "URL": "https://pbs.twimg.com/media/GbtBCZ2akAAeRkN.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details on $BRRR Token BuyBack: https://t.co/ljSlv3pl2f   \n\nGet Started with Burrow: https://t.co/KzCkQQKxmC  \n\n \u2014 End of Tweet \u2014 https://t.co/qJg9KivXIr",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T13:04:19Z",
+            "Timestamp": 1730898259,
+            "URLs": [
+                "https://burrowfinance.medium.com/burrows-token-buyback-e132e1e86834",
+                "https://app.burrow.finance"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 310,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854147802202608109",
+            "GIFs": null,
+            "Hashtags": [
+                "Nearvember"
+            ],
+            "HTML": "12th Buyback in progress\ud83d\udcc8<br><br><a href=\"https://twitter.com/hashtag/Nearvember\">#Nearvember</a> is heating up with $BRRR buyback via <a href=\"https://twitter.com/DeltaBotTeam\">@DeltaBotTeam</a> DCA <br><br>25,986.6 $USDC on the way. Transparent process, check it out \ud83d\udd25 <br><a href=\"https://t.co/a1OmD9GXVA\"><img src=\"https://pbs.twimg.com/media/GbtA61RboAAwabk.png\"/></a>",
+            "ID": "1854147802202608109",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": true,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 33,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1730425081724297216",
+                    "Username": "DeltaBotTeam",
+                    "Name": "DeltaTrade"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1854147802202608109",
+            "Photos": [
+                {
+                    "ID": "1854147051069874176",
+                    "URL": "https://pbs.twimg.com/media/GbtA61RboAAwabk.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 13,
+            "Retweets": 20,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "12th Buyback in progress\ud83d\udcc8\n\n#Nearvember is heating up with $BRRR buyback via @DeltaBotTeam DCA \n\n25,986.6 $USDC on the way. Transparent process, check it out \ud83d\udd25 https://t.co/a1OmD9GXVA",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T13:04:19Z",
+            "Timestamp": 1730898259,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 1759,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853458029402116379",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Burrow Weekly Recap \ud83e\uddd0<br><br>Total Supplied: $202.72M<br>Total Borrowed: $60.25M<br><br>\u2b06\ufe0f Another week of epic performance for Burrow!<br>\ud83d\udd25 Shoutout to <a href=\"https://twitter.com/fraxfinance\">@fraxfinance</a> for taking the crown as the hottest supply and hottest borrow last week!<br><br>Let\u2019s keep riding this wave of success in this <br><a href=\"https://t.co/OJvCExQ6sz\"><img src=\"https://pbs.twimg.com/media/GbjL8hjbUAAQsSD.jpg\"/></a>",
+            "ID": "1853458029402116379",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1123761442824519682",
+                    "Username": "fraxfinance",
+                    "Name": "Frax Finance \u00a4\u26d3\ufe0f\u00a4"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1853458029402116379",
+            "Photos": [
+                {
+                    "ID": "1853455487322509312",
+                    "URL": "https://pbs.twimg.com/media/GbjL8hjbUAAQsSD.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Burrow Weekly Recap \ud83e\uddd0\n\nTotal Supplied: $202.72M\nTotal Borrowed: $60.25M\n\n\u2b06\ufe0f Another week of epic performance for Burrow!\n\ud83d\udd25 Shoutout to @fraxfinance for taking the crown as the hottest supply and hottest borrow last week!\n\nLet\u2019s keep riding this wave of success in this https://t.co/OJvCExQ6sz",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T15:23:24Z",
+            "Timestamp": 1730733804,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 1247,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852317095591133653",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/aescobarindo\">@aescobarindo</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> <a href=\"https://twitter.com/DeltaBotTeam\">@DeltaBotTeam</a> <a href=\"https://twitter.com/ThunderHoodLab\">@ThunderHoodLab</a> <a href=\"https://twitter.com/proximityfi\">@proximityfi</a> <a href=\"https://twitter.com/SweatEconomy\">@SweatEconomy</a> NEARvember BRRR",
+            "ID": "1852912072344190989",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852317095591133653",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1455361190175985665",
+                    "Username": "aescobarindo",
+                    "Name": "aescobar.dapdap (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "1730425081724297216",
+                    "Username": "DeltaBotTeam",
+                    "Name": "DeltaTrade"
+                },
+                {
+                    "ID": "1801264678544515072",
+                    "Username": "ThunderHoodLab",
+                    "Name": "Thunderhood \u26a1\ufe0f"
+                },
+                {
+                    "ID": "1412496723776180227",
+                    "Username": "proximityfi",
+                    "Name": "Proximity Labs"
+                },
+                {
+                    "ID": "1485617600239489028",
+                    "Username": "SweatEconomy",
+                    "Name": "Sweat \u0415conomy \ud83d\udca7"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1852912072344190989",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK @NEARProtocol @aescobarindo @DapDapMeUp @finance_ref @DeltaBotTeam @ThunderHoodLab @proximityfi @SweatEconomy NEARvember BRRR",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T03:13:58Z",
+            "Timestamp": 1730603638,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 144,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852332067570471205",
+            "GIFs": null,
+            "Hashtags": [
+                "NEARvember"
+            ],
+            "HTML": "6/ End of thread. <a href=\"https://twitter.com/hashtag/NEARvember\">#NEARvember</a> has more so stay tuned \ud83d\udc4f<br><br>Join Our Discord<br><a href=\"https://discord.com/invite/rsMyJfHQx9\">https://t.co/YBZROJQFts</a><br><br>Get started with Burrow:<br><a href=\"https://app.burrow.finance\">https://t.co/KzCkQQKxmC</a>",
+            "ID": "1852332081944445292",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852332079754932629",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1852332081944445292",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "6/ End of thread. #NEARvember has more so stay tuned \ud83d\udc4f\n\nJoin Our Discord\nhttps://t.co/YBZROJQFts\n\nGet started with Burrow:\nhttps://t.co/KzCkQQKxmC",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T12:49:17Z",
+            "Timestamp": 1730465357,
+            "URLs": [
+                "https://discord.com/invite/rsMyJfHQx9",
+                "https://app.burrow.finance"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 234,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852332067570471205",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "5/ Snooze a <a href=\"https://twitter.com/DeltaBotTeam\">@DeltaBotTeam</a> mining season with Burrow and loose out on the juicy rewards \ud83c\udf81<br><br>Go maximize your earning ASAP \ud83d\udc47<br><a href=\"https://x.com/burrow_finance/status/1849467039649571190\">https://t.co/IRdfj7Ss1N</a>",
+            "ID": "1852332079754932629",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852332077733281879",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1730425081724297216",
+                    "Username": "DeltaBotTeam",
+                    "Name": "DeltaTrade"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1852332079754932629",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849467039649571190",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "5/ Snooze a @DeltaBotTeam mining season with Burrow and loose out on the juicy rewards \ud83c\udf81\n\nGo maximize your earning ASAP \ud83d\udc47\nhttps://t.co/IRdfj7Ss1N",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T12:49:17Z",
+            "Timestamp": 1730465357,
+            "URLs": [
+                "https://x.com/burrow_finance/status/1849467039649571190"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 517,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852332067570471205",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "4/ <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a>, one of Burrow\u2019s amazing partners, has incredible APY and rewards for community members \ud83d\udcc8<br><br>See more in post below \ud83d\udd16<br><a href=\"https://x.com/burrow_finance/status/1846204760237740068\">https://t.co/XLehTPHNT5</a>",
+            "ID": "1852332077733281879",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852332075510292716",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1852332077733281879",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846204760237740068",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "4/ @Nightly_app, one of Burrow\u2019s amazing partners, has incredible APY and rewards for community members \ud83d\udcc8\n\nSee more in post below \ud83d\udd16\nhttps://t.co/XLehTPHNT5",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T12:49:16Z",
+            "Timestamp": 1730465356,
+            "URLs": [
+                "https://x.com/burrow_finance/status/1846204760237740068"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 78,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852332067570471205",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "3/ Active participation will always be rewarded \ud83d\udc4f<br><br>Some Boosting Power (BP) was distributed to the first 1k participants on the <a href=\"https://twitter.com/DappRadar\">@DappRadar</a> quest. More rewards coming \ud83c\udf89<br><a href=\"https://x.com/burrow_finance/status/1845753833693347900\">https://t.co/qmYThAYvtd</a>",
+            "ID": "1852332075510292716",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852332073329250345",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "962293079012241408",
+                    "Username": "DappRadar",
+                    "Name": "DappRadar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1852332075510292716",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845753833693347900",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "3/ Active participation will always be rewarded \ud83d\udc4f\n\nSome Boosting Power (BP) was distributed to the first 1k participants on the @DappRadar quest. More rewards coming \ud83c\udf89\nhttps://t.co/qmYThAYvtd",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T12:49:16Z",
+            "Timestamp": 1730465356,
+            "URLs": [
+                "https://x.com/burrow_finance/status/1845753833693347900"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 81,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852332067570471205",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/ <a href=\"https://twitter.com/auroraisnear's\">@auroraisnear's</a> rainbow bridge has done and will continue doing wonders \ud83c\udf09<br><br>Is your $FRAX(<a href=\"https://twitter.com/fraxfinance\">@fraxfinance</a>) on Burrow yet? If no, don\u2019t skip executing the tutorial below \ud83d\udc40<br><a href=\"https://x.com/burrow_finance/status/1843349831412265409\">https://t.co/D7p4AQbJ6l</a>",
+            "ID": "1852332073329250345",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852332071341146404",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                },
+                {
+                    "ID": "1123761442824519682",
+                    "Username": "fraxfinance",
+                    "Name": "Frax Finance \u00a4\u26d3\ufe0f\u00a4"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1852332073329250345",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1843349831412265409",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/ @auroraisnear's rainbow bridge has done and will continue doing wonders \ud83c\udf09\n\nIs your $FRAX(@fraxfinance) on Burrow yet? If no, don\u2019t skip executing the tutorial below \ud83d\udc40\nhttps://t.co/D7p4AQbJ6l",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T12:49:15Z",
+            "Timestamp": 1730465355,
+            "URLs": [
+                "https://x.com/burrow_finance/status/1843349831412265409"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 155,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852332067570471205",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "1/ Shoutout to <a href=\"https://twitter.com/IQWIKI\">@IQWIKI</a> to bringing the essentials on just one page \ud83d\udcc4<br><br>From overview to product and features, go learn everything Burrow on <a href=\"https://twitter.com/IQWIKI\">@IQWIKI</a> \u2b07\ufe0f<br><a href=\"https://x.com/burrow_finance/status/1841478561242530013\">https://t.co/cIneWUDmEV</a>",
+            "ID": "1852332071341146404",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852332067570471205",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "2896892108",
+                    "Username": "IQWIKI",
+                    "Name": "IQ"
+                },
+                {
+                    "ID": "2896892108",
+                    "Username": "IQWIKI",
+                    "Name": "IQ"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1852332071341146404",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1841478561242530013",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "1/ Shoutout to @IQWIKI to bringing the essentials on just one page \ud83d\udcc4\n\nFrom overview to product and features, go learn everything Burrow on @IQWIKI \u2b07\ufe0f\nhttps://t.co/cIneWUDmEV",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T12:49:15Z",
+            "Timestamp": 1730465355,
+            "URLs": [
+                "https://x.com/burrow_finance/status/1841478561242530013"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 268,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852332067570471205",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More partnerships, more community rewards\u2026 nothing less than expected \ud83d\udd11<br><br>Let\u2019s review the key happenings around Burrow in October \ud83e\uddf5 <br><a href=\"https://t.co/l5Yp7DE18H\"><img src=\"https://pbs.twimg.com/media/GbTNxJ1bIAAPW_M.jpg\"/></a>",
+            "ID": "1852332067570471205",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 90,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1852332067570471205",
+            "Photos": [
+                {
+                    "ID": "1852331591093395456",
+                    "URL": "https://pbs.twimg.com/media/GbTNxJ1bIAAPW_M.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 17,
+            "Retweets": 119,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More partnerships, more community rewards\u2026 nothing less than expected \ud83d\udd11\n\nLet\u2019s review the key happenings around Burrow in October \ud83e\uddf5 https://t.co/l5Yp7DE18H",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T12:49:14Z",
+            "Timestamp": 1730465354,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 7346,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852311862022729911",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "NEARvember",
+            "ID": "1852311862022729911",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1852311862022729911",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852274752733233485",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "NEARvember",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T11:28:56Z",
+            "Timestamp": 1730460536,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 589,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851977859130364181",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/csp88g\">@csp88g</a> So sweetttt",
+            "ID": "1851991073184444924",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851983400418066814",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1442826841203609604",
+                    "Username": "csp88g",
+                    "Name": "Stas"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1851991073184444924",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@csp88g So sweetttt",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T14:14:14Z",
+            "Timestamp": 1730384054,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 17,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851977859130364181",
+            "GIFs": null,
+            "Hashtags": [
+                "LFGHOST"
+            ],
+            "HTML": "Happy Halloween \ud83c\udf83 Trick or Triple APY<br><br><a href=\"https://twitter.com/hashtag/LFGHOST\">#LFGHOST</a> \ud83d\udc7b\ud83d\udc7b\ud83d\udc7b <br><a href=\"https://t.co/NdPXV97g3y\"><img src=\"https://pbs.twimg.com/media/GbOLL3sakAIPKQp.jpg\"/></a>",
+            "ID": "1851977859130364181",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 25,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1851977859130364181",
+            "Photos": [
+                {
+                    "ID": "1851976907824467970",
+                    "URL": "https://pbs.twimg.com/media/GbOLL3sakAIPKQp.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 10,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Happy Halloween \ud83c\udf83 Trick or Triple APY\n\n#LFGHOST \ud83d\udc7b\ud83d\udc7b\ud83d\udc7b https://t.co/NdPXV97g3y",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T13:21:44Z",
+            "Timestamp": 1730380904,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 517,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851641638906736958",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Simple life: APY and chill. \ud83d\ude34\ud83d\udcb0<br><br>\ud83d\udc49<a href=\"https://app.burrow.finance\">https://t.co/KzCkQQKxmC</a> <br><a href=\"https://t.co/56S1gBHL32\"><img src=\"https://pbs.twimg.com/media/GbJZvnZbAAAdc3g.jpg\"/></a>",
+            "ID": "1851641638906736958",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 15,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1851641638906736958",
+            "Photos": [
+                {
+                    "ID": "1851641071367028736",
+                    "URL": "https://pbs.twimg.com/media/GbJZvnZbAAAdc3g.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Simple life: APY and chill. \ud83d\ude34\ud83d\udcb0\n\n\ud83d\udc49https://t.co/KzCkQQKxmC https://t.co/56S1gBHL32",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T15:05:43Z",
+            "Timestamp": 1730300743,
+            "URLs": [
+                "https://app.burrow.finance"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 648,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851295614317051963",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/superxtensions\">@superxtensions</a> Totally \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "ID": "1851299787733406072",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851296380024709218",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1755608551857528832",
+                    "Username": "superxtensions",
+                    "Name": "Xtensions"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1851299787733406072",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@superxtensions Totally \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T16:27:19Z",
+            "Timestamp": 1730219239,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851295614317051963",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> Hodling tight, fam\ud83d\udd25",
+            "ID": "1851299470304252299",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851296077548569084",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1851299470304252299",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK Hodling tight, fam\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T16:26:03Z",
+            "Timestamp": 1730219163,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 50,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851295614317051963",
+            "GIFs": null,
+            "Hashtags": [
+                "NEARvember"
+            ],
+            "HTML": "Gm!<br><br><a href=\"https://twitter.com/hashtag/NEARvember's\">#NEARvember's</a> almost here. What's your next move, fam?",
+            "ID": "1851295614317051963",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 16,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1851295614317051963",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Gm!\n\n#NEARvember's almost here. What's your next move, fam?",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T16:10:44Z",
+            "Timestamp": 1730218244,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 727,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850908637096763650",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Burrow Weekly Recap \ud83e\uddd0<br><br>Another week of strong performance for Burrow \ud83d\ude80<br><br>Total Supplied: $202.72M<br>Total Borrowed: $60.25M<br><br>\ud83d\udcc8 $USDC is heating up as the hottest supply token!<br>\u2b06\ufe0f $wBTC has surged by 7%, making it the most sought-after borrow.<br><br>Check out the top tokens and <br><a href=\"https://t.co/7IIXcdJuGu\"><img src=\"https://pbs.twimg.com/media/Ga-6EWebMAEL4pn.jpg\"/></a>",
+            "ID": "1850908637096763650",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 110,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1850908637096763650",
+            "Photos": [
+                {
+                    "ID": "1850902555787997185",
+                    "URL": "https://pbs.twimg.com/media/Ga-6EWebMAEL4pn.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 17,
+            "Retweets": 139,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Burrow Weekly Recap \ud83e\uddd0\n\nAnother week of strong performance for Burrow \ud83d\ude80\n\nTotal Supplied: $202.72M\nTotal Borrowed: $60.25M\n\n\ud83d\udcc8 $USDC is heating up as the hottest supply token!\n\u2b06\ufe0f $wBTC has surged by 7%, making it the most sought-after borrow.\n\nCheck out the top tokens and https://t.co/7IIXcdJuGu",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T14:33:01Z",
+            "Timestamp": 1730125981,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 1757,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849822587477688507",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "NEAR"
+            ],
+            "HTML": "Two <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> truths:<br>&gt; Legends will have the right priorities from November 9th to 11th \ud83d\udcbb<br>&gt; All <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> fams are legends \ud83d\udd25<br><br>\ud83c\uddf9\ud83c\udded Don't miss out &gt; <a href=\"https://redactedbangkok.ai/\">https://t.co/s8nEJ3AjUy</a> <br><a href=\"https://t.co/FwNfQ576X8\"><img src=\"https://pbs.twimg.com/media/Gavjw7XaAAMfdas.jpg\"/></a>",
+            "ID": "1849822587477688507",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1849822587477688507",
+            "Photos": [
+                {
+                    "ID": "1849822501674811395",
+                    "URL": "https://pbs.twimg.com/media/Gavjw7XaAAMfdas.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Two #NEAR truths:\n&gt; Legends will have the right priorities from November 9th to 11th \ud83d\udcbb\n&gt; All #NEAR fams are legends \ud83d\udd25\n\n\ud83c\uddf9\ud83c\udded Don't miss out &gt; https://t.co/s8nEJ3AjUy https://t.co/FwNfQ576X8",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T14:37:27Z",
+            "Timestamp": 1729867047,
+            "URLs": [
+                "https://redactedbangkok.ai/"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 785,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849467039649571190",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "1\u20e3 Mining period: Oct 24 - Nov 24  <br><br>2\u20e3 Create a BRRR Grid/Swing vault: <a href=\"https://www.deltatrade.ai/bots/grid/vaults/BRRR_USDC\">https://t.co/RpB51jJBpb</a>   <br><br>3\u20e3 Claim Rewards:  <a href=\"https://deltatrade.ai/activity/mining\">https://t.co/U6mhZIhYM7</a>",
+            "ID": "1849467042740769060",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849467039649571190",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1849467042740769060",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "1\u20e3 Mining period: Oct 24 - Nov 24  \n\n2\u20e3 Create a BRRR Grid/Swing vault: https://t.co/RpB51jJBpb   \n\n3\u20e3 Claim Rewards:  https://t.co/U6mhZIhYM7",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:04:39Z",
+            "Timestamp": 1729782279,
+            "URLs": [
+                "https://www.deltatrade.ai/bots/grid/vaults/BRRR_USDC",
+                "https://deltatrade.ai/activity/mining"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 246,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849467039649571190",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf1fMining Season on <a href=\"https://twitter.com/DeltaBotTeam\">@DeltaBotTeam</a> is here!<br><br>Maximize your earnings with <a href=\"https://twitter.com/burrow_finance\">@burrow_finance</a> <br><br>\ud83d\udcb5 $200 Bonus Reward <br>\ud83d\udcca Enjoy up to 100%+ APYs <br>\ud83c\udf81 Earn more with 7 Different Pools<br><br>Full details? NEXT tweet\ud83d\udc47 <br><a href=\"https://t.co/aOB2lE0MD9\"><img src=\"https://pbs.twimg.com/media/GaqfqL8akAAg-n0.jpg\"/></a>",
+            "ID": "1849467039649571190",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 20,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1730425081724297216",
+                    "Username": "DeltaBotTeam",
+                    "Name": "DeltaTrade"
+                },
+                {
+                    "ID": "1349158098175344640",
+                    "Username": "burrow_finance",
+                    "Name": "Burrow Finance \ud83e\udd94"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1849467039649571190",
+            "Photos": [
+                {
+                    "ID": "1849466144098521088",
+                    "URL": "https://pbs.twimg.com/media/GaqfqL8akAAg-n0.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 14,
+            "Retweets": 11,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf1fMining Season on @DeltaBotTeam is here!\n\nMaximize your earnings with @burrow_finance \n\n\ud83d\udcb5 $200 Bonus Reward \n\ud83d\udcca Enjoy up to 100%+ APYs \n\ud83c\udf81 Earn more with 7 Different Pools\n\nFull details? NEXT tweet\ud83d\udc47 https://t.co/aOB2lE0MD9",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:04:38Z",
+            "Timestamp": 1729782278,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 1230,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849079136855503208",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u23f0 CLOCK TICKING \u23f0<br><br>\u26cf\ufe0f Prepare, fam! \u26cf\ufe0f\u00a0Mining season is\u00a0SO CLOSE\ud83d\udcb0<br><br> Big wins with bonus\u00a0$REF\u00a0and\u00a0$BRRR\u00a0are\u00a0awaiting\u00a0you all on <a href=\"https://twitter.com/DeltaBotTeam\">@DeltaBotTeam</a> \ud83d\udc8e Let's DIG IN and RAKE IN the rewards. <br><br>Are you ready for tomorrow\u2019s launch? \ud83d\udd25 <br><a href=\"https://t.co/tR2VnGS2ZX\"><img src=\"https://pbs.twimg.com/media/Gak_mH4aIAAlYHr.jpg\"/></a>",
+            "ID": "1849079136855503208",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 28,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1730425081724297216",
+                    "Username": "DeltaBotTeam",
+                    "Name": "DeltaTrade"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1849079136855503208",
+            "Photos": [
+                {
+                    "ID": "1849079046195519488",
+                    "URL": "https://pbs.twimg.com/media/Gak_mH4aIAAlYHr.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 16,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u23f0 CLOCK TICKING \u23f0\n\n\u26cf\ufe0f Prepare, fam! \u26cf\ufe0f\u00a0Mining season is\u00a0SO CLOSE\ud83d\udcb0\n\n Big wins with bonus\u00a0$REF\u00a0and\u00a0$BRRR\u00a0are\u00a0awaiting\u00a0you all on @DeltaBotTeam \ud83d\udc8e Let's DIG IN and RAKE IN the rewards. \n\nAre you ready for tomorrow\u2019s launch? \ud83d\udd25 https://t.co/tR2VnGS2ZX",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T13:23:15Z",
+            "Timestamp": 1729689795,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 958,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848720462731411641",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SentoSestosento\">@SentoSestosento</a> LFG\ud83d\udd25",
+            "ID": "1848768439156154370",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848723202588950869",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "521139687",
+                    "Username": "SentoSestosento",
+                    "Name": "SestoPT"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1848768439156154370",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SentoSestosento LFG\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T16:48:39Z",
+            "Timestamp": 1729615719,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 18,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848720462731411641",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/csp88g\">@csp88g</a> Gotchu haha",
+            "ID": "1848768340850053421",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848739096031625668",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1442826841203609604",
+                    "Username": "csp88g",
+                    "Name": "Stas"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1848768340850053421",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@csp88g Gotchu haha",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T16:48:15Z",
+            "Timestamp": 1729615695,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 28,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848720462731411641",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ref_intern\">@ref_intern</a> The best vibe ever \ud83d\ude80",
+            "ID": "1848768235136815334",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848723857022104000",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1816232921876819968",
+                    "Username": "ref_intern",
+                    "Name": "Ref Intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1848768235136815334",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ref_intern The best vibe ever \ud83d\ude80",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T16:47:50Z",
+            "Timestamp": 1729615670,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848720462731411641",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "BRRR-est feeling in the world \ud83e\udd11<br><br>Feeling this vibe? Drop a YES below\ud83d\udc47<br><br>And you know what to do now \u27a1\ufe0f<a href=\"https://app.burrow.finance/markets\">https://t.co/YWkegqQl5z</a> <br><a href=\"https://t.co/UFAIvDkm3L\"><img src=\"https://pbs.twimg.com/media/Gaf34GNbsAAaM9w.png\"/></a>",
+            "ID": "1848720462731411641",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1848720462731411641",
+            "Photos": [
+                {
+                    "ID": "1848718715170566144",
+                    "URL": "https://pbs.twimg.com/media/Gaf34GNbsAAaM9w.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "BRRR-est feeling in the world \ud83e\udd11\n\nFeeling this vibe? Drop a YES below\ud83d\udc47\n\nAnd you know what to do now \u27a1\ufe0fhttps://t.co/YWkegqQl5z https://t.co/UFAIvDkm3L",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:38:00Z",
+            "Timestamp": 1729604280,
+            "URLs": [
+                "https://app.burrow.finance/markets"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 874,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848535079527817402",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Burrow's performance is getting a boost with Lava RPC \ud83c\udf0b",
+            "ID": "1848535079527817402",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1848535079527817402",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848395427931979785",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Burrow's performance is getting a boost with Lava RPC \ud83c\udf0b",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T01:21:21Z",
+            "Timestamp": 1729560081,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 569,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848378267893661884",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "BURROW WEEKLY RECAP<br><br>A Hot October Continues \ud83d\udd25 <br><br>\u2b06\ufe0f 5% increase in Total borrowed <br>\u2b06\ufe0f Total supplied has grown by 2%<br>\u2b06\ufe0f $ETH dominates both hot supply and hot borrow, with gains of 9% and 11% respectively.<br><br>Hold tight, fam! The market's still heating up. \ud83d\ude80 <br><a href=\"https://t.co/2E9s7ij6NU\"><img src=\"https://pbs.twimg.com/media/GabBHB8bUAAEZWV.jpg\"/></a>",
+            "ID": "1848378267893661884",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 22,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1848378267893661884",
+            "Photos": [
+                {
+                    "ID": "1848377023607296000",
+                    "URL": "https://pbs.twimg.com/media/GabBHB8bUAAEZWV.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "BURROW WEEKLY RECAP\n\nA Hot October Continues \ud83d\udd25 \n\n\u2b06\ufe0f 5% increase in Total borrowed \n\u2b06\ufe0f Total supplied has grown by 2%\n\u2b06\ufe0f $ETH dominates both hot supply and hot borrow, with gains of 9% and 11% respectively.\n\nHold tight, fam! The market's still heating up. \ud83d\ude80 https://t.co/2E9s7ij6NU",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T14:58:14Z",
+            "Timestamp": 1729522694,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 580,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847280333479461303",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Will you be one of those shaping the future of User-Owned AI and Chain Abstraction in Bangkok? \ud83d\udc40<br><br>Comment below if you\u2019ve registered for [ REDACTED ] \ud83d\udc47 <br><a href=\"https://t.co/SRySqJj8oC\"><img src=\"https://pbs.twimg.com/media/GaLbmdrbcAEO_MQ.jpg\"/></a>",
+            "ID": "1847280333479461303",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 22,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847280333479461303",
+            "Photos": [
+                {
+                    "ID": "1847280251023618049",
+                    "URL": "https://pbs.twimg.com/media/GaLbmdrbcAEO_MQ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 10,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Will you be one of those shaping the future of User-Owned AI and Chain Abstraction in Bangkok? \ud83d\udc40\n\nComment below if you\u2019ve registered for [ REDACTED ] \ud83d\udc47 https://t.co/SRySqJj8oC",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T14:15:26Z",
+            "Timestamp": 1729260926,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 1332,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846204760237740068",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nabil_0p\">@nabil_0p</a> <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> Just the beginning fam",
+            "ID": "1847056092171313430",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846270792717553943",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1769648694989864960",
+                    "Username": "nabil_0p",
+                    "Name": "nabil \u271c"
+                },
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847056092171313430",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nabil_0p @Nightly_app Just the beginning fam",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T23:24:23Z",
+            "Timestamp": 1729207463,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 87,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846204760237740068",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/csp88g\">@csp88g</a> <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> It lasts. Hurry \ud83d\udc40",
+            "ID": "1847056013108629652",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846222369251271096",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1442826841203609604",
+                    "Username": "csp88g",
+                    "Name": "Stas"
+                },
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847056013108629652",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@csp88g @Nightly_app It lasts. Hurry \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T23:24:04Z",
+            "Timestamp": 1729207444,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 15,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846561866954531052",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ZanchoMazorca\">@ZanchoMazorca</a> Hope you followed through?! \ud83d\udc40",
+            "ID": "1847055849354875224",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846574602987954497",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1671872983772852224",
+                    "Username": "ZanchoMazorca",
+                    "Name": "Zancho"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847055849354875224",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ZanchoMazorca Hope you followed through?! \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T23:23:25Z",
+            "Timestamp": 1729207405,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 15,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846561866954531052",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/csp88g\">@csp88g</a> Anticipate more",
+            "ID": "1847055745650774190",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846563239103983728",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1442826841203609604",
+                    "Username": "csp88g",
+                    "Name": "Stas"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847055745650774190",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@csp88g Anticipate more",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T23:23:01Z",
+            "Timestamp": 1729207381,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 14,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846561866954531052",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AndreyBoch4889\">@AndreyBoch4889</a> hello",
+            "ID": "1847055712889008206",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846615295403700372",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1769769213986549760",
+                    "Username": "AndreyBoch4889",
+                    "Name": "Oleg Che"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847055712889008206",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AndreyBoch4889 hello",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T23:22:53Z",
+            "Timestamp": 1729207373,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846561866954531052",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nabil_0p\">@nabil_0p</a> A truly unique alpha",
+            "ID": "1847055687400280342",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846566071438103040",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1769648694989864960",
+                    "Username": "nabil_0p",
+                    "Name": "nabil \u271c"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847055687400280342",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nabil_0p A truly unique alpha",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T23:22:47Z",
+            "Timestamp": 1729207367,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 72,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919540267274708",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/csp88g\">@csp88g</a> Nothing like it before now",
+            "ID": "1847055495850610825",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846938213987791033",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1442826841203609604",
+                    "Username": "csp88g",
+                    "Name": "Stas"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847055495850610825",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@csp88g Nothing like it before now",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T23:22:01Z",
+            "Timestamp": 1729207321,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 25,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919540267274708",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ZanchoMazorca\">@ZanchoMazorca</a> Take all of it champ",
+            "ID": "1847055424635232435",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846939848109597089",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1671872983772852224",
+                    "Username": "ZanchoMazorca",
+                    "Name": "Zancho"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847055424635232435",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ZanchoMazorca Take all of it champ",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T23:21:44Z",
+            "Timestamp": 1729207304,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 23,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919540267274708",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/finance_ref\">@finance_ref</a> Meme game must always be on p)))))",
+            "ID": "1847055033415675930",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846940822853636533",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1847055033415675930",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@finance_ref Meme game must always be on p)))))",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T23:20:11Z",
+            "Timestamp": 1729207211,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 117,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919540267274708",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udc49Explore right now: <a href=\"https://app.burrow.finance/markets/\">https://t.co/8LNahMR44f</a> <br><a href=\"https://t.co/rWdLI6K1xX\"><img src=\"https://pbs.twimg.com/media/GaGSvdab0AUtMXQ.jpg\"/></a>",
+            "ID": "1846919544327360876",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846919540267274708",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846919544327360876",
+            "Photos": [
+                {
+                    "ID": "1846918666245623813",
+                    "URL": "https://pbs.twimg.com/media/GaGSvdab0AUtMXQ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udc49Explore right now: https://t.co/8LNahMR44f https://t.co/rWdLI6K1xX",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:21:48Z",
+            "Timestamp": 1729174908,
+            "URLs": [
+                "https://app.burrow.finance/markets/"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 266,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919540267274708",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "BRRR fam, halfway through this Uptober \ud83c\udf1f<br><br>\ud83e\uddd0 What's your game plan for the days ahead? Consider diving into lending with Burrow for some sweet APY! \ud83d\udcb0<br><br>\ud83d\ude80 Providing stable coins for a 12%+ APY is great, but staking BRRR for a max 1.5X BOOST is where the real thrill kicks in. <br><a href=\"https://t.co/U4vC0wuN8z\"><img src=\"https://pbs.twimg.com/media/GaGRXd-aMAAALtq.jpg\"/></a>",
+            "ID": "1846919540267274708",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846919540267274708",
+            "Photos": [
+                {
+                    "ID": "1846917154568024064",
+                    "URL": "https://pbs.twimg.com/media/GaGRXd-aMAAALtq.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "BRRR fam, halfway through this Uptober \ud83c\udf1f\n\n\ud83e\uddd0 What's your game plan for the days ahead? Consider diving into lending with Burrow for some sweet APY! \ud83d\udcb0\n\n\ud83d\ude80 Providing stable coins for a 12%+ APY is great, but staking BRRR for a max 1.5X BOOST is where the real thrill kicks in. https://t.co/U4vC0wuN8z",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:21:47Z",
+            "Timestamp": 1729174907,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 1589,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846561866954531052",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Get Started here:<br><br>\ud83d\udd0d Explore Burrow and LP as Collateral Feature: <a href=\"https://app.burrow.finance\">https://t.co/KzCkQQKxmC</a><br><br>\ud83c\udf10 Download Nightly for browser: <a href=\"https://nightly.app/download\">https://t.co/yXvHAoD7si</a>",
+            "ID": "1846561869240410487",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846561866954531052",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846561869240410487",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Get Started here:\n\n\ud83d\udd0d Explore Burrow and LP as Collateral Feature: https://t.co/KzCkQQKxmC\n\n\ud83c\udf10 Download Nightly for browser: https://t.co/yXvHAoD7si",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T14:40:31Z",
+            "Timestamp": 1729089631,
+            "URLs": [
+                "https://app.burrow.finance",
+                "https://nightly.app/download"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 307,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846561866954531052",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Dive into Burrow on Nightly \ud83d\udcb0<br><br>Explore direct lending with Nightly for \ud83d\udc8e12%+ APY\ud83d\udc8e<br><br>Check out the video below for a step-by-step walkthrough!<br><br>BRRR-ery Easy\ud83d\ude09 <br><a href=\"https://t.co/Bycil3tONm\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1846558372809854976/pu/img/HShZM2oEjs-1J_h6.jpg\"/></a>",
+            "ID": "1846561866954531052",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846561866954531052",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 12,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Dive into Burrow on Nightly \ud83d\udcb0\n\nExplore direct lending with Nightly for \ud83d\udc8e12%+ APY\ud83d\udc8e\n\nCheck out the video below for a step-by-step walkthrough!\n\nBRRR-ery Easy\ud83d\ude09 https://t.co/Bycil3tONm",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T14:40:31Z",
+            "Timestamp": 1729089631,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": [
+                {
+                    "ID": "1846558372809854976",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1846558372809854976/pu/img/HShZM2oEjs-1J_h6.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1846558372809854976/pu/vid/avc1/1100x720/s1xBDix1lSB1xXp9.mp4?tag=12"
+                }
+            ],
+            "Views": 5199,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846204760237740068",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SentoSestosento\">@SentoSestosento</a> <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> Chad",
+            "ID": "1846466174898389035",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846250070913511625",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "521139687",
+                    "Username": "SentoSestosento",
+                    "Name": "SestoPT"
+                },
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846466174898389035",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SentoSestosento @Nightly_app Chad",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T08:20:16Z",
+            "Timestamp": 1729066816,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 19,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846204760237740068",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Eemam352\">@Eemam352</a> <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> If you have more questions, you can drop them here or join the <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> discord \ud83d\ude03",
+            "ID": "1846466116270412004",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846337757821440039",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "2341186540",
+                    "Username": "Eemam352",
+                    "Name": "Eemam"
+                },
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846466116270412004",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Eemam352 @Nightly_app If you have more questions, you can drop them here or join the @finance_ref discord \ud83d\ude03",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T08:20:02Z",
+            "Timestamp": 1729066802,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846208527376719974",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> Hogs won't dare miss \ud83d\udd25",
+            "ID": "1846215096252748078",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846208527376719974",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846215096252748078",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Nightly_app Hogs won't dare miss \ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T15:42:34Z",
+            "Timestamp": 1729006954,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 64,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846204760237740068",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/csp88g\">@csp88g</a> <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> \ud83d\udc40\ud83d\udc40",
+            "ID": "1846214916623028293",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846208557559042408",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1442826841203609604",
+                    "Username": "csp88g",
+                    "Name": "Stas"
+                },
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846214916623028293",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@csp88g @Nightly_app \ud83d\udc40\ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T15:41:51Z",
+            "Timestamp": 1729006911,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 56,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846204760237740068",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/vok_Matt_xpertC\">@vok_Matt_xpertC</a> <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> There's always more incoming",
+            "ID": "1846214832720433594",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846206199986790632",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1494543097052684289",
+                    "Username": "vok_Matt_xpertC",
+                    "Name": "KushKings"
+                },
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846214832720433594",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@vok_Matt_xpertC @Nightly_app There's always more incoming",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T15:41:31Z",
+            "Timestamp": 1729006891,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 39,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846204760237740068",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ZanchoMazorca\">@ZanchoMazorca</a> <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> Yes ser",
+            "ID": "1846214752285888935",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846207918007263291",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1671872983772852224",
+                    "Username": "ZanchoMazorca",
+                    "Name": "Zancho"
+                },
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846214752285888935",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ZanchoMazorca @Nightly_app Yes ser",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T15:41:12Z",
+            "Timestamp": 1729006872,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 38,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846204760237740068",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcf1 Download Nightly Wallet: <a href=\"https://nightly.app/download\">https://t.co/yXvHAoD7si</a><br><br>\ud83d\udc49 Visit Burrow: <a href=\"https://app.burrow.finance\">https://t.co/KzCkQQKxmC</a><br><br>\ud83d\udd17 Connect Wallet \u27a1\ufe0f Scroll Down \u27a1\ufe0f Nightly Wallet<br><br>Easy earnings await! \ud83d\ude80",
+            "ID": "1846204763513499986",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846204760237740068",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846204763513499986",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcf1 Download Nightly Wallet: https://t.co/yXvHAoD7si\n\n\ud83d\udc49 Visit Burrow: https://t.co/KzCkQQKxmC\n\n\ud83d\udd17 Connect Wallet \u27a1\ufe0f Scroll Down \u27a1\ufe0f Nightly Wallet\n\nEasy earnings await! \ud83d\ude80",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T15:01:31Z",
+            "Timestamp": 1729004491,
+            "URLs": [
+                "https://nightly.app/download",
+                "https://app.burrow.finance"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 295,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846204760237740068",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udce2Burrow on Nightly: Earn 12%+ APY and MOARRR<br><br>Join <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> wallet and <a href=\"https://twitter.com/burrow_finance\">@burrow_finance</a> to earn big \ud83d\udcb0<br><br>Supply stablecoins like $USDC/$USDT/$FRAX through Nightly for top APY and extra rewards.<br><br>Check it now! NEXT Tweet \ud83d\udc47 <br><a href=\"https://t.co/NMpnbVScqv\"><img src=\"https://pbs.twimg.com/media/GZ8AEuhb0AA553p.jpg\"/></a>",
+            "ID": "1846204760237740068",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 27,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                },
+                {
+                    "ID": "1349158098175344640",
+                    "Username": "burrow_finance",
+                    "Name": "Burrow Finance \ud83e\udd94"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846204760237740068",
+            "Photos": [
+                {
+                    "ID": "1846194453452935168",
+                    "URL": "https://pbs.twimg.com/media/GZ8AEuhb0AA553p.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 14,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udce2Burrow on Nightly: Earn 12%+ APY and MOARRR\n\nJoin @Nightly_app wallet and @burrow_finance to earn big \ud83d\udcb0\n\nSupply stablecoins like $USDC/$USDT/$FRAX through Nightly for top APY and extra rewards.\n\nCheck it now! NEXT Tweet \ud83d\udc47 https://t.co/NMpnbVScqv",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T15:01:30Z",
+            "Timestamp": 1729004490,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 4304,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845753833693347900",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/csp88g\">@csp88g</a> <a href=\"https://twitter.com/DappRadar\">@DappRadar</a> champ",
+            "ID": "1846090959378944443",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845766563007217906",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1442826841203609604",
+                    "Username": "csp88g",
+                    "Name": "Stas"
+                },
+                {
+                    "ID": "962293079012241408",
+                    "Username": "DappRadar",
+                    "Name": "DappRadar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846090959378944443",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@csp88g @DappRadar champ",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T07:29:18Z",
+            "Timestamp": 1728977358,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845753833693347900",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nabil_0p\">@nabil_0p</a> <a href=\"https://twitter.com/DappRadar\">@DappRadar</a> so fast",
+            "ID": "1846090901677916375",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845764799411728427",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1769648694989864960",
+                    "Username": "nabil_0p",
+                    "Name": "nabil \u271c"
+                },
+                {
+                    "ID": "962293079012241408",
+                    "Username": "DappRadar",
+                    "Name": "DappRadar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846090901677916375",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nabil_0p @DappRadar so fast",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T07:29:04Z",
+            "Timestamp": 1728977344,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 38,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845846106930073725",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SentoSestosento\">@SentoSestosento</a> Up we go",
+            "ID": "1846090725265473555",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845876862808924460",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "521139687",
+                    "Username": "SentoSestosento",
+                    "Name": "SestoPT"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846090725265473555",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SentoSestosento Up we go",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T07:28:22Z",
+            "Timestamp": 1728977302,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 20,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845846106930073725",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/HaruCoinlove\">@HaruCoinlove</a> As always",
+            "ID": "1846090404896096597",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845846651753423055",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "583691993",
+                    "Username": "HaruCoinlove",
+                    "Name": "harucoinlove(\u30cf\u30eb) \u22c8\uff5b\u30c1\u30a7\u30f3\u7814\uff5d\ud83e\udeb6 \ud83d\udfe3, \ud83d\udfe3"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1846090404896096597",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@HaruCoinlove As always",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T07:27:05Z",
+            "Timestamp": 1728977225,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 19,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845846106930073725",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "BURROW WEEKLY RECAP<br><br>Let's dive into Burrow's performance last week <br><br>\u2b06\ufe0fTotal borrowed continues to climb steadily<br>\u2b06\ufe0f 74% increase of $STNEAR, climbing to the top spot as the hottest borrow.<br>\u2b06\ufe0f 14% increase in $WBTC supply, holding its spot as the hottest supply for the third <br><a href=\"https://t.co/1sX6ok4Cnl\"><img src=\"https://pbs.twimg.com/media/GZ2-SpdbIAAEEY1.jpg\"/></a>",
+            "ID": "1845846106930073725",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1845846106930073725",
+            "Photos": [
+                {
+                    "ID": "1845840649867960320",
+                    "URL": "https://pbs.twimg.com/media/GZ2-SpdbIAAEEY1.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "BURROW WEEKLY RECAP\n\nLet's dive into Burrow's performance last week \n\n\u2b06\ufe0fTotal borrowed continues to climb steadily\n\u2b06\ufe0f 74% increase of $STNEAR, climbing to the top spot as the hottest borrow.\n\u2b06\ufe0f 14% increase in $WBTC supply, holding its spot as the hottest supply for the third https://t.co/1sX6ok4Cnl",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T15:16:20Z",
+            "Timestamp": 1728918980,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 2006,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845753833693347900",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "BRRR fam, time to flex your love \ud83d\ude80<br><br>Amping it up on <a href=\"https://twitter.com/DappRadar\">@DappRadar</a>. The initial 1,000 hustlers who ace this Burrow quest will bag some Boosting Power (BP) and unlock more rewards \ud83e\udd11<br><br>BOOST it up now!<br>\ud83d\udc49 <a href=\"https://dappradar.com/rewards/quest/support-burrow-earn-boosting-power\">https://t.co/Ke6koDTWjM</a> <br><a href=\"https://t.co/7dBVOj4ial\"><img src=\"https://pbs.twimg.com/media/GZ1vBO4a8AAth91.jpg\"/></a>",
+            "ID": "1845753833693347900",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 35,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "962293079012241408",
+                    "Username": "DappRadar",
+                    "Name": "DappRadar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1845753833693347900",
+            "Photos": [
+                {
+                    "ID": "1845753489257066496",
+                    "URL": "https://pbs.twimg.com/media/GZ1vBO4a8AAth91.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "BRRR fam, time to flex your love \ud83d\ude80\n\nAmping it up on @DappRadar. The initial 1,000 hustlers who ace this Burrow quest will bag some Boosting Power (BP) and unlock more rewards \ud83e\udd11\n\nBOOST it up now!\n\ud83d\udc49 https://t.co/Ke6koDTWjM https://t.co/7dBVOj4ial",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T09:09:41Z",
+            "Timestamp": 1728896981,
+            "URLs": [
+                "https://dappradar.com/rewards/quest/support-burrow-earn-boosting-power"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 2760,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844752351640551468",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Happy Friday Degens! <br><br>How are you spending your happy hour? \ud83d\ude09<br><br>Is it what we think it is? <br><a href=\"https://t.co/6ffn5B0lWv\"><img src=\"https://pbs.twimg.com/media/GZndVXnbsAAcI62.png\"/></a>",
+            "ID": "1844752351640551468",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 25,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1844752351640551468",
+            "Photos": [
+                {
+                    "ID": "1844748881571328000",
+                    "URL": "https://pbs.twimg.com/media/GZndVXnbsAAcI62.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Happy Friday Degens! \n\nHow are you spending your happy hour? \ud83d\ude09\n\nIs it what we think it is? https://t.co/6ffn5B0lWv",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:50:09Z",
+            "Timestamp": 1728658209,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 1188,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844313638477201858",
+            "GIFs": [
+                {
+                    "ID": "1844395296178176000",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZibv_YaAAAr9Ng.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZibv_YaAAAr9Ng.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SKYTONET_\">@SKYTONET_</a> you got it! <br><a href=\"https://t.co/c2GkQZGbas\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZibv_YaAAAr9Ng.jpg\"/></a>",
+            "ID": "1844395304432566386",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844313638477201858",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1762417890123288576",
+                    "Username": "SKYTONET_",
+                    "Name": "'"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1844395304432566386",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SKYTONET_ you got it! https://t.co/c2GkQZGbas",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T15:11:22Z",
+            "Timestamp": 1728573082,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 23,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844393523107463495",
+            "GIFs": [
+                {
+                    "ID": "1844394884108857344",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZibYATbMAA89F1.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZibYATbMAA89F1.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Mikikin8\">@Mikikin8</a> <br><a href=\"https://t.co/FGsr8ozgDo\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZibYATbMAA89F1.jpg\"/></a>",
+            "ID": "1844394898021339469",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844394655934566738",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1568508886348447744",
+                    "Username": "Mikikin8",
+                    "Name": "Mikikin | DeFiShards"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1844394898021339469",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Mikikin8 https://t.co/FGsr8ozgDo",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T15:09:45Z",
+            "Timestamp": 1728572985,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 41,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844393523107463495",
+            "GIFs": [
+                {
+                    "ID": "1844394350354235400",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZia476aAAg8YeT.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZia476aAAg8YeT.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/KimaDao61423\">@KimaDao61423</a> <br><a href=\"https://t.co/73UzYFN0GR\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZia476aAAg8YeT.jpg\"/></a>",
+            "ID": "1844394359468458262",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844394033596280860",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1812522380394385409",
+                    "Username": "KimaDao61423",
+                    "Name": "f4pop"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1844394359468458262",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@KimaDao61423 https://t.co/73UzYFN0GR",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T15:07:37Z",
+            "Timestamp": 1728572857,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 25,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844393523107463495",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "GM BRRR fam!<br><br>How is Up-tober treating you so far?\ud83d\ude02<br><br>Is this familiar?\ud83e\udd2a Let us know how you cope in the replies!\ud83d\udc47 <br><a href=\"https://t.co/rFSe2mqSVM\"><img src=\"https://pbs.twimg.com/media/GZiZZ4AaAAIKVaf.jpg\"/></a>",
+            "ID": "1844393523107463495",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 22,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1844393523107463495",
+            "Photos": [
+                {
+                    "ID": "1844392717218086914",
+                    "URL": "https://pbs.twimg.com/media/GZiZZ4AaAAIKVaf.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "GM BRRR fam!\n\nHow is Up-tober treating you so far?\ud83d\ude02\n\nIs this familiar?\ud83e\udd2a Let us know how you cope in the replies!\ud83d\udc47 https://t.co/rFSe2mqSVM",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T15:04:17Z",
+            "Timestamp": 1728572657,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 864,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843626921059594350",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "BURROW WEEKLY RECAP<br><br>Seeing some 'Up-Tober' movements on Burrow last week\ud83d\ude09<br><br>\u2b06\ufe0f7% Total Supplied; 3% Total Borrowed<br>\u2b06\ufe0f32% increase in $WBTC supply, holding its spot as Hottest Supply for the second week running<br>\u2b06\ufe0f3rd consecutive week of $USDT.e as best supply APY <br><br>\ud83e\udd14Is it up <br><a href=\"https://t.co/5Xp4oZdWWA\"><img src=\"https://pbs.twimg.com/media/GZXeyuEasAEuTR7.jpg\"/></a>",
+            "ID": "1843626921059594350",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1843626921059594350",
+            "Photos": [
+                {
+                    "ID": "1843624585419468801",
+                    "URL": "https://pbs.twimg.com/media/GZXeyuEasAEuTR7.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "BURROW WEEKLY RECAP\n\nSeeing some 'Up-Tober' movements on Burrow last week\ud83d\ude09\n\n\u2b06\ufe0f7% Total Supplied; 3% Total Borrowed\n\u2b06\ufe0f32% increase in $WBTC supply, holding its spot as Hottest Supply for the second week running\n\u2b06\ufe0f3rd consecutive week of $USDT.e as best supply APY \n\n\ud83e\udd14Is it up https://t.co/5Xp4oZdWWA",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T12:18:05Z",
+            "Timestamp": 1728389885,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 964,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843616230248219081",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/waxnear\">@waxnear</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> GM\u2600\ufe0f",
+            "ID": "1843619217574428735",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843616230248219081",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1471856279626858510",
+                    "Username": "waxnear",
+                    "Name": "Wax"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1843619217574428735",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@waxnear @NEARProtocol GM\u2600\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T11:47:28Z",
+            "Timestamp": 1728388048,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 116,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843386878688739416",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SKYTONET_\">@SKYTONET_</a> \ud83e\udee1\ud83e\udee1",
+            "ID": "1843552862082941074",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843386878688739416",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1762417890123288576",
+                    "Username": "SKYTONET_",
+                    "Name": "'"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1843552862082941074",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SKYTONET_ \ud83e\udee1\ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T07:23:48Z",
+            "Timestamp": 1728372228,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 58,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843349831412265409",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/auroraisnear\">@auroraisnear</a> <a href=\"https://twitter.com/fraxfinance\">@fraxfinance</a> Get Started on Burrow: <a href=\"https://app.burrow.finance/\">https://t.co/YA1zZ62L9t</a><br>Rainbow Bridge: <a href=\"https://rainbowbridge.app/transfer\">https://t.co/kK1ZkmBo1n</a><br>About FRAX: <a href=\"https://frax.finance/\">https://t.co/Lk2SHLdZlS</a><br><br>\u2014 End of Tweet \u2014",
+            "ID": "1843350391720947892",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843349831412265409",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                },
+                {
+                    "ID": "1123761442824519682",
+                    "Username": "fraxfinance",
+                    "Name": "Frax Finance \u00a4\u26d3\ufe0f\u00a4"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1843350391720947892",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@auroraisnear @fraxfinance Get Started on Burrow: https://t.co/YA1zZ62L9t\nRainbow Bridge: https://t.co/kK1ZkmBo1n\nAbout FRAX: https://t.co/Lk2SHLdZlS\n\n\u2014 End of Tweet \u2014",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T17:59:15Z",
+            "Timestamp": 1728323955,
+            "URLs": [
+                "https://app.burrow.finance/",
+                "https://rainbowbridge.app/transfer",
+                "https://frax.finance/"
+            ],
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": null,
+            "Views": 730,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843349831412265409",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Hop on a ride with BRRR \ud83d\ude97\ud83c\udf09<br><br>A ride from ETH \u27a1\ufe0f NEAR on <a href=\"https://twitter.com/auroraisnear's\">@auroraisnear's</a> rainbow bridge \u2014 Bridging $FRAX by <a href=\"https://twitter.com/fraxfinance\">@fraxfinance</a> onto <a href=\"https://twitter.com/burrow_finance\">@burrow_finance</a>! <br><br>Here's a video walkthrough: <br><a href=\"https://t.co/rq1A68GoAh\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1843347994705571841/pu/img/F6u6t8AuvofgkPvt.jpg\"/></a>",
+            "ID": "1843349831412265409",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 37,
+            "Name": "Burrow Finance \ud83e\udd94",
+            "Mentions": [
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                },
+                {
+                    "ID": "1123761442824519682",
+                    "Username": "fraxfinance",
+                    "Name": "Frax Finance \u00a4\u26d3\ufe0f\u00a4"
+                },
+                {
+                    "ID": "1349158098175344640",
+                    "Username": "burrow_finance",
+                    "Name": "Burrow Finance \ud83e\udd94"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/burrow_finance/status/1843349831412265409",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 13,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hop on a ride with BRRR \ud83d\ude97\ud83c\udf09\n\nA ride from ETH \u27a1\ufe0f NEAR on @auroraisnear's rainbow bridge \u2014 Bridging $FRAX by @fraxfinance onto @burrow_finance! \n\nHere's a video walkthrough: https://t.co/rq1A68GoAh",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T17:57:02Z",
+            "Timestamp": 1728323822,
+            "URLs": null,
+            "UserID": "1349158098175344640",
+            "Username": "burrow_finance",
+            "Videos": [
+                {
+                    "ID": "1843347994705571841",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1843347994705571841/pu/img/F6u6t8AuvofgkPvt.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1843347994705571841/pu/vid/avc1/1344x720/Yd8uTzI-g1pyaLBa.mp4?tag=12"
+                }
+            ],
+            "Views": 1430,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

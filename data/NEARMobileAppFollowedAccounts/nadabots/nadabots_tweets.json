@@ -1,0 +1,47 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1852330849762463757",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dabit3\">@dabit3</a> Every protocol needs contract level bot protection",
+            "ID": "1853006198779379730",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852330849762463757",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NadaBot",
+            "Mentions": [
+                {
+                    "ID": "17189394",
+                    "Username": "dabit3",
+                    "Name": "nader dabit"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/nadabots/status/1853006198779379730",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dabit3 Every protocol needs contract level bot protection",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T09:27:59Z",
+            "Timestamp": 1730626079,
+            "URLs": null,
+            "UserID": "1736273210998718464",
+            "Username": "nadabots",
+            "Videos": null,
+            "Views": 7,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

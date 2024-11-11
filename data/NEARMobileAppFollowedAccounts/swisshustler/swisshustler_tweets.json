@@ -1,0 +1,612 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1853693903095935298",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "If you have missed <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> s townhall, you can still watch it on <a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> s X. See the link below!",
+            "ID": "1853693903095935298",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1853693903095935298",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1853438896505270656",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "If you have missed @NEARProtocol s townhall, you can still watch it on @NEARWEEK s X. See the link below!",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T07:00:41Z",
+            "Timestamp": 1730790041,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 657,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853002522052436269",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Great stats for <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> in October! Shout out to all great web3 founders that are building on <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a>, fighting every day for User-Owned-Internet.",
+            "ID": "1853002522052436269",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 52,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1853002522052436269",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852766660383424695",
+            "Replies": 2,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Great stats for @NEARProtocol in October! Shout out to all great web3 founders that are building on #NEAR, fighting every day for User-Owned-Internet.",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T09:13:23Z",
+            "Timestamp": 1730625203,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 1651,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852282744459452536",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "If you want to lewrn how we can merge AI and chain abstraction, listen to <a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a> whitepaper as a podcast. Shout out to <a href=\"https://twitter.com/nategeier\">@nategeier</a> and his team!",
+            "ID": "1852282744459452536",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                },
+                {
+                    "ID": "16331393",
+                    "Username": "nategeier",
+                    "Name": "Nate | Bitte \ud83d\ude4f\ud83c\udffc"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1852282744459452536",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852005375077150898",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "If you want to lewrn how we can merge AI and chain abstraction, listen to @BitteProtocol whitepaper as a podcast. Shout out to @nategeier and his team!",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T09:33:14Z",
+            "Timestamp": 1730453594,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 193,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849199012479737948",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/hotdao_\">@hotdao_</a>",
+            "ID": "1849226739555221700",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849199012479737948",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1759443844884520960",
+                    "Username": "hotdao_",
+                    "Name": "HOT Protocol \ud83d\udd25"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1849226739555221700",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon @hotdao_",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T23:09:46Z",
+            "Timestamp": 1729724986,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 221,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847032892720849166",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Amazing work by <a href=\"https://twitter.com/nategeier\">@nategeier</a> and his team!",
+            "ID": "1847032892720849166",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "16331393",
+                    "Username": "nategeier",
+                    "Name": "Nate | Bitte \ud83d\ude4f\ud83c\udffc"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1847032892720849166",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846917943029895452",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Amazing work by @nategeier and his team!",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T21:52:12Z",
+            "Timestamp": 1729201932,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 222,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847032709899595877",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "RIP",
+            "ID": "1847032709899595877",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "swisshustler",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/swisshustler/status/1847032709899595877",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847008345095655848",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "RIP",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T21:51:28Z",
+            "Timestamp": 1729201888,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 88,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846301934288097719",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> is becoming a powerhouse for decentralized AI! Together with our partners from <a href=\"https://twitter.com/delphi_labs\">@delphi_labs</a> we are commited to supporting the best web3 Founders in our mission of building the User-Owned Internet. Shout out to <a href=\"https://twitter.com/JarrodBarnes\">@JarrodBarnes</a> and his team! <a href=\"https://buff.ly/3Y4F79T\">https://t.co/hF2DM1Fc3m</a>",
+            "ID": "1846301934288097719",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1542879561368870914",
+                    "Username": "delphi_labs",
+                    "Name": "Delphi Labs"
+                },
+                {
+                    "ID": "1021413747875811328",
+                    "Username": "JarrodBarnes",
+                    "Name": "Jarrod Barnes"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1846301934288097719",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol is becoming a powerhouse for decentralized AI! Together with our partners from @delphi_labs we are commited to supporting the best web3 Founders in our mission of building the User-Owned Internet. Shout out to @JarrodBarnes and his team! https://t.co/hF2DM1Fc3m",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T21:27:38Z",
+            "Timestamp": 1729027658,
+            "URLs": [
+                "https://buff.ly/3Y4F79T"
+            ],
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 117,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846198405879541911",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Low barrier to entry, ensures more decentralized network! More decentralized network ensures more security! Only 11k $NEAR to become a validator. One of multiple reasons why <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> is so popular!",
+            "ID": "1846198405879541911",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 32,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1846198405879541911",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845843833680224467",
+            "Replies": 1,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Low barrier to entry, ensures more decentralized network! More decentralized network ensures more security! Only 11k $NEAR to become a validator. One of multiple reasons why @NEARProtocol is so popular!",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T14:36:15Z",
+            "Timestamp": 1729002975,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 1034,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846197752482390426",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Go <a href=\"https://twitter.com/nufflelabs\">@nufflelabs</a> citizens!",
+            "ID": "1846197752482390426",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "1786106969926811648",
+                    "Username": "nufflelabs",
+                    "Name": "nuffle ( waff / le )"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1846197752482390426",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846162228572983565",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Go @nufflelabs citizens!",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T14:33:39Z",
+            "Timestamp": 1729002819,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 248,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846155203193573542",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AlexAuroraDev\">@AlexAuroraDev</a> Welcome to the next frontier!",
+            "ID": "1846187928826839372",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846155203193573542",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "883100511507009536",
+                    "Username": "AlexAuroraDev",
+                    "Name": "Alex Shevchenko \ud83c\uddfa\ud83c\udde6"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1846187928826839372",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AlexAuroraDev Welcome to the next frontier!",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T13:54:37Z",
+            "Timestamp": 1729000477,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 19,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845865819877548179",
+            "GIFs": null,
+            "Hashtags": [
+                "Redacted"
+            ],
+            "HTML": "4 years and going strong <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> ! Soon our flagship conference <a href=\"https://twitter.com/hashtag/Redacted\">#Redacted</a> in Thailand! Lots of exciting announcent about our AI and Chain Abstraction roadmaps will be shared!",
+            "ID": "1845865819877548179",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 35,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1845865819877548179",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845489692042768600",
+            "Replies": 0,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "4 years and going strong @NEARProtocol ! Soon our flagship conference #Redacted in Thailand! Lots of exciting announcent about our AI and Chain Abstraction roadmaps will be shared!",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T16:34:40Z",
+            "Timestamp": 1728923680,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 752,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1842881235846119687",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mpier2000\">@mpier2000</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> <a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> <a href=\"https://twitter.com/AlexSkidanov\">@AlexSkidanov</a> <a href=\"https://twitter.com/quadron3stat3\">@quadron3stat3</a> <a href=\"https://twitter.com/SashaAngel87\">@SashaAngel87</a> <a href=\"https://twitter.com/YadiraBlocker\">@YadiraBlocker</a> Great insights!",
+            "ID": "1843372024049344885",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1842881239415435690",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "swisshustler",
+            "Mentions": [
+                {
+                    "ID": "1344997632851243013",
+                    "Username": "mpier2000",
+                    "Name": "Data Analyst Mamad"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                },
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                },
+                {
+                    "ID": "1034268067331694593",
+                    "Username": "AlexSkidanov",
+                    "Name": "Alex Skidanov (alex.near)"
+                },
+                {
+                    "ID": "586816897",
+                    "Username": "quadron3stat3",
+                    "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)"
+                },
+                {
+                    "ID": "189777636",
+                    "Username": "SashaAngel87",
+                    "Name": "Aliaksandr \u201cSasha\u201d Hudzilin"
+                },
+                {
+                    "ID": "1364281598414184450",
+                    "Username": "YadiraBlocker",
+                    "Name": "Yadira"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/swisshustler/status/1843372024049344885",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mpier2000 @NEARProtocol @flipsidecrypto @NEARWEEK @ilblackdragon @NEARDevHub @AlexSkidanov @quadron3stat3 @SashaAngel87 @YadiraBlocker Great insights!",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T19:25:13Z",
+            "Timestamp": 1728329113,
+            "URLs": null,
+            "UserID": "1272492919564402688",
+            "Username": "swisshustler",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

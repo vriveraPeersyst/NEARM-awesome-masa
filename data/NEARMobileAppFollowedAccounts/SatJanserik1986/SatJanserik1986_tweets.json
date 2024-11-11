@@ -1,0 +1,167 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1853473043139514791",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/qstnus\">@qstnus</a> <a href=\"https://twitter.com/solana\">@solana</a> <a href=\"https://twitter.com/Solana1000_x\">@Solana1000_x</a> <a href=\"https://twitter.com/solananew\">@solananew</a> <a href=\"https://twitter.com/SolanaNewsOrg\">@SolanaNewsOrg</a> <a href=\"https://twitter.com/SolanaNews_CN\">@SolanaNews_CN</a> <a href=\"https://twitter.com/Nearity_org\">@Nearity_org</a> <a href=\"https://twitter.com/near_insider\">@near_insider</a> <a href=\"https://twitter.com/NearMemeDaily\">@NearMemeDaily</a> <a href=\"https://twitter.com/NearExplorer\">@NearExplorer</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Near",
+            "ID": "1853515883664036281",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853473043139514791",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "J SAT",
+            "Mentions": [
+                {
+                    "ID": "1224467106265280512",
+                    "Username": "qstnus",
+                    "Name": "QSTN"
+                },
+                {
+                    "ID": "951329744804392960",
+                    "Username": "solana",
+                    "Name": "Solana"
+                },
+                {
+                    "ID": "395399698",
+                    "Username": "Solana1000_x",
+                    "Name": "SOLANA 1000X \ud83d\udcc8"
+                },
+                {
+                    "ID": "4718237894",
+                    "Username": "solananew",
+                    "Name": "SolanaNews.sol"
+                },
+                {
+                    "ID": "1728612650094055424",
+                    "Username": "SolanaNewsOrg",
+                    "Name": "SolanaNews.org"
+                },
+                {
+                    "ID": "1590926835302694912",
+                    "Username": "SolanaNews_CN",
+                    "Name": "SolanaNews"
+                },
+                {
+                    "ID": "1187687036628553730",
+                    "Username": "Nearity_org",
+                    "Name": "Nearity \ud83c\udd5d | Create Without Limits"
+                },
+                {
+                    "ID": "1458802517714694148",
+                    "Username": "near_insider",
+                    "Name": "Near Insider"
+                },
+                {
+                    "ID": "1355474771660730370",
+                    "Username": "NearMemeDaily",
+                    "Name": "MEME DAILY | memedaily.near"
+                },
+                {
+                    "ID": "1536681699219849219",
+                    "Username": "NearExplorer",
+                    "Name": "NearExplorer \u24c3"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SatJanserik1986/status/1853515883664036281",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@qstnus @solana @Solana1000_x @solananew @SolanaNewsOrg @SolanaNews_CN @Nearity_org @near_insider @NearMemeDaily @NearExplorer @NEARProtocol Near",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T19:13:17Z",
+            "Timestamp": 1730747597,
+            "URLs": null,
+            "UserID": "1513673025434042370",
+            "Username": "SatJanserik1986",
+            "Videos": null,
+            "Views": 149,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848771411055415648",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> <a href=\"https://twitter.com/Aptos\">@Aptos</a> <a href=\"https://twitter.com/autonolas\">@autonolas</a> <a href=\"https://twitter.com/avax\">@avax</a> <a href=\"https://twitter.com/KaiaChain\">@KaiaChain</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Near",
+            "ID": "1849139321741213970",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848771411055415648",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "J SAT",
+            "Mentions": [
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                },
+                {
+                    "ID": "1491526425580474368",
+                    "Username": "Aptos",
+                    "Name": "Aptos"
+                },
+                {
+                    "ID": "1450081635559428107",
+                    "Username": "autonolas",
+                    "Name": "Olas (aka Autonolas)"
+                },
+                {
+                    "ID": "1055894724245155841",
+                    "Username": "avax",
+                    "Name": "Avalanche9000 \ud83d\udd3a"
+                },
+                {
+                    "ID": "1016987310221455360",
+                    "Username": "KaiaChain",
+                    "Name": "Kaia (prev. Klaytn & Finschia)"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SatJanserik1986/status/1849139321741213970",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@flipsidecrypto @Aptos @autonolas @avax @KaiaChain @NEARProtocol Near",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T17:22:24Z",
+            "Timestamp": 1729704144,
+            "URLs": null,
+            "UserID": "1513673025434042370",
+            "Username": "SatJanserik1986",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

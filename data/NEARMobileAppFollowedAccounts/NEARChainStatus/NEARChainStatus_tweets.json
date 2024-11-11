@@ -1,0 +1,43 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1851669576796508549",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Dear validators,<br><br>We released 2.3.0 for mainnet: <a href=\"https://github.com/near/nearcore/releases/tag/2.3.0\">https://t.co/Iy1jLAw6Cz</a><br><br>CODE_COLOR: CODE_YELLOW_MAINNET<br>RELEASE_VERSION: 2.3.0<br>PROTOCOL_UPGRADE: TRUE<br>DATABASE_UPGRADE: FALSE<br>SECURITY_UPGRADE: FALSE<br><br>Please see the release notes on Github for further information",
+            "ID": "1851669576796508549",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 16,
+            "Name": "NEAR Chain Status",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARChainStatus/status/1851669576796508549",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Dear validators,\n\nWe released 2.3.0 for mainnet: https://t.co/Iy1jLAw6Cz\n\nCODE_COLOR: CODE_YELLOW_MAINNET\nRELEASE_VERSION: 2.3.0\nPROTOCOL_UPGRADE: TRUE\nDATABASE_UPGRADE: FALSE\nSECURITY_UPGRADE: FALSE\n\nPlease see the release notes on Github for further information",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T16:56:44Z",
+            "Timestamp": 1730307404,
+            "URLs": [
+                "https://github.com/near/nearcore/releases/tag/2.3.0"
+            ],
+            "UserID": "1392314515186798594",
+            "Username": "NEARChainStatus",
+            "Videos": null,
+            "Views": 443,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

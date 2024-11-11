@@ -1,0 +1,2299 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854542470391955908",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Ref rebrand!!! \u2728 <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> \ud83d\udc40",
+            "ID": "1854542470391955908",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1854542470391955908",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854530096545108122",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Ref rebrand!!! \u2728 @finance_ref \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T15:12:35Z",
+            "Timestamp": 1730992355,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 359,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854501568009109898",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/waxnear\">@waxnear</a> All of those coin images are getting added in next <a href=\"http://nearmobile.app\">https://t.co/5Xm97I8EtJ</a> release!",
+            "ID": "1854520887216685282",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854501568009109898",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1471856279626858510",
+                    "Username": "waxnear",
+                    "Name": "Wax"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1854520887216685282",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@waxnear All of those coin images are getting added in next https://t.co/5Xm97I8EtJ release!",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T13:46:49Z",
+            "Timestamp": 1730987209,
+            "URLs": [
+                "http://nearmobile.app"
+            ],
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 135,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854130461930361221",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/meta_pool\">@meta_pool</a> $mpDAO image being added \ud83e\udd13",
+            "ID": "1854199582156095967",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854193227395412115",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1854199582156095967",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@meta_pool $mpDAO image being added \ud83e\udd13",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T16:30:04Z",
+            "Timestamp": 1730910604,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 51,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854130461930361221",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a> \ud83d\ude09",
+            "ID": "1854139159872483359",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854139044596199915",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1854139159872483359",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ShitzuCommunity @memedotcooking \ud83d\ude09",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T12:29:58Z",
+            "Timestamp": 1730896198,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854130461930361221",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SolanaSeitoo\">@SolanaSeitoo</a> Nope",
+            "ID": "1854138476796506557",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854138104199729373",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1832936399059755009",
+                    "Username": "SolanaSeitoo",
+                    "Name": "Unknown Wallet\ud83c\udde7\ud83c\udde9\ud83d\udc33\ud83c\uddf5\ud83c\uddf1"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1854138476796506557",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SolanaSeitoo Nope",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T12:27:15Z",
+            "Timestamp": 1730896035,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 114,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854134261386826194",
+            "GIFs": [
+                {
+                    "ID": "1854134253807677446",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gbs1R7wXMAYMwhN.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gbs1R7wXMAYMwhN.mp4"
+                }
+            ],
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Estamos emplatando <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <br><br>NUEVA VERSION\u23f3 \ud83d\udc47 <br><a href=\"https://t.co/s7sWuGMdiQ\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gbs1R7wXMAYMwhN.jpg\"/></a>",
+            "ID": "1854134261386826194",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 17,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1854134261386826194",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854133035173556588",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Estamos emplatando #NEAR \n\nNUEVA VERSION\u23f3 \ud83d\udc47 https://t.co/s7sWuGMdiQ",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T12:10:30Z",
+            "Timestamp": 1730895030,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 533,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854130461930361221",
+            "GIFs": [
+                {
+                    "ID": "1854133027418394636",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gbs0KjGX0AwzSNw.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gbs0KjGX0AwzSNw.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ref_intern\">@ref_intern</a> Plating... <br><a href=\"https://t.co/e0fVgYxUma\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gbs0KjGX0AwzSNw.jpg\"/></a>",
+            "ID": "1854133035173556588",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854132563050217646",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1816232921876819968",
+                    "Username": "ref_intern",
+                    "Name": "Ref Intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1854133035173556588",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ref_intern Plating... https://t.co/e0fVgYxUma",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T12:05:38Z",
+            "Timestamp": 1730894738,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 557,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854130461930361221",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "We have been cooking \ud83e\uddd1\u200d\ud83c\udf73",
+            "ID": "1854130461930361221",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1854130461930361221",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "We have been cooking \ud83e\uddd1\u200d\ud83c\udf73",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T11:55:24Z",
+            "Timestamp": 1730894124,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 916,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854113951530745915",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SailGP\">@SailGP</a> \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+            "ID": "1854115426260697430",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854113951530745915",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1013415426120929280",
+                    "Username": "SailGP",
+                    "Name": "SailGP"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1854115426260697430",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SailGP \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T10:55:40Z",
+            "Timestamp": 1730890540,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 23,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853738930086015020",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/qvexo\">@qvexo</a> We are aware... this one should fix all issues and introduce new features!",
+            "ID": "1853757651278061787",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853745229376975080",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "58498036",
+                    "Username": "qvexo",
+                    "Name": "C Y B E R \ud83c\udf73 S T A R S"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1853757651278061787",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@qvexo We are aware... this one should fix all issues and introduce new features!",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T11:13:59Z",
+            "Timestamp": 1730805239,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 37,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853738930086015020",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "BTC"
+            ],
+            "HTML": "chat \ud83d\udcac <br><br>NEW VERSION \ud83d\udcf2<br><br>is coming \ud83d\udd1c THIS WEEK?! <br><br> <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> $NEAR <a href=\"https://twitter.com/hashtag/BTC\">#BTC</a>",
+            "ID": "1853738930086015020",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1853738930086015020",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "chat \ud83d\udcac \n\nNEW VERSION \ud83d\udcf2\n\nis coming \ud83d\udd1c THIS WEEK?! \n\n #NEAR $NEAR #BTC",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T09:59:36Z",
+            "Timestamp": 1730800776,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 762,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851215507199787348",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcf2<a href=\"http://nearmobile.app\">https://t.co/5Xm97I8EtJ</a> \ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\u2705 <br><a href=\"https://t.co/09qTemOyIU\"><img src=\"https://pbs.twimg.com/media/GbDXudEXcAAxgCi.jpg\"/></a><br><img src=\"https://pbs.twimg.com/media/GbDXudFW0AAGjod.jpg\"/>",
+            "ID": "1851216645240320155",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851215507199787348",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1851216645240320155",
+            "Photos": [
+                {
+                    "ID": "1851216639926169600",
+                    "URL": "https://pbs.twimg.com/media/GbDXudEXcAAxgCi.jpg"
+                },
+                {
+                    "ID": "1851216639930322944",
+                    "URL": "https://pbs.twimg.com/media/GbDXudFW0AAGjod.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcf2https://t.co/5Xm97I8EtJ \ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\u2705 https://t.co/09qTemOyIU",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T10:56:56Z",
+            "Timestamp": 1730199416,
+            "URLs": [
+                "http://nearmobile.app"
+            ],
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 90,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851215507199787348",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "\ud83d\udea8 <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> Memecoins, LISTEN UP \ud83d\udea8<br><br>New wallet \ud83d\udcf2 version dropping soon \ud83d\udd25<br><br>Want your token logo in it? \ud83d\udc40\ud83d\udc38<br><br>\ud83d\udc47 Drop a comment and flex! \ud83d\udc47",
+            "ID": "1851215507199787348",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1851215507199787348",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udea8 #NEAR Memecoins, LISTEN UP \ud83d\udea8\n\nNew wallet \ud83d\udcf2 version dropping soon \ud83d\udd25\n\nWant your token logo in it? \ud83d\udc40\ud83d\udc38\n\n\ud83d\udc47 Drop a comment and flex! \ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T10:52:25Z",
+            "Timestamp": 1730199145,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 614,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850948049495081357",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Build with $BTC on <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> !<br><br>Yeah, you heard it right \u2705\ud83c\udf83",
+            "ID": "1850948049495081357",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1850948049495081357",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850947257820188675",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Build with $BTC on #NEAR !\n\nYeah, you heard it right \u2705\ud83c\udf83",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T17:09:38Z",
+            "Timestamp": 1730135378,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 355,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849202522751172641",
+            "GIFs": [
+                {
+                    "ID": "1849437254730604544",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaqFYmqXYAARqDG.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaqFYmqXYAARqDG.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/getmasafi\">@getmasafi</a> <a href=\"https://twitter.com/zheng8787\">@zheng8787</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><a href=\"https://t.co/GKZHE0hsg8\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaqFYmqXYAARqDG.jpg\"/></a>",
+            "ID": "1849437261835714666",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849202522751172641",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1419111693112676353",
+                    "Username": "getmasafi",
+                    "Name": "Masa"
+                },
+                {
+                    "ID": "1815554175666929664",
+                    "Username": "zheng8787",
+                    "Name": "\u4eba\u751f\u5982\u68a6"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1849437261835714666",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@getmasafi @zheng8787 @NEARProtocol https://t.co/GKZHE0hsg8",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T13:06:18Z",
+            "Timestamp": 1729775178,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 43,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849342201454543335",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> lamineyamal.near",
+            "ID": "1849436099778617360",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849342201454543335",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1849436099778617360",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK lamineyamal.near",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T13:01:41Z",
+            "Timestamp": 1729774901,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 126,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849000199894511895",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Currently working on a \ud83c\udd95 iOS release! \ud83d\udd1c",
+            "ID": "1849000549300961318",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849000199894511895",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1849000549300961318",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Currently working on a \ud83c\udd95 iOS release! \ud83d\udd1c",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T08:10:58Z",
+            "Timestamp": 1729671058,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 103,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849000199894511895",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Make sure to download the Testflight version on iOS or the Android Google Play release to use our app with \ud83c\udf0bLava RPC.<br><br><a href=\"https://x.com/NEARMobile_app/status/1815416762181009857\">https://t.co/PpElPiq7SD</a>",
+            "ID": "1849000199894511895",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1849000199894511895",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848753542959337536",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Make sure to download the Testflight version on iOS or the Android Google Play release to use our app with \ud83c\udf0bLava RPC.\n\nhttps://t.co/PpElPiq7SD",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T08:09:35Z",
+            "Timestamp": 1729670975,
+            "URLs": [
+                "https://x.com/NEARMobile_app/status/1815416762181009857"
+            ],
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 333,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848997924329386070",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "GM \u2600\ufe0f ... this \ud83d\udc47",
+            "ID": "1848997924329386070",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848997924329386070",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848891242006098354",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "GM \u2600\ufe0f ... this \ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T08:00:32Z",
+            "Timestamp": 1729670432,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 186,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848820698946670681",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/yaircleper\">@yaircleper</a> This is THE friend!",
+            "ID": "1848844426593931671",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848820698946670681",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "387047975",
+                    "Username": "yaircleper",
+                    "Name": "Cleper \ud83c\udf0b"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848844426593931671",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@yaircleper This is THE friend!",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T21:50:35Z",
+            "Timestamp": 1729633835,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 51,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848523720714825988",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/openwebacademy_\">@openwebacademy_</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/Near_ES\">@Near_ES</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> <a href=\"https://twitter.com/NayaritJoven\">@NayaritJoven</a> Pero buenooo!! Compaltan",
+            "ID": "1848765508880863695",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848523720714825988",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1514757335163588615",
+                    "Username": "openwebacademy_",
+                    "Name": "Open Web Academy"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                },
+                {
+                    "ID": "993580909751422976",
+                    "Username": "NayaritJoven",
+                    "Name": "Instituto Nayarita de la Juventud"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848765508880863695",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@openwebacademy_ @NEARProtocol @Near_ES @NEARDevHub @NayaritJoven Pero buenooo!! Compaltan",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T16:37:00Z",
+            "Timestamp": 1729615020,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848764295875854590",
+            "GIFs": [
+                {
+                    "ID": "1848764575006494731",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaghlfaWkAsGUbL.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaghlfaWkAsGUbL.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/eigenlayer\">@eigenlayer</a> <a href=\"https://twitter.com/sreeramkannan\">@sreeramkannan</a> <br><a href=\"https://t.co/1I4NZM9VAE\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaghlfaWkAsGUbL.jpg\"/></a>",
+            "ID": "1848764582296195392",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848764295875854590",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1542947918709080065",
+                    "Username": "eigenlayer",
+                    "Name": "EigenLayer"
+                },
+                {
+                    "ID": "2166711024",
+                    "Username": "sreeramkannan",
+                    "Name": "Sreeram Kannan"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848764582296195392",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol @eigenlayer @sreeramkannan https://t.co/1I4NZM9VAE",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T16:33:19Z",
+            "Timestamp": 1729614799,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 130,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848753542959337536",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude02 Lava RPC is like that one friend at the party who\u2019s doing all the work behind the scenes, but never takes any credit.<br><br>By the time the average user realizes Lava RPC was in the background, they\u2019ll already be rich and confused: \u201cWait, Lava who?!\u201d \ud83c\udf0b<br><br>Thanks <a href=\"https://twitter.com/lavanetxyz\">@lavanetxyz</a>",
+            "ID": "1848754967974449450",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848753542959337536",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1510514454559174664",
+                    "Username": "lavanetxyz",
+                    "Name": "Lava Network \ud83c\udf0b"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848754967974449450",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude02 Lava RPC is like that one friend at the party who\u2019s doing all the work behind the scenes, but never takes any credit.\n\nBy the time the average user realizes Lava RPC was in the background, they\u2019ll already be rich and confused: \u201cWait, Lava who?!\u201d \ud83c\udf0b\n\nThanks @lavanetxyz",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T15:55:07Z",
+            "Timestamp": 1729612507,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 439,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848753542959337536",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Since integrating \ud83d\udd25<a href=\"https://twitter.com/lavanetxyz\">@lavanetxyz</a> RPC, <a href=\"https://twitter.com/NEARMobile_app\">@NEARMobile_app</a> has experienced no issues with transaction throughput or extracting staking deposits.<br><br>\ud83c\udf0b What is Lava?<br><br>Lava is the decentralized network powering RPC services for over 40+ blockchains with 2.3 million monthly users. It's the <br><a href=\"https://t.co/JV994kuH1T\"><img src=\"https://pbs.twimg.com/media/GagXjCiX0AAXI6H.jpg\"/></a>",
+            "ID": "1848753542959337536",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1510514454559174664",
+                    "Username": "lavanetxyz",
+                    "Name": "Lava Network \ud83c\udf0b"
+                },
+                {
+                    "ID": "1486312973916377088",
+                    "Username": "NEARMobile_app",
+                    "Name": "NEAR Mobile | Non-custodial NEAR Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848753542959337536",
+            "Photos": [
+                {
+                    "ID": "1848753537779486720",
+                    "URL": "https://pbs.twimg.com/media/GagXjCiX0AAXI6H.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Since integrating \ud83d\udd25@lavanetxyz RPC, @NEARMobile_app has experienced no issues with transaction throughput or extracting staking deposits.\n\n\ud83c\udf0b What is Lava?\n\nLava is the decentralized network powering RPC services for over 40+ blockchains with 2.3 million monthly users. It's the https://t.co/JV994kuH1T",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T15:49:27Z",
+            "Timestamp": 1729612167,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 3385,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848476217671864326",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/lavanetxyz\">@lavanetxyz</a> \ud83e\udd11\ud83e\udd11\ud83e\udd11",
+            "ID": "1848706429076582468",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848476217671864326",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1510514454559174664",
+                    "Username": "lavanetxyz",
+                    "Name": "Lava Network \ud83c\udf0b"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848706429076582468",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@lavanetxyz \ud83e\udd11\ud83e\udd11\ud83e\udd11",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T12:42:14Z",
+            "Timestamp": 1729600934,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 116,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1835055370831905028",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/crypto_groggs\">@crypto_groggs</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/intelnear\">@intelnear</a> <a href=\"https://twitter.com/Lonkonnear\">@Lonkonnear</a> <a href=\"https://twitter.com/dragonisnear\">@dragonisnear</a> <a href=\"https://twitter.com/NearTinkerUnion\">@NearTinkerUnion</a> <a href=\"https://twitter.com/nekotoken_xyz\">@nekotoken_xyz</a> \ud83d\ude4b\u200d\u2642\ufe0f\ud83d\ude4b\u200d\u2642\ufe0f\ud83d\ude4b\u200d\u2642\ufe0f",
+            "ID": "1848703011394060734",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1835055370831905028",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1476508372455378945",
+                    "Username": "crypto_groggs",
+                    "Name": "Groggs \u2618\ufe0f"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1768099011100131328",
+                    "Username": "intelnear",
+                    "Name": "INTEAR"
+                },
+                {
+                    "ID": "1735008385580552192",
+                    "Username": "Lonkonnear",
+                    "Name": "Lonk \ud83d\udc32"
+                },
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                },
+                {
+                    "ID": "1485183036455284739",
+                    "Username": "NearTinkerUnion",
+                    "Name": "Near Tinker Union | NTU"
+                },
+                {
+                    "ID": "1484045050304552963",
+                    "Username": "nekotoken_xyz",
+                    "Name": "NEKO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848703011394060734",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@crypto_groggs @ShitzuCommunity @intelnear @Lonkonnear @dragonisnear @NearTinkerUnion @nekotoken_xyz \ud83d\ude4b\u200d\u2642\ufe0f\ud83d\ude4b\u200d\u2642\ufe0f\ud83d\ude4b\u200d\u2642\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T12:28:39Z",
+            "Timestamp": 1729600119,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 63,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848687212436619623",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "OpenSource"
+            ],
+            "HTML": "Are you deving with <a href=\"https://twitter.com/cursor_ai\">@cursor_ai</a> ? <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <br><br>Any free alternatives? \u2199\ufe0f <a href=\"https://twitter.com/hashtag/OpenSource\">#OpenSource</a>",
+            "ID": "1848687212436619623",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1695890961094909952",
+                    "Username": "cursor_ai",
+                    "Name": "Cursor"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848687212436619623",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Are you deving with @cursor_ai ? #NEAR \n\nAny free alternatives? \u2199\ufe0f #OpenSource",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T11:25:53Z",
+            "Timestamp": 1729596353,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 245,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848397936662601744",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Sign In \ud83d\udcf6 with <a href=\"https://twitter.com/NEARMobile_app\">@NEARMobile_app</a> \ud83d\udcf2 <br><a href=\"https://t.co/UuALGVDxeJ\"><img src=\"https://pbs.twimg.com/media/GabVMigWAAAJliP.jpg\"/></a>",
+            "ID": "1848399113424887833",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848397936662601744",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1486312973916377088",
+                    "Username": "NEARMobile_app",
+                    "Name": "NEAR Mobile | Non-custodial NEAR Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848399113424887833",
+            "Photos": [
+                {
+                    "ID": "1848399108479778816",
+                    "URL": "https://pbs.twimg.com/media/GabVMigWAAAJliP.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Sign In \ud83d\udcf6 with @NEARMobile_app \ud83d\udcf2 https://t.co/UuALGVDxeJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T16:21:04Z",
+            "Timestamp": 1729527664,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 80,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848397936662601744",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "CryptoTips",
+                "Yield"
+            ],
+            "HTML": "Not rocking \ud83c\udfb8 the dEgEn life? \ud83d\ude05<br><br>No problem... this also works to optimize your NEAR/USDC entries like a pro. \ud83d\udcc8<br><br>Smarter moves \ud83e\udde0 = better gains \ud83d\udcb0<br><a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <a href=\"https://twitter.com/hashtag/CryptoTips\">#CryptoTips</a> <a href=\"https://twitter.com/hashtag/Yield\">#Yield</a>",
+            "ID": "1848397936662601744",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848397936662601744",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848390052088328523",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Not rocking \ud83c\udfb8 the dEgEn life? \ud83d\ude05\n\nNo problem... this also works to optimize your NEAR/USDC entries like a pro. \ud83d\udcc8\n\nSmarter moves \ud83e\udde0 = better gains \ud83d\udcb0\n#NEAR #CryptoTips #Yield",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T16:16:24Z",
+            "Timestamp": 1729527384,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 261,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848390052088328523",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Crazyyyy gains! \ud83e\udd11\ud83e\udd2f<br><br>Don\u2019t know how to trade memecoins?<br><br>\ud835\udc12\ud835\udc30\ud835\udc22\ud835\udc2d\ud835\udc1c\ud835\udc21 \ud835\udc2d\ud835\udc28 \ud835\udc00\ud835\udc2e\ud835\udc2d\ud835\udc28\ud835\udc29\ud835\udc22\ud835\udc25\ud835\udc28\ud835\udc2d with DCA! (Dollar Cost Averaging)! Instead of trying to time the market like an over-caffeinated cat meme, let the bot do its thing while you sit back and relax. \ud83d\ude0e <br><a href=\"https://t.co/86hjLzzD1W\"><img src=\"https://pbs.twimg.com/media/GabM9G8WIAA7_wB.jpg\"/></a>",
+            "ID": "1848390052088328523",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848390052088328523",
+            "Photos": [
+                {
+                    "ID": "1848390047289974784",
+                    "URL": "https://pbs.twimg.com/media/GabM9G8WIAA7_wB.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847868654463177059",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Crazyyyy gains! \ud83e\udd11\ud83e\udd2f\n\nDon\u2019t know how to trade memecoins?\n\n\ud835\udc12\ud835\udc30\ud835\udc22\ud835\udc2d\ud835\udc1c\ud835\udc21 \ud835\udc2d\ud835\udc28 \ud835\udc00\ud835\udc2e\ud835\udc2d\ud835\udc28\ud835\udc29\ud835\udc22\ud835\udc25\ud835\udc28\ud835\udc2d with DCA! (Dollar Cost Averaging)! Instead of trying to time the market like an over-caffeinated cat meme, let the bot do its thing while you sit back and relax. \ud83d\ude0e https://t.co/86hjLzzD1W",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T15:45:04Z",
+            "Timestamp": 1729525504,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 754,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848317328762544346",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "$NEAR is 75% from all-time highs.<br><br>Room for an x4 move \ud83c\udd99",
+            "ID": "1848317328762544346",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1848317328762544346",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848134376267071711",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "$NEAR is 75% from all-time highs.\n\nRoom for an x4 move \ud83c\udd99",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T10:56:05Z",
+            "Timestamp": 1729508165,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 348,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847198745961639937",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Deadline Extended! \ud83d\udea8<br><br>1\ufe0f\u20e3 more week to keep hacking! \ud83e\udd77\ud83c\udfff\ud83d\udcbb<br><br>Old Deadline: Oct 24th \u274c<br>New Deadline: Oct 31st \u2705<br><br>Keep the code coming!",
+            "ID": "1847198745961639937",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1847198745961639937",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846816987780944356",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Deadline Extended! \ud83d\udea8\n\n1\ufe0f\u20e3 more week to keep hacking! \ud83e\udd77\ud83c\udfff\ud83d\udcbb\n\nOld Deadline: Oct 24th \u274c\nNew Deadline: Oct 31st \u2705\n\nKeep the code coming!",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T08:51:14Z",
+            "Timestamp": 1729241474,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 228,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846848029174718584",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "\ud83d\udc40 New office leaked! \ud83d\ude0e <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <a href=\"https://twitter.com/NEARMobile_app\">@NEARMobile_app</a> <a href=\"https://twitter.com/Peersyst\">@Peersyst</a>",
+            "ID": "1846848029174718584",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1486312973916377088",
+                    "Username": "NEARMobile_app",
+                    "Name": "NEAR Mobile | Non-custodial NEAR Wallet"
+                },
+                {
+                    "ID": "1185605699251953664",
+                    "Username": "Peersyst",
+                    "Name": "Peersyst Technology"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1846848029174718584",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846824764444196931",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udc40 New office leaked! \ud83d\ude0e #NEAR @NEARMobile_app @Peersyst",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T09:37:37Z",
+            "Timestamp": 1729157857,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 435,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846494369089536240",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Glorkglop\">@Glorkglop</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/NearBuilders\">@NearBuilders</a> Working now!",
+            "ID": "1846841804379004981",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846600056008593493",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "749782180679659520",
+                    "Username": "Glorkglop",
+                    "Name": "GLORK"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "894252872094941184",
+                    "Username": "NearBuilders",
+                    "Name": "Build DAO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1846841804379004981",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Glorkglop @NEARProtocol @NearBuilders Working now!",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T09:12:53Z",
+            "Timestamp": 1729156373,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 28,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846494369089536240",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/macoliPL\">@macoliPL</a> <a href=\"https://twitter.com/Glorkglop\">@Glorkglop</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/NearBuilders\">@NearBuilders</a> Fixed \u2705",
+            "ID": "1846841714209591625",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846665069943259451",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "896788749224472576",
+                    "Username": "macoliPL",
+                    "Name": "MacOli"
+                },
+                {
+                    "ID": "749782180679659520",
+                    "Username": "Glorkglop",
+                    "Name": "GLORK"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "894252872094941184",
+                    "Username": "NearBuilders",
+                    "Name": "Build DAO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1846841714209591625",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@macoliPL @Glorkglop @NEARProtocol @NearBuilders Fixed \u2705",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T09:12:31Z",
+            "Timestamp": 1729156351,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846494369089536240",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 Big UX Update Incoming! \ud83d\udd1c<br><br>NEAR Wallet Selector \"Sign In\" flow is getting a much-needed upgrade! No more over-complicated key setups, thanks to NEP-413's Sign Message API \ud83d\ude4c. It\u2019s time for a smoother, cleaner login experience for all dApps. \ud83d\udc47<br><br>\ud83d\udca1 Key Changes:<br>\ud83d\udcd1Contract ID <br><a href=\"https://t.co/BLnopP1nsW\"><img src=\"https://pbs.twimg.com/media/GaAQ10-WkAAc8kK.jpg\"/></a>",
+            "ID": "1846494369089536240",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1846494369089536240",
+            "Photos": [
+                {
+                    "ID": "1846494364161183744",
+                    "URL": "https://pbs.twimg.com/media/GaAQ10-WkAAc8kK.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 Big UX Update Incoming! \ud83d\udd1c\n\nNEAR Wallet Selector \"Sign In\" flow is getting a much-needed upgrade! No more over-complicated key setups, thanks to NEP-413's Sign Message API \ud83d\ude4c. It\u2019s time for a smoother, cleaner login experience for all dApps. \ud83d\udc47\n\n\ud83d\udca1 Key Changes:\n\ud83d\udcd1Contract ID https://t.co/BLnopP1nsW",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T10:12:18Z",
+            "Timestamp": 1729073538,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 237,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844698935765389362",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Transak\">@Transak</a> $NEAR",
+            "ID": "1844699556925129118",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844698935765389362",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1121792947291209729",
+                    "Username": "Transak",
+                    "Name": "Transak"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1844699556925129118",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Transak $NEAR",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T11:20:21Z",
+            "Timestamp": 1728645621,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 74,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844092419681198304",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcc0\ud83d\udcfa \ud83d\udcda",
+            "ID": "1844093222764806449",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844092419681198304",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1844093222764806449",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844075172556571009",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcc0\ud83d\udcfa \ud83d\udcda",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T19:11:00Z",
+            "Timestamp": 1728501060,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 124,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844092419681198304",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Learning the dark arts of chain signatures \ud83d\udd25\ud83e\uddd9\u200d\u2642\ufe0f at the <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> dev workshop. Joe <a href=\"https://twitter.com/joespano_\">@joespano_</a> and Matt <a href=\"https://twitter.com/mattdlockyer\">@mattdlockyer</a> dropping knowledge on <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> accounts owning \ud83c\udfae EVM accounts like it's no big deal \ud83d\ude0e\ud83d\udcdc. <br><br>\ud83d\udca1Top personal takes:<br><br>- Supported chains to derive accounts with MPC <br><a href=\"https://t.co/RVamh7j1rq\"><img src=\"https://pbs.twimg.com/media/GZeIR7_XAAAgTN5.jpg\"/></a>",
+            "ID": "1844092419681198304",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "20245489",
+                    "Username": "joespano_",
+                    "Name": "Joe"
+                },
+                {
+                    "ID": "102305279",
+                    "Username": "mattdlockyer",
+                    "Name": "Matt Lockyer | Proximity | Keypom"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1844092419681198304",
+            "Photos": [
+                {
+                    "ID": "1844092414174101504",
+                    "URL": "https://pbs.twimg.com/media/GZeIR7_XAAAgTN5.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Learning the dark arts of chain signatures \ud83d\udd25\ud83e\uddd9\u200d\u2642\ufe0f at the @NEARProtocol dev workshop. Joe @joespano_ and Matt @mattdlockyer dropping knowledge on #NEAR accounts owning \ud83c\udfae EVM accounts like it's no big deal \ud83d\ude0e\ud83d\udcdc. \n\n\ud83d\udca1Top personal takes:\n\n- Supported chains to derive accounts with MPC https://t.co/RVamh7j1rq",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T19:07:49Z",
+            "Timestamp": 1728500869,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 211,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844044028599529907",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Using AI to build AI Agents \ud83e\udde0 <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> $NEAR <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> [REDACTED] <br><a href=\"https://t.co/l0r63YW0af\"><img src=\"https://pbs.twimg.com/media/GZdcRSwW0AAQ8Pe.jpg\"/></a>",
+            "ID": "1844044028599529907",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1844044028599529907",
+            "Photos": [
+                {
+                    "ID": "1844044024593698816",
+                    "URL": "https://pbs.twimg.com/media/GZdcRSwW0AAQ8Pe.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Using AI to build AI Agents \ud83e\udde0 #NEAR $NEAR @NEARProtocol [REDACTED] https://t.co/l0r63YW0af",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T15:55:31Z",
+            "Timestamp": 1728489331,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 530,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843273822700503271",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Youngzeez20\">@Youngzeez20</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/Peersyst\">@Peersyst</a> Do you have enough $NEAR to pay for transaction fees?",
+            "ID": "1843924152694255923",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843780606351814796",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1288950845896261637",
+                    "Username": "Youngzeez20",
+                    "Name": "Omoh Ajegunle The Shoe Maker \ud83d\udcaa\ud83c\udffb XPLUS"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1185605699251953664",
+                    "Username": "Peersyst",
+                    "Name": "Peersyst Technology"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1843924152694255923",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Youngzeez20 @NEARProtocol @Peersyst Do you have enough $NEAR to pay for transaction fees?",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T07:59:11Z",
+            "Timestamp": 1728460751,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 20,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843575569788670457",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "<a href=\"https://twitter.com/BusInsiderSSA\">@BusInsiderSSA</a> \ud83c\udf0d \ud83e\udd1d <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> $NEAR <br><a href=\"https://t.co/iiWqxA9I2R\"><img src=\"https://pbs.twimg.com/media/GZW06OIWoAAfgZL.jpg\"/></a>",
+            "ID": "1843578540522119265",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843577666886349173",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "897844583618547712",
+                    "Username": "BusInsiderSSA",
+                    "Name": "Business Insider Africa"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1843578540522119265",
+            "Photos": [
+                {
+                    "ID": "1843578534796632064",
+                    "URL": "https://pbs.twimg.com/media/GZW06OIWoAAfgZL.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BusInsiderSSA \ud83c\udf0d \ud83e\udd1d #NEAR $NEAR https://t.co/iiWqxA9I2R",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T09:05:50Z",
+            "Timestamp": 1728378350,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843575569788670457",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BusInsiderSSA\">@BusInsiderSSA</a> Swahili! \ud83c\udf0d<br><br><a href=\"https://twitter.com/NEARMobile_app\">@NEARMobile_app</a> is available in Swahili! <br><a href=\"https://x.com/NEARMobile_app/status/1753458917093351830\">https://t.co/gQONDXn1UU</a><br><br>Download sasa! \ud83d\udcf2 <a href=\"http://nearmobile.app\">https://t.co/5Xm97I9cjh</a>",
+            "ID": "1843577666886349173",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843575569788670457",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "897844583618547712",
+                    "Username": "BusInsiderSSA",
+                    "Name": "Business Insider Africa"
+                },
+                {
+                    "ID": "1486312973916377088",
+                    "Username": "NEARMobile_app",
+                    "Name": "NEAR Mobile | Non-custodial NEAR Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1843577666886349173",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1753458917093351830",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BusInsiderSSA Swahili! \ud83c\udf0d\n\n@NEARMobile_app is available in Swahili! \nhttps://t.co/gQONDXn1UU\n\nDownload sasa! \ud83d\udcf2 https://t.co/5Xm97I9cjh",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T09:02:22Z",
+            "Timestamp": 1728378142,
+            "URLs": [
+                "https://x.com/NEARMobile_app/status/1753458917093351830",
+                "http://nearmobile.app"
+            ],
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 31,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843273822700503271",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/HEntechnologue\">@HEntechnologue</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/Peersyst\">@Peersyst</a> This is coming on our next release!",
+            "ID": "1843351311712170082",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843343751634399581",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1798368004905865216",
+                    "Username": "HEntechnologue",
+                    "Name": "\ud81a\udd0d Hamadex_Entechnologue \ud83e\ude90"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1185605699251953664",
+                    "Username": "Peersyst",
+                    "Name": "Peersyst Technology"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1843351311712170082",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@HEntechnologue @NEARProtocol @Peersyst This is coming on our next release!",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T18:02:55Z",
+            "Timestamp": 1728324175,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843273822700503271",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Today is Financial Education Day! \ud83e\udd73<br><br>Perfect day to learn about <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> and how to self custody your assets with <a href=\"https://twitter.com/NEARMobile_app\">@NEARMobile_app</a> : <a href=\"http://nearmobile.app\">https://t.co/5Xm97I8EtJ</a> $NEAR $BTC<br><br> At <a href=\"https://twitter.com/Peersyst\">@Peersyst</a> : <a href=\"http://peersyst.com\">https://t.co/lHDLCTmVrS</a> we are coding the future of blockchain to decentralize the world <br><a href=\"https://t.co/Ya8GT7kEPU\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1843273714311327744/img/wKTpBrJii0LPlI1t.jpg\"/></a>",
+            "ID": "1843273822700503271",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 27,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1486312973916377088",
+                    "Username": "NEARMobile_app",
+                    "Name": "NEAR Mobile | Non-custodial NEAR Wallet"
+                },
+                {
+                    "ID": "1185605699251953664",
+                    "Username": "Peersyst",
+                    "Name": "Peersyst Technology"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1843273822700503271",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Today is Financial Education Day! \ud83e\udd73\n\nPerfect day to learn about @NEARProtocol and how to self custody your assets with @NEARMobile_app : https://t.co/5Xm97I8EtJ $NEAR $BTC\n\n At @Peersyst : https://t.co/lHDLCTmVrS we are coding the future of blockchain to decentralize the world https://t.co/Ya8GT7kEPU",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T12:55:00Z",
+            "Timestamp": 1728305700,
+            "URLs": [
+                "http://nearmobile.app",
+                "http://peersyst.com"
+            ],
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": [
+                {
+                    "ID": "1843273714311327744",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1843273714311327744/img/wKTpBrJii0LPlI1t.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1843273714311327744/vid/avc1/1920x1080/ZXjCq8_8QGz-H-Cr.mp4?tag=16"
+                }
+            ],
+            "Views": 1054,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843212176728686898",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARQuant\">@NEARQuant</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> 351202 $NEAR have been burned just in $NEAR . Another 1.3M$ from NFTs and Tokens were burned on the account!",
+            "ID": "1843218093834961017",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843213759478907288",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1815375694706122752",
+                    "Username": "NEARQuant",
+                    "Name": "NEAR Quant"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1843218093834961017",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARQuant @NEARProtocol 351202 $NEAR have been burned just in $NEAR . Another 1.3M$ from NFTs and Tokens were burned on the account!",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T09:13:33Z",
+            "Timestamp": 1728292413,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 103,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843212176728686898",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Gm \ud83c\udf24\ufe0f <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> - How to burn in <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><br>Remember you can burn \ud83d\udd25 any Token or NFT by sending it to the following $NEAR address: <br><br>0000000000000000000000000000000000000000000000000000000000000000<br><br>This account has no full access keys, any other account without full access",
+            "ID": "1843212176728686898",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "NEAR Mobile | Non-custodial NEAR Wallet",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMobile_app/status/1843212176728686898",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Gm \ud83c\udf24\ufe0f #NEAR - How to burn in @NEARProtocol \n\nRemember you can burn \ud83d\udd25 any Token or NFT by sending it to the following $NEAR address: \n\n0000000000000000000000000000000000000000000000000000000000000000\n\nThis account has no full access keys, any other account without full access",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T08:50:02Z",
+            "Timestamp": 1728291002,
+            "URLs": null,
+            "UserID": "1486312973916377088",
+            "Username": "NEARMobile_app",
+            "Videos": null,
+            "Views": 1416,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

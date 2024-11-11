@@ -1,0 +1,382 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1852429490485625145",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The future is abstracted!",
+            "ID": "1852429490485625145",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 20,
+            "Name": "Proximity Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/proximityfi/status/1852429490485625145",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852026388230140086",
+            "Replies": 0,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The future is abstracted!",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T19:16:21Z",
+            "Timestamp": 1730488581,
+            "URLs": null,
+            "UserID": "1412496723776180227",
+            "Username": "proximityfi",
+            "Videos": null,
+            "Views": 1111,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852399403417448781",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Empowering BTC DeFi on NEAR with <a href=\"https://twitter.com/XLinkbtc\">@XLinkbtc</a>",
+            "ID": "1852399403417448781",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "Proximity Labs",
+            "Mentions": [
+                {
+                    "ID": "1727868801473974272",
+                    "Username": "XLinkbtc",
+                    "Name": "XLink.btc - Bridges All Bitcoin Layer 2s"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/proximityfi/status/1852399403417448781",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852389287045517405",
+            "Replies": 0,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Empowering BTC DeFi on NEAR with @XLinkbtc",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T17:16:48Z",
+            "Timestamp": 1730481408,
+            "URLs": null,
+            "UserID": "1412496723776180227",
+            "Username": "proximityfi",
+            "Videos": null,
+            "Views": 579,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851286037173063704",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Unlock the potential of blockchain innovation at <a href=\"https://twitter.com/NEARProtocol's\">@NEARProtocol's</a> [REDACTED], where the boundaries of what's possible are continually pushed. Leverage NEAR's Chain Signatures to explore the realm of Chain Abstraction, opening up a universe of new opportunities.<br><br>Shape the Future <br><a href=\"https://t.co/uYi0KmPqsk\"><img src=\"https://pbs.twimg.com/media/GbETTBKXkAAOLAP.png\"/></a>",
+            "ID": "1851286037173063704",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "Proximity Labs",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/proximityfi/status/1851286037173063704",
+            "Photos": [
+                {
+                    "ID": "1851282139276349440",
+                    "URL": "https://pbs.twimg.com/media/GbETTBKXkAAOLAP.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Unlock the potential of blockchain innovation at @NEARProtocol's [REDACTED], where the boundaries of what's possible are continually pushed. Leverage NEAR's Chain Signatures to explore the realm of Chain Abstraction, opening up a universe of new opportunities.\n\nShape the Future https://t.co/uYi0KmPqsk",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T15:32:41Z",
+            "Timestamp": 1730215961,
+            "URLs": null,
+            "UserID": "1412496723776180227",
+            "Username": "proximityfi",
+            "Videos": null,
+            "Views": 968,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851282551559581919",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> \ud83d\udcaf",
+            "ID": "1851283104272404851",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851282810557944120",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Proximity Labs",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/proximityfi/status/1851283104272404851",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK @NEARProtocol @NEARDevHub \ud83d\udcaf",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T15:21:01Z",
+            "Timestamp": 1730215261,
+            "URLs": null,
+            "UserID": "1412496723776180227",
+            "Username": "proximityfi",
+            "Videos": null,
+            "Views": 31,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851187224374562823",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Dive into how chain abstraction is revolutionizing user experiences on <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> and beyond with <a href=\"https://twitter.com/kendaIIc\">@kendaIIc</a> , Nov 13 in Bangkok!",
+            "ID": "1851187224374562823",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 17,
+            "Name": "Proximity Labs",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "88817983",
+                    "Username": "kendaIIc",
+                    "Name": "Kendall \u22c8"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/proximityfi/status/1851187224374562823",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851172122732966383",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Dive into how chain abstraction is revolutionizing user experiences on @NEARProtocol and beyond with @kendaIIc , Nov 13 in Bangkok!",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T09:00:02Z",
+            "Timestamp": 1730192402,
+            "URLs": null,
+            "UserID": "1412496723776180227",
+            "Username": "proximityfi",
+            "Videos": null,
+            "Views": 1133,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845503722010366176",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u201cThe adoption of <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Chain Signatures technology represents more than an incremental improvement in blockchain infrastructure\u2014it can mark the beginning of a fundamental shift in how distributed systems interact. What began as a technical curiosity among blockchain <br><a href=\"https://t.co/mn7sIXgGaD\"><img src=\"https://pbs.twimg.com/media/GZyL2j_XMBM57dX.jpg\"/></a>",
+            "ID": "1845503722010366176",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 83,
+            "Name": "Proximity Labs",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/proximityfi/status/1845503722010366176",
+            "Photos": [
+                {
+                    "ID": "1845503716805259283",
+                    "URL": "https://pbs.twimg.com/media/GZyL2j_XMBM57dX.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 18,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u201cThe adoption of @NEARProtocol Chain Signatures technology represents more than an incremental improvement in blockchain infrastructure\u2014it can mark the beginning of a fundamental shift in how distributed systems interact. What began as a technical curiosity among blockchain https://t.co/mn7sIXgGaD",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T16:35:49Z",
+            "Timestamp": 1728837349,
+            "URLs": null,
+            "UserID": "1412496723776180227",
+            "Username": "proximityfi",
+            "Videos": null,
+            "Views": 3841,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844748750654169561",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Join us at [REDACTED] in Bangkok, Nov 9-11, 2024!<br><br>Connect with builders, developers, and founders driving decentralization and innovation in the blockchain space. \u26a1\ufe0f<br><br>\ud83d\udd13 100+ Visionary Speakers<br>\ud83c\udf09 Cross-chain DeFi &amp; Chain Abstraction<br>\ud83e\udd16 AI Meets Web3<br><br>Register here: <br><a href=\"https://t.co/Dm0zBuO4b2\"><img src=\"https://pbs.twimg.com/media/GZnaczhXYBAIy5A.jpg\"/></a>",
+            "ID": "1844748750654169561",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "Proximity Labs",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/proximityfi/status/1844748750654169561",
+            "Photos": [
+                {
+                    "ID": "1844745710786273296",
+                    "URL": "https://pbs.twimg.com/media/GZnaczhXYBAIy5A.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Join us at [REDACTED] in Bangkok, Nov 9-11, 2024!\n\nConnect with builders, developers, and founders driving decentralization and innovation in the blockchain space. \u26a1\ufe0f\n\n\ud83d\udd13 100+ Visionary Speakers\n\ud83c\udf09 Cross-chain DeFi &amp; Chain Abstraction\n\ud83e\udd16 AI Meets Web3\n\nRegister here: https://t.co/Dm0zBuO4b2",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:35:50Z",
+            "Timestamp": 1728657350,
+            "URLs": null,
+            "UserID": "1412496723776180227",
+            "Username": "proximityfi",
+            "Videos": null,
+            "Views": 537,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843676397048606893",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Learn about NEAR Chain Signatures in this workshop by <a href=\"https://twitter.com/mattdlockyer\">@mattdlockyer</a> <br><br>TL;DR- Perform EVM transactions &amp; contract calls using a simple NEAR transaction. Create a NEAR smart contract that controls access to an EVM NFT contract.<br><a href=\"https://www.youtube.com/watch?v=QTeNALBH3kw&t=359s\">https://t.co/MX7G0ei83Z</a>",
+            "ID": "1843676397048606893",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "Proximity Labs",
+            "Mentions": [
+                {
+                    "ID": "102305279",
+                    "Username": "mattdlockyer",
+                    "Name": "Matt Lockyer | Proximity | Keypom"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/proximityfi/status/1843676397048606893",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Learn about NEAR Chain Signatures in this workshop by @mattdlockyer \n\nTL;DR- Perform EVM transactions &amp; contract calls using a simple NEAR transaction. Create a NEAR smart contract that controls access to an EVM NFT contract.\nhttps://t.co/MX7G0ei83Z",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T15:34:41Z",
+            "Timestamp": 1728401681,
+            "URLs": [
+                "https://www.youtube.com/watch?v=QTeNALBH3kw&t=359s"
+            ],
+            "UserID": "1412496723776180227",
+            "Username": "proximityfi",
+            "Videos": null,
+            "Views": 670,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

@@ -1,0 +1,1312 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1852732197326716978",
+            "GIFs": [
+                {
+                    "ID": "1852737415439634435",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbY-3PVa0AMLV9s.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbY-3PVa0AMLV9s.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/FrontierDAO_VEN\">@FrontierDAO_VEN</a> <a href=\"https://twitter.com/FrontierDAO\">@FrontierDAO</a> <a href=\"https://twitter.com/THBWOfficial\">@THBWOfficial</a> <br><a href=\"https://t.co/VVb7OpqDDy\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbY-3PVa0AMLV9s.jpg\"/></a>",
+            "ID": "1852737419205902527",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852732197326716978",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1828275643563597824",
+                    "Username": "FrontierDAO_VEN",
+                    "Name": "FrontierDAO Venezuela"
+                },
+                {
+                    "ID": "708019901609472000",
+                    "Username": "FrontierDAO",
+                    "Name": "FrontierDAO \ud83c\udf0f\ud83c\udf0d\ud83c\udf0e #GG22 OSS"
+                },
+                {
+                    "ID": "1590653852424232960",
+                    "Username": "THBWOfficial",
+                    "Name": "Thailand Blockchain Week \ud83c\uddf9\ud83c\udded"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1852737419205902527",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@FrontierDAO_VEN @FrontierDAO @THBWOfficial https://t.co/VVb7OpqDDy",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T15:39:57Z",
+            "Timestamp": 1730561997,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 11,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852737305531896103",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u00bfQui\u00e9n se anima?<br><br>\u00a1Todav\u00eda hay tiempo para participar! \ud83d\ude0e",
+            "ID": "1852737305531896103",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1852737305531896103",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852732197326716978",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u00bfQui\u00e9n se anima?\n\n\u00a1Todav\u00eda hay tiempo para participar! \ud83d\ude0e",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T15:39:30Z",
+            "Timestamp": 1730561970,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 17,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852413468852531472",
+            "GIFs": [
+                {
+                    "ID": "1852413458798579712",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbUYOezXkAAM1aC.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbUYOezXkAAM1aC.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<br><a href=\"https://t.co/mAp5KxDtzq\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbUYOezXkAAM1aC.jpg\"/></a>",
+            "ID": "1852413468852531472",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1852413468852531472",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852022948976091380",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "https://t.co/mAp5KxDtzq",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T18:12:41Z",
+            "Timestamp": 1730484761,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 7,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852413309510938735",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Un mes activo \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "ID": "1852413309510938735",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1852413309510938735",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851677657466888618",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Un mes activo \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T18:12:03Z",
+            "Timestamp": 1730484723,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 5,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852372911794868429",
+            "GIFs": [
+                {
+                    "ID": "1852373269506125824",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbTzrKBXcAAVO_s.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbTzrKBXcAAVO_s.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/cripterosnear\">@cripterosnear</a> <a href=\"https://twitter.com/Near_ES\">@Near_ES</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <br><a href=\"https://t.co/EGdOPJwecZ\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbTzrKBXcAAVO_s.jpg\"/></a>",
+            "ID": "1852373278158991402",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852372911794868429",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1473804952803893253",
+                    "Username": "cripterosnear",
+                    "Name": "Cripteras \ud83d\udcab\ud83d\udc9c \u22c8"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1852373278158991402",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@cripterosnear @Near_ES @meta_pool https://t.co/EGdOPJwecZ",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T15:32:59Z",
+            "Timestamp": 1730475179,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 6,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852113829422833911",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Ac\u00e1 estamos \ud83e\udd73",
+            "ID": "1852113829422833911",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1852113829422833911",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852113555492897162",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Ac\u00e1 estamos \ud83e\udd73",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T22:22:02Z",
+            "Timestamp": 1730413322,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 7,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852049212453851321",
+            "GIFs": null,
+            "Hashtags": [
+                "DeFiProjects",
+                "Staking",
+                "DAO"
+            ],
+            "HTML": "\u00a1\u00daltimos d\u00edas para inscribirte al Taller intensivo de <a href=\"https://twitter.com/meta_pool\">@meta_pool</a>!<br><br>\u00bfNuevo en <a href=\"https://twitter.com/hashtag/DeFiProjects\">#DeFiProjects</a>  <a href=\"https://twitter.com/hashtag/Staking\">#Staking</a> o <a href=\"https://twitter.com/hashtag/DAO\">#DAO</a>?<br><br>Aqu\u00ed aprender\u00e1s desde cero \ud83d\ude09<br><br>\u00bfUsas <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> pero no aprovechas todos los beneficios de la gobernanza?<br><br>\ud83d\udc49Te lo explicamos todo.<br><br>Suscr\u00edbete <a href=\"https://noteforms.com/forms/formulario-ybypce\">https://t.co/W4PqGoktfU</a>",
+            "ID": "1852049212453851321",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1852049212453851321",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851971248584118747",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u00a1\u00daltimos d\u00edas para inscribirte al Taller intensivo de @meta_pool!\n\n\u00bfNuevo en #DeFiProjects  #Staking o #DAO?\n\nAqu\u00ed aprender\u00e1s desde cero \ud83d\ude09\n\n\u00bfUsas @meta_pool pero no aprovechas todos los beneficios de la gobernanza?\n\n\ud83d\udc49Te lo explicamos todo.\n\nSuscr\u00edbete https://t.co/W4PqGoktfU",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T18:05:16Z",
+            "Timestamp": 1730397916,
+            "URLs": [
+                "https://noteforms.com/forms/formulario-ybypce"
+            ],
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 58,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851743341165035774",
+            "GIFs": null,
+            "Hashtags": [
+                "blockchain",
+                "BlockchainTechnology"
+            ],
+            "HTML": "Aprende sobre gobernanza <a href=\"https://twitter.com/hashtag/blockchain\">#blockchain</a> con este video sobre <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> \ud83d\ude0e<br><br><a href=\"https://twitter.com/hashtag/BlockchainTechnology\">#BlockchainTechnology</a>",
+            "ID": "1851743341165035774",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1851743341165035774",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851739207708094588",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Aprende sobre gobernanza #blockchain con este video sobre @meta_pool \ud83d\ude0e\n\n#BlockchainTechnology",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T21:49:50Z",
+            "Timestamp": 1730324990,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 32,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851739207708094588",
+            "GIFs": [
+                {
+                    "ID": "1851743076445822977",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbK2hF7XoAEX4nN.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbK2hF7XoAEX4nN.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Near_ES\">@Near_ES</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <br><a href=\"https://t.co/4pLa8QfApe\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbK2hF7XoAEX4nN.jpg\"/></a>",
+            "ID": "1851743089783628197",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851739207708094588",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1851743089783628197",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Near_ES @meta_pool https://t.co/4pLa8QfApe",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T21:48:50Z",
+            "Timestamp": 1730324930,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 9,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851681523902058620",
+            "GIFs": null,
+            "Hashtags": [
+                "BlockchainFuture",
+                "BlockchainLife2024",
+                "CryptoEducation"
+            ],
+            "HTML": "\u00a1Vamos, quedan pocos espacios!<br><br>Conoce TODO sobre <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> \ud83d\udcaa\ud83d\ude80<br><br>Inscr\u00edbete aqu\u00ed: \ud83d\udc49 <a href=\"https://noteforms.com/forms/formulario-ybypce\">https://t.co/W4PqGojVqm</a>, participa en todas las clases y ll\u00e9vate una parte del pool de $100 en $mpDAO. \ud83e\udd11<br><br><a href=\"https://twitter.com/hashtag/BlockchainFuture\">#BlockchainFuture</a> <a href=\"https://twitter.com/hashtag/BlockchainLife2024\">#BlockchainLife2024</a> <a href=\"https://twitter.com/hashtag/CryptoEducation\">#CryptoEducation</a>",
+            "ID": "1851681523902058620",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1851681523902058620",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850947028609802329",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u00a1Vamos, quedan pocos espacios!\n\nConoce TODO sobre @meta_pool \ud83d\udcaa\ud83d\ude80\n\nInscr\u00edbete aqu\u00ed: \ud83d\udc49 https://t.co/W4PqGojVqm, participa en todas las clases y ll\u00e9vate una parte del pool de $100 en $mpDAO. \ud83e\udd11\n\n#BlockchainFuture #BlockchainLife2024 #CryptoEducation",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T17:44:12Z",
+            "Timestamp": 1730310252,
+            "URLs": [
+                "https://noteforms.com/forms/formulario-ybypce"
+            ],
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 87,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851677657466888618",
+            "GIFs": [
+                {
+                    "ID": "1851679778295701505",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbJ88p8W4AElpg8.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbJ88p8W4AElpg8.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/FrontierDAO_VEN\">@FrontierDAO_VEN</a> <a href=\"https://twitter.com/VictionEco\">@VictionEco</a> <a href=\"https://twitter.com/Comet_Protocol\">@Comet_Protocol</a> <a href=\"https://twitter.com/Chain_GPT\">@Chain_GPT</a> <a href=\"https://twitter.com/FireblocksHQ\">@FireblocksHQ</a> Un mes activo en <a href=\"https://twitter.com/VictionEco\">@VictionEco</a> <br><a href=\"https://t.co/BeNWaPuF3y\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbJ88p8W4AElpg8.jpg\"/></a>",
+            "ID": "1851679786990452910",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851677657466888618",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1828275643563597824",
+                    "Username": "FrontierDAO_VEN",
+                    "Name": "FrontierDAO Venezuela"
+                },
+                {
+                    "ID": "1682679536893435904",
+                    "Username": "VictionEco",
+                    "Name": "Viction Ecosystem"
+                },
+                {
+                    "ID": "1949909924",
+                    "Username": "Comet_Protocol",
+                    "Name": "Comet"
+                },
+                {
+                    "ID": "1584416846773485569",
+                    "Username": "Chain_GPT",
+                    "Name": "ChainGPT"
+                },
+                {
+                    "ID": "1135606000868872192",
+                    "Username": "FireblocksHQ",
+                    "Name": "Fireblocks"
+                },
+                {
+                    "ID": "1682679536893435904",
+                    "Username": "VictionEco",
+                    "Name": "Viction Ecosystem"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1851679786990452910",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@FrontierDAO_VEN @VictionEco @Comet_Protocol @Chain_GPT @FireblocksHQ Un mes activo en @VictionEco https://t.co/BeNWaPuF3y",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T17:37:18Z",
+            "Timestamp": 1730309838,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 21,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850942276329226720",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u00a1No te lo pierdas! \ud83d\udc47<br><br>Quedan pocas plazas \ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8!",
+            "ID": "1850942276329226720",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1850942276329226720",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847253375089365407",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u00a1No te lo pierdas! \ud83d\udc47\n\nQuedan pocas plazas \ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8!",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T16:46:42Z",
+            "Timestamp": 1730134002,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 21,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850911411788030356",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/auroraisnear\">@auroraisnear</a> <a href=\"https://twitter.com/Near_ES\">@Near_ES</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/AlexAuroraDev\">@AlexAuroraDev</a> <a href=\"https://twitter.com/AlexSkidanov\">@AlexSkidanov</a> <a href=\"https://twitter.com/NearMultiverse\">@NearMultiverse</a> <a href=\"https://twitter.com/lazonatres\">@lazonatres</a> <a href=\"https://twitter.com/nativocryptohub\">@nativocryptohub</a> <a href=\"https://twitter.com/nativoart_\">@nativoart_</a> excelente plan!\ud83d\ude42",
+            "ID": "1850932792298807686",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850926261537054851",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "883100511507009536",
+                    "Username": "AlexAuroraDev",
+                    "Name": "Alex Shevchenko \ud83c\uddfa\ud83c\udde6"
+                },
+                {
+                    "ID": "1034268067331694593",
+                    "Username": "AlexSkidanov",
+                    "Name": "Alex Skidanov (alex.near)"
+                },
+                {
+                    "ID": "3494135668",
+                    "Username": "NearMultiverse",
+                    "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app"
+                },
+                {
+                    "ID": "1556015308749410306",
+                    "Username": "lazonatres",
+                    "Name": "Zona Tres"
+                },
+                {
+                    "ID": "1382886644404015106",
+                    "Username": "nativocryptohub",
+                    "Name": "Nativo Crypto"
+                },
+                {
+                    "ID": "1454898513947594759",
+                    "Username": "nativoart_",
+                    "Name": "Nativo.art \ud83d\uddbc\ud83c\udfa8 | Tu arte en Web 3"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1850932792298807686",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@auroraisnear @Near_ES @meta_pool @NEARProtocol @ilblackdragon @AlexAuroraDev @AlexSkidanov @NearMultiverse @lazonatres @nativocryptohub @nativoart_ excelente plan!\ud83d\ude42",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T16:09:01Z",
+            "Timestamp": 1730131741,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849861564410757592",
+            "GIFs": null,
+            "Hashtags": [
+                "BlockchainLife2024"
+            ],
+            "HTML": "La cita es hoy a las 7:00 pm <br><br>No se lo pierdan! <br><br>Conoce el hub para creadores de contenido <a href=\"https://twitter.com/FrontierDAO_VEN\">@FrontierDAO_VEN</a> \ud83d\ude4c deja tus preguntas y participa \ud83e\udd11\ud83d\udcb8<br><br><a href=\"https://twitter.com/hashtag/BlockchainLife2024\">#BlockchainLife2024</a>",
+            "ID": "1849861564410757592",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1828275643563597824",
+                    "Username": "FrontierDAO_VEN",
+                    "Name": "FrontierDAO Venezuela"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1849861564410757592",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849801370976559561",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "La cita es hoy a las 7:00 pm \n\nNo se lo pierdan! \n\nConoce el hub para creadores de contenido @FrontierDAO_VEN \ud83d\ude4c deja tus preguntas y participa \ud83e\udd11\ud83d\udcb8\n\n#BlockchainLife2024",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T17:12:20Z",
+            "Timestamp": 1729876340,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 65,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849837684144951345",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/cripterosnear\">@cripterosnear</a> \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "ID": "1849860847872639351",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849837684144951345",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1473804952803893253",
+                    "Username": "cripterosnear",
+                    "Name": "Cripteras \ud83d\udcab\ud83d\udc9c \u22c8"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1849860847872639351",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@cripterosnear \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T17:09:29Z",
+            "Timestamp": 1729876169,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 12,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849516231746810314",
+            "GIFs": [
+                {
+                    "ID": "1849518881351634944",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GarPn5hXkAASoNe.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GarPn5hXkAASoNe.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/FrontierDAO_VEN\">@FrontierDAO_VEN</a> <br><a href=\"https://t.co/2gN4fPvRWx\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GarPn5hXkAASoNe.jpg\"/></a>",
+            "ID": "1849518890830713315",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849516231746810314",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1828275643563597824",
+                    "Username": "FrontierDAO_VEN",
+                    "Name": "FrontierDAO Venezuela"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1849518890830713315",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@FrontierDAO_VEN https://t.co/2gN4fPvRWx",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T18:30:40Z",
+            "Timestamp": 1729794640,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 5,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849518381885526024",
+            "GIFs": [
+                {
+                    "ID": "1849518724950249472",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GarPey4X0AA5Njy.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GarPey4X0AA5Njy.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/FrontierDAO_VEN\">@FrontierDAO_VEN</a> <a href=\"https://twitter.com/BuildOnViction\">@BuildOnViction</a> <a href=\"https://twitter.com/binance\">@binance</a> <br><a href=\"https://t.co/mtTatgZSrg\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GarPey4X0AA5Njy.jpg\"/></a>",
+            "ID": "1849518732978123194",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849518381885526024",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1828275643563597824",
+                    "Username": "FrontierDAO_VEN",
+                    "Name": "FrontierDAO Venezuela"
+                },
+                {
+                    "ID": "933165746653245441",
+                    "Username": "BuildOnViction",
+                    "Name": "Viction"
+                },
+                {
+                    "ID": "877807935493033984",
+                    "Username": "binance",
+                    "Name": "Binance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1849518732978123194",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@FrontierDAO_VEN @BuildOnViction @binance https://t.co/mtTatgZSrg",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T18:30:02Z",
+            "Timestamp": 1729794602,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 7,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849094903495614759",
+            "GIFs": null,
+            "Hashtags": [
+                "Web3Community",
+                "TheBlockStages",
+                "BlockchainLife2024",
+                "web3jobs"
+            ],
+            "HTML": "Gm, gm <a href=\"https://twitter.com/hashtag/Web3Community\">#Web3Community</a> \ud83c\udf10<br><br>Este viernes hablamos en <a href=\"https://twitter.com/FrontierDAO_VEN\">@FrontierDAO_VEN</a>, un hub para creadores Web3 y Web2 \ud83d\ude80<br><br>Tambi\u00e9n exploraremos el concurso <a href=\"https://twitter.com/hashtag/TheBlockStages\">#TheBlockStages</a> con un pool de $10K \ud83d\udcb0<br><br>\u00a1Y habr\u00e1 $10 en $VIC para las 3 mejores preguntas del AMA! \ud83c\udf89<br><br><a href=\"https://twitter.com/hashtag/BlockchainLife2024\">#BlockchainLife2024</a> <br><a href=\"https://twitter.com/hashtag/web3jobs\">#web3jobs</a>",
+            "ID": "1849094903495614759",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1828275643563597824",
+                    "Username": "FrontierDAO_VEN",
+                    "Name": "FrontierDAO Venezuela"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1849094903495614759",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848759729990082924",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Gm, gm #Web3Community \ud83c\udf10\n\nEste viernes hablamos en @FrontierDAO_VEN, un hub para creadores Web3 y Web2 \ud83d\ude80\n\nTambi\u00e9n exploraremos el concurso #TheBlockStages con un pool de $10K \ud83d\udcb0\n\n\u00a1Y habr\u00e1 $10 en $VIC para las 3 mejores preguntas del AMA! \ud83c\udf89\n\n#BlockchainLife2024 \n#web3jobs",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T14:25:54Z",
+            "Timestamp": 1729693554,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 131,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848486924530683941",
+            "GIFs": [
+                {
+                    "ID": "1848486916062130176",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaclDnPXMAAC6s0.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaclDnPXMAAC6s0.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<br><a href=\"https://t.co/FmevaGLWDS\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaclDnPXMAAC6s0.jpg\"/></a>",
+            "ID": "1848486924530683941",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1848486924530683941",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848437354572484649",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "https://t.co/FmevaGLWDS",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T22:10:00Z",
+            "Timestamp": 1729548600,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 7,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848458056176177592",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Muy buena info \ud83d\udcaa",
+            "ID": "1848458056176177592",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1848458056176177592",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848453207573598351",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Muy buena info \ud83d\udcaa",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T20:15:17Z",
+            "Timestamp": 1729541717,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848423808392434015",
+            "GIFs": null,
+            "Hashtags": [
+                "spacetwitter"
+            ],
+            "HTML": "Estamos listos para este <a href=\"https://twitter.com/hashtag/spacetwitter\">#spacetwitter</a> \ud83e\udee1\ud83d\udc47",
+            "ID": "1848423808392434015",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1848423808392434015",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848417310337331447",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Estamos listos para este #spacetwitter \ud83e\udee1\ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T17:59:12Z",
+            "Timestamp": 1729533552,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 17,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848423441185358016",
+            "GIFs": [
+                {
+                    "ID": "1848423430707695616",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GabrUR3XUAAaxo7.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GabrUR3XUAAaxo7.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<br><a href=\"https://t.co/6H44jRyVh4\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GabrUR3XUAAaxo7.jpg\"/></a>",
+            "ID": "1848423441185358016",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1848423441185358016",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848418609246441686",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "https://t.co/6H44jRyVh4",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T17:57:45Z",
+            "Timestamp": 1729533465,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848393671080612076",
+            "GIFs": null,
+            "Hashtags": [
+                "web3"
+            ],
+            "HTML": "Por m\u00e1s contenido <a href=\"https://twitter.com/hashtag/web3\">#web3</a> \ud83d\udcaa",
+            "ID": "1848393671080612076",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1848393671080612076",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848388514632565001",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Por m\u00e1s contenido #web3 \ud83d\udcaa",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T15:59:27Z",
+            "Timestamp": 1729526367,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848393398790582634",
+            "GIFs": null,
+            "Hashtags": [
+                "workshop",
+                "mpDAO",
+                "blockchain",
+                "DeFi",
+                "StakingRewards"
+            ],
+            "HTML": "Estamos preparando un <a href=\"https://twitter.com/hashtag/workshop\">#workshop</a> para todos los niveles sobre <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> y su ecosistema multicadena \ud83d\udcaa<br><br>Pr\u00e1ctico y te\u00f3rico, adem\u00e1s con un pool de $100 en <a href=\"https://twitter.com/hashtag/mpDAO\">#mpDAO</a> a repartir \ud83e\udd11<br><br>Aprende sobre <a href=\"https://twitter.com/hashtag/blockchain\">#blockchain</a> <a href=\"https://twitter.com/hashtag/DeFi\">#DeFi</a> y <a href=\"https://twitter.com/hashtag/StakingRewards\">#StakingRewards</a><br><br>Es gratis <br>Inscr\u00edbete aqu\u00ed\ud83d\udc49 <a href=\"https://noteforms.com/forms/formulario-ybypce\">https://t.co/W4PqGojVqm</a>",
+            "ID": "1848393398790582634",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1848393398790582634",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847253375089365407",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Estamos preparando un #workshop para todos los niveles sobre @meta_pool y su ecosistema multicadena \ud83d\udcaa\n\nPr\u00e1ctico y te\u00f3rico, adem\u00e1s con un pool de $100 en #mpDAO a repartir \ud83e\udd11\n\nAprende sobre #blockchain #DeFi y #StakingRewards\n\nEs gratis \nInscr\u00edbete aqu\u00ed\ud83d\udc49 https://t.co/W4PqGojVqm",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T15:58:22Z",
+            "Timestamp": 1729526302,
+            "URLs": [
+                "https://noteforms.com/forms/formulario-ybypce"
+            ],
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 47,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848367712990331173",
+            "GIFs": null,
+            "Hashtags": [
+                "web3",
+                "tips"
+            ],
+            "HTML": "Creadores de Contenido <a href=\"https://twitter.com/hashtag/web3\">#web3</a> <br><br><a href=\"https://twitter.com/hashtag/tips\">#tips</a>",
+            "ID": "1848367712990331173",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "ramgor86",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1848367712990331173",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847277014501536059",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Creadores de Contenido #web3 \n\n#tips",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T14:16:18Z",
+            "Timestamp": 1729520178,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 15,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848066779672703057",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/FrontierDAO_VEN\">@FrontierDAO_VEN</a> Interesante!!",
+            "ID": "1848361858828292577",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848066779672703057",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "ramgor86",
+            "Mentions": [
+                {
+                    "ID": "1828275643563597824",
+                    "Username": "FrontierDAO_VEN",
+                    "Name": "FrontierDAO Venezuela"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/EsNearEs/status/1848361858828292577",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@FrontierDAO_VEN Interesante!!",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T13:53:02Z",
+            "Timestamp": 1729518782,
+            "URLs": null,
+            "UserID": "1475174641169833985",
+            "Username": "EsNearEs",
+            "Videos": null,
+            "Views": 4,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

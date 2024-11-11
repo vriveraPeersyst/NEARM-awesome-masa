@@ -1,0 +1,1015 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1849193693619913004",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "$CHILL and keep believing !!!<br><br>That's the tweet.",
+            "ID": "1849193693619913004",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "Chill Coin",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1849193693619913004",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 17,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "$CHILL and keep believing !!!\n\nThat's the tweet.",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T20:58:27Z",
+            "Timestamp": 1729717107,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 654,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847759410963104124",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/goldenboyy777\">@goldenboyy777</a> Running $CHILL back up <br><br>Watch me cook \ud83e\uddd1\u200d\ud83c\udf73",
+            "ID": "1848042615771435378",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847759410963104124",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "932789308330795008",
+                    "Username": "goldenboyy777",
+                    "Name": "ares7.gnear"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1848042615771435378",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@goldenboyy777 Running $CHILL back up \n\nWatch me cook \ud83e\uddd1\u200d\ud83c\udf73",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T16:44:29Z",
+            "Timestamp": 1729442669,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 118,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847212581171171432",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/HijackNear\">@HijackNear</a> <a href=\"https://twitter.com/Got_HiJacked\">@Got_HiJacked</a> <br><a href=\"https://t.co/pwxWvQ1iQa\"><img src=\"https://pbs.twimg.com/media/GaKkwswWkAA5MPS.jpg\"/></a>",
+            "ID": "1847219960667349279",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847212581171171432",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "1842150318794006528",
+                    "Username": "HijackNear",
+                    "Name": "HiJack Community"
+                },
+                {
+                    "ID": "1832077098669764608",
+                    "Username": "Got_HiJacked",
+                    "Name": "HiJack"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1847219960667349279",
+            "Photos": [
+                {
+                    "ID": "1847219953729966080",
+                    "URL": "https://pbs.twimg.com/media/GaKkwswWkAA5MPS.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@HijackNear @Got_HiJacked https://t.co/pwxWvQ1iQa",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T10:15:32Z",
+            "Timestamp": 1729246532,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 93,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846565941292781806",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/waxnear\">@waxnear</a> The thing is, it's right in front of everyone's faces<br><br>But some are too blind to see the potential <br><a href=\"https://t.co/Gzf0wchHac\"><img src=\"https://pbs.twimg.com/media/GaBVFw2XQAAznYG.jpg\"/></a>",
+            "ID": "1846569413870264441",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846565941292781806",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "1471856279626858510",
+                    "Username": "waxnear",
+                    "Name": "Wax"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1846569413870264441",
+            "Photos": [
+                {
+                    "ID": "1846569404722528256",
+                    "URL": "https://pbs.twimg.com/media/GaBVFw2XQAAznYG.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@waxnear The thing is, it's right in front of everyone's faces\n\nBut some are too blind to see the potential https://t.co/Gzf0wchHac",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T15:10:30Z",
+            "Timestamp": 1729091430,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 126,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846515143666012440",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> Gnear\ud83d\udc12 <br><a href=\"https://t.co/5yGlQ05WYp\"><img src=\"https://pbs.twimg.com/media/GaBBcizXEAAf_is.jpg\"/></a>",
+            "ID": "1846547813842243910",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846515143666012440",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1846547813842243910",
+            "Photos": [
+                {
+                    "ID": "1846547805856272384",
+                    "URL": "https://pbs.twimg.com/media/GaBBcizXEAAf_is.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon Gnear\ud83d\udc12 https://t.co/5yGlQ05WYp",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T13:44:40Z",
+            "Timestamp": 1729086280,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 166,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845469292495569178",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/MaxiMusic2018\">@MaxiMusic2018</a> <a href=\"https://twitter.com/near_intern\">@near_intern</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/waxnear\">@waxnear</a> <a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> Seems your dexscreener is broken right?",
+            "ID": "1846245455447183870",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845475597209739324",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "795616811878350848",
+                    "Username": "MaxiMusic2018",
+                    "Name": "MaxInvest"
+                },
+                {
+                    "ID": "1585746625779142660",
+                    "Username": "near_intern",
+                    "Name": "NEAR intern"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1471856279626858510",
+                    "Username": "waxnear",
+                    "Name": "Wax"
+                },
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1846245455447183870",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@MaxiMusic2018 @near_intern @NEARProtocol @waxnear @NEARWEEK Seems your dexscreener is broken right?",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:43:12Z",
+            "Timestamp": 1729014192,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846151731568054556",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Got_HiJacked\">@Got_HiJacked</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> You tryna say the bull market is just a myth? Like Bigfoot and unicorns? \ud83e\udd21\ud83d\udc40",
+            "ID": "1846244105669824568",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846189512344396138",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "1832077098669764608",
+                    "Username": "Got_HiJacked",
+                    "Name": "HiJack"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1846244105669824568",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Got_HiJacked @NEARProtocol You tryna say the bull market is just a myth? Like Bigfoot and unicorns? \ud83e\udd21\ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:37:51Z",
+            "Timestamp": 1729013871,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 53,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846117019042640198",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> Gnear\ud83d\udc12\ud83d\udc12 <br><a href=\"https://t.co/k815UKtriU\"><img src=\"https://pbs.twimg.com/media/GZ73g5TXAAA0ZO9.jpg\"/></a>",
+            "ID": "1846185050477314351",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846117019042640198",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1846185050477314351",
+            "Photos": [
+                {
+                    "ID": "1846185041778376704",
+                    "URL": "https://pbs.twimg.com/media/GZ73g5TXAAA0ZO9.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon Gnear\ud83d\udc12\ud83d\udc12 https://t.co/k815UKtriU",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T13:43:11Z",
+            "Timestamp": 1728999791,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 150,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846167733978714171",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> A very good idea <br><br>We\u2019d be happy to join ser \ud83d\ude4f\ud83d\udc12 <br><a href=\"https://t.co/FIiIR7uwBq\"><img src=\"https://pbs.twimg.com/media/GZ71WYiW4AAdR2m.jpg\"/></a>",
+            "ID": "1846182671484924030",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846174283254419888",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1846182671484924030",
+            "Photos": [
+                {
+                    "ID": "1846182662160965632",
+                    "URL": "https://pbs.twimg.com/media/GZ71WYiW4AAdR2m.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon @ShitzuCommunity @jarednotjerry1 A very good idea \n\nWe\u2019d be happy to join ser \ud83d\ude4f\ud83d\udc12 https://t.co/FIiIR7uwBq",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T13:33:43Z",
+            "Timestamp": 1728999223,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 48,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846151731568054556",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "What will your life look like at the end of this bull market? <br><a href=\"https://t.co/4FPh6Be25e\"><img src=\"https://pbs.twimg.com/media/GZ7ZM9aXcAEYVEa.jpg\"/></a>",
+            "ID": "1846151731568054556",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "Chill Coin",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1846151731568054556",
+            "Photos": [
+                {
+                    "ID": "1846151713935290369",
+                    "URL": "https://pbs.twimg.com/media/GZ7ZM9aXcAEYVEa.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "What will your life look like at the end of this bull market? https://t.co/4FPh6Be25e",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T11:30:47Z",
+            "Timestamp": 1728991847,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 599,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845948955164615059",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "To all my $CHILL holders on <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> , lift your glasses!  We're about to get filthy rich!  \ud83e\udd42 <br><a href=\"https://t.co/4IqymQobds\"><img src=\"https://pbs.twimg.com/media/GZ4gyZVW4AAsUPM.jpg\"/></a>",
+            "ID": "1845948955164615059",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 32,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1845948955164615059",
+            "Photos": [
+                {
+                    "ID": "1845948947434496000",
+                    "URL": "https://pbs.twimg.com/media/GZ4gyZVW4AAsUPM.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "To all my $CHILL holders on @NEARProtocol , lift your glasses!  We're about to get filthy rich!  \ud83e\udd42 https://t.co/4IqymQobds",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T22:05:01Z",
+            "Timestamp": 1728943501,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 901,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845469292495569178",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The world craves order, but we need a bit of revolution to keep it wild. Time to wake up, degens! \ud83d\udc12\u26d4\ufe0f <br><a href=\"https://t.co/d9k8VdPfCx\"><img src=\"https://pbs.twimg.com/media/GZxsiPNW4A0xNku.jpg\"/></a>",
+            "ID": "1845469292495569178",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 20,
+            "Name": "Chill Coin",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1845469292495569178",
+            "Photos": [
+                {
+                    "ID": "1845469282768969741",
+                    "URL": "https://pbs.twimg.com/media/GZxsiPNW4A0xNku.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The world craves order, but we need a bit of revolution to keep it wild. Time to wake up, degens! \ud83d\udc12\u26d4\ufe0f https://t.co/d9k8VdPfCx",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T14:19:01Z",
+            "Timestamp": 1728829141,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 840,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845061401414369616",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "ALL IN \ud83d\udc12\ud83d\udc51 <br><a href=\"https://t.co/49WXpwCIQE\"><img src=\"https://pbs.twimg.com/media/GZr5j1mWwAwiDHz.jpg\"/></a>",
+            "ID": "1845061401414369616",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "Chill Coin",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1845061401414369616",
+            "Photos": [
+                {
+                    "ID": "1845061391440330764",
+                    "URL": "https://pbs.twimg.com/media/GZr5j1mWwAwiDHz.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "ALL IN \ud83d\udc12\ud83d\udc51 https://t.co/49WXpwCIQE",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T11:18:12Z",
+            "Timestamp": 1728731892,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 536,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844495056180478358",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Eat dip and relax your body<br><br>Geng geng \ud83d\udc12\ud83d\udc12\ud83d\udc12",
+            "ID": "1844495056180478358",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Chill Coin",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1844495056180478358",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844367056990503148",
+            "Replies": 5,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Eat dip and relax your body\n\nGeng geng \ud83d\udc12\ud83d\udc12\ud83d\udc12",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T21:47:45Z",
+            "Timestamp": 1728596865,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 752,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844367056990503148",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/PlayTENAMINT\">@PlayTENAMINT</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/TextRoyale\">@TextRoyale</a> \ud83d\udc4c\ud83d\udc4c",
+            "ID": "1844494357350818018",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844475482915602890",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "236655206",
+                    "Username": "PlayTENAMINT",
+                    "Name": "TENAMINT"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1789886986087772160",
+                    "Username": "TextRoyale",
+                    "Name": "TextRoyale"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1844494357350818018",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@PlayTENAMINT @NEARProtocol @TextRoyale \ud83d\udc4c\ud83d\udc4c",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T21:44:58Z",
+            "Timestamp": 1728596698,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844367056990503148",
+            "GIFs": null,
+            "Hashtags": [
+                "CHILLARMY"
+            ],
+            "HTML": "$CHILL is the KING of $NEAR.<br><br><a href=\"https://twitter.com/hashtag/CHILLARMY\">#CHILLARMY</a> STRONG FOREVER\ud83d\udcaa <br><a href=\"https://t.co/5SOHODxVmn\"><img src=\"https://pbs.twimg.com/media/GZiCDvwWYAUmnDx.jpg\"/></a>",
+            "ID": "1844367056990503148",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 16,
+            "Name": "Chill Coin",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1844367056990503148",
+            "Photos": [
+                {
+                    "ID": "1844367048278695941",
+                    "URL": "https://pbs.twimg.com/media/GZiCDvwWYAUmnDx.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "$CHILL is the KING of $NEAR.\n\n#CHILLARMY STRONG FOREVER\ud83d\udcaa https://t.co/5SOHODxVmn",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T13:19:07Z",
+            "Timestamp": 1728566347,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 1946,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844117564525510944",
+            "GIFs": null,
+            "Hashtags": [
+                "jeets",
+                "NEAR"
+            ],
+            "HTML": "<a href=\"https://twitter.com/hashtag/jeets\">#jeets</a> out finally...<br><br>Let's $CHILL it higher \ud83d\ude80<br><br><a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <br><a href=\"https://t.co/545w5zFpRS\"><img src=\"https://pbs.twimg.com/media/GZefJdIW4AAvw0_.jpg\"/></a>",
+            "ID": "1844117564525510944",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "Chill Coin",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1844117564525510944",
+            "Photos": [
+                {
+                    "ID": "1844117557218828288",
+                    "URL": "https://pbs.twimg.com/media/GZefJdIW4AAvw0_.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "#jeets out finally...\n\nLet's $CHILL it higher \ud83d\ude80\n\n#NEAR https://t.co/545w5zFpRS",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T20:47:44Z",
+            "Timestamp": 1728506864,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 1387,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843427588024226181",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/okxweb3\">@okxweb3</a> CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL $CHILL \ud83d\udc12",
+            "ID": "1843990001786515504",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843427588024226181",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "1422839229592178689",
+                    "Username": "okxweb3",
+                    "Name": "OKX Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1843990001786515504",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@okxweb3 CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL CHILL $CHILL \ud83d\udc12",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T12:20:50Z",
+            "Timestamp": 1728476450,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 366,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843664997408538629",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/finance_ref\">@finance_ref</a> <br><a href=\"https://t.co/YVIvDr31qX\"><img src=\"https://pbs.twimg.com/media/GZY5RFdWkAAYN6V.jpg\"/></a>",
+            "ID": "1843724071747637678",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843664997408538629",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Chill Coin",
+            "Mentions": [
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1843724071747637678",
+            "Photos": [
+                {
+                    "ID": "1843724063140646912",
+                    "URL": "https://pbs.twimg.com/media/GZY5RFdWkAAYN6V.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@finance_ref https://t.co/YVIvDr31qX",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T18:44:08Z",
+            "Timestamp": 1728413048,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 97,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843644800375099427",
+            "GIFs": null,
+            "Hashtags": [
+                "BONGO"
+            ],
+            "HTML": "Name someone more chill than <a href=\"https://twitter.com/hashtag/BONGO\">#BONGO</a>. I\u2019ll wait. <br><a href=\"https://t.co/UOL5B3qp6M\"><img src=\"https://pbs.twimg.com/media/GZXxK34XkAAThFD.jpg\"/></a>",
+            "ID": "1843644800375099427",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "Chill Coin",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1843644800375099427",
+            "Photos": [
+                {
+                    "ID": "1843644791579447296",
+                    "URL": "https://pbs.twimg.com/media/GZXxK34XkAAThFD.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Name someone more chill than #BONGO. I\u2019ll wait. https://t.co/UOL5B3qp6M",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:29:08Z",
+            "Timestamp": 1728394148,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 1041,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843239250063753250",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "GO AND MAKE YOUR PICK NOW \ud83d\ude4f<br><br>\ud83d\udc12\ud83d\udc12",
+            "ID": "1843239250063753250",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Chill Coin",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/ChillonNear/status/1843239250063753250",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1842970966919655638",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "GO AND MAKE YOUR PICK NOW \ud83d\ude4f\n\n\ud83d\udc12\ud83d\udc12",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T10:37:37Z",
+            "Timestamp": 1728297457,
+            "URLs": null,
+            "UserID": "1766162486213107712",
+            "Username": "ChillonNear",
+            "Videos": null,
+            "Views": 828,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

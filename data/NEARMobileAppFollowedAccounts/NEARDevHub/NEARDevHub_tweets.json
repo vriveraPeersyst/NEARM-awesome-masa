@@ -1,0 +1,3552 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854554172726911305",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "DevHub Live 26 - [REDACTED] Hackathon Wrap-up <a href=\"https://x.com/i/broadcasts/1yNGagVzvDnxj\">https://t.co/KMYVkVuIwu</a>",
+            "ID": "1854554172726911305",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1854554172726911305",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "DevHub Live 26 - [REDACTED] Hackathon Wrap-up https://t.co/KMYVkVuIwu",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T15:59:05Z",
+            "Timestamp": 1730995145,
+            "URLs": [
+                "https://x.com/i/broadcasts/1yNGagVzvDnxj"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 225,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854198229497446751",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Hacked at [REDACTED] Hackathon? \ud83d\ude80<br><br>Now it\u2019s time to show the world what you built! Share your Devpost project link in the comments below. \ud83d\udc47<br><br>Your chance to snag the Hacker's Choice Award is here - the community voting will decide the winner! \ud83c\udfc6 <br><a href=\"https://t.co/eaQLFJ52iV\"><img src=\"https://pbs.twimg.com/media/GbtvdhJagAAzA6x.jpg\"/></a>",
+            "ID": "1854198229497446751",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 39,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1854198229497446751",
+            "Photos": [
+                {
+                    "ID": "1854198224497836032",
+                    "URL": "https://pbs.twimg.com/media/GbtvdhJagAAzA6x.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hacked at [REDACTED] Hackathon? \ud83d\ude80\n\nNow it\u2019s time to show the world what you built! Share your Devpost project link in the comments below. \ud83d\udc47\n\nYour chance to snag the Hacker's Choice Award is here - the community voting will decide the winner! \ud83c\udfc6 https://t.co/eaQLFJ52iV",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T16:24:41Z",
+            "Timestamp": 1730910281,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 1340,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854163309089653001",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "A reminder that the fourth Chain Abstraction Community Call will be taking place in just under two hours time!<br><br>\ud83d\udcc6<a href=\"https://bit.ly/chainabstraction4\">https://t.co/eJgX8o9JQH</a><br>\ud83e\udd1d <a href=\"https://meet.google.com/vzg-zkan-irh\">https://t.co/RovzwEsOHZ</a> <br><a href=\"https://t.co/mmKGSxUCr6\"><img src=\"https://pbs.twimg.com/media/GbtPs6xasAA3Fsf.png\"/></a>",
+            "ID": "1854163309089653001",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1854163309089653001",
+            "Photos": [
+                {
+                    "ID": "1854163304702455808",
+                    "URL": "https://pbs.twimg.com/media/GbtPs6xasAA3Fsf.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "A reminder that the fourth Chain Abstraction Community Call will be taking place in just under two hours time!\n\n\ud83d\udcc6https://t.co/eJgX8o9JQH\n\ud83e\udd1d https://t.co/RovzwEsOHZ https://t.co/mmKGSxUCr6",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T14:05:56Z",
+            "Timestamp": 1730901956,
+            "URLs": [
+                "https://bit.ly/chainabstraction4",
+                "https://meet.google.com/vzg-zkan-irh"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 414,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853808912887337082",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://mailchi.mp/neardevhub/near-dev-news-36\">https://t.co/Abpy4RYUVs</a><br><br>Congratulations to all who took part in the [REDACTED] hackathon and congratulations on all your hard work! We\u2019re excited to hopefully see you in person in Bangkok and watch your projects keep growing. We hope this newsletter can help support you on your <br><a href=\"https://t.co/A9XslXmmzW\"><img src=\"https://pbs.twimg.com/media/GboNYFlaYAAezUj.jpg\"/></a>",
+            "ID": "1853808912887337082",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1853808912887337082",
+            "Photos": [
+                {
+                    "ID": "1853808904083496960",
+                    "URL": "https://pbs.twimg.com/media/GboNYFlaYAAezUj.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "https://t.co/Abpy4RYUVs\n\nCongratulations to all who took part in the [REDACTED] hackathon and congratulations on all your hard work! We\u2019re excited to hopefully see you in person in Bangkok and watch your projects keep growing. We hope this newsletter can help support you on your https://t.co/A9XslXmmzW",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T14:37:41Z",
+            "Timestamp": 1730817461,
+            "URLs": [
+                "https://mailchi.mp/neardevhub/near-dev-news-36"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 479,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853457316223332759",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The [REDACTED] Hackathon was a success and has led to some awesome projects.<br><br>View, like, and comment on submissions now!<br><a href=\"https://redacted.devpost.com/project-gallery\">https://t.co/5Z7Yyjgt17</a> <br><a href=\"https://t.co/Ndc6I5M5BO\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1853457012253704192/pu/img/9leErXHY8ocnSSxQ.jpg\"/></a>",
+            "ID": "1853457316223332759",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1853457316223332759",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The [REDACTED] Hackathon was a success and has led to some awesome projects.\n\nView, like, and comment on submissions now!\nhttps://t.co/5Z7Yyjgt17 https://t.co/Ndc6I5M5BO",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T15:20:34Z",
+            "Timestamp": 1730733634,
+            "URLs": [
+                "https://redacted.devpost.com/project-gallery"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1853457012253704192",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1853457012253704192/pu/img/9leErXHY8ocnSSxQ.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1853457012253704192/pu/vid/avc1/1280x720/7dqQdvZQGcPjCjpj.mp4?tag=12"
+                }
+            ],
+            "Views": 567,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853434943881290237",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "What is your preferred source of tech updates?<br><br>Share your must have groups / subreddits / newsletters in the comments",
+            "ID": "1853434943881290237",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1853434943881290237",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "What is your preferred source of tech updates?\n\nShare your must have groups / subreddits / newsletters in the comments",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T13:51:40Z",
+            "Timestamp": 1730728300,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 251,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852704642053845389",
+            "GIFs": [
+                {
+                    "ID": "1852704635347165184",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbYhDL-WYAAU7jJ.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbYhDL-WYAAU7jJ.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "Congratulations to everyone who participated in the [REDACTED] hackathon!<br><br>This is the start or continuation of the journey, not the end.<br><br>Enjoy a break but we will be here building with you.<br><br>See you in the repos <br><a href=\"https://t.co/vQfgD2pN4i\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbYhDL-WYAAU7jJ.jpg\"/></a>",
+            "ID": "1852704642053845389",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": true,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 28,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1852704642053845389",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Congratulations to everyone who participated in the [REDACTED] hackathon!\n\nThis is the start or continuation of the journey, not the end.\n\nEnjoy a break but we will be here building with you.\n\nSee you in the repos https://t.co/vQfgD2pN4i",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T13:29:42Z",
+            "Timestamp": 1730554182,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 918,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852339899241824269",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Looking for an example of a token swap while knowing the final amount, then look no further",
+            "ID": "1852339899241824269",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1852339899241824269",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851920191846068391",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Looking for an example of a token swap while knowing the final amount, then look no further",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T13:20:21Z",
+            "Timestamp": 1730467221,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 267,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852018112809554156",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "DevHub Live just talking about news and REDACTED <a href=\"https://x.com/i/broadcasts/1yoKMyBozDjKQ\">https://t.co/eWX2DCZzfS</a>",
+            "ID": "1852018112809554156",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1852018112809554156",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "DevHub Live just talking about news and REDACTED https://t.co/eWX2DCZzfS",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T16:01:41Z",
+            "Timestamp": 1730390501,
+            "URLs": [
+                "https://x.com/i/broadcasts/1yoKMyBozDjKQ"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 674,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851869442097225949",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "It's the final day of the REDACTED hackathon! How's your submission coming along? Need last-minute help? Join our Office Hours sessions today over on Discord.<br><br>Join here <a href=\"https://discord.gg/kQrZBrujTJ\">https://t.co/AJxMnub2XN</a> \ud83d\udc7e <br><a href=\"https://t.co/M0V3H1LK5p\"><img src=\"https://pbs.twimg.com/media/GbMpcWPa0AARW6j.jpg\"/></a>",
+            "ID": "1851869442097225949",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1851869442097225949",
+            "Photos": [
+                {
+                    "ID": "1851869438762733568",
+                    "URL": "https://pbs.twimg.com/media/GbMpcWPa0AARW6j.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "It's the final day of the REDACTED hackathon! How's your submission coming along? Need last-minute help? Join our Office Hours sessions today over on Discord.\n\nJoin here https://t.co/AJxMnub2XN \ud83d\udc7e https://t.co/M0V3H1LK5p",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T06:10:55Z",
+            "Timestamp": 1730355055,
+            "URLs": [
+                "https://discord.gg/kQrZBrujTJ"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 3083,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851716880743977124",
+            "GIFs": [
+                {
+                    "ID": "1851716873366179840",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbKer32WkAALs4O.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbKer32WkAALs4O.mp4"
+                }
+            ],
+            "Hashtags": [
+                "Hackathon"
+            ],
+            "HTML": "\ud83d\udea8\ud83d\udea8\ud83d\udea8 Heads-up [REDACTED] hackers!<br><br>\u23f1\ufe0f Submissions deadline are due by tomorrow Oct 31, at 11:30 PM UTC.<br><br>\ud83d\udccb Take a look at the submission checklist in the new [REDACTED] Digest issue.\u2b07\ufe0f<br><br><a href=\"https://redacted.devpost.com/updates/33442-redacted-digest-issue-9\">https://t.co/ELKDH4gTHV</a><br><br><a href=\"https://twitter.com/hashtag/Hackathon\">#Hackathon</a> <br><a href=\"https://t.co/CJBh7egtOJ\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbKer32WkAALs4O.jpg\"/></a>",
+            "ID": "1851716880743977124",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1851716880743977124",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udea8\ud83d\udea8\ud83d\udea8 Heads-up [REDACTED] hackers!\n\n\u23f1\ufe0f Submissions deadline are due by tomorrow Oct 31, at 11:30 PM UTC.\n\n\ud83d\udccb Take a look at the submission checklist in the new [REDACTED] Digest issue.\u2b07\ufe0f\n\nhttps://t.co/ELKDH4gTHV\n\n#Hackathon https://t.co/CJBh7egtOJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T20:04:42Z",
+            "Timestamp": 1730318682,
+            "URLs": [
+                "https://redacted.devpost.com/updates/33442-redacted-digest-issue-9"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 443,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851635804168491234",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Join us for the 4th Chain Abstraction Community Call \ud83d\uddd3\ufe0f \ud83c\udf89<a href=\"https://bit.ly/chainabstraction4\">https://t.co/eJgX8o9JQH</a><br><br>Lets talk about the latest developments in chain abstraction on NEAR, share what you've been building and what issues you've been having. <br><a href=\"https://t.co/80UbQPyAOO\"><img src=\"https://pbs.twimg.com/media/GbJU8zIaYAA-uU9.png\"/></a>",
+            "ID": "1851635804168491234",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 17,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1851635804168491234",
+            "Photos": [
+                {
+                    "ID": "1851635800297070592",
+                    "URL": "https://pbs.twimg.com/media/GbJU8zIaYAA-uU9.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Join us for the 4th Chain Abstraction Community Call \ud83d\uddd3\ufe0f \ud83c\udf89https://t.co/eJgX8o9JQH\n\nLets talk about the latest developments in chain abstraction on NEAR, share what you've been building and what issues you've been having. https://t.co/80UbQPyAOO",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T14:42:32Z",
+            "Timestamp": 1730299352,
+            "URLs": [
+                "https://bit.ly/chainabstraction4"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 661,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851356004036092290",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Behold! \ud83e\uddd9\ud83e\ude84<br><br>The power of NEAR chain signatures and keys! \ud83d\udd11",
+            "ID": "1851356004036092290",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1851356004036092290",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851271112027455643",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Behold! \ud83e\uddd9\ud83e\ude84\n\nThe power of NEAR chain signatures and keys! \ud83d\udd11",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T20:10:42Z",
+            "Timestamp": 1730232642,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 327,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851238096953872587",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "We\u2019re trying to realize the vision of the open web - bringing ownership of one\u2019s own data, assets, and power of governance to all. Here\u2019s a round-up of all the latest resources and info in the NEAR ecosystem to help you build the future <a href=\"https://mailchi.mp/neardevhub/near-dev-news-35\">https://t.co/UJHxcrPxG0</a> <br><a href=\"https://t.co/QpFd1aOPkt\"><img src=\"https://pbs.twimg.com/media/GbDrO42bAAAkmR4.jpg\"/></a>",
+            "ID": "1851238096953872587",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 16,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1851238096953872587",
+            "Photos": [
+                {
+                    "ID": "1851238087860617216",
+                    "URL": "https://pbs.twimg.com/media/GbDrO42bAAAkmR4.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "We\u2019re trying to realize the vision of the open web - bringing ownership of one\u2019s own data, assets, and power of governance to all. Here\u2019s a round-up of all the latest resources and info in the NEAR ecosystem to help you build the future https://t.co/UJHxcrPxG0 https://t.co/QpFd1aOPkt",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T12:22:11Z",
+            "Timestamp": 1730204531,
+            "URLs": [
+                "https://mailchi.mp/neardevhub/near-dev-news-35"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 529,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850947257820188675",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "[REDACTED] Workshop with Proximity - Build with BTC on NEAR <a href=\"https://x.com/i/broadcasts/1BRJjwWEovQxw\">https://t.co/dmVCADqSe8</a>",
+            "ID": "1850947257820188675",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 15,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1850947257820188675",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "[REDACTED] Workshop with Proximity - Build with BTC on NEAR https://t.co/dmVCADqSe8",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T17:06:29Z",
+            "Timestamp": 1730135189,
+            "URLs": [
+                "https://x.com/i/broadcasts/1BRJjwWEovQxw"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 708,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850930828358123696",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Meta Pool for a [REDACTED] Workshop. <a href=\"https://x.com/i/broadcasts/1vAGRObdDNyJl\">https://t.co/NBGrEmn7KE</a>",
+            "ID": "1850930828358123696",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1850930828358123696",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Meta Pool for a [REDACTED] Workshop. https://t.co/NBGrEmn7KE",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T16:01:12Z",
+            "Timestamp": 1730131272,
+            "URLs": [
+                "https://x.com/i/broadcasts/1vAGRObdDNyJl"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 2085,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849829176024629733",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Friday with Frol Coding Workshop (Rust &amp; NEAR) <a href=\"https://x.com/i/broadcasts/1kvKpbnywDLJE\">https://t.co/XUX77MIIVF</a>",
+            "ID": "1849829176024629733",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1849829176024629733",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Friday with Frol Coding Workshop (Rust &amp; NEAR) https://t.co/XUX77MIIVF",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T15:03:38Z",
+            "Timestamp": 1729868618,
+            "URLs": [
+                "https://x.com/i/broadcasts/1kvKpbnywDLJE"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 170,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849807918465429767",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "REMINDER, in less than 90 minutes (at 3pm UTC Today), we have another [REDACTED] coding workshop going live here on X.<br><br>Come ask questions and let's learn together!<br><br>Also streaming live on our Twitch &amp; YouTube <br><a href=\"https://t.co/1GV1VQTJNc\"><img src=\"https://pbs.twimg.com/media/GavWaVnXYAA8SSQ.jpg\"/></a>",
+            "ID": "1849807918465429767",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1849807918465429767",
+            "Photos": [
+                {
+                    "ID": "1849807819932917760",
+                    "URL": "https://pbs.twimg.com/media/GavWaVnXYAA8SSQ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "REMINDER, in less than 90 minutes (at 3pm UTC Today), we have another [REDACTED] coding workshop going live here on X.\n\nCome ask questions and let's learn together!\n\nAlso streaming live on our Twitch &amp; YouTube https://t.co/1GV1VQTJNc",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T13:39:10Z",
+            "Timestamp": 1729863550,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 331,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849515711267234110",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Can't believe the numbers for the workshop with <a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a> just now. Passed 34k across all channels.<br><br>You should go build something with them now, it's easy to get started: <a href=\"http://docs.bitte.ai/agents/quick-start\">https://t.co/j5rfNogGhd</a><br><br>Full replay of the workshop available at <a href=\"https://www.youtube.com/live/ahDyIGJPdWY\">https://t.co/UL1iCmd15Y</a> <br><a href=\"https://t.co/dPnKJtTYIu\"><img src=\"https://pbs.twimg.com/media/GarL_Z3WkAAkuqu.png\"/></a>",
+            "ID": "1849515711267234110",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1849515711267234110",
+            "Photos": [
+                {
+                    "ID": "1849514887124258816",
+                    "URL": "https://pbs.twimg.com/media/GarL_Z3WkAAkuqu.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Can't believe the numbers for the workshop with @BitteProtocol just now. Passed 34k across all channels.\n\nYou should go build something with them now, it's easy to get started: https://t.co/j5rfNogGhd\n\nFull replay of the workshop available at https://t.co/UL1iCmd15Y https://t.co/dPnKJtTYIu",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T18:18:02Z",
+            "Timestamp": 1729793882,
+            "URLs": [
+                "http://docs.bitte.ai/agents/quick-start",
+                "https://www.youtube.com/live/ahDyIGJPdWY"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 1208,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849485139950420195",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Get started:<br><br><a href=\"http://github.com/BitteProtocol/agent-next-boilerplate\">https://t.co/N6gW973uVx</a><br><br><a href=\"http://docs.bitte.ai/agents/quick-start\">https://t.co/j5rfNogGhd</a>",
+            "ID": "1849496345251385694",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849485139950420195",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1849496345251385694",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Get started:\n\nhttps://t.co/N6gW973uVx\n\nhttps://t.co/j5rfNogGhd",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:01:05Z",
+            "Timestamp": 1729789265,
+            "URLs": [
+                "http://github.com/BitteProtocol/agent-next-boilerplate",
+                "http://docs.bitte.ai/agents/quick-start"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 68,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849485139950420195",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "[REDACTED] workshop with Bitte - AI Agents <a href=\"https://x.com/i/broadcasts/1ynJODWBEblxR\">https://t.co/kR7jeAOCgm</a>",
+            "ID": "1849485139950420195",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1849485139950420195",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "[REDACTED] workshop with Bitte - AI Agents https://t.co/kR7jeAOCgm",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T16:16:33Z",
+            "Timestamp": 1729786593,
+            "URLs": [
+                "https://x.com/i/broadcasts/1ynJODWBEblxR"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 356,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849424957731733943",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Whether you are a new or experienced developer on NEAR (&amp;/or Rust \ud83e\udd80), do NOT miss this. <br><br>When we have questions, we ask <a href=\"https://twitter.com/Freol\">@Freol</a> <br><br>Come learn more with him tomorrow at 3pm UTC, stream live here. <br><a href=\"https://t.co/oMaHZrs6Wc\"><img src=\"https://pbs.twimg.com/media/Gap5m_kWcAA08Ko.jpg\"/></a>",
+            "ID": "1849424957731733943",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 16,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "81293691",
+                    "Username": "Freol",
+                    "Name": "frol.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1849424957731733943",
+            "Photos": [
+                {
+                    "ID": "1849424307794898944",
+                    "URL": "https://pbs.twimg.com/media/Gap5m_kWcAA08Ko.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849402954207408171",
+            "Replies": 1,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Whether you are a new or experienced developer on NEAR (&amp;/or Rust \ud83e\udd80), do NOT miss this. \n\nWhen we have questions, we ask @Freol \n\nCome learn more with him tomorrow at 3pm UTC, stream live here. https://t.co/oMaHZrs6Wc",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T12:17:25Z",
+            "Timestamp": 1729772245,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 479,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849423748996149432",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Can you guess the ecosystems? \ud83e\udd14",
+            "ID": "1849423748996149432",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1849423748996149432",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849031651289948360",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Can you guess the ecosystems? \ud83e\udd14",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T12:12:37Z",
+            "Timestamp": 1729771957,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 222,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849157704289599996",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Are you building a game or an app using C, C++, or C#?<br><br>You can now easily connect to NEAR with this open-sourced C library.<br><br>Check it out and easily add NEAR to your build!",
+            "ID": "1849157704289599996",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1849157704289599996",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849154267623375209",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Are you building a game or an app using C, C++, or C#?\n\nYou can now easily connect to NEAR with this open-sourced C library.\n\nCheck it out and easily add NEAR to your build!",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T18:35:27Z",
+            "Timestamp": 1729708527,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 264,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848985625506070614",
+            "GIFs": [
+                {
+                    "ID": "1849111871405563904",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaldczUWIAAAq0d.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaldczUWIAAAq0d.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <br><a href=\"https://t.co/zOb6CXPYQa\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaldczUWIAAAq0d.jpg\"/></a>",
+            "ID": "1849111881283146173",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849069263711084705",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1849111881283146173",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK https://t.co/zOb6CXPYQa",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T15:33:21Z",
+            "Timestamp": 1729697601,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 31,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848986340525826080",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "BUIDL anywhere, anytime, all the time!",
+            "ID": "1848986340525826080",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848986340525826080",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848771599412949043",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "BUIDL anywhere, anytime, all the time!",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T07:14:30Z",
+            "Timestamp": 1729667670,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 231,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848985625506070614",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Data is the new oil",
+            "ID": "1848985625506070614",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848985625506070614",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848711099816022329",
+            "Replies": 2,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Data is the new oil",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T07:11:40Z",
+            "Timestamp": 1729667500,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 643,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848742382147457063",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The newest issue of NEAR Dev NEWS is bursting with a collection of new resources and tools to help devs do what they do best: build! What are you building with NEAR this week? Let us know by tagging us. Now let\u2019s get into it! <a href=\"https://mailchi.mp/neardevhub/near-dev-news-34\">https://t.co/rJwp2FQTw1</a><br><br>Remember to subscribe <br><a href=\"https://t.co/ol28qs2sD6\"><img src=\"https://pbs.twimg.com/media/GagNZLQbEAQJVnV.jpg\"/></a>",
+            "ID": "1848742382147457063",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848742382147457063",
+            "Photos": [
+                {
+                    "ID": "1848742373205151748",
+                    "URL": "https://pbs.twimg.com/media/GagNZLQbEAQJVnV.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The newest issue of NEAR Dev NEWS is bursting with a collection of new resources and tools to help devs do what they do best: build! What are you building with NEAR this week? Let us know by tagging us. Now let\u2019s get into it! https://t.co/rJwp2FQTw1\n\nRemember to subscribe https://t.co/ol28qs2sD6",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T15:05:06Z",
+            "Timestamp": 1729609506,
+            "URLs": [
+                "https://mailchi.mp/neardevhub/near-dev-news-34"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 401,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848397332192297127",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "[REDACTED] Workshop with Meta Pool <a href=\"https://x.com/i/broadcasts/1jMJgBYlZQkGL\">https://t.co/ycI6O7krFH</a>",
+            "ID": "1848397332192297127",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848397332192297127",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "[REDACTED] Workshop with Meta Pool https://t.co/ycI6O7krFH",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T16:14:00Z",
+            "Timestamp": 1729527240,
+            "URLs": [
+                "https://x.com/i/broadcasts/1jMJgBYlZQkGL"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 103,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848396819669434503",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "[REDACTED] Workshop with Meta Pool <a href=\"https://x.com/i/broadcasts/1BdGYEPkgdYGX\">https://t.co/KiAZvr8xk7</a>",
+            "ID": "1848396819669434503",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848396819669434503",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "[REDACTED] Workshop with Meta Pool https://t.co/KiAZvr8xk7",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T16:11:58Z",
+            "Timestamp": 1729527118,
+            "URLs": [
+                "https://x.com/i/broadcasts/1BdGYEPkgdYGX"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 84,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848394085767544899",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "[REDACTED] Workshop with Meta Pool <a href=\"https://x.com/i/broadcasts/1jMKgBYlrYYxL\">https://t.co/GkwRLepl6K</a>",
+            "ID": "1848394085767544899",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848394085767544899",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "[REDACTED] Workshop with Meta Pool https://t.co/GkwRLepl6K",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T16:01:06Z",
+            "Timestamp": 1729526466,
+            "URLs": [
+                "https://x.com/i/broadcasts/1jMKgBYlrYYxL"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 84,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848383497960140993",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "[REDACTED] Hackathon Marketing w Vish Proximity and Misha Sweat Economy <a href=\"https://x.com/i/broadcasts/1lDGLlRqDrMGm\">https://t.co/vvSsrTsXzM</a>",
+            "ID": "1848383497960140993",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848383497960140993",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "[REDACTED] Hackathon Marketing w Vish Proximity and Misha Sweat Economy https://t.co/vvSsrTsXzM",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T15:19:01Z",
+            "Timestamp": 1729523941,
+            "URLs": [
+                "https://x.com/i/broadcasts/1lDGLlRqDrMGm"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 170,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848332525103378439",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Watch on: <br>- Twitter/X: <a href=\"https://x.com/neardevhub\">https://t.co/0gi1PjyjhU</a><br>- TikTok: <a href=\"https://tiktok.com/@neardevhub\">https://t.co/RpiU8CuVXE</a><br>- YouTube: <a href=\"https://youtube.com/@NEARDevHub\">https://t.co/BylAYI3FbL</a><br>- Twitch: <a href=\"https://twitch.tv/neardevhub\">https://t.co/XpxnCeRAxG</a>",
+            "ID": "1848332527259291895",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848332525103378439",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848332527259291895",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Watch on: \n- Twitter/X: https://t.co/0gi1PjyjhU\n- TikTok: https://t.co/RpiU8CuVXE\n- YouTube: https://t.co/BylAYI3FbL\n- Twitch: https://t.co/XpxnCeRAxG",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T11:56:29Z",
+            "Timestamp": 1729511789,
+            "URLs": [
+                "https://x.com/neardevhub",
+                "https://tiktok.com/@neardevhub",
+                "https://youtube.com/@NEARDevHub",
+                "https://twitch.tv/neardevhub"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 134,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848332525103378439",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Another bonus workshop!<br><br>Today we are hosting <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> for a [REDACTED] Workshop.<br><br>Join us on X, Twitch, or YouTube at 4pm UTC today. All replays on our YouTube. <br><a href=\"https://t.co/nyTeV3Rfnn\"><img src=\"https://pbs.twimg.com/media/GaaX_aRXQAAuQnp.jpg\"/></a>",
+            "ID": "1848332525103378439",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 48,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848332525103378439",
+            "Photos": [
+                {
+                    "ID": "1848331812721868800",
+                    "URL": "https://pbs.twimg.com/media/GaaX_aRXQAAuQnp.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Another bonus workshop!\n\nToday we are hosting @meta_pool for a [REDACTED] Workshop.\n\nJoin us on X, Twitch, or YouTube at 4pm UTC today. All replays on our YouTube. https://t.co/nyTeV3Rfnn",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T11:56:28Z",
+            "Timestamp": 1729511788,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 15922,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848175318646874563",
+            "GIFs": null,
+            "Hashtags": [
+                "ETHGlobalBangkok"
+            ],
+            "HTML": "4/4 Big thanks to everyone who participated in <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> San Francisco!<br><br>Can't wait to see you soon at <a href=\"https://redacted.devpost.com/\">https://t.co/23fE0IhVna</a>, <a href=\"https://redactedbangkok.ai/\">https://t.co/AeQlG0TRPh</a> and <a href=\"https://twitter.com/hashtag/ETHGlobalBangkok\">#ETHGlobalBangkok</a> hackathons!",
+            "ID": "1848175348501901509",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848175343582023772",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848175348501901509",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "4/4 Big thanks to everyone who participated in @ETHGlobal San Francisco!\n\nCan't wait to see you soon at https://t.co/23fE0IhVna, https://t.co/AeQlG0TRPh and #ETHGlobalBangkok hackathons!",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T01:31:55Z",
+            "Timestamp": 1729474315,
+            "URLs": [
+                "https://redacted.devpost.com/",
+                "https://redactedbangkok.ai/"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 129,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848175318646874563",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "ETHGlobal"
+            ],
+            "HTML": "3/4 Special shoutout to <a href=\"https://twitter.com/theSmarthug\">@theSmarthug</a>, <a href=\"https://twitter.com/AdityaDargan\">@AdityaDargan</a>, and <a href=\"https://twitter.com/SwineCoder\">@SwineCoder</a> for Baldr, an open source gaming escrow platform that aims to resolve disputes and provide clear resolution for all users. With trust and transparency using sign protocol upon user attestations.<br><a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <a href=\"https://twitter.com/hashtag/ETHGlobal\">#ETHGlobal</a> <br><a href=\"https://t.co/0vpw4cbMAh\"><img src=\"https://pbs.twimg.com/media/GaYJriyWkAA0Dt0.jpg\"/></a>",
+            "ID": "1848175343582023772",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848175335348588669",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1376444336926195715",
+                    "Username": "theSmarthug",
+                    "Name": "Smarthug"
+                },
+                {
+                    "ID": "29580927",
+                    "Username": "AdityaDargan",
+                    "Name": "Aditya Dargan"
+                },
+                {
+                    "ID": "1522157441542389760",
+                    "Username": "SwineCoder",
+                    "Name": "rektSwineCoder"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848175343582023772",
+            "Photos": [
+                {
+                    "ID": "1848175340759191552",
+                    "URL": "https://pbs.twimg.com/media/GaYJriyWkAA0Dt0.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "3/4 Special shoutout to @theSmarthug, @AdityaDargan, and @SwineCoder for Baldr, an open source gaming escrow platform that aims to resolve disputes and provide clear resolution for all users. With trust and transparency using sign protocol upon user attestations.\n#NEAR #ETHGlobal https://t.co/0vpw4cbMAh",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T01:31:54Z",
+            "Timestamp": 1729474314,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 170,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848175318646874563",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "ETHGlobal",
+                "hackathon"
+            ],
+            "HTML": "2/4 The second winner of the 2K User-owned AI prizes is MAO One, using Twitter posts and and on-chain data through ChatGPT to trustless manage funds via Intell SGX, XMTP and Smart Contract.<br><br>Congratulations <a href=\"https://twitter.com/p_volnov\">@p_volnov</a><br><br><a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <a href=\"https://twitter.com/hashtag/ETHGlobal\">#ETHGlobal</a> <a href=\"https://twitter.com/hashtag/hackathon\">#hackathon</a> <br><a href=\"https://t.co/1cLl5VUqFx\"><img src=\"https://pbs.twimg.com/media/GaYJq-tXsAA97KG.jpg\"/></a>",
+            "ID": "1848175335348588669",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848175326334947817",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1483476982830714890",
+                    "Username": "p_volnov",
+                    "Name": "Peter Volnov"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848175335348588669",
+            "Photos": [
+                {
+                    "ID": "1848175331074617344",
+                    "URL": "https://pbs.twimg.com/media/GaYJq-tXsAA97KG.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/4 The second winner of the 2K User-owned AI prizes is MAO One, using Twitter posts and and on-chain data through ChatGPT to trustless manage funds via Intell SGX, XMTP and Smart Contract.\n\nCongratulations @p_volnov\n\n#NEAR #ETHGlobal #hackathon https://t.co/1cLl5VUqFx",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T01:31:52Z",
+            "Timestamp": 1729474312,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 92,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848175318646874563",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "ETHGlobal"
+            ],
+            "HTML": "1/4 The first winner of the 2K User-owned AI prizes is dAIp, a website builder for creating composable, IP-protected Dapps, empowering builders' monetization through AI and royalties.<br><br>Congratz <a href=\"https://twitter.com/0xhenryht\">@0xhenryht</a>, <a href=\"https://twitter.com/lil_astr_0\">@lil_astr_0</a>, <a href=\"https://twitter.com/Story_Liu00\">@Story_Liu00</a>, <a href=\"https://twitter.com/CICI_XIXI_\">@CICI_XIXI_</a> and <a href=\"https://twitter.com/randomzly\">@randomzly</a><br><br><a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <a href=\"https://twitter.com/hashtag/ETHGlobal\">#ETHGlobal</a> <br><a href=\"https://t.co/Kjy4kpSX2k\"><img src=\"https://pbs.twimg.com/media/GaYJqj_WUAEOJ_u.jpg\"/></a>",
+            "ID": "1848175326334947817",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848175318646874563",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1097944596019961856",
+                    "Username": "0xhenryht",
+                    "Name": "Henry"
+                },
+                {
+                    "ID": "3357208689",
+                    "Username": "lil_astr_0",
+                    "Name": "astro"
+                },
+                {
+                    "ID": "1227266420288868352",
+                    "Username": "Story_Liu00",
+                    "Name": "\u6545\u4e8b"
+                },
+                {
+                    "ID": "771190265465802752",
+                    "Username": "CICI_XIXI_",
+                    "Name": "Cici W"
+                },
+                {
+                    "ID": "1753980867314098176",
+                    "Username": "randomzly",
+                    "Name": "lanyin.eth @DevCon"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848175326334947817",
+            "Photos": [
+                {
+                    "ID": "1848175323902267393",
+                    "URL": "https://pbs.twimg.com/media/GaYJqj_WUAEOJ_u.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "1/4 The first winner of the 2K User-owned AI prizes is dAIp, a website builder for creating composable, IP-protected Dapps, empowering builders' monetization through AI and royalties.\n\nCongratz @0xhenryht, @lil_astr_0, @Story_Liu00, @CICI_XIXI_ and @randomzly\n\n#NEAR #ETHGlobal https://t.co/Kjy4kpSX2k",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T01:31:49Z",
+            "Timestamp": 1729474309,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 193,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848175318646874563",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "NEAR",
+                "NEARDevHub",
+                "ETHGlobal",
+                "hackathon"
+            ],
+            "HTML": "Hey, fam! Let's hear it for the <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> bounty winners from <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> San Francisco hackathon.\ud83c\udf86\ud83c\udf09\ud83d\udc4f<br>\ud83e\uddf5\u2b07\ufe0f<br><br><a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <a href=\"https://twitter.com/hashtag/NEARDevHub\">#NEARDevHub</a> <a href=\"https://twitter.com/hashtag/ETHGlobal\">#ETHGlobal</a> <a href=\"https://twitter.com/hashtag/hackathon\">#hackathon</a> <br><a href=\"https://t.co/ZPfRwSX3lE\"><img src=\"https://pbs.twimg.com/media/GaYJqI4W0AAeRx7.jpg\"/></a>",
+            "ID": "1848175318646874563",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 20,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1848175318646874563",
+            "Photos": [
+                {
+                    "ID": "1848175316625182720",
+                    "URL": "https://pbs.twimg.com/media/GaYJqI4W0AAeRx7.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hey, fam! Let's hear it for the #NEAR bounty winners from @ETHGlobal San Francisco hackathon.\ud83c\udf86\ud83c\udf09\ud83d\udc4f\n\ud83e\uddf5\u2b07\ufe0f\n\n#NEAR #NEARDevHub #ETHGlobal #hackathon https://t.co/ZPfRwSX3lE",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T01:31:48Z",
+            "Timestamp": 1729474308,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 1707,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847768056950620325",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "NEAR",
+                "NEARDevHub",
+                "ETHGlobal",
+                "hackathon"
+            ],
+            "HTML": "Day 2 at <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> SF!<br><br>If you\u2019re stuck or missed our workshop, swing by the <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> booth \u2013 we\u2019ve got you covered.<br><br>Let\u2019s get those blockers solved!\ud83e\ude84<br><br><a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <a href=\"https://twitter.com/hashtag/NEARDevHub\">#NEARDevHub</a> <a href=\"https://twitter.com/hashtag/ETHGlobal\">#ETHGlobal</a> <a href=\"https://twitter.com/hashtag/hackathon\">#hackathon</a> <br><a href=\"https://t.co/Y8RuoxkWjh\"><img src=\"https://pbs.twimg.com/media/GaSXPUMawAA952S.jpg\"/></a>",
+            "ID": "1847768056950620325",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847768056950620325",
+            "Photos": [
+                {
+                    "ID": "1847768036503371776",
+                    "URL": "https://pbs.twimg.com/media/GaSXPUMawAA952S.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Day 2 at @ETHGlobal SF!\n\nIf you\u2019re stuck or missed our workshop, swing by the #NEAR booth \u2013 we\u2019ve got you covered.\n\nLet\u2019s get those blockers solved!\ud83e\ude84\n\n#NEAR #NEARDevHub #ETHGlobal #hackathon https://t.co/Y8RuoxkWjh",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T22:33:29Z",
+            "Timestamp": 1729377209,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 1137,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847639691538882634",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "How can your easily generate ethereum addresses with a script? <br><br>Watch <a href=\"https://twitter.com/mattdlockyer\">@mattdlockyer</a> from <a href=\"https://twitter.com/proximityfi\">@proximityfi</a> from the whole workshop <a href=\"https://www.youtube.com/live/WTwM20yleU8\">https://t.co/6gGq5dCGiU</a> <br><a href=\"https://t.co/BrFX7TpsMP\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1847639660299796480/img/3zqgd_aoaZMlSk_J.jpg\"/></a>",
+            "ID": "1847639691538882634",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "102305279",
+                    "Username": "mattdlockyer",
+                    "Name": "Matt Lockyer | Proximity | Keypom"
+                },
+                {
+                    "ID": "1412496723776180227",
+                    "Username": "proximityfi",
+                    "Name": "Proximity Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847639691538882634",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "How can your easily generate ethereum addresses with a script? \n\nWatch @mattdlockyer from @proximityfi from the whole workshop https://t.co/6gGq5dCGiU https://t.co/BrFX7TpsMP",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T14:03:24Z",
+            "Timestamp": 1729346604,
+            "URLs": [
+                "https://www.youtube.com/live/WTwM20yleU8"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1847639660299796480",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1847639660299796480/img/3zqgd_aoaZMlSk_J.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1847639660299796480/vid/avc1/720x1280/MCsvpeGvIbP7zuiB.mp4?tag=14"
+                }
+            ],
+            "Views": 217,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847399166856876288",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "See you all at workshop room 2  at 4:30 PM to discover with <a href=\"https://twitter.com/thisisjoshford\">@thisisjoshford</a> how to use <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> to unleash the power of Chain Abstraction and User-Owned AI!",
+            "ID": "1847399518977114402",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847399166856876288",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1964266292",
+                    "Username": "thisisjoshford",
+                    "Name": "Josh Ford"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847399518977114402",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "See you all at workshop room 2  at 4:30 PM to discover with @thisisjoshford how to use #NEAR to unleash the power of Chain Abstraction and User-Owned AI!",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T22:09:03Z",
+            "Timestamp": 1729289343,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 78,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847399166856876288",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "NEAR",
+                "NEARDevHub"
+            ],
+            "HTML": "GM <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> San Francisco Hackers! \ud83c\udf09<br><br>Get in on the <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> bounty: 6K for the Chain Signature track &amp; 4K for merging AI and Web3 on <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a>. Ready to build?\u2b07\ufe0f<br><br><a href=\"https://ethglobal.com/events/sanfrancisco2024/prizes#near-protocol\">https://t.co/0oYA7C0sWJ</a><br><br>Come to our booth, chat with the <a href=\"https://twitter.com/hashtag/NEARDevHub\">#NEARDevHub</a> devrels, and grab some lit swag! <br><a href=\"https://t.co/sP2YgSMkS7\"><img src=\"https://pbs.twimg.com/media/GaNFGpRbUAIhp02.jpg\"/></a><br><img src=\"https://pbs.twimg.com/media/GaNFHkiaoAA5lTE.jpg\"/><br><img src=\"https://pbs.twimg.com/media/GaNFIB2a8AAiIzE.jpg\"/>",
+            "ID": "1847399166856876288",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 16,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847399166856876288",
+            "Photos": [
+                {
+                    "ID": "1847396252612513794",
+                    "URL": "https://pbs.twimg.com/media/GaNFGpRbUAIhp02.jpg"
+                },
+                {
+                    "ID": "1847396268521463808",
+                    "URL": "https://pbs.twimg.com/media/GaNFHkiaoAA5lTE.jpg"
+                },
+                {
+                    "ID": "1847396276389998592",
+                    "URL": "https://pbs.twimg.com/media/GaNFIB2a8AAiIzE.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "GM @ETHGlobal San Francisco Hackers! \ud83c\udf09\n\nGet in on the #NEAR bounty: 6K for the Chain Signature track &amp; 4K for merging AI and Web3 on #NEAR. Ready to build?\u2b07\ufe0f\n\nhttps://t.co/0oYA7C0sWJ\n\nCome to our booth, chat with the #NEARDevHub devrels, and grab some lit swag! https://t.co/sP2YgSMkS7",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T22:07:39Z",
+            "Timestamp": 1729289259,
+            "URLs": [
+                "https://ethglobal.com/events/sanfrancisco2024/prizes#near-protocol"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 1132,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847314353911185796",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/NearBuilders\">@NearBuilders</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> \u2764\ufe0f check out <a href=\"http://dev.near.org\">https://t.co/jU6sMj3AVo</a> to start building",
+            "ID": "1847338614931271718",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847319459763277935",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "894252872094941184",
+                    "Username": "NearBuilders",
+                    "Name": "Build DAO"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847338614931271718",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi @NearBuilders @NEARProtocol \u2764\ufe0f check out https://t.co/jU6sMj3AVo to start building",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T18:07:02Z",
+            "Timestamp": 1729274822,
+            "URLs": [
+                "http://dev.near.org"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 20,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847320310267207874",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Chain signatures can lead to innovation and new products.<br><br>Watch <a href=\"https://twitter.com/mattdlockyer\">@mattdlockyer</a> from <a href=\"https://twitter.com/proximityfi\">@proximityfi</a> from the whole workshop <a href=\"https://www.youtube.com/live/WTwM20yleU8\">https://t.co/6gGq5dCGiU</a> <br><a href=\"https://t.co/5F30q8vvih\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1847320289148796928/img/7eP0iB-yUnI_PxhZ.jpg\"/></a>",
+            "ID": "1847320310267207874",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "102305279",
+                    "Username": "mattdlockyer",
+                    "Name": "Matt Lockyer | Proximity | Keypom"
+                },
+                {
+                    "ID": "1412496723776180227",
+                    "Username": "proximityfi",
+                    "Name": "Proximity Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847320310267207874",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Chain signatures can lead to innovation and new products.\n\nWatch @mattdlockyer from @proximityfi from the whole workshop https://t.co/6gGq5dCGiU https://t.co/5F30q8vvih",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T16:54:18Z",
+            "Timestamp": 1729270458,
+            "URLs": [
+                "https://www.youtube.com/live/WTwM20yleU8"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1847320289148796928",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1847320289148796928/img/7eP0iB-yUnI_PxhZ.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1847320289148796928/vid/avc1/720x1280/ngdW0hgUPNhFDlDX.mp4?tag=14"
+                }
+            ],
+            "Views": 110,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847316819817922756",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/Freol\">@Freol</a> All replays on YouTube &amp;  clips on TikTok (<a href=\"https://tiktok.com/@neardevhub\">https://t.co/RpiU8CuVXE</a>)<br><br>YouTube: <a href=\"https://youtube.com/@NEARDevHub\">https://t.co/BylAYI3FbL</a><br>Twitch: <a href=\"https://twitch.tv/neardevhub\">https://t.co/XpxnCeRAxG</a><br>X: <a href=\"https://x.com/neardevhub\">https://t.co/0gi1PjyjhU</a>",
+            "ID": "1847318058034942321",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847316819817922756",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "81293691",
+                    "Username": "Freol",
+                    "Name": "frol.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847318058034942321",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol @Freol All replays on YouTube &amp;  clips on TikTok (https://t.co/RpiU8CuVXE)\n\nYouTube: https://t.co/BylAYI3FbL\nTwitch: https://t.co/XpxnCeRAxG\nX: https://t.co/0gi1PjyjhU",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T16:45:21Z",
+            "Timestamp": 1729269921,
+            "URLs": [
+                "https://tiktok.com/@neardevhub",
+                "https://youtube.com/@NEARDevHub",
+                "https://twitch.tv/neardevhub",
+                "https://x.com/neardevhub"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 100,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847306751206727981",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "[REDACTED] Hackathon Workshop, Friday Night with Frol, building live on NEAR! <a href=\"https://x.com/i/broadcasts/1lDxLlVpVgLxm\">https://t.co/Tx7ZrvoTxX</a>",
+            "ID": "1847306751206727981",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847306751206727981",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "[REDACTED] Hackathon Workshop, Friday Night with Frol, building live on NEAR! https://t.co/Tx7ZrvoTxX",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T16:00:25Z",
+            "Timestamp": 1729267225,
+            "URLs": [
+                "https://x.com/i/broadcasts/1lDxLlVpVgLxm"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 6983,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847278772019425730",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Build Your Own Blockchain with Aurora Cloud Control<br><br>Watch the whole <a href=\"https://twitter.com/auroraisnear\">@auroraisnear</a> workshop <a href=\"https://www.youtube.com/live/vxl8ndGTDQs\">https://t.co/ylxP7InUON</a> <br><a href=\"https://t.co/xB7BnBNPEh\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1847278755015741440/img/ogitD77xZYc2IR24.jpg\"/></a>",
+            "ID": "1847278772019425730",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847278772019425730",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Build Your Own Blockchain with Aurora Cloud Control\n\nWatch the whole @auroraisnear workshop https://t.co/ylxP7InUON https://t.co/xB7BnBNPEh",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T14:09:14Z",
+            "Timestamp": 1729260554,
+            "URLs": [
+                "https://www.youtube.com/live/vxl8ndGTDQs"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1847278755015741440",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1847278755015741440/img/ogitD77xZYc2IR24.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1847278755015741440/vid/avc1/720x1280/q9hZXs5bnCWHnp0-.mp4?tag=14"
+                }
+            ],
+            "Views": 3344,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847235796157235205",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "GM devs \ud83d\udcbb<br><br>What are you building or learning about today? <br><br>Need inspiration? We have another live NEAR workshop streaming here later today. <br><br>Also, there is plenty of time for that project submission at <a href=\"http://redacted.devpost.com\">https://t.co/rwYMemromQ</a> for over $700K in bounties. <br><br>Stack those bounties!",
+            "ID": "1847235796157235205",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847235796157235205",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "GM devs \ud83d\udcbb\n\nWhat are you building or learning about today? \n\nNeed inspiration? We have another live NEAR workshop streaming here later today. \n\nAlso, there is plenty of time for that project submission at https://t.co/rwYMemromQ for over $700K in bounties. \n\nStack those bounties!",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T11:18:28Z",
+            "Timestamp": 1729250308,
+            "URLs": [
+                "http://redacted.devpost.com"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 154,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847011475497669063",
+            "GIFs": null,
+            "Hashtags": [
+                "NearCloneWars"
+            ],
+            "HTML": "<a href=\"https://twitter.com/hashtag/NearCloneWars\">#NearCloneWars</a>",
+            "ID": "1847011475497669063",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1847011475497669063",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "#NearCloneWars",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T20:27:06Z",
+            "Timestamp": 1729196826,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 401,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846996064248717749",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Understanding how chain signatures actually work with <a href=\"https://twitter.com/mattdlockyer\">@mattdlockyer</a> from <a href=\"https://twitter.com/proximityfi\">@proximityfi</a> <br><br>Watch the whole workshop <a href=\"https://www.youtube.com/live/WTwM20yleU8\">https://t.co/6gGq5dCGiU</a> <br><a href=\"https://t.co/n96TCmp8C0\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1846996008355377154/img/uydyWfjOdmiW5g3Q.jpg\"/></a>",
+            "ID": "1846996064248717749",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "102305279",
+                    "Username": "mattdlockyer",
+                    "Name": "Matt Lockyer | Proximity | Keypom"
+                },
+                {
+                    "ID": "1412496723776180227",
+                    "Username": "proximityfi",
+                    "Name": "Proximity Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846996064248717749",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Understanding how chain signatures actually work with @mattdlockyer from @proximityfi \n\nWatch the whole workshop https://t.co/6gGq5dCGiU https://t.co/n96TCmp8C0",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T19:25:51Z",
+            "Timestamp": 1729193151,
+            "URLs": [
+                "https://www.youtube.com/live/WTwM20yleU8"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1846996008355377154",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1846996008355377154/img/uydyWfjOdmiW5g3Q.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1846996008355377154/vid/avc1/720x1280/nGQgg8mAnPGrM8vL.mp4?tag=14"
+                }
+            ],
+            "Views": 95,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846944401307648242",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "With chain abstraction, learn why Your Derived Accounts Have NO Private Key...<br><br>Watch <a href=\"https://twitter.com/mattdlockyer\">@mattdlockyer</a> from <a href=\"https://twitter.com/proximityfi\">@proximityfi</a> during the whole workshop <a href=\"https://www.youtube.com/live/WTwM20yleU8\">https://t.co/6gGq5dCGiU</a> <br><a href=\"https://t.co/D67qExfJVm\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1846944357481418752/img/xzgnX44o861RJEZZ.jpg\"/></a>",
+            "ID": "1846944401307648242",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "102305279",
+                    "Username": "mattdlockyer",
+                    "Name": "Matt Lockyer | Proximity | Keypom"
+                },
+                {
+                    "ID": "1412496723776180227",
+                    "Username": "proximityfi",
+                    "Name": "Proximity Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846944401307648242",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "With chain abstraction, learn why Your Derived Accounts Have NO Private Key...\n\nWatch @mattdlockyer from @proximityfi during the whole workshop https://t.co/6gGq5dCGiU https://t.co/D67qExfJVm",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T16:00:34Z",
+            "Timestamp": 1729180834,
+            "URLs": [
+                "https://www.youtube.com/live/WTwM20yleU8"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1846944357481418752",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1846944357481418752/img/xzgnX44o861RJEZZ.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1846944357481418752/vid/avc1/720x1280/myZy-d8o1ya2b1dQ.mp4?tag=14"
+                }
+            ],
+            "Views": 308,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846944294047043787",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "[REPLAY] Build with Chain Signatures Workshop for REDACTED Hackathon (<a href=\"http://redacted.devpost.com\">https://t.co/rwYMemrWco</a>) <a href=\"https://x.com/i/broadcasts/1PlKQbErDPvGE\">https://t.co/iPH1ycikIq</a>",
+            "ID": "1846944294047043787",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846944294047043787",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "[REPLAY] Build with Chain Signatures Workshop for REDACTED Hackathon (https://t.co/rwYMemrWco) https://t.co/iPH1ycikIq",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T16:00:08Z",
+            "Timestamp": 1729180808,
+            "URLs": [
+                "http://redacted.devpost.com",
+                "https://x.com/i/broadcasts/1PlKQbErDPvGE"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 109,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846657783028240601",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "DevHub Live 25 -  Build with Zettablock <a href=\"https://x.com/i/broadcasts/1zqKVYWAEwwxB\">https://t.co/SaBvdZS4gc</a>",
+            "ID": "1846657783028240601",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846657783028240601",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "DevHub Live 25 -  Build with Zettablock https://t.co/SaBvdZS4gc",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T21:01:39Z",
+            "Timestamp": 1729112499,
+            "URLs": [
+                "https://x.com/i/broadcasts/1zqKVYWAEwwxB"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 124,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846610572034584685",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "PragmaSF",
+                "NEAR",
+                "ETHGlobal",
+                "NEARDevHub"
+            ],
+            "HTML": "GM <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> Pragma SF hackers &amp; founders! \ud83d\udc4b\ud83c\udf09<br><br>Swing by our booth to chat with the <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> devrels about Chain Abstraction &amp; User-Owned AI.<br><br>Whether you're curious or building, let's dive deep\u2014no buzzwords, just real talk. See you there!<br><br><a href=\"https://twitter.com/hashtag/PragmaSF\">#PragmaSF</a> <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <a href=\"https://twitter.com/hashtag/ETHGlobal\">#ETHGlobal</a> <a href=\"https://twitter.com/hashtag/NEARDevHub\">#NEARDevHub</a> <br><a href=\"https://t.co/allZwAKUKk\"><img src=\"https://pbs.twimg.com/media/GaB6h4Nb0AAYByQ.jpg\"/></a>",
+            "ID": "1846610572034584685",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846610572034584685",
+            "Photos": [
+                {
+                    "ID": "1846610569664909312",
+                    "URL": "https://pbs.twimg.com/media/GaB6h4Nb0AAYByQ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "GM @ETHGlobal Pragma SF hackers &amp; founders! \ud83d\udc4b\ud83c\udf09\n\nSwing by our booth to chat with the #NEAR devrels about Chain Abstraction &amp; User-Owned AI.\n\nWhether you're curious or building, let's dive deep\u2014no buzzwords, just real talk. See you there!\n\n#PragmaSF #NEAR #ETHGlobal #NEARDevHub https://t.co/allZwAKUKk",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T17:54:03Z",
+            "Timestamp": 1729101243,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 482,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846582675999506498",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Come ask your Aurora/EVM questions",
+            "ID": "1846582675999506498",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846582675999506498",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846582426459668621",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Come ask your Aurora/EVM questions",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T16:03:12Z",
+            "Timestamp": 1729094592,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 165,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846575637072331000",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "What is Aurora, the EVM on NEAR?<br><br>Watch the whole <a href=\"https://twitter.com/auroraisnear\">@auroraisnear</a> workshop <a href=\"https://www.youtube.com/live/vxl8ndGTDQs\">https://t.co/ylxP7InUON</a> <br><a href=\"https://t.co/BrS8uRMldC\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1846575620982980608/img/sxi3T_fxjatuIPLW.jpg\"/></a>",
+            "ID": "1846575637072331000",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846575637072331000",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "What is Aurora, the EVM on NEAR?\n\nWatch the whole @auroraisnear workshop https://t.co/ylxP7InUON https://t.co/BrS8uRMldC",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T15:35:14Z",
+            "Timestamp": 1729092914,
+            "URLs": [
+                "https://www.youtube.com/live/vxl8ndGTDQs"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1846575620982980608",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1846575620982980608/img/sxi3T_fxjatuIPLW.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1846575620982980608/vid/avc1/720x1280/xhBk85TZY4bin_OS.mp4?tag=14"
+                }
+            ],
+            "Views": 134,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846559223129264529",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "We know you are just hacking away on a Friday night, so come spend time with the one and only <a href=\"https://twitter.com/Freol\">@Freol</a>.<br><br>He will be doing a LIVE tutorial of building an app on <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><br>Save it to your google calendar: <a href=\"https://bit.ly/fridayfrol\">https://t.co/HYqS8O58r3</a> <br><a href=\"https://t.co/dO33XR74jr\"><img src=\"https://pbs.twimg.com/media/GaBFM8aXoAAYw8U.jpg\"/></a>",
+            "ID": "1846559223129264529",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 17,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "81293691",
+                    "Username": "Freol",
+                    "Name": "frol.near"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846559223129264529",
+            "Photos": [
+                {
+                    "ID": "1846551935899377664",
+                    "URL": "https://pbs.twimg.com/media/GaBFM8aXoAAYw8U.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "We know you are just hacking away on a Friday night, so come spend time with the one and only @Freol.\n\nHe will be doing a LIVE tutorial of building an app on @NEARProtocol \n\nSave it to your google calendar: https://t.co/HYqS8O58r3 https://t.co/dO33XR74jr",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T14:30:00Z",
+            "Timestamp": 1729089000,
+            "URLs": [
+                "https://bit.ly/fridayfrol"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 708,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846551810217054624",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "This is not a trick!<br><br>The [REDACTED] Hackathon is now extended to October 31st \ud83d\udc7b<br><br>Still plenty of time to build, <a href=\"http://redacted.devpost.com\">https://t.co/rwYMemromQ</a> to get started with over 700K in prizes up for grabs. <br><a href=\"https://t.co/swaZ5mdCRE\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1846551092911349761/pu/img/sVlqBUUQD_CFL2K6.jpg\"/></a>",
+            "ID": "1846551810217054624",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846551810217054624",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "This is not a trick!\n\nThe [REDACTED] Hackathon is now extended to October 31st \ud83d\udc7b\n\nStill plenty of time to build, https://t.co/rwYMemromQ to get started with over 700K in prizes up for grabs. https://t.co/swaZ5mdCRE",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T14:00:33Z",
+            "Timestamp": 1729087233,
+            "URLs": [
+                "http://redacted.devpost.com"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1846551092911349761",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1846551092911349761/pu/img/sVlqBUUQD_CFL2K6.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1846551092911349761/pu/vid/avc1/1280x720/OvSwrrSqsSXntjpt.mp4?tag=12"
+                }
+            ],
+            "Views": 318,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846545502394859801",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "TODAY! <br><br>There is still time to hack for <a href=\"http://redacted.devpost.com\">https://t.co/rwYMemromQ</a> so don't miss this workshop!",
+            "ID": "1846545502394859801",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 54,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846545502394859801",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846182234933334253",
+            "Replies": 0,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "TODAY! \n\nThere is still time to hack for https://t.co/rwYMemromQ so don't miss this workshop!",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T13:35:29Z",
+            "Timestamp": 1729085729,
+            "URLs": [
+                "http://redacted.devpost.com"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 26500,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846194602262532246",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://mailchi.mp/neardevhub/near-dev-news-33\">https://t.co/BySEuL5u4z</a><br><br>Sunscreen, check. Passport, check. Laptop, check. It's time to pack your bags and head to Bangkok because [REDACTED] IRL is less than a month away! We have more updates on that and some amazing developer updates in this week's newsletter. People have been <br><a href=\"https://t.co/A65RXucq77\"><img src=\"https://pbs.twimg.com/media/GZ8ANCOawAA_Neh.jpg\"/></a>",
+            "ID": "1846194602262532246",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846194602262532246",
+            "Photos": [
+                {
+                    "ID": "1846194596180836352",
+                    "URL": "https://pbs.twimg.com/media/GZ8ANCOawAA_Neh.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "https://t.co/BySEuL5u4z\n\nSunscreen, check. Passport, check. Laptop, check. It's time to pack your bags and head to Bangkok because [REDACTED] IRL is less than a month away! We have more updates on that and some amazing developer updates in this week's newsletter. People have been https://t.co/A65RXucq77",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T14:21:08Z",
+            "Timestamp": 1729002068,
+            "URLs": [
+                "https://mailchi.mp/neardevhub/near-dev-news-33"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 786,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846182234933334253",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Builders! Devs! Hackers! <br><br>It's another BONUS workshop for the [REDACTED] Hackathon, this time with <a href=\"https://twitter.com/ZettaBlockHQ\">@ZettaBlockHQ</a> <br><br>Join us tomorrow (Wed) at 9pm UTC &amp; get started with \"open &amp; trustfree AI development\" with ZettaBlock Labs.<br><br>Live here on X, Twitch, and our YouTube. <br><a href=\"https://t.co/35dJe7bUdF\"><img src=\"https://pbs.twimg.com/media/GZ7znc6XgAAqZf8.jpg\"/></a>",
+            "ID": "1846182234933334253",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1505050228512100355",
+                    "Username": "ZettaBlockHQ",
+                    "Name": "ZettaBlock"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1846182234933334253",
+            "Photos": [
+                {
+                    "ID": "1846180756369932288",
+                    "URL": "https://pbs.twimg.com/media/GZ7znc6XgAAqZf8.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Builders! Devs! Hackers! \n\nIt's another BONUS workshop for the [REDACTED] Hackathon, this time with @ZettaBlockHQ \n\nJoin us tomorrow (Wed) at 9pm UTC &amp; get started with \"open &amp; trustfree AI development\" with ZettaBlock Labs.\n\nLive here on X, Twitch, and our YouTube. https://t.co/35dJe7bUdF",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T13:31:59Z",
+            "Timestamp": 1728999119,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 27902,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845094347206787278",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "What is your social platform of choice? Do you wish NEAR community to be present elsewhere? iMessage? Zulip? Mastodon?",
+            "ID": "1845094347206787278",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1845094347206787278",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "What is your social platform of choice? Do you wish NEAR community to be present elsewhere? iMessage? Zulip? Mastodon?",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T13:29:07Z",
+            "Timestamp": 1728739747,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 192,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844832341971112263",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Come join us in Bangkok and help build the future.<br><br><a href=\"http://redactedbangkok.ai\">https://t.co/afF43gRdzz</a> <br><a href=\"https://t.co/13G7NAjBMT\"><img src=\"https://pbs.twimg.com/media/GZnv0NrWYAMH3aS.png\"/></a>",
+            "ID": "1844832341971112263",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1844832341971112263",
+            "Photos": [
+                {
+                    "ID": "1844769202688647171",
+                    "URL": "https://pbs.twimg.com/media/GZnv0NrWYAMH3aS.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Come join us in Bangkok and help build the future.\n\nhttps://t.co/afF43gRdzz https://t.co/13G7NAjBMT",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T20:08:00Z",
+            "Timestamp": 1728677280,
+            "URLs": [
+                "http://redactedbangkok.ai"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 523,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844768940959899652",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Developers, what if there is an event full of passionate builders &amp; FREE?!<br><br>\ud83d\udca5There is, it's [REDACTED], a NEAR event in Bangkok Nov 9-11  <br><br>[For those sick of corporate-owned value extraction.]<br><br>\ud83d\udca5100+ speakers w <a href=\"https://twitter.com/Snowden\">@Snowden</a> <br>\ud83d\udca5AI x Web3<br><br>\ud83d\udcbbRegister now\ud83d\udc49 <a href=\"https://redactedbangkok.ai\">https://t.co/O3xu4JrC7b</a>",
+            "ID": "1844768940959899652",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "2916305152",
+                    "Username": "Snowden",
+                    "Name": "Edward Snowden"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1844768940959899652",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Developers, what if there is an event full of passionate builders &amp; FREE?!\n\n\ud83d\udca5There is, it's [REDACTED], a NEAR event in Bangkok Nov 9-11  \n\n[For those sick of corporate-owned value extraction.]\n\n\ud83d\udca5100+ speakers w @Snowden \n\ud83d\udca5AI x Web3\n\n\ud83d\udcbbRegister now\ud83d\udc49 https://t.co/O3xu4JrC7b",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T15:56:04Z",
+            "Timestamp": 1728662164,
+            "URLs": [
+                "https://redactedbangkok.ai"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 214,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844757955352166504",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "ETHGlobal",
+                "NEAR",
+                "NEARDevHub"
+            ],
+            "HTML": "\ud83d\udce2 Heads-up Bay Area hackers: <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> is offering $10K in prizes at the <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> San Francisco hackathon! \ud83c\udf09<br><br>Two tracks:<br><br>\u25b6\ufe0f Control Accounts on Any EVM through NEAR<br><br>\u25b6\ufe0f User-owned AI<br><br>Dive in, build, and grab your prize:<br> <a href=\"https://ethglobal.com/events/sanfrancisco2024/prizes/near-protocol\">https://t.co/uxlRTvTRpk</a><br><br><a href=\"https://twitter.com/hashtag/ETHGlobal\">#ETHGlobal</a> <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> <a href=\"https://twitter.com/hashtag/NEARDevHub\">#NEARDevHub</a>",
+            "ID": "1844757955352166504",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1844757955352166504",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udce2 Heads-up Bay Area hackers: #NEAR is offering $10K in prizes at the @ETHGlobal San Francisco hackathon! \ud83c\udf09\n\nTwo tracks:\n\n\u25b6\ufe0f Control Accounts on Any EVM through NEAR\n\n\u25b6\ufe0f User-owned AI\n\nDive in, build, and grab your prize:\n https://t.co/uxlRTvTRpk\n\n#ETHGlobal #NEAR #NEARDevHub",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T15:12:25Z",
+            "Timestamp": 1728659545,
+            "URLs": [
+                "https://ethglobal.com/events/sanfrancisco2024/prizes/near-protocol"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 912,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844405954173137325",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "DevHub Live 24 -  Build with Aurora <a href=\"https://x.com/i/broadcasts/1BdGYEdPyrgGX\">https://t.co/xnMLNH1dg9</a>",
+            "ID": "1844405954173137325",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1844405954173137325",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "DevHub Live 24 -  Build with Aurora https://t.co/xnMLNH1dg9",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T15:53:41Z",
+            "Timestamp": 1728575621,
+            "URLs": [
+                "https://x.com/i/broadcasts/1BdGYEdPyrgGX"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 483,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844286661510955423",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Did you know that NEAR has developer office hours?<br>We host hour long sessions on Thursdays at 11:00 AM and 6:00 PM UTC over on our discord!<br><br>Add the schedule to your calendar here \ud83d\udcc6 <a href=\"https://bit.ly/near-dev-calendar\">https://t.co/LnfanNsPzU</a><br>Or join directly here \ud83d\udc7e<a href=\"https://discord.gg/kQrZBrujTJ\">https://t.co/AJxMnub2XN</a> <br><a href=\"https://t.co/WgyqpcMSlL\"><img src=\"https://pbs.twimg.com/media/GZg48a3a0AA9w5s.png\"/></a>",
+            "ID": "1844286661510955423",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1844286661510955423",
+            "Photos": [
+                {
+                    "ID": "1844286658063290368",
+                    "URL": "https://pbs.twimg.com/media/GZg48a3a0AA9w5s.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Did you know that NEAR has developer office hours?\nWe host hour long sessions on Thursdays at 11:00 AM and 6:00 PM UTC over on our discord!\n\nAdd the schedule to your calendar here \ud83d\udcc6 https://t.co/LnfanNsPzU\nOr join directly here \ud83d\udc7ehttps://t.co/AJxMnub2XN https://t.co/WgyqpcMSlL",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T07:59:39Z",
+            "Timestamp": 1728547179,
+            "URLs": [
+                "https://bit.ly/near-dev-calendar",
+                "https://discord.gg/kQrZBrujTJ"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 505,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844104461884719474",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "This week on DevHub Live, the [REDACTED] online hackathon workshop, is with <a href=\"https://twitter.com/auroraisnear\">@auroraisnear</a>!  <br><br>Come learn about building on EVM on <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> .  <br><br>Streaming live on X, Twitch, &amp; YouTube at 4pm UTC Thursday <br><a href=\"https://t.co/j3mc6ulfek\"><img src=\"https://pbs.twimg.com/media/GZd3MdPWMAA0SCY.jpg\"/></a>",
+            "ID": "1844104461884719474",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 72,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1844104461884719474",
+            "Photos": [
+                {
+                    "ID": "1844073628322639872",
+                    "URL": "https://pbs.twimg.com/media/GZd3MdPWMAA0SCY.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 17,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "This week on DevHub Live, the [REDACTED] online hackathon workshop, is with @auroraisnear!  \n\nCome learn about building on EVM on @NEARProtocol .  \n\nStreaming live on X, Twitch, &amp; YouTube at 4pm UTC Thursday https://t.co/j3mc6ulfek",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T19:55:40Z",
+            "Timestamp": 1728503740,
+            "URLs": null,
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 22550,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844075169826079177",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "DevHub Live 23 -  Build with Proximity <a href=\"https://x.com/i/broadcasts/1MnGnDXyReXxO\">https://t.co/ZqDeBLkvCz</a>",
+            "ID": "1844075169826079177",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1844075169826079177",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "DevHub Live 23 -  Build with Proximity https://t.co/ZqDeBLkvCz",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T17:59:16Z",
+            "Timestamp": 1728496756,
+            "URLs": [
+                "https://x.com/i/broadcasts/1MnGnDXyReXxO"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 1110,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843727135715848645",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Bridging Twitter Data with Blockchain: A Step-by-Step Guide with <a href=\"https://twitter.com/getmasafi\">@getmasafi</a><br><br>Watch &amp; learn the entire workshop at <a href=\"https://www.youtube.com/live/Tj6nfRMx0Bk\">https://t.co/6kApYFCucu</a> <br><a href=\"https://t.co/G3eqoWM7Al\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1843727112370274304/img/0bVGVUv4GvOsm1a2.jpg\"/></a>",
+            "ID": "1843727135715848645",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1419111693112676353",
+                    "Username": "getmasafi",
+                    "Name": "Masa"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1843727135715848645",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Bridging Twitter Data with Blockchain: A Step-by-Step Guide with @getmasafi\n\nWatch &amp; learn the entire workshop at https://t.co/6kApYFCucu https://t.co/G3eqoWM7Al",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T18:56:18Z",
+            "Timestamp": 1728413778,
+            "URLs": [
+                "https://www.youtube.com/live/Tj6nfRMx0Bk"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1843727112370274304",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1843727112370274304/img/0bVGVUv4GvOsm1a2.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1843727112370274304/vid/avc1/720x1280/c1YffL3n_edq5Mdy.mp4?tag=14"
+                }
+            ],
+            "Views": 6661,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843707308058238984",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Special bonus episode of DevHub Live's workshop!<br><br>Want to dive deeper with Chain Abstraction?<br><br>Come learn and build with <a href=\"https://twitter.com/proximityfi\">@proximityfi</a> <br>And get building for <a href=\"http://redacted.devpost.com\">https://t.co/rwYMemrWco</a> with over 900K in prizes! <br><a href=\"https://t.co/LJlExZOpf4\"><img src=\"https://pbs.twimg.com/media/GZYpP-tWUAAgEYR.jpg\"/></a>",
+            "ID": "1843707308058238984",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 59,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1412496723776180227",
+                    "Username": "proximityfi",
+                    "Name": "Proximity Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1843707308058238984",
+            "Photos": [
+                {
+                    "ID": "1843706451962777600",
+                    "URL": "https://pbs.twimg.com/media/GZYpP-tWUAAgEYR.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 15,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Special bonus episode of DevHub Live's workshop!\n\nWant to dive deeper with Chain Abstraction?\n\nCome learn and build with @proximityfi \nAnd get building for https://t.co/rwYMemrWco with over 900K in prizes! https://t.co/LJlExZOpf4",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T17:37:31Z",
+            "Timestamp": 1728409051,
+            "URLs": [
+                "http://redacted.devpost.com"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 18144,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843683448038568182",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "It's spooky season and we're celebrating! The [REDACTED] hackathon, RoSctober Fest, hacker houses, this October will be one to remember.<br><br>Let's take a look at this week's edition of NEAR Dev News  <a href=\"https://mailchi.mp/neardevhub/near-dev-news-32\">https://t.co/dHBgK7dB4y</a><br><br>We'll be sharing all the latest updates, events, and <br><a href=\"https://t.co/DhGDRX3YMT\"><img src=\"https://pbs.twimg.com/media/GZYUUonaoAAfqSm.png\"/></a>",
+            "ID": "1843683448038568182",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1843683448038568182",
+            "Photos": [
+                {
+                    "ID": "1843683442187476992",
+                    "URL": "https://pbs.twimg.com/media/GZYUUonaoAAfqSm.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "It's spooky season and we're celebrating! The [REDACTED] hackathon, RoSctober Fest, hacker houses, this October will be one to remember.\n\nLet's take a look at this week's edition of NEAR Dev News  https://t.co/dHBgK7dB4y\n\nWe'll be sharing all the latest updates, events, and https://t.co/DhGDRX3YMT",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T16:02:42Z",
+            "Timestamp": 1728403362,
+            "URLs": [
+                "https://mailchi.mp/neardevhub/near-dev-news-32"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 576,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843566143157743829",
+            "GIFs": null,
+            "Hashtags": [
+                "REDACTED",
+                "hackathon"
+            ],
+            "HTML": "What's your reason?<br><br>let x = [REDACTED] hackathon<br><br>Sign up here \u2b07\ufe0f<br><br><a href=\"https://redacted.devpost.com/rules\">https://t.co/nfs34A00dw</a><br><br><a href=\"https://twitter.com/hashtag/REDACTED\">#REDACTED</a> <a href=\"https://twitter.com/hashtag/hackathon\">#hackathon</a>",
+            "ID": "1843566143157743829",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "NEAR DevHub",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1843566143157743829",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1843367035289444615",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "What's your reason?\n\nlet x = [REDACTED] hackathon\n\nSign up here \u2b07\ufe0f\n\nhttps://t.co/nfs34A00dw\n\n#REDACTED #hackathon",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T08:16:34Z",
+            "Timestamp": 1728375394,
+            "URLs": [
+                "https://redacted.devpost.com/rules"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": null,
+            "Views": 714,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843274162862723517",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Unlocking Machine Learning with DATA with <a href=\"https://twitter.com/getmasafi\">@getmasafi</a> <br><br>Watch &amp; learn the entire workshop at <a href=\"https://www.youtube.com/live/Tj6nfRMx0Bk\">https://t.co/6kApYFCucu</a> <br><a href=\"https://t.co/srZTjoW5D2\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1843274140385480704/img/_NGi-cChyfa3neaK.jpg\"/></a>",
+            "ID": "1843274162862723517",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "NEAR DevHub",
+            "Mentions": [
+                {
+                    "ID": "1419111693112676353",
+                    "Username": "getmasafi",
+                    "Name": "Masa"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARDevHub/status/1843274162862723517",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Unlocking Machine Learning with DATA with @getmasafi \n\nWatch &amp; learn the entire workshop at https://t.co/6kApYFCucu https://t.co/srZTjoW5D2",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T12:56:21Z",
+            "Timestamp": 1728305781,
+            "URLs": [
+                "https://www.youtube.com/live/Tj6nfRMx0Bk"
+            ],
+            "UserID": "1587575461181534209",
+            "Username": "NEARDevHub",
+            "Videos": [
+                {
+                    "ID": "1843274140385480704",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1843274140385480704/img/_NGi-cChyfa3neaK.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1843274140385480704/vid/avc1/720x1280/flP_rLrtZAgdkAnD.mp4?tag=14"
+                }
+            ],
+            "Views": 2457,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

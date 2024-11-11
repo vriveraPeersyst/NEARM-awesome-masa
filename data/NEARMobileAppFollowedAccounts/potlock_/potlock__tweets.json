@@ -1,0 +1,1053 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1852380800315990326",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "-Learn how to complete your Twitter verification on <a href=\"http://app.nada.bot\">https://t.co/3Y1BaGujnd</a> <a href=\"https://x.com/nadabots/status/1797641512924389827\">https://t.co/2QhGQLMcNt</a>",
+            "ID": "1852380807433691468",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852380804170543157",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "POTLOCK",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/potlock_/status/1852380807433691468",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1797641512924389827",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "-Learn how to complete your Twitter verification on https://t.co/3Y1BaGujnd https://t.co/2QhGQLMcNt",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T16:02:54Z",
+            "Timestamp": 1730476974,
+            "URLs": [
+                "http://app.nada.bot",
+                "https://x.com/nadabots/status/1797641512924389827"
+            ],
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 54,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852380800315990326",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "-Learn how to complete your NEAR Social verification on <a href=\"http://app.nada.bot\">https://t.co/3Y1BaGujnd</a> <a href=\"https://x.com/nadabots/status/1792521241766613258\">https://t.co/iFzH9ohvup</a>",
+            "ID": "1852380804170543157",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852380800315990326",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "POTLOCK",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/potlock_/status/1852380804170543157",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1792521241766613258",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "-Learn how to complete your NEAR Social verification on https://t.co/3Y1BaGujnd https://t.co/iFzH9ohvup",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T16:02:53Z",
+            "Timestamp": 1730476973,
+            "URLs": [
+                "http://app.nada.bot",
+                "https://x.com/nadabots/status/1792521241766613258"
+            ],
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 72,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852380800315990326",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udea8 The <a href=\"https://twitter.com/create_dev\">@create_dev</a> Funding Round has begun! \ud83d\udea8 For the next 2 weeks, \ud83d\udcb8 donate and verify \u2705 your humanity with <a href=\"https://twitter.com/nadabots\">@nadabots</a> to get your contributions quadratically matched!<br>\ud83d\udc47Follow the steps below to verify \ud83e\udd16<br><br>\ud83d\udd17<a href=\"http://alpha.potlock.org/pot/nearian.v1.potfactory.potlock.near/applications\">https://t.co/MaYWjndASj</a> <br><a href=\"https://t.co/EgtgeddyTa\"><img src=\"https://pbs.twimg.com/media/GbT1_HGWcAA6n8E.jpg\"/></a>",
+            "ID": "1852380800315990326",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1842942971307524096",
+                    "Username": "create_dev",
+                    "Name": "Create./Dev \ud83e\udee7"
+                },
+                {
+                    "ID": "1736273210998718464",
+                    "Username": "nadabots",
+                    "Name": "NadaBot"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1852380800315990326",
+            "Photos": [
+                {
+                    "ID": "1852375811342364672",
+                    "URL": "https://pbs.twimg.com/media/GbT1_HGWcAA6n8E.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udea8 The @create_dev Funding Round has begun! \ud83d\udea8 For the next 2 weeks, \ud83d\udcb8 donate and verify \u2705 your humanity with @nadabots to get your contributions quadratically matched!\n\ud83d\udc47Follow the steps below to verify \ud83e\udd16\n\n\ud83d\udd17https://t.co/MaYWjndASj https://t.co/EgtgeddyTa",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T16:02:53Z",
+            "Timestamp": 1730476973,
+            "URLs": [
+                "http://alpha.potlock.org/pot/nearian.v1.potfactory.potlock.near/applications"
+            ],
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 450,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852015833641373790",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Attention Creatives Dev!<br>\ud83d\ude80 Applications for the <a href=\"https://twitter.com/create_dev\">@create_dev</a> initiative close in less than 8 hours! \ud83c\udf89<br>This is your last chance to apply for funding before the matching round begins. Don\u2019t miss out on the opportunity to showcase your creative-tech project! Apply now: <br><a href=\"https://t.co/pPAwOMG9Sd\"><img src=\"https://pbs.twimg.com/media/GbOuGbpXIAAXU9O.jpg\"/></a>",
+            "ID": "1852015833641373790",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 15,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1842942971307524096",
+                    "Username": "create_dev",
+                    "Name": "Create./Dev \ud83e\udee7"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1852015833641373790",
+            "Photos": [
+                {
+                    "ID": "1852015297303093248",
+                    "URL": "https://pbs.twimg.com/media/GbOuGbpXIAAXU9O.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Attention Creatives Dev!\n\ud83d\ude80 Applications for the @create_dev initiative close in less than 8 hours! \ud83c\udf89\nThis is your last chance to apply for funding before the matching round begins. Don\u2019t miss out on the opportunity to showcase your creative-tech project! Apply now: https://t.co/pPAwOMG9Sd",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T15:52:38Z",
+            "Timestamp": 1730389958,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 282,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851584061132746960",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udea8 Only 1 day left until the deadline! \ud83d\udea8<br><br>Don't miss your chance to build AI agents, automate grant workflows, and compete for a $5,000 bounty in NEAR from Potlock at the [REDACTED] Hackathon!<br><br><a href=\"https://redacted.devpost.com/\">https://t.co/tTxvo2Uwvs</a> <br><a href=\"https://t.co/SA8k6xkXM0\"><img src=\"https://pbs.twimg.com/media/GbIjYNfWQAA6c8S.jpg\"/></a>",
+            "ID": "1851584061132746960",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "POTLOCK",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/potlock_/status/1851584061132746960",
+            "Photos": [
+                {
+                    "ID": "1851581295647670272",
+                    "URL": "https://pbs.twimg.com/media/GbIjYNfWQAA6c8S.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udea8 Only 1 day left until the deadline! \ud83d\udea8\n\nDon't miss your chance to build AI agents, automate grant workflows, and compete for a $5,000 bounty in NEAR from Potlock at the [REDACTED] Hackathon!\n\nhttps://t.co/tTxvo2Uwvs https://t.co/SA8k6xkXM0",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T11:16:55Z",
+            "Timestamp": 1730287015,
+            "URLs": [
+                "https://redacted.devpost.com/"
+            ],
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 266,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851444385764032801",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "RPGF SPACE for MpDAO live \ud83d\udc40",
+            "ID": "1851444385764032801",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "POTLOCK",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/potlock_/status/1851444385764032801",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851443872250941916",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "RPGF SPACE for MpDAO live \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T02:01:54Z",
+            "Timestamp": 1730253714,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 104,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851183336431276256",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "grow the pot automatically.<br><br>Did you know if the $210 million in USDC on NEAR was in <a href=\"https://twitter.com/glodollar\">@glodollar</a>, then over $8 million in revenue would go towards public goods funding in NEAR?",
+            "ID": "1851183336431276256",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1441870532824104965",
+                    "Username": "glodollar",
+                    "Name": "Glo Dollar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1851183336431276256",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851156787011211488",
+            "Replies": 1,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "grow the pot automatically.\n\nDid you know if the $210 million in USDC on NEAR was in @glodollar, then over $8 million in revenue would go towards public goods funding in NEAR?",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T08:44:35Z",
+            "Timestamp": 1730191475,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 462,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850592535749526013",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 Exciting News Alert! \ud83d\ude80<br>We\u2019ve just published our latest Potlock newsletter, and it\u2019s packed with exciting updates! from THE ROAD TO [REDACTED] to <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> Retro PGF, the <a href=\"https://twitter.com/create_dev\">@create_dev</a> QF Round, <a href=\"https://twitter.com/ai_pgf\">@ai_pgf</a> Grantees, and more.... Don\u2019t miss out on what\u2019s happening in the Potlock <br><a href=\"https://t.co/QNoWqvoGj1\"><img src=\"https://pbs.twimg.com/media/Ga6YMS1XUAEd3zQ.jpg\"/></a>",
+            "ID": "1850592535749526013",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": true,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1842942971307524096",
+                    "Username": "create_dev",
+                    "Name": "Create./Dev"
+                },
+                {
+                    "ID": "1755093865143341056",
+                    "Username": "ai_pgf",
+                    "Name": "AI-PGF"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1850592535749526013",
+            "Photos": [
+                {
+                    "ID": "1850583833877368833",
+                    "URL": "https://pbs.twimg.com/media/Ga6YMS1XUAEd3zQ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 Exciting News Alert! \ud83d\ude80\nWe\u2019ve just published our latest Potlock newsletter, and it\u2019s packed with exciting updates! from THE ROAD TO [REDACTED] to @meta_pool Retro PGF, the @create_dev QF Round, @ai_pgf Grantees, and more.... Don\u2019t miss out on what\u2019s happening in the Potlock https://t.co/QNoWqvoGj1",
+            "Thread": null,
+            "TimeParsed": "2024-10-27T17:36:57Z",
+            "Timestamp": 1730050617,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 944,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850023682779017247",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf89Exciting News!<br>The <a href=\"https://twitter.com/create_dev\">@create_dev</a> Movement: QF Round Applications Are Now Live!\ud83e\udd73 If you\u2019re ready to dive into the world of creative-tech projects, check out our latest blog post to learn all about it! We can\u2019t wait to see what you\u2019ll create. \ud83d\udc47\ud83d\udc40 Read more here. <br><a href=\"https://t.co/n5zJTWVBO6\"><img src=\"https://pbs.twimg.com/media/Gayar9iWYAEE_lC.jpg\"/></a>",
+            "ID": "1850023682779017247",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1842942971307524096",
+                    "Username": "create_dev",
+                    "Name": "Create./Dev"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1850023682779017247",
+            "Photos": [
+                {
+                    "ID": "1850023626986119169",
+                    "URL": "https://pbs.twimg.com/media/Gayar9iWYAEE_lC.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf89Exciting News!\nThe @create_dev Movement: QF Round Applications Are Now Live!\ud83e\udd73 If you\u2019re ready to dive into the world of creative-tech projects, check out our latest blog post to learn all about it! We can\u2019t wait to see what you\u2019ll create. \ud83d\udc47\ud83d\udc40 Read more here. https://t.co/n5zJTWVBO6",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T03:56:32Z",
+            "Timestamp": 1729914992,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 497,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849799913405829596",
+            "GIFs": null,
+            "Hashtags": [
+                "DownBadDAO"
+            ],
+            "HTML": "When Public Goods don't get funded. <a href=\"https://twitter.com/hashtag/DownBadDAO\">#DownBadDAO</a> Donate at <a href=\"https://bos.potlock.org/?tab=project&projectId=proofofvibes.near\">https://t.co/nxe6bqMBRE</a>",
+            "ID": "1849799913405829596",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "POTLOCK",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/potlock_/status/1849799913405829596",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849545264945577986",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "When Public Goods don't get funded. #DownBadDAO Donate at https://t.co/nxe6bqMBRE",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T13:07:21Z",
+            "Timestamp": 1729861641,
+            "URLs": [
+                "https://bos.potlock.org/?tab=project&projectId=proofofvibes.near"
+            ],
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 214,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849463652987900178",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Cameron_Dennis_\">@Cameron_Dennis_</a> We are going to need therapy for all the transactions that were touched by NEAR and didn\u2019t know it",
+            "ID": "1849777350453457063",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849463652987900178",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "3557004079",
+                    "Username": "Cameron_Dennis_",
+                    "Name": "Cameron.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1849777350453457063",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Cameron_Dennis_ We are going to need therapy for all the transactions that were touched by NEAR and didn\u2019t know it",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T11:37:42Z",
+            "Timestamp": 1729856262,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 67,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849679366252265757",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "AGENTIC. COMPOSABLE. CHAIN ABSTRACTED. OPEN SOURCE.  NON-CUSTODIAL. <br><br>FUTURE OF PGF is bullish.",
+            "ID": "1849679366252265757",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 15,
+            "Name": "POTLOCK",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/potlock_/status/1849679366252265757",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849676904628158489",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "AGENTIC. COMPOSABLE. CHAIN ABSTRACTED. OPEN SOURCE.  NON-CUSTODIAL. \n\nFUTURE OF PGF is bullish.",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T05:08:20Z",
+            "Timestamp": 1729832900,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 416,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849558452432929134",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "As Potlock becomes the open funding stack anyone can use to build their own funding solutions, we are proud to introduce Potlock Templates <a href=\"http://templates.potlock.org\">https://t.co/dxSLZxzoWy</a> (inspired by Vercel &amp; <a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a>), this open source directory is a resource of starter apps for you to start <br><a href=\"https://t.co/hrSviSgvxt\"><img src=\"https://pbs.twimg.com/media/GarzPi3XkAAtKfd.jpg\"/></a>",
+            "ID": "1849558452432929134",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1849558452432929134",
+            "Photos": [
+                {
+                    "ID": "1849558045371633664",
+                    "URL": "https://pbs.twimg.com/media/GarzPi3XkAAtKfd.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "As Potlock becomes the open funding stack anyone can use to build their own funding solutions, we are proud to introduce Potlock Templates https://t.co/dxSLZxzoWy (inspired by Vercel &amp; @BitteProtocol), this open source directory is a resource of starter apps for you to start https://t.co/hrSviSgvxt",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T21:07:52Z",
+            "Timestamp": 1729804072,
+            "URLs": [
+                "http://templates.potlock.org"
+            ],
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 407,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849174745041797621",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nearhorizon\">@nearhorizon</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/delphi_labs\">@delphi_labs</a> <a href=\"https://twitter.com/qstarlabs_ai\">@qstarlabs_ai</a> <a href=\"https://twitter.com/ZettaBlockHQ\">@ZettaBlockHQ</a> <a href=\"https://twitter.com/dFusionAI\">@dFusionAI</a> <a href=\"https://twitter.com/questflow\">@questflow</a> <a href=\"https://twitter.com/Bitcoin_Sage\">@Bitcoin_Sage</a> <a href=\"https://twitter.com/KSimback\">@KSimback</a> <a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> bullish.",
+            "ID": "1849315142158156032",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849174745041797621",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1651859609299066880",
+                    "Username": "nearhorizon",
+                    "Name": "NEAR Horizon"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1542879561368870914",
+                    "Username": "delphi_labs",
+                    "Name": "Delphi Labs"
+                },
+                {
+                    "ID": "1797688347873161216",
+                    "Username": "qstarlabs_ai",
+                    "Name": "qstarlabs.ai"
+                },
+                {
+                    "ID": "1505050228512100355",
+                    "Username": "ZettaBlockHQ",
+                    "Name": "ZettaBlock"
+                },
+                {
+                    "ID": "1784803503011209216",
+                    "Username": "dFusionAI",
+                    "Name": "dFusion AI Protocol"
+                },
+                {
+                    "ID": "1589875820813684736",
+                    "Username": "questflow",
+                    "Name": "Questflow"
+                },
+                {
+                    "ID": "332889204",
+                    "Username": "Bitcoin_Sage",
+                    "Name": "Bitcoin Sage"
+                },
+                {
+                    "ID": "3108019343",
+                    "Username": "KSimback",
+                    "Name": "Kevin Simback \ud83c\udf77"
+                },
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1849315142158156032",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nearhorizon @NEARProtocol @delphi_labs @qstarlabs_ai @ZettaBlockHQ @dFusionAI @questflow @Bitcoin_Sage @KSimback @jarednotjerry1 bullish.",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T05:01:03Z",
+            "Timestamp": 1729746063,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 68,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848696991129473303",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/zero1_labs\">@zero1_labs</a> Welcome to the ecosystem!",
+            "ID": "1849314910658019588",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848696991129473303",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1723917663884529664",
+                    "Username": "zero1_labs",
+                    "Name": "Zero1 Labs (\ud835\udfd8,\ud835\udff7) | Cypher Testnet Live"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1849314910658019588",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@zero1_labs Welcome to the ecosystem!",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T05:00:07Z",
+            "Timestamp": 1729746007,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 30,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848792852048048182",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/web4near\">@web4near</a> <a href=\"https://twitter.com/NearLands\">@NearLands</a> <a href=\"https://twitter.com/salomonsen_p\">@salomonsen_p</a> <a href=\"https://twitter.com/SashaAngel87\">@SashaAngel87</a> <a href=\"https://twitter.com/mikedotexe\">@mikedotexe</a> <a href=\"https://twitter.com/zacodil\">@zacodil</a> <a href=\"https://twitter.com/Cameron_Dennis_\">@Cameron_Dennis_</a> potlock on web4. note to self. add to backlog",
+            "ID": "1849028644506943742",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848792852048048182",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1584012151135432705",
+                    "Username": "web4near",
+                    "Name": "web4.near"
+                },
+                {
+                    "ID": "1479326836337168385",
+                    "Username": "NearLands",
+                    "Name": "NEAR Lands"
+                },
+                {
+                    "ID": "933058080220250114",
+                    "Username": "salomonsen_p",
+                    "Name": "Peter Salomonsen ( petersalomonsen.near )"
+                },
+                {
+                    "ID": "189777636",
+                    "Username": "SashaAngel87",
+                    "Name": "Aliaksandr \u201cSasha\u201d Hudzilin"
+                },
+                {
+                    "ID": "36712247",
+                    "Username": "mikedotexe",
+                    "Name": "Mike Purvis \ud83d\udee1\ufe0f\ud81a\udd10 mike.near"
+                },
+                {
+                    "ID": "947826419484282880",
+                    "Username": "zacodil",
+                    "Name": "Vadim"
+                },
+                {
+                    "ID": "3557004079",
+                    "Username": "Cameron_Dennis_",
+                    "Name": "Cameron.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1849028644506943742",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@web4near @NearLands @salomonsen_p @SashaAngel87 @mikedotexe @zacodil @Cameron_Dennis_ potlock on web4. note to self. add to backlog",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T10:02:36Z",
+            "Timestamp": 1729677756,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 35,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848987385767542845",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Shoutout to MpDAO for their innovation in plural funding mechanisms \u2764\ufe0f Super excited to talk about the upcoming RetroPGF round!",
+            "ID": "1848987385767542845",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "POTLOCK",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/potlock_/status/1848987385767542845",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848318957184262646",
+            "Replies": 3,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Shoutout to MpDAO for their innovation in plural funding mechanisms \u2764\ufe0f Super excited to talk about the upcoming RetroPGF round!",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T07:18:39Z",
+            "Timestamp": 1729667919,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 517,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848212853993656614",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "In just a few minutes you can now deploy your own barebones social feed with tips powered by NEAR social and Potlock thanks to <a href=\"https://twitter.com/elliot_braem\">@elliot_braem</a>  \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf<br><br>Repo <a href=\"https://github.com/NEARBuilders/decentralized-social\">https://t.co/08O21b9VNy</a>",
+            "ID": "1848212853993656614",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1603425135356157953",
+                    "Username": "elliot_braem",
+                    "Name": "elliot braem"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1848212853993656614",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847888531454120417",
+            "Replies": 1,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "In just a few minutes you can now deploy your own barebones social feed with tips powered by NEAR social and Potlock thanks to @elliot_braem  \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\n\nRepo https://t.co/08O21b9VNy",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T04:00:57Z",
+            "Timestamp": 1729483257,
+            "URLs": [
+                "https://github.com/NEARBuilders/decentralized-social"
+            ],
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 856,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847538674747265461",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AfroBeatsDAO\">@AfroBeatsDAO</a> A dance crew behind the DJ",
+            "ID": "1847877227477942401",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847538674747265461",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1845725691406626816",
+                    "Username": "AfroBeatsDAO",
+                    "Name": "AfrobeatsDAO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1847877227477942401",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AfroBeatsDAO A dance crew behind the DJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T05:47:17Z",
+            "Timestamp": 1729403237,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 4,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845482663387562246",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DeltaBotTeam\">@DeltaBotTeam</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> How can we all adopt this?",
+            "ID": "1845483611514110019",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845482663387562246",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "1730425081724297216",
+                    "Username": "DeltaBotTeam",
+                    "Name": "DeltaTrade"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1845483611514110019",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DeltaBotTeam @NEARProtocol How can we all adopt this?",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T15:15:55Z",
+            "Timestamp": 1728832555,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 83,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844250786903347521",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/lucianodeangeIo\">@lucianodeangeIo</a> <a href=\"https://twitter.com/KismetCasa\">@KismetCasa</a> Pop ups are poppin",
+            "ID": "1844381695199547615",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844250786903347521",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "POTLOCK",
+            "Mentions": [
+                {
+                    "ID": "305851898",
+                    "Username": "lucianodeangeIo",
+                    "Name": "Luciano DeAngelo"
+                },
+                {
+                    "ID": "1432030548252315649",
+                    "Username": "KismetCasa",
+                    "Name": "Kismet Casa"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/potlock_/status/1844381695199547615",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@lucianodeangeIo @KismetCasa Pop ups are poppin",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T14:17:17Z",
+            "Timestamp": 1728569837,
+            "URLs": null,
+            "UserID": "1677467602933645318",
+            "Username": "potlock_",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

@@ -1,0 +1,2404 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1853810730623250894",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/race_of_sloths\">@race_of_sloths</a> 16 is a great number, 2^4. Next time I hope to see 2^8",
+            "ID": "1853905894662094938",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853810730623250894",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1791732142583476224",
+                    "Username": "race_of_sloths",
+                    "Name": "race-of-sloths"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1853905894662094938",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@race_of_sloths 16 is a great number, 2^4. Next time I hope to see 2^8",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T21:03:03Z",
+            "Timestamp": 1730840583,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 53,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853077469382791193",
+            "GIFs": null,
+            "Hashtags": [
+                "nearprotocol"
+            ],
+            "HTML": "Every single time I (and my friends who I onboarded directly to <a href=\"https://twitter.com/hashtag/nearprotocol\">#nearprotocol</a>) interface with other blockchains, I have only one question:<br><br>HOW DO PEOPLE HANDLE THIS NONSENSE?!<br><br>Minutes or tens of minutes waiting for the transaction finalization? NO WAY! <br><a href=\"https://t.co/nHaJl6tAjo\"><img src=\"https://pbs.twimg.com/media/Gbdz8OhaMAAewts.jpg\"/></a>",
+            "ID": "1853077469382791193",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": true,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1853077469382791193",
+            "Photos": [
+                {
+                    "ID": "1853077250213818368",
+                    "URL": "https://pbs.twimg.com/media/Gbdz8OhaMAAewts.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Every single time I (and my friends who I onboarded directly to #nearprotocol) interface with other blockchains, I have only one question:\n\nHOW DO PEOPLE HANDLE THIS NONSENSE?!\n\nMinutes or tens of minutes waiting for the transaction finalization? NO WAY! https://t.co/nHaJl6tAjo",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T14:11:11Z",
+            "Timestamp": 1730643071,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 657,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852935501583708390",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/kurodenjiro\">@kurodenjiro</a> Which one? <a href=\"https://github.com/frol?tab=repositories&q=birthday\">https://t.co/fdOI2aCKJh</a>",
+            "ID": "1853073709101129934",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852942097546158273",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1101778597335916544",
+                    "Username": "kurodenjiro",
+                    "Name": "Kurodenjiro.near \ud83c\udfc1 Redeacted"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1853073709101129934",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@kurodenjiro Which one? https://t.co/fdOI2aCKJh",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T13:56:15Z",
+            "Timestamp": 1730642175,
+            "URLs": [
+                "https://github.com/frol?tab=repositories&q=birthday"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852717308977860858",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/race_of_sloths\">@race_of_sloths</a> <a href=\"https://x.com/Freol/status/1852739251701448895\">https://t.co/87pG1XjWIO</a>",
+            "ID": "1852740659314131024",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852717308977860858",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1791732142583476224",
+                    "Username": "race_of_sloths",
+                    "Name": "race-of-sloths"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1852740659314131024",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852739251701448895",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@race_of_sloths https://t.co/87pG1XjWIO",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T15:52:50Z",
+            "Timestamp": 1730562770,
+            "URLs": [
+                "https://x.com/Freol/status/1852739251701448895"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852739251701448895",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/2 This is the high-level API of near-sdk-js that helps developers structure and have more safeguards around input parameters, and contract state<br><br>Learn more at <a href=\"http://dev.near.org\">https://t.co/ifxcx6lHp3</a><br><br>Also, watch this stream for more details about contract state: <a href=\"https://www.youtube.com/live/6Vx-gE5EFTk?si=yuXqgP-Y9FINk0Dr&t=240\">https://t.co/TExMZKXVbN</a> <br><a href=\"https://t.co/kYbCUpScTu\"><img src=\"https://pbs.twimg.com/media/GbZA46AbwAAHtOz.jpg\"/></a>",
+            "ID": "1852740290244722980",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852739251701448895",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1852740290244722980",
+            "Photos": [
+                {
+                    "ID": "1852739643097464832",
+                    "URL": "https://pbs.twimg.com/media/GbZA46AbwAAHtOz.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/2 This is the high-level API of near-sdk-js that helps developers structure and have more safeguards around input parameters, and contract state\n\nLearn more at https://t.co/ifxcx6lHp3\n\nAlso, watch this stream for more details about contract state: https://t.co/TExMZKXVbN https://t.co/kYbCUpScTu",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T15:51:22Z",
+            "Timestamp": 1730562682,
+            "URLs": [
+                "http://dev.near.org",
+                "https://www.youtube.com/live/6Vx-gE5EFTk?si=yuXqgP-Y9FINk0Dr&t=240"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 156,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852739251701448895",
+            "GIFs": null,
+            "Hashtags": [
+                "NEARprotocol",
+                "JavaScript"
+            ],
+            "HTML": "1/2 Here is a small <a href=\"https://twitter.com/hashtag/NEARprotocol\">#NEARprotocol</a> contract in <a href=\"https://twitter.com/hashtag/JavaScript\">#JavaScript</a>. I believe it can help building the right mental model about  the high-level API \ud83e\uddf5\ud83d\udc47 <br><a href=\"https://t.co/PhLHimUcZi\"><img src=\"https://pbs.twimg.com/media/GbY_8J0awAAxKNQ.jpg\"/></a>",
+            "ID": "1852739251701448895",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 29,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1852739251701448895",
+            "Photos": [
+                {
+                    "ID": "1852738599370014720",
+                    "URL": "https://pbs.twimg.com/media/GbY_8J0awAAxKNQ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "1/2 Here is a small #NEARprotocol contract in #JavaScript. I believe it can help building the right mental model about  the high-level API \ud83e\uddf5\ud83d\udc47 https://t.co/PhLHimUcZi",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T15:47:14Z",
+            "Timestamp": 1730562434,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 2542,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852453844737007958",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ChShersh\">@ChShersh</a> CS is hard, not Rust. Rust makes complex things easier, not simpler.<br><br>Rust is beautiful in 99% code and manageable in complex cases.<br><br>Rust is highly opinionated in the right way. Look at C, C++, JS where devs still reinventing build pipelines.<br><br>Rust compile time &lt;&lt; debug time",
+            "ID": "1852614524454461660",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852453844737007958",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "2164623379",
+                    "Username": "ChShersh",
+                    "Name": "Dmitrii Kovanikov"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1852614524454461660",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ChShersh CS is hard, not Rust. Rust makes complex things easier, not simpler.\n\nRust is beautiful in 99% code and manageable in complex cases.\n\nRust is highly opinionated in the right way. Look at C, C++, JS where devs still reinventing build pipelines.\n\nRust compile time &lt;&lt; debug time",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T07:31:37Z",
+            "Timestamp": 1730532697,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 255,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852274752733233485",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> NEAReveryvember",
+            "ID": "1852295256026263709",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852274752733233485",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1852295256026263709",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol NEAReveryvember",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T10:22:57Z",
+            "Timestamp": 1730456577,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 200,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851754933659345024",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Cameron_Dennis_\">@Cameron_Dennis_</a> <a href=\"https://twitter.com/inkonchain\">@inkonchain</a> \ud83d\udcaf",
+            "ID": "1852084655903617487",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852008007120621985",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "3557004079",
+                    "Username": "Cameron_Dennis_",
+                    "Name": "Cameron.near"
+                },
+                {
+                    "ID": "1770294882185416704",
+                    "Username": "inkonchain",
+                    "Name": "ink"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1852084655903617487",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Cameron_Dennis_ @inkonchain \ud83d\udcaf",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T20:26:06Z",
+            "Timestamp": 1730406366,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852079092037828831",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "It is great to see our ideas are slowly but steadily coming true and very classy web2 projects join <a href=\"https://twitter.com/race_of_sloths\">@race_of_sloths</a>, and I hope we will be able to demonstrate web3 benefits to them in an organic way",
+            "ID": "1852079092037828831",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1791732142583476224",
+                    "Username": "race_of_sloths",
+                    "Name": "race-of-sloths"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1852079092037828831",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852053136254640386",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "It is great to see our ideas are slowly but steadily coming true and very classy web2 projects join @race_of_sloths, and I hope we will be able to demonstrate web3 benefits to them in an organic way",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T20:04:00Z",
+            "Timestamp": 1730405040,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 447,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851202856788865249",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mitsuhiko\">@mitsuhiko</a> I believe people don't understand that to take advantage of AI tools, you need to be an expert in the area already, and then you just guide the junior with a shorter iteration time.<br><br>After all, it is garbage in =&gt; garbage out.",
+            "ID": "1851318943685677095",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851202856788865249",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "12963432",
+                    "Username": "mitsuhiko",
+                    "Name": "Armin Ronacher \u21cc"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1851318943685677095",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mitsuhiko I believe people don't understand that to take advantage of AI tools, you need to be an expert in the area already, and then you just guide the junior with a shorter iteration time.\n\nAfter all, it is garbage in =&gt; garbage out.",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T17:43:26Z",
+            "Timestamp": 1730223806,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 123,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851317325305176524",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "RT <a href=\"https://twitter.com/thisisjoshford\">@thisisjoshford</a>: \"A better internet is Near\"",
+            "ID": "1851317325305176524",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1964266292",
+                    "Username": "thisisjoshford",
+                    "Name": "Josh Ford"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1851317325305176524",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "RT @thisisjoshford: \"A better internet is Near\"",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T17:37:00Z",
+            "Timestamp": 1730223420,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 103,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850914258164342918",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CamiRusso\">@CamiRusso</a> NEAR Chain Abstraction just works: <a href=\"https://x.com/BitteProtocol/status/1850825097801506889\">https://t.co/w9kqs5E8IP</a>",
+            "ID": "1851181890536944114",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850914258164342918",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "421271885",
+                    "Username": "CamiRusso",
+                    "Name": "Camila Russo"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1851181890536944114",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850825097801506889",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CamiRusso NEAR Chain Abstraction just works: https://t.co/w9kqs5E8IP",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T08:38:50Z",
+            "Timestamp": 1730191130,
+            "URLs": [
+                "https://x.com/BitteProtocol/status/1850825097801506889"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 15,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850949786964242492",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "These did not age well:<br><br>\"640K ought to be enough for anybody.\" - IBM PC RAM limit<br><br>\"4B addresses ought to be enough.\" - IP v4<br><br>The sky is the limit for NEAR Protocol, right, <a href=\"https://twitter.com/BowenWang18\">@BowenWang18</a>?",
+            "ID": "1850949786964242492",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1040288424874303490",
+                    "Username": "BowenWang18",
+                    "Name": "Bowen Wang"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1850949786964242492",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850902717754933606",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "These did not age well:\n\n\"640K ought to be enough for anybody.\" - IBM PC RAM limit\n\n\"4B addresses ought to be enough.\" - IP v4\n\nThe sky is the limit for NEAR Protocol, right, @BowenWang18?",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T17:16:32Z",
+            "Timestamp": 1730135792,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 548,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850787511750005178",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "What is Internet? Well, while there is a technical definition of it, many people will call \u201cInternet Explorer\u201d [the web browser], \u201cGoogle search\u201d, \u201cFacebook\u201d, or \u201cWiFi network\u201d to be the Internet.<br><br>NEAR is similar; some will only see the blockchain, others will see crypto, yet \ud83d\udc47",
+            "ID": "1850787511750005178",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1850787511750005178",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849821794485653809",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "What is Internet? Well, while there is a technical definition of it, many people will call \u201cInternet Explorer\u201d [the web browser], \u201cGoogle search\u201d, \u201cFacebook\u201d, or \u201cWiFi network\u201d to be the Internet.\n\nNEAR is similar; some will only see the blockchain, others will see crypto, yet \ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T06:31:43Z",
+            "Timestamp": 1730097103,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 295,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849402954207408171",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "See you October 25th, 15:00 UTC<br><br>Live on Twitter: <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> <br>Live on Twitch: <a href=\"https://twitch.com/neardevhub\">https://t.co/0KywuRRJ8C</a><br>Live on YouTube: <a href=\"https://www.youtube.com/@neardevhub\">https://t.co/V0uKZEFHpY</a>",
+            "ID": "1849402954207408171",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1849402954207408171",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847337053052174535",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "See you October 25th, 15:00 UTC\n\nLive on Twitter: @NEARDevHub \nLive on Twitch: https://t.co/0KywuRRJ8C\nLive on YouTube: https://t.co/V0uKZEFHpY",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T10:49:59Z",
+            "Timestamp": 1729766999,
+            "URLs": [
+                "https://twitch.com/neardevhub",
+                "https://www.youtube.com/@neardevhub"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 779,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849031651289948360",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ThePiVortex\">@ThePiVortex</a> LHS doesn\u2019t make any sense, are we in obfuscation competition there? I assume that is Solana developer experience\u2026 That is  BRUTAL!<br><br>RHS feels dumb simple which it should be in the first place. I underappreciated NEAR developer experience by a ton",
+            "ID": "1849375831430164734",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849031651289948360",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "908332748435324929",
+                    "Username": "ThePiVortex",
+                    "Name": "Owen"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1849375831430164734",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ThePiVortex LHS doesn\u2019t make any sense, are we in obfuscation competition there? I assume that is Solana developer experience\u2026 That is  BRUTAL!\n\nRHS feels dumb simple which it should be in the first place. I underappreciated NEAR developer experience by a ton",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T09:02:12Z",
+            "Timestamp": 1729760532,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 74,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849196054790668443",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "If you can do it in C, you can do it anywhere. NEAR is mass adopted",
+            "ID": "1849196054790668443",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1849196054790668443",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849154267623375209",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "If you can do it in C, you can do it anywhere. NEAR is mass adopted",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T21:07:50Z",
+            "Timestamp": 1729717670,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 379,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849121325433966860",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://redacted.devpost.com/\">https://t.co/yvLOHeMeO8</a> - with almost $1M in bounties, it is a huge deal<br><br>It is a great opportunity to get a pretty solid first investment into your startup",
+            "ID": "1849121325433966860",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1849121325433966860",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "https://t.co/yvLOHeMeO8 - with almost $1M in bounties, it is a huge deal\n\nIt is a great opportunity to get a pretty solid first investment into your startup",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T16:10:53Z",
+            "Timestamp": 1729699853,
+            "URLs": [
+                "https://redacted.devpost.com/"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 168,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848774267422298552",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/chefsale\">@chefsale</a> No worries, that is just AI that sounds like you \ud83d\ude01",
+            "ID": "1848845067488006181",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848774267422298552",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1094369645061160960",
+                    "Username": "chefsale",
+                    "Name": "Sandi Fatic"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1848845067488006181",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@chefsale No worries, that is just AI that sounds like you \ud83d\ude01",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T21:53:08Z",
+            "Timestamp": 1729633988,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 32,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848755964473749923",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "[Redacted] Bangkok is coming in 2 weeks. If you haven't got your tickets yet, it is the last call: <a href=\"https://redactedbangkok.ai/\">https://t.co/HmGz1SaMeg</a><br><br>I'll talk about best practices for NEAR Smart Contracts Development there.<br><br>If you want to be ready for it, get ready with <a href=\"https://dev.near.org\">https://t.co/O75roOeoK0</a> <br><a href=\"https://t.co/zeFXjnueZB\"><img src=\"https://pbs.twimg.com/media/GagZpyCWEAENOxC.jpg\"/></a>",
+            "ID": "1848755964473749923",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1848755964473749923",
+            "Photos": [
+                {
+                    "ID": "1848755852632526849",
+                    "URL": "https://pbs.twimg.com/media/GagZpyCWEAENOxC.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "[Redacted] Bangkok is coming in 2 weeks. If you haven't got your tickets yet, it is the last call: https://t.co/HmGz1SaMeg\n\nI'll talk about best practices for NEAR Smart Contracts Development there.\n\nIf you want to be ready for it, get ready with https://t.co/O75roOeoK0 https://t.co/zeFXjnueZB",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T15:59:04Z",
+            "Timestamp": 1729612744,
+            "URLs": [
+                "https://redactedbangkok.ai/",
+                "https://dev.near.org"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 620,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848379359331025075",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Somehow I didn't mention it on the call.<br><br><a href=\"https://twitter.com/joespano_\">@joespano_</a> Thank you for making the stream so smooth! I only had to be focused on the content and answering the tech questions from the chats and everything else \"just worked\"!<br><br>Friday is coming, stay tuned",
+            "ID": "1848379359331025075",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 16,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "20245489",
+                    "Username": "joespano_",
+                    "Name": "Joe"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1848379359331025075",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847332477422997685",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Somehow I didn't mention it on the call.\n\n@joespano_ Thank you for making the stream so smooth! I only had to be focused on the content and answering the tech questions from the chats and everything else \"just worked\"!\n\nFriday is coming, stay tuned",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T15:02:35Z",
+            "Timestamp": 1729522955,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 493,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848258492483641752",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u201cThere are 3 kinds of lies: lies, damned lies, and statistics.\u201d",
+            "ID": "1848258492483641752",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1848258492483641752",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848099899335975139",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u201cThere are 3 kinds of lies: lies, damned lies, and statistics.\u201d",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T07:02:18Z",
+            "Timestamp": 1729494138,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 136,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848027512095339005",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "True hacking culture is about sharing and building on top of each others work!",
+            "ID": "1848027512095339005",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1848027512095339005",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847676064656404962",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "True hacking culture is about sharing and building on top of each others work!",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T15:44:28Z",
+            "Timestamp": 1729439068,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 408,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847799290724290610",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dabit3\">@dabit3</a> Try NEAR.<br><br>In under 4 minutes you can get your local development environment and first contract built and deployed: <a href=\"https://youtu.be/JAspXvOmTTY?si=MfFh1cpuEN91HfrL\">https://t.co/79A9rovtFW</a>",
+            "ID": "1848020073937506771",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847799290724290610",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "17189394",
+                    "Username": "dabit3",
+                    "Name": "nader dabit"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1848020073937506771",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dabit3 Try NEAR.\n\nIn under 4 minutes you can get your local development environment and first contract built and deployed: https://t.co/79A9rovtFW",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T15:14:54Z",
+            "Timestamp": 1729437294,
+            "URLs": [
+                "https://youtu.be/JAspXvOmTTY?si=MfFh1cpuEN91HfrL"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 2122,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846963344747422102",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xagarwal\">@0xagarwal</a> You don't need 10M, you can rely on Aurora Cloud that provides \"L2\" over NEAR. And then you can adjust your math from 10M to 20k<br><br><a href=\"https://x.com/AlexAuroraDev/status/1846972059429007638\">https://t.co/3B2lgmLuOk</a>",
+            "ID": "1847570635771310286",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846963344747422102",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1537711035817218048",
+                    "Username": "0xagarwal",
+                    "Name": "Rachit Agarwal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1847570635771310286",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846972059429007638",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xagarwal You don't need 10M, you can rely on Aurora Cloud that provides \"L2\" over NEAR. And then you can adjust your math from 10M to 20k\n\nhttps://t.co/3B2lgmLuOk",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T09:29:00Z",
+            "Timestamp": 1729330140,
+            "URLs": [
+                "https://x.com/AlexAuroraDev/status/1846972059429007638"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 173,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847337053052174535",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AvbNear\">@AvbNear</a> <a href=\"https://twitter.com/chefsale\">@chefsale</a> Sure, you are welcome",
+            "ID": "1847541461018898587",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847540325965054180",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1329286069028675585",
+                    "Username": "AvbNear",
+                    "Name": "AVB | avBrownDragon.near"
+                },
+                {
+                    "ID": "1094369645061160960",
+                    "Username": "chefsale",
+                    "Name": "Sandi Fatic"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1847541461018898587",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AvbNear @chefsale Sure, you are welcome",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T07:33:04Z",
+            "Timestamp": 1729323184,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 50,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847337053052174535",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/chefsale\">@chefsale</a> Would you like to join DevHub Live to talk about it? Devs must know exactly what\u2019s up with the privacy features from our point of view. I have my insights and, obviously, you are at the frontier of this problem. There is one rule to our talks - no marketing, only tech talks \ud83d\ude0e",
+            "ID": "1847539712992346467",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847370948145795156",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1094369645061160960",
+                    "Username": "chefsale",
+                    "Name": "Sandi Fatic"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1847539712992346467",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@chefsale Would you like to join DevHub Live to talk about it? Devs must know exactly what\u2019s up with the privacy features from our point of view. I have my insights and, obviously, you are at the frontier of this problem. There is one rule to our talks - no marketing, only tech talks \ud83d\ude0e",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T07:26:07Z",
+            "Timestamp": 1729322767,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 66,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847337053052174535",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The source code so far is here: <a href=\"https://github.com/frol/near-todo-app-contract\">https://t.co/II3oiCSLJo</a>",
+            "ID": "1847337426043207919",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847337053052174535",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1847337426043207919",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The source code so far is here: https://t.co/II3oiCSLJo",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T18:02:18Z",
+            "Timestamp": 1729274538,
+            "URLs": [
+                "https://github.com/frol/near-todo-app-contract"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 93,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847337053052174535",
+            "GIFs": null,
+            "Hashtags": [
+                "NearCloneWars"
+            ],
+            "HTML": "Next week I will tell you why standard Rust collections are not suitable for NEAR contracts when the number of stored elements is expected to be more than 1000.<br><br>We will also cover multitenancy (when you need each user to have their own Todo list), and privacy (!)<br><br><a href=\"https://twitter.com/hashtag/NearCloneWars\">#NearCloneWars</a>",
+            "ID": "1847337053052174535",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1847337053052174535",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847332477422997685",
+            "Replies": 3,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Next week I will tell you why standard Rust collections are not suitable for NEAR contracts when the number of stored elements is expected to be more than 1000.\n\nWe will also cover multitenancy (when you need each user to have their own Todo list), and privacy (!)\n\n#NearCloneWars",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T18:00:49Z",
+            "Timestamp": 1729274449,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 1662,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847316096707133669",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> It was a great stream with 3k+ viewers!<br><br>See you all next Friday then? <br><a href=\"https://t.co/VI3JbW8AB5\"><img src=\"https://pbs.twimg.com/media/GaMK91bWQAAtGmQ.jpg\"/></a>",
+            "ID": "1847332477422997685",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847316096707133669",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1847332477422997685",
+            "Photos": [
+                {
+                    "ID": "1847332329582116864",
+                    "URL": "https://pbs.twimg.com/media/GaMK91bWQAAtGmQ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon It was a great stream with 3k+ viewers!\n\nSee you all next Friday then? https://t.co/VI3JbW8AB5",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T17:42:39Z",
+            "Timestamp": 1729273359,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 1929,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/_clemens__\">@_clemens__</a> <a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> Decentralization is not about making things easier at first, so, unfortunately, we need to build the network first to make something easier later",
+            "ID": "1846936612430659752",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846920537039151403",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1258657988442820611",
+                    "Username": "_clemens__",
+                    "Name": "Clemens"
+                },
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1846936612430659752",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@_clemens__ @superteam @NEARDevHub Decentralization is not about making things easier at first, so, unfortunately, we need to build the network first to make something easier later",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T15:29:37Z",
+            "Timestamp": 1729178977,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 92,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/near_intern\">@near_intern</a> <a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> Can you elaborate what faith do you put into arweave / ipfs with the publishing scenario?",
+            "ID": "1846936270062211391",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846928532636582383",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1585746625779142660",
+                    "Username": "near_intern",
+                    "Name": "NEAR intern"
+                },
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1846936270062211391",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@near_intern @superteam @NEARDevHub Can you elaborate what faith do you put into arweave / ipfs with the publishing scenario?",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T15:28:15Z",
+            "Timestamp": 1729178895,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 77,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/elliot_braem\">@elliot_braem</a> <a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> Is it worth to be in pain all the time, hah?",
+            "ID": "1846934013996351912",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846930508732625254",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1603425135356157953",
+                    "Username": "elliot_braem",
+                    "Name": "elliot braem"
+                },
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1846934013996351912",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@elliot_braem @superteam @NEARDevHub Is it worth to be in pain all the time, hah?",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T15:19:17Z",
+            "Timestamp": 1729178357,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 53,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> Yet, it is challenging. Is it what we need right now?<br><br><a href=\"https://x.com/Freol/status/1846919061520765385\">https://t.co/y9y2eAevvO</a>",
+            "ID": "1846921487275508069",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846921058332418130",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1846921487275508069",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846919061520765385",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@superteam @NEARDevHub Yet, it is challenging. Is it what we need right now?\n\nhttps://t.co/y9y2eAevvO",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:29:31Z",
+            "Timestamp": 1729175371,
+            "URLs": [
+                "https://x.com/Freol/status/1846919061520765385"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 68,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> This creates a ton of challenges for the development team and for the users.<br><br>Is it worth it?<br><br>I believe this is the only way to prove the point that NEAR Protocol is ready for mass adoption, and it informs us on the pain points that still need more love to improve DevX and UX",
+            "ID": "1846921058332418130",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846920404285133182",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1846921058332418130",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@superteam @NEARDevHub This creates a ton of challenges for the development team and for the users.\n\nIs it worth it?\n\nI believe this is the only way to prove the point that NEAR Protocol is ready for mass adoption, and it informs us on the pain points that still need more love to improve DevX and UX",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:27:49Z",
+            "Timestamp": 1729175269,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 102,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> DevHub Portal uses NEAR Accounts, NEAR BOS UI, NEAR SocialDB (on chain contract), NEAR Rust contract, NEAR QueryAPI (ok, there is Postgres there), and Web4 and BOS hosting.<br><br>So it stores the proposals (text, authors, metadata), likes, and comments on chain<br><a href=\"https://github.com/NEAR-DevHub/neardevhub-bos\">https://t.co/0DttLdf63Z</a> <br><a href=\"https://t.co/9HbhnaaKQ3\"><img src=\"https://pbs.twimg.com/media/GaGUS_FXEAAZl9E.jpg\"/></a>",
+            "ID": "1846920404285133182",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846919061520765385",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1846920404285133182",
+            "Photos": [
+                {
+                    "ID": "1846920376091086848",
+                    "URL": "https://pbs.twimg.com/media/GaGUS_FXEAAZl9E.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@superteam @NEARDevHub DevHub Portal uses NEAR Accounts, NEAR BOS UI, NEAR SocialDB (on chain contract), NEAR Rust contract, NEAR QueryAPI (ok, there is Postgres there), and Web4 and BOS hosting.\n\nSo it stores the proposals (text, authors, metadata), likes, and comments on chain\nhttps://t.co/0DttLdf63Z https://t.co/9HbhnaaKQ3",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:25:13Z",
+            "Timestamp": 1729175113,
+            "URLs": [
+                "https://github.com/NEAR-DevHub/neardevhub-bos"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 67,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> Earn platform uses Google Auth, React, Mysql, and classic hosting, so pretty classic Web2 app with crypto payments (I am not sure if that is true)<br><br><a href=\"https://github.com/SuperteamDAO/earn\">https://t.co/76H6Z3nh1A</a> <br><a href=\"https://t.co/1BZoUNSGsR\"><img src=\"https://pbs.twimg.com/media/GaGTcJwXUAAkRWv.jpg\"/></a>",
+            "ID": "1846919672735666480",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846919061520765385",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1846919672735666480",
+            "Photos": [
+                {
+                    "ID": "1846919434063007744",
+                    "URL": "https://pbs.twimg.com/media/GaGTcJwXUAAkRWv.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@superteam @NEARDevHub Earn platform uses Google Auth, React, Mysql, and classic hosting, so pretty classic Web2 app with crypto payments (I am not sure if that is true)\n\nhttps://t.co/76H6Z3nh1A https://t.co/1BZoUNSGsR",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:22:18Z",
+            "Timestamp": 1729174938,
+            "URLs": [
+                "https://github.com/SuperteamDAO/earn"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 70,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "As a user, do you care if everything is on the blockchain?<br><br>\ud83e\uddf5 Earn by <a href=\"https://twitter.com/superteam\">@superteam</a> vs DevHub Portal by <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> <br><a href=\"https://t.co/28oAA6YBQ0\"><img src=\"https://pbs.twimg.com/media/GaGTCKPWYAAHG92.jpg\"/></a>",
+            "ID": "1846919061520765385",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 22,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1846919061520765385",
+            "Photos": [
+                {
+                    "ID": "1846918987516370944",
+                    "URL": "https://pbs.twimg.com/media/GaGTCKPWYAAHG92.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "As a user, do you care if everything is on the blockchain?\n\n\ud83e\uddf5 Earn by @superteam vs DevHub Portal by @NEARDevHub https://t.co/28oAA6YBQ0",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:19:53Z",
+            "Timestamp": 1729174793,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 870,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846627029808242996",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Live coding Todo App on NEAR.<br><br>Come to learn best practices and ask me anything",
+            "ID": "1846627029808242996",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1846627029808242996",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846559223129264529",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Live coding Todo App on NEAR.\n\nCome to learn best practices and ask me anything",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T18:59:27Z",
+            "Timestamp": 1729105167,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 402,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845241155941974154",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/noahmajor1776\">@noahmajor1776</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Support for multiple access keys with full or limited access keys that allow unique patters for application developers - gamedev where you don't need to confirm every transaction, instead, just give it an access key and let it sign limited scope of transactions on your behalf",
+            "ID": "1845431202389377533",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845241155941974154",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1434873194670874627",
+                    "Username": "noahmajor1776",
+                    "Name": "Nono \u22c8"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1845431202389377533",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@noahmajor1776 @NEARProtocol Support for multiple access keys with full or limited access keys that allow unique patters for application developers - gamedev where you don't need to confirm every transaction, instead, just give it an access key and let it sign limited scope of transactions on your behalf",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T11:47:39Z",
+            "Timestamp": 1728820059,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 259,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845038676503343592",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jonhoo\">@jonhoo</a> <a href=\"https://twitter.com/HelsingAI\">@HelsingAI</a> They are also hiring Rust devs and more <a href=\"https://helsing.ai/jobs/4125061101\">https://t.co/5AUpUhMd8J</a>",
+            "ID": "1845067848655437892",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845038676503343592",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "25386045",
+                    "Username": "jonhoo",
+                    "Name": "Jon Gjengset"
+                },
+                {
+                    "ID": "1432343446132609026",
+                    "Username": "HelsingAI",
+                    "Name": "Helsing"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1845067848655437892",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jonhoo @HelsingAI They are also hiring Rust devs and more https://t.co/5AUpUhMd8J",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T11:43:49Z",
+            "Timestamp": 1728733429,
+            "URLs": [
+                "https://helsing.ai/jobs/4125061101"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 63,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845038676503343592",
+            "GIFs": null,
+            "Hashtags": [
+                "eurorust2024",
+                "Ukraine"
+            ],
+            "HTML": "One more thing from <a href=\"https://twitter.com/hashtag/eurorust2024\">#eurorust2024</a> <br><br>It was great to connect with Robert Fink and <a href=\"https://twitter.com/jonhoo\">@jonhoo</a> to learn their vision of \u201cartificial intelligence to serve our democracies\u201d at <a href=\"https://twitter.com/HelsingAI\">@HelsingAI</a> where military defense software is built in Rust and helps <a href=\"https://twitter.com/hashtag/Ukraine\">#Ukraine</a> on the battlefield. <br><a href=\"https://t.co/InCGabOl5s\"><img src=\"https://pbs.twimg.com/media/GZrk5a7WQBINLbG.jpg\"/></a>",
+            "ID": "1845038676503343592",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "25386045",
+                    "Username": "jonhoo",
+                    "Name": "Jon Gjengset"
+                },
+                {
+                    "ID": "1432343446132609026",
+                    "Username": "HelsingAI",
+                    "Name": "Helsing"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1845038676503343592",
+            "Photos": [
+                {
+                    "ID": "1845038672493559826",
+                    "URL": "https://pbs.twimg.com/media/GZrk5a7WQBINLbG.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "One more thing from #eurorust2024 \n\nIt was great to connect with Robert Fink and @jonhoo to learn their vision of \u201cartificial intelligence to serve our democracies\u201d at @HelsingAI where military defense software is built in Rust and helps #Ukraine on the battlefield. https://t.co/InCGabOl5s",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T09:47:54Z",
+            "Timestamp": 1728726474,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 402,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845009998457327659",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DarthB86\">@DarthB86</a> <a href=\"https://twitter.com/race_of_sloths\">@race_of_sloths</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/near_ai\">@near_ai</a> Yeah, <a href=\"https://github.com/near-cli-rs/interactive-clap\">https://t.co/9cFJ3eEGe1</a> was also a hit, <a href=\"https://twitter.com/jonhoo\">@jonhoo</a> even suggested making a talk about it",
+            "ID": "1845023393793331293",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845018203417661533",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "27051043",
+                    "Username": "DarthB86",
+                    "Name": "Tim Janus"
+                },
+                {
+                    "ID": "1791732142583476224",
+                    "Username": "race_of_sloths",
+                    "Name": "race-of-sloths"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "916067753009623040",
+                    "Username": "near_ai",
+                    "Name": "NEAR AI"
+                },
+                {
+                    "ID": "25386045",
+                    "Username": "jonhoo",
+                    "Name": "Jon Gjengset"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1845023393793331293",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DarthB86 @race_of_sloths @NEARProtocol @near_ai Yeah, https://t.co/9cFJ3eEGe1 was also a hit, @jonhoo even suggested making a talk about it",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T08:47:10Z",
+            "Timestamp": 1728722830,
+            "URLs": [
+                "https://github.com/near-cli-rs/interactive-clap"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844462660529594525",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/m_ou_se\">@m_ou_se</a> Bugreport: fork_clone() does not work on Windows",
+            "ID": "1845011809033421208",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844462660529594525",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "35833187",
+                    "Username": "m_ou_se",
+                    "Name": "Mara"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1845011809033421208",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@m_ou_se Bugreport: fork_clone() does not work on Windows",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T08:01:08Z",
+            "Timestamp": 1728720068,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 54,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845009998457327659",
+            "GIFs": null,
+            "Hashtags": [
+                "eurorust2024"
+            ],
+            "HTML": "Main takeaways from <a href=\"https://twitter.com/hashtag/eurorust2024\">#eurorust2024</a>:<br><br>1. 50% of devs I talked to loved <a href=\"https://twitter.com/race_of_sloths\">@race_of_sloths</a>, others are neutral to it<br><br>2. Only a few devs knew about <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> and nobody knew about <a href=\"https://twitter.com/race_of_sloths\">@race_of_sloths</a> and <a href=\"https://twitter.com/near_ai\">@near_ai</a> <br><br>3. 30% of devs I talked to had a bitter taste for crypto/blockchain",
+            "ID": "1845009998457327659",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1791732142583476224",
+                    "Username": "race_of_sloths",
+                    "Name": "race-of-sloths"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1791732142583476224",
+                    "Username": "race_of_sloths",
+                    "Name": "race-of-sloths"
+                },
+                {
+                    "ID": "916067753009623040",
+                    "Username": "near_ai",
+                    "Name": "NEAR AI"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1845009998457327659",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844793893453496573",
+            "Replies": 3,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Main takeaways from #eurorust2024:\n\n1. 50% of devs I talked to loved @race_of_sloths, others are neutral to it\n\n2. Only a few devs knew about @NEARProtocol and nobody knew about @race_of_sloths and @near_ai \n\n3. 30% of devs I talked to had a bitter taste for crypto/blockchain",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T07:53:56Z",
+            "Timestamp": 1728719636,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 866,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844716390407606693",
+            "GIFs": null,
+            "Hashtags": [
+                "eurorust24"
+            ],
+            "HTML": "<a href=\"https://twitter.com/hashtag/eurorust24\">#eurorust24</a> is going fantastic!<br><br>Rust community is full of passionate devs with diverse backgrounds.<br><br>It was a great place to collect the feedback on <a href=\"https://twitter.com/race_of_sloths\">@race_of_sloths</a>. If you want to share your feedback, don\u2019t hesitate to reach out to me! <br><a href=\"https://t.co/MihDnjLDFe\"><img src=\"https://pbs.twimg.com/media/GZm_xosWEAgeYeu.jpg\"/></a><br><img src=\"https://pbs.twimg.com/media/GZm_xorXAAsSJOe.jpg\"/>",
+            "ID": "1844716390407606693",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1791732142583476224",
+                    "Username": "race_of_sloths",
+                    "Name": "race-of-sloths"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1844716390407606693",
+            "Photos": [
+                {
+                    "ID": "1844716381842837512",
+                    "URL": "https://pbs.twimg.com/media/GZm_xosWEAgeYeu.jpg"
+                },
+                {
+                    "ID": "1844716381838704651",
+                    "URL": "https://pbs.twimg.com/media/GZm_xorXAAsSJOe.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "#eurorust24 is going fantastic!\n\nRust community is full of passionate devs with diverse backgrounds.\n\nIt was a great place to collect the feedback on @race_of_sloths. If you want to share your feedback, don\u2019t hesitate to reach out to me! https://t.co/MihDnjLDFe",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T12:27:15Z",
+            "Timestamp": 1728649635,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 280,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844279162863063327",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SashaAngel87\">@SashaAngel87</a> <a href=\"https://twitter.com/cookbook_dev\">@cookbook_dev</a> Thanks for bringing it up! We will check it out",
+            "ID": "1844637413013905860",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844603763564413212",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "189777636",
+                    "Username": "SashaAngel87",
+                    "Name": "Aliaksandr \u201cSasha\u201d Hudzilin"
+                },
+                {
+                    "ID": "1559250409272664064",
+                    "Username": "cookbook_dev",
+                    "Name": "Cookbook.dev \ud83e\uddd1\u200d\ud83c\udf73"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1844637413013905860",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SashaAngel87 @cookbook_dev Thanks for bringing it up! We will check it out",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T07:13:25Z",
+            "Timestamp": 1728630805,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 38,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844279162863063327",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Check out the brand new NEAR Developers Portal at <a href=\"http://dev.near.org\">https://t.co/ifxcx6mfeB</a> <br><a href=\"https://t.co/a3cAkIcMid\"><img src=\"https://pbs.twimg.com/media/GZgyH4CXEAcKDeT.jpg\"/></a>",
+            "ID": "1844279162863063327",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "frol.near",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/Freol/status/1844279162863063327",
+            "Photos": [
+                {
+                    "ID": "1844279158290976775",
+                    "URL": "https://pbs.twimg.com/media/GZgyH4CXEAcKDeT.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Check out the brand new NEAR Developers Portal at https://t.co/ifxcx6mfeB https://t.co/a3cAkIcMid",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T07:29:52Z",
+            "Timestamp": 1728545392,
+            "URLs": [
+                "http://dev.near.org"
+            ],
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 1092,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844276843463205170",
+            "GIFs": null,
+            "Hashtags": [
+                "rustlang"
+            ],
+            "HTML": "See you at <a href=\"https://twitter.com/euro_rust\">@euro_rust</a>! Let\u2019s talk about NEAR Protocol and Race of Sloths and the role of <a href=\"https://twitter.com/hashtag/rustlang\">#rustlang</a> in it",
+            "ID": "1844276843463205170",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "frol.near",
+            "Mentions": [
+                {
+                    "ID": "1532263703130918915",
+                    "Username": "euro_rust",
+                    "Name": "EuroRust"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/Freol/status/1844276843463205170",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "See you at @euro_rust! Let\u2019s talk about NEAR Protocol and Race of Sloths and the role of #rustlang in it",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T07:20:39Z",
+            "Timestamp": 1728544839,
+            "URLs": null,
+            "UserID": "81293691",
+            "Username": "Freol",
+            "Videos": null,
+            "Views": 217,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

@@ -1,0 +1,4249 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854432098418885023",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CryptoConan\">@CryptoConan</a> LFG... for a walk? \ud83d\ude09",
+            "ID": "1854500987567853810",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854436727240163545",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1472352611797979140",
+                    "Username": "CryptoConan",
+                    "Name": "Conan"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1854500987567853810",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CryptoConan LFG... for a walk? \ud83d\ude09",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T12:27:45Z",
+            "Timestamp": 1730982465,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 69,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854432098418885023",
+            "GIFs": [
+                {
+                    "ID": "1854435960118755347",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbxHrjWWwBMuwQc.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbxHrjWWwBMuwQc.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/richboy1028\">@richboy1028</a> <br><a href=\"https://t.co/OiLMo5Mq0B\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbxHrjWWwBMuwQc.jpg\"/></a>",
+            "ID": "1854435968658346245",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854432401751253448",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1499611285541253124",
+                    "Username": "richboy1028",
+                    "Name": "CryptoHunter"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1854435968658346245",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@richboy1028 https://t.co/OiLMo5Mq0B",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T08:09:23Z",
+            "Timestamp": 1730966963,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 144,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854432098418885023",
+            "GIFs": [
+                {
+                    "ID": "1854435800483532811",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbxHiQqWkAszYXW.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbxHiQqWkAszYXW.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Vinzpromo\">@Vinzpromo</a> <br><a href=\"https://t.co/oEpFxv1WeD\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbxHiQqWkAszYXW.jpg\"/></a>",
+            "ID": "1854435808268226796",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854434671695982852",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1849398222277795840",
+                    "Username": "Vinzpromo",
+                    "Name": "Vinz | Marketing & Promotions"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1854435808268226796",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Vinzpromo https://t.co/oEpFxv1WeD",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T08:08:45Z",
+            "Timestamp": 1730966925,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 123,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854432098418885023",
+            "GIFs": [
+                {
+                    "ID": "1854435697152663558",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbxHcPuWoAY-QAy.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbxHcPuWoAY-QAy.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/good_kidd0\">@good_kidd0</a> <br><a href=\"https://t.co/KFOBv3DQr1\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbxHcPuWoAY-QAy.jpg\"/></a>",
+            "ID": "1854435705180529145",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854433591972823049",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1475850760713908237",
+                    "Username": "good_kidd0",
+                    "Name": "D\u00d4NGU"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1854435705180529145",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@good_kidd0 https://t.co/KFOBv3DQr1",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T08:08:20Z",
+            "Timestamp": 1730966900,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 101,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854432098418885023",
+            "GIFs": [
+                {
+                    "ID": "1854435518571814928",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbxHR2dXIBAA2_r.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbxHR2dXIBAA2_r.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NftPerks\">@NftPerks</a> <br><a href=\"https://t.co/61vNIeQth2\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbxHR2dXIBAA2_r.jpg\"/></a>",
+            "ID": "1854435526545142108",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854432804626715115",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1452553114733666305",
+                    "Username": "NftPerks",
+                    "Name": "NFTPerks \ud83c\uddf5\ud83c\uddf9"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1854435526545142108",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NftPerks https://t.co/61vNIeQth2",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T08:07:37Z",
+            "Timestamp": 1730966857,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 150,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854432098418885023",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Eat.<br><br>Sleep.<br><br>Sweat.<br><br>Repeat \ud83d\udd01",
+            "ID": "1854432098418885023",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 154,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1854432098418885023",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 25,
+            "Retweets": 19,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Eat.\n\nSleep.\n\nSweat.\n\nRepeat \ud83d\udd01",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T07:54:00Z",
+            "Timestamp": 1730966040,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 9633,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854234228159873379",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/TannisTea\">@TannisTea</a> More information will be released soon ;)<br><br>Thanks for signing up!",
+            "ID": "1854243664240767343",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854237776486477989",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "14740645",
+                    "Username": "TannisTea",
+                    "Name": "\u15b4\u1587E\u15ea\u1587IK K\u15e9\u1587\u14aaSSO\u144e \ud83c\uddf8\ud83c\uddea"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1854243664240767343",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@TannisTea More information will be released soon ;)\n\nThanks for signing up!",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T19:25:14Z",
+            "Timestamp": 1730921114,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 165,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854234228159873379",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Join our Discord: <a href=\"https://buff.ly/41PZSaQ\">https://t.co/6WghQF9iwm</a><br><br>Join our Reddit: <a href=\"https://buff.ly/4hxT21f\">https://t.co/NllUpBPCDK</a> <br><a href=\"https://t.co/HixNLn4IhP\"><img src=\"https://pbs.twimg.com/media/GbuQM_uXIAo7tkq.jpg\"/></a>",
+            "ID": "1854234229883728344",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854234228159873379",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 37,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1854234229883728344",
+            "Photos": [
+                {
+                    "ID": "1854234224531808266",
+                    "URL": "https://pbs.twimg.com/media/GbuQM_uXIAo7tkq.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Join our Discord: https://t.co/6WghQF9iwm\n\nJoin our Reddit: https://t.co/NllUpBPCDK https://t.co/HixNLn4IhP",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T18:47:45Z",
+            "Timestamp": 1730918865,
+            "URLs": [
+                "https://buff.ly/41PZSaQ",
+                "https://buff.ly/4hxT21f"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5169,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854234228159873379",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The Steps Showdown is starting soon \u23f3 <br><br>Sign up now to support your team!<br><br>Be quick! There's only 50 slots per platform \ud83d\udc40 <br><br>Links below \ud83d\udc47 <br><a href=\"https://t.co/wm06kk8mjY\"><img src=\"https://pbs.twimg.com/media/GbuQM8JXIBI3X_P.jpg\"/></a>",
+            "ID": "1854234228159873379",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 88,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1854234228159873379",
+            "Photos": [
+                {
+                    "ID": "1854234223571312658",
+                    "URL": "https://pbs.twimg.com/media/GbuQM8JXIBI3X_P.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The Steps Showdown is starting soon \u23f3 \n\nSign up now to support your team!\n\nBe quick! There's only 50 slots per platform \ud83d\udc40 \n\nLinks below \ud83d\udc47 https://t.co/wm06kk8mjY",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T18:47:44Z",
+            "Timestamp": 1730918864,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 6934,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853920551158313284",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AustynMatthews\">@AustynMatthews</a> <a href=\"https://twitter.com/hatimwolf1\">@hatimwolf1</a> Anything to say about this \ud83d\udc40",
+            "ID": "1853921180258127951",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853920852741439941",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "535175757",
+                    "Username": "AustynMatthews",
+                    "Name": "AustynMatthews"
+                },
+                {
+                    "ID": "1676966597729320963",
+                    "Username": "hatimwolf1",
+                    "Name": "hatimwolf"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1853921180258127951",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AustynMatthews @hatimwolf1 Anything to say about this \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T22:03:48Z",
+            "Timestamp": 1730844228,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 120,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853920551158313284",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Join your favourite community now \ud83d\udc47 <br><br><a href=\"https://buff.ly/41PZSaQ\">https://t.co/6WghQF9iwm</a><br><br><a href=\"https://buff.ly/4hxT21f\">https://t.co/NllUpBPCDK</a>",
+            "ID": "1853920553129705527",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853920551158313284",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 28,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1853920553129705527",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Join your favourite community now \ud83d\udc47 \n\nhttps://t.co/6WghQF9iwm\n\nhttps://t.co/NllUpBPCDK",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T22:01:18Z",
+            "Timestamp": 1730844078,
+            "URLs": [
+                "https://buff.ly/41PZSaQ",
+                "https://buff.ly/4hxT21f"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5251,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853920551158313284",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Your movement has immense value \ud83d\udeb6\u200d\u2642\ufe0f <br><br>Will you walk for your favourite platform?<br><br>Heed the call \ud83d\udce3 <br><a href=\"https://t.co/C3gmMWCD3W\"><img src=\"https://pbs.twimg.com/media/Gbpy6mAX0AA03T8.jpg\"/></a>",
+            "ID": "1853920551158313284",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 105,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1853920551158313284",
+            "Photos": [
+                {
+                    "ID": "1853920547576467456",
+                    "URL": "https://pbs.twimg.com/media/Gbpy6mAX0AA03T8.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Your movement has immense value \ud83d\udeb6\u200d\u2642\ufe0f \n\nWill you walk for your favourite platform?\n\nHeed the call \ud83d\udce3 https://t.co/C3gmMWCD3W",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T22:01:18Z",
+            "Timestamp": 1730844078,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 7438,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853557815689834962",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Psst! You can earn extra $SWEAT, right now!<br><br>Check out our advertising partner, AITech's new Sweat Wallet lesson \ud83d\udcd6<br><br>Take the short lesson for a quick balance boost, plus get free access to the fastest Web3 AI Marketplace \ud83d\udc40<br><br>The reward won't last forever \u23f0 <br><a href=\"https://t.co/6r4o5FhXfb\"><img src=\"https://pbs.twimg.com/media/GbkpAmjXEAEGXa5.jpg\"/></a>",
+            "ID": "1853557815689834962",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 224,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1853557815689834962",
+            "Photos": [
+                {
+                    "ID": "1853557811965267969",
+                    "URL": "https://pbs.twimg.com/media/GbkpAmjXEAEGXa5.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 52,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Psst! You can earn extra $SWEAT, right now!\n\nCheck out our advertising partner, AITech's new Sweat Wallet lesson \ud83d\udcd6\n\nTake the short lesson for a quick balance boost, plus get free access to the fastest Web3 AI Marketplace \ud83d\udc40\n\nThe reward won't last forever \u23f0 https://t.co/6r4o5FhXfb",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T21:59:55Z",
+            "Timestamp": 1730757595,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 10962,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853440595810734125",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEATWallet"
+            ],
+            "HTML": "Coming soon in <a href=\"https://twitter.com/hashtag/SWEATWallet\">#SWEATWallet</a> \u2b50\ufe0f<br><br>Chain Abstraction with <a href=\"https://twitter.com/ethereum\">@ethereum</a>, <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a>, <a href=\"https://twitter.com/arbitrum\">@arbitrum</a>, <a href=\"https://twitter.com/Optimism\">@Optimism</a>, <a href=\"https://twitter.com/base\">@base</a>.<br><br>Transact on any chain, and never worry about gas fees \ud83d\udc40<br><br>Pay your fees with your feet -- in $SWEAT! \ud83d\udca7<br><br>Have a chain you want to see? Tag them below \ud83d\udc47 <br><a href=\"https://t.co/Hr672dmRMM\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1853440566492598272/pu/img/7K2AYOwafRO0f06L.jpg\"/></a>",
+            "ID": "1853440595810734125",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 166,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1853440595810734125",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 28,
+            "Retweets": 31,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Coming soon in #SWEATWallet \u2b50\ufe0f\n\nChain Abstraction with @ethereum, @BNBCHAIN, @arbitrum, @Optimism, @base.\n\nTransact on any chain, and never worry about gas fees \ud83d\udc40\n\nPay your fees with your feet -- in $SWEAT! \ud83d\udca7\n\nHave a chain you want to see? Tag them below \ud83d\udc47 https://t.co/Hr672dmRMM",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T14:14:07Z",
+            "Timestamp": 1730729647,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": [
+                {
+                    "ID": "1853440566492598272",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1853440566492598272/pu/img/7K2AYOwafRO0f06L.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1853440566492598272/pu/vid/avc1/720x1280/eYP6O05bP9wHZUuB.mp4?tag=12"
+                }
+            ],
+            "Views": 7579,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852262932068872377",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf83 Trick or Treat \ud83c\udf83<br><br>The Halloween Jar has arrived \ud83d\udc7b<br><br>\u2705 Available for a limited time <br>\u2705 Selected regions<br><br>Unlock this spooky jar &amp; watch your $SWEAT grow! <br><a href=\"https://t.co/IBjPnEkOwe\"><img src=\"https://pbs.twimg.com/media/GbSPUafWwAEvNzC.jpg\"/></a>",
+            "ID": "1852262932068872377",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 138,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1852262932068872377",
+            "Photos": [
+                {
+                    "ID": "1852262927627108353",
+                    "URL": "https://pbs.twimg.com/media/GbSPUafWwAEvNzC.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 14,
+            "Retweets": 14,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf83 Trick or Treat \ud83c\udf83\n\nThe Halloween Jar has arrived \ud83d\udc7b\n\n\u2705 Available for a limited time \n\u2705 Selected regions\n\nUnlock this spooky jar &amp; watch your $SWEAT grow! https://t.co/IBjPnEkOwe",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T08:14:31Z",
+            "Timestamp": 1730448871,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 8724,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852047635777228825",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEATWallet",
+                "SweatAI",
+                "ArtificialIntelligence"
+            ],
+            "HTML": "\ud83e\udd16 x3 = \ud83d\udca1Why ask one AI when you can ask three? Query multiple enterprise AI models simultaneously with $SWEAT AI. Your questions, amplified. <br><br>Open your <a href=\"https://twitter.com/hashtag/SWEATWallet\">#SWEATWallet</a> and click on the PlayHub to get started. <br><br><a href=\"https://twitter.com/hashtag/SweatAI\">#SweatAI</a> <a href=\"https://twitter.com/hashtag/ArtificialIntelligence\">#ArtificialIntelligence</a>",
+            "ID": "1852047635777228825",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 91,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1852047635777228825",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83e\udd16 x3 = \ud83d\udca1Why ask one AI when you can ask three? Query multiple enterprise AI models simultaneously with $SWEAT AI. Your questions, amplified. \n\nOpen your #SWEATWallet and click on the PlayHub to get started. \n\n#SweatAI #ArtificialIntelligence",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T17:59:00Z",
+            "Timestamp": 1730397540,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 7143,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851694817874485322",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "If you win, promise you'll take pictures of your walks! \ud83d\udcf2 <br><br><a href=\"https://buff.ly/4dRIgQb\">https://t.co/4AJDCvTotU</a>",
+            "ID": "1851694819644461119",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851694817874485322",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 50,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1851694819644461119",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "If you win, promise you'll take pictures of your walks! \ud83d\udcf2 \n\nhttps://t.co/4AJDCvTotU",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T18:37:02Z",
+            "Timestamp": 1730313422,
+            "URLs": [
+                "https://buff.ly/4dRIgQb"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5321,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851694817874485322",
+            "GIFs": null,
+            "Hashtags": [
+                "SweatWallet"
+            ],
+            "HTML": "\ud83d\udcf8 Capture every moment with the Google Pixel 9 Pro!<br><br>Will you be the lucky winner to take it home?<br><br>Head to the <a href=\"https://twitter.com/hashtag/SweatWallet\">#SweatWallet</a> now \ud83d\udc47 <br><a href=\"https://t.co/fB1kmMxNt5\"><img src=\"https://pbs.twimg.com/media/GbKKn25WAAAFA49.jpg\"/></a>",
+            "ID": "1851694817874485322",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 100,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1851694817874485322",
+            "Photos": [
+                {
+                    "ID": "1851694814158258176",
+                    "URL": "https://pbs.twimg.com/media/GbKKn25WAAAFA49.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 15,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcf8 Capture every moment with the Google Pixel 9 Pro!\n\nWill you be the lucky winner to take it home?\n\nHead to the #SweatWallet now \ud83d\udc47 https://t.co/fB1kmMxNt5",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T18:37:02Z",
+            "Timestamp": 1730313422,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 7032,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851603968691957905",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Enter now \ud83d\udc47 <br><br><a href=\"https://buff.ly/4hn1118\">https://t.co/Ojo1nOao32</a>",
+            "ID": "1851603970474557672",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851603968691957905",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 30,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1851603970474557672",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Enter now \ud83d\udc47 \n\nhttps://t.co/Ojo1nOao32",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T12:36:02Z",
+            "Timestamp": 1730291762,
+            "URLs": [
+                "https://buff.ly/4hn1118"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 4675,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851603968691957905",
+            "GIFs": null,
+            "Hashtags": [
+                "SweatWallet"
+            ],
+            "HTML": "Ready for a <a href=\"https://twitter.com/hashtag/SweatWallet\">#SweatWallet</a> reward? \ud83d\udc40 <br><br>Five lucky people will win 2500 $SWEAT each!<br><br>Follow the link below and enter for your chance to win \ud83d\udc47 <br><a href=\"https://t.co/TDMDKk7jRA\"><img src=\"https://pbs.twimg.com/media/GbI3_vJWsAAmzk4.jpg\"/></a>",
+            "ID": "1851603968691957905",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 102,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1851603968691957905",
+            "Photos": [
+                {
+                    "ID": "1851603964929683456",
+                    "URL": "https://pbs.twimg.com/media/GbI3_vJWsAAmzk4.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 18,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Ready for a #SweatWallet reward? \ud83d\udc40 \n\nFive lucky people will win 2500 $SWEAT each!\n\nFollow the link below and enter for your chance to win \ud83d\udc47 https://t.co/TDMDKk7jRA",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T12:36:01Z",
+            "Timestamp": 1730291761,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 6205,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851377478268338399",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Click!<br><br><a href=\"https://buff.ly/3C1r65p\">https://t.co/5V7tMmiqTr</a>",
+            "ID": "1851377480138957184",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851377478268338399",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 30,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1851377480138957184",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Click!\n\nhttps://t.co/5V7tMmiqTr",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T21:36:02Z",
+            "Timestamp": 1730237762,
+            "URLs": [
+                "https://buff.ly/3C1r65p"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5296,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851377478268338399",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 Want to boost your wallet with 1500 $USDT?<br><br>One winner will take it all\u2014enter now for your shot at the prize! \ud83d\udcb8<br><br>Follow the link \ud83d\udc47 <br><a href=\"https://t.co/bYxsxNcXPk\"><img src=\"https://pbs.twimg.com/media/GbFqAPVXAAA8N0y.jpg\"/></a>",
+            "ID": "1851377478268338399",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 93,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1851377478268338399",
+            "Photos": [
+                {
+                    "ID": "1851377474174648320",
+                    "URL": "https://pbs.twimg.com/media/GbFqAPVXAAA8N0y.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 11,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 Want to boost your wallet with 1500 $USDT?\n\nOne winner will take it all\u2014enter now for your shot at the prize! \ud83d\udcb8\n\nFollow the link \ud83d\udc47 https://t.co/bYxsxNcXPk",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T21:36:02Z",
+            "Timestamp": 1730237762,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 6929,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851323696448741508",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Post your questions below!<br><br>Our Co-founder <a href=\"https://twitter.com/oleg_fem\">@oleg_fem</a> and Head of Community <a href=\"https://twitter.com/WGNSpear\">@WGNSpear</a> will answer them live\ud83d\udd25 <br><a href=\"https://t.co/LwMC5sVYtm\"><img src=\"https://pbs.twimg.com/media/GbEqTt7bQAMKJUM.jpg\"/></a>",
+            "ID": "1851323700387221906",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851323696448741508",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "104829341",
+                    "Username": "oleg_fem",
+                    "Name": "Oleg \ud83d\ude05 Sweat Economy"
+                },
+                {
+                    "ID": "4174140261",
+                    "Username": "WGNSpear",
+                    "Name": "Ashton | Sweat Economy"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1851323700387221906",
+            "Photos": [
+                {
+                    "ID": "1851307440060710915",
+                    "URL": "https://pbs.twimg.com/media/GbEqTt7bQAMKJUM.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Post your questions below!\n\nOur Co-founder @oleg_fem and Head of Community @WGNSpear will answer them live\ud83d\udd25 https://t.co/LwMC5sVYtm",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T18:02:20Z",
+            "Timestamp": 1730224940,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 4244,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851323696448741508",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEAT"
+            ],
+            "HTML": "Did you miss our Token Holder Briefing?<br><br>Don't worry! We've got you covered. Join our upcoming recap to hear all about <a href=\"https://twitter.com/hashtag/SWEAT\">#SWEAT</a>.<br><br>Plus, we're answering all of your burning questions!<br><br>\u23f0 3PM UTC, Wed 30th October.<br><br>\ud83d\udd17 Set your reminder now <a href=\"https://x.com/i/spaces/1nAKEpBQyzRxL\">https://t.co/AjnRVLi1Nj</a>",
+            "ID": "1851323696448741508",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 81,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1851323696448741508",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Did you miss our Token Holder Briefing?\n\nDon't worry! We've got you covered. Join our upcoming recap to hear all about #SWEAT.\n\nPlus, we're answering all of your burning questions!\n\n\u23f0 3PM UTC, Wed 30th October.\n\n\ud83d\udd17 Set your reminder now https://t.co/AjnRVLi1Nj",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T18:02:19Z",
+            "Timestamp": 1730224939,
+            "URLs": [
+                "https://x.com/i/spaces/1nAKEpBQyzRxL"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5985,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851315815808729128",
+            "GIFs": null,
+            "Hashtags": [
+                "SweatTips"
+            ],
+            "HTML": "\ud83d\udca1 Pro Tip: Claim your $SWEAT daily to optimize your earnings<br><br>Quick guide:<br><br>1. Open SWEAT Wallet<br>2. Tap \"Claim\"<br>3. Go forth and move<br><br>Simple, but effective \ud83d\udcc8 <a href=\"https://twitter.com/hashtag/SweatTips\">#SweatTips</a>",
+            "ID": "1851315815808729128",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 102,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1851315815808729128",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 13,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udca1 Pro Tip: Claim your $SWEAT daily to optimize your earnings\n\nQuick guide:\n\n1. Open SWEAT Wallet\n2. Tap \"Claim\"\n3. Go forth and move\n\nSimple, but effective \ud83d\udcc8 #SweatTips",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T17:31:00Z",
+            "Timestamp": 1730223060,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 6834,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850913220631875984",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEAT",
+                "Bitget"
+            ],
+            "HTML": "\ud83d\udd25 $SWEAT USDT-M Futures now live on <a href=\"https://twitter.com/bitgetglobal\">@bitgetglobal</a><br><br><a href=\"https://twitter.com/hashtag/SWEAT\">#SWEAT</a> \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffd <a href=\"https://twitter.com/hashtag/Bitget\">#Bitget</a>",
+            "ID": "1850913220631875984",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 103,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1098881129057112064",
+                    "Username": "bitgetglobal",
+                    "Name": "Bitget"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1850913220631875984",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850858802725142869",
+            "Replies": 8,
+            "Retweets": 14,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udd25 $SWEAT USDT-M Futures now live on @bitgetglobal\n\n#SWEAT \ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udffd #Bitget",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T14:51:14Z",
+            "Timestamp": 1730127074,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 9588,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850903855619260746",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Enter now!<br><br><a href=\"https://buff.ly/40bSGa9\">https://t.co/n9ovJYAONd</a>",
+            "ID": "1850903857208893914",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850903855619260746",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1850903857208893914",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Enter now!\n\nhttps://t.co/n9ovJYAONd",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T14:14:02Z",
+            "Timestamp": 1730124842,
+            "URLs": [
+                "https://buff.ly/40bSGa9"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 4214,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850903855619260746",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf89 Win a YEAR of fuel on us! \ud83c\udf89<br><br>That\u2019s $3000 to keep you on the road \u2014 just ONE winner!<br><br>Don\u2019t miss out, enter now \ud83d\udc47 <br><a href=\"https://t.co/SNROb5cnze\"><img src=\"https://pbs.twimg.com/media/Ga-7PzkXEAECRxv.jpg\"/></a>",
+            "ID": "1850903855619260746",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 116,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1850903855619260746",
+            "Photos": [
+                {
+                    "ID": "1850903852087709697",
+                    "URL": "https://pbs.twimg.com/media/Ga-7PzkXEAECRxv.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 14,
+            "Retweets": 13,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf89 Win a YEAR of fuel on us! \ud83c\udf89\n\nThat\u2019s $3000 to keep you on the road \u2014 just ONE winner!\n\nDon\u2019t miss out, enter now \ud83d\udc47 https://t.co/SNROb5cnze",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T14:14:01Z",
+            "Timestamp": 1730124841,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 6196,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850876421716967505",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Like if you've been for a walk today \ud83d\udca7",
+            "ID": "1850876421716967505",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 173,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1850876421716967505",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Like if you've been for a walk today \ud83d\udca7",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T12:25:01Z",
+            "Timestamp": 1730118301,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 8856,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850229919269130647",
+            "GIFs": null,
+            "Hashtags": [
+                "SweatWallet"
+            ],
+            "HTML": "Head to the <a href=\"https://twitter.com/hashtag/SweatWallet\">#SweatWallet</a> app now \ud83d\udcf2 <br><br><a href=\"https://buff.ly/3Ugpmf1\">https://t.co/TsIKD2yDdP</a>",
+            "ID": "1850229921475395877",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850229919269130647",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1850229921475395877",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Head to the #SweatWallet app now \ud83d\udcf2 \n\nhttps://t.co/TsIKD2yDdP",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T17:36:03Z",
+            "Timestamp": 1729964163,
+            "URLs": [
+                "https://buff.ly/3Ugpmf1"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5703,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850229919269130647",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u2728 Ready to level up your eyewear game? \u2728<br><br>One lucky person will win a pair of Ray-Ban x Meta Glasses! \ud83d\ude0e<br><br>Hit the link below to enter \ud83d\udc47 <br><a href=\"https://t.co/gBOBisgdra\"><img src=\"https://pbs.twimg.com/media/Ga1WTWjbQAAtzra.jpg\"/></a>",
+            "ID": "1850229919269130647",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 107,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1850229919269130647",
+            "Photos": [
+                {
+                    "ID": "1850229912390811648",
+                    "URL": "https://pbs.twimg.com/media/Ga1WTWjbQAAtzra.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 14,
+            "Retweets": 18,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u2728 Ready to level up your eyewear game? \u2728\n\nOne lucky person will win a pair of Ray-Ban x Meta Glasses! \ud83d\ude0e\n\nHit the link below to enter \ud83d\udc47 https://t.co/gBOBisgdra",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T17:36:03Z",
+            "Timestamp": 1729964163,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 7604,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849801593098539171",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Did you Snek today \ud83d\udc0d <br><br>\ud83d\udd17 join the fun: <a href=\"https://buff.ly/406mmFB\">https://t.co/4nd7cO6PAC</a> <br><a href=\"https://t.co/zR7Klkukvm\"><img src=\"https://pbs.twimg.com/media/GavQvq1XAAAUJVH.jpg\"/></a>",
+            "ID": "1849801593098539171",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 95,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849801593098539171",
+            "Photos": [
+                {
+                    "ID": "1849801589336244224",
+                    "URL": "https://pbs.twimg.com/media/GavQvq1XAAAUJVH.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 20,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Did you Snek today \ud83d\udc0d \n\n\ud83d\udd17 join the fun: https://t.co/4nd7cO6PAC https://t.co/zR7Klkukvm",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T13:14:02Z",
+            "Timestamp": 1729862042,
+            "URLs": [
+                "https://buff.ly/406mmFB"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 7417,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849529799103934633",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEAT",
+                "MintingWindow"
+            ],
+            "HTML": "\ud83c\udfc5  Sweat community win!<br><br>In July, you all voted to reward more active users by updating <a href=\"https://twitter.com/hashtag/SWEAT\u2019s\">#SWEAT\u2019s</a> <a href=\"https://twitter.com/hashtag/MintingWindow\">#MintingWindow</a>, and the results are huge.<br><br>\ud83e\udd41  SWEAT emissions are down 30% since the vote...<br><br>Plus, super steppers mint 2.5+ $SWEAT per day \ud83d\ude4c <br><br>GM! <br><a href=\"https://t.co/27CUMdoTo8\"><img src=\"https://pbs.twimg.com/media/GarZjOaXMAAngV3.jpg\"/></a>",
+            "ID": "1849529799103934633",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 134,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849529799103934633",
+            "Photos": [
+                {
+                    "ID": "1849529796176326656",
+                    "URL": "https://pbs.twimg.com/media/GarZjOaXMAAngV3.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 10,
+            "Retweets": 19,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udfc5  Sweat community win!\n\nIn July, you all voted to reward more active users by updating #SWEAT\u2019s #MintingWindow, and the results are huge.\n\n\ud83e\udd41  SWEAT emissions are down 30% since the vote...\n\nPlus, super steppers mint 2.5+ $SWEAT per day \ud83d\ude4c \n\nGM! https://t.co/27CUMdoTo8",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T19:14:01Z",
+            "Timestamp": 1729797241,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 8204,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849393899963294080",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Ribes_ita\">@Ribes_ita</a> Hi! Sent you a DM!",
+            "ID": "1849449377200267380",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849401394589213122",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "133768268",
+                    "Username": "Ribes_ita",
+                    "Name": "DENISSE ANDREA"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849449377200267380",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Ribes_ita Hi! Sent you a DM!",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T13:54:27Z",
+            "Timestamp": 1729778067,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 129,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849393899963294080",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Emmytexmartinz\">@Emmytexmartinz</a> We responded. Check your DMs!",
+            "ID": "1849409601696915944",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849396555389833251",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1828534851495993344",
+                    "Username": "Emmytexmartinz",
+                    "Name": "Emmytex\ud83d\udcc9"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849409601696915944",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Emmytexmartinz We responded. Check your DMs!",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T11:16:24Z",
+            "Timestamp": 1729768584,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 97,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849393899963294080",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Tag a friend you think should go on a walk \ud83d\udc40",
+            "ID": "1849393899963294080",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 89,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849393899963294080",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 23,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Tag a friend you think should go on a walk \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T10:14:00Z",
+            "Timestamp": 1729764840,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 8935,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849154076988371112",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mmtaydn21\">@mmtaydn21</a> <a href=\"https://twitter.com/C00l1n_k\">@C00l1n_k</a> Yes! We give out tons of rewards in the app frequently, so check back there on the regular to enter and keep following Discord and Twitter for one-off giveaways.",
+            "ID": "1849174800352088204",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849169268010590562",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1591493464956469249",
+                    "Username": "mmtaydn21",
+                    "Name": "mmtaydn"
+                },
+                {
+                    "ID": "1583277210",
+                    "Username": "C00l1n_k",
+                    "Name": "CoolSkullz"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849174800352088204",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mmtaydn21 @C00l1n_k Yes! We give out tons of rewards in the app frequently, so check back there on the regular to enter and keep following Discord and Twitter for one-off giveaways.",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T19:43:23Z",
+            "Timestamp": 1729712603,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 134,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849154076988371112",
+            "GIFs": [
+                {
+                    "ID": "1849156707013865472",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GamGOk-XsAAgSh8.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GamGOk-XsAAgSh8.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/OluBruce\">@OluBruce</a> <a href=\"https://twitter.com/C00l1n_k\">@C00l1n_k</a> <br><a href=\"https://t.co/1uZuFmmMiJ\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GamGOk-XsAAgSh8.jpg\"/></a>",
+            "ID": "1849156714555433126",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849154771107606553",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "985447948522795008",
+                    "Username": "OluBruce",
+                    "Name": "Someone Else\u2728\ufe0f\ud83d\udc1e"
+                },
+                {
+                    "ID": "1583277210",
+                    "Username": "C00l1n_k",
+                    "Name": "CoolSkullz"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849156714555433126",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@OluBruce @C00l1n_k https://t.co/1uZuFmmMiJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T18:31:31Z",
+            "Timestamp": 1729708291,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 168,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849154076988371112",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEATMeme"
+            ],
+            "HTML": "Some degen plays have been made \ud83d\udc4f<br><br>Will the real <a href=\"https://twitter.com/hashtag/SWEATMeme\">#SWEATMeme</a> creator please stand up?! <br><br>Your prize awaits!<br><br>(Check your DMS, <a href=\"https://twitter.com/C00l1n_k\">@C00l1n_k</a>) <br><a href=\"https://t.co/iI00K1xNoW\"><img src=\"https://pbs.twimg.com/media/GamC3T2WcAAEGcS.png\"/></a><br><img src=\"https://pbs.twimg.com/media/GamDzDNWIAAnHy3.png\"/><br><img src=\"https://pbs.twimg.com/media/GamDzDGXgAArghK.png\"/><br><img src=\"https://pbs.twimg.com/media/GamDzDGW4AEwAK3.png\"/>",
+            "ID": "1849154076988371112",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 81,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1583277210",
+                    "Username": "C00l1n_k",
+                    "Name": "CoolSkullz"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849154076988371112",
+            "Photos": [
+                {
+                    "ID": "1849153008744951808",
+                    "URL": "https://pbs.twimg.com/media/GamC3T2WcAAEGcS.png"
+                },
+                {
+                    "ID": "1849154035070148608",
+                    "URL": "https://pbs.twimg.com/media/GamDzDNWIAAnHy3.png"
+                },
+                {
+                    "ID": "1849154035040878592",
+                    "URL": "https://pbs.twimg.com/media/GamDzDGXgAArghK.png"
+                },
+                {
+                    "ID": "1849154035040837633",
+                    "URL": "https://pbs.twimg.com/media/GamDzDGW4AEwAK3.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 12,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Some degen plays have been made \ud83d\udc4f\n\nWill the real #SWEATMeme creator please stand up?! \n\nYour prize awaits!\n\n(Check your DMS, @C00l1n_k) https://t.co/iI00K1xNoW",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T18:21:02Z",
+            "Timestamp": 1729707662,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 7401,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848745004174331936",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/C00l1n_k\">@C00l1n_k</a> <a href=\"https://twitter.com/annonnyng\">@annonnyng</a> We see you!",
+            "ID": "1849075615099507090",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848860619925295127",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1583277210",
+                    "Username": "C00l1n_k",
+                    "Name": "CoolSkullz"
+                },
+                {
+                    "ID": "3610694801",
+                    "Username": "annonnyng",
+                    "Name": "dogs94"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849075615099507090",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@C00l1n_k @annonnyng We see you!",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T13:09:15Z",
+            "Timestamp": 1729688955,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 57,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849065943680340079",
+            "GIFs": [
+                {
+                    "ID": "1849072655187521536",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gak5yHhXMAASmQR.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gak5yHhXMAASmQR.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DaytonDefi\">@DaytonDefi</a> <br><a href=\"https://t.co/IvuTJHLduG\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gak5yHhXMAASmQR.jpg\"/></a>",
+            "ID": "1849072662930190844",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849071002686259542",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1556390172354383872",
+                    "Username": "DaytonDefi",
+                    "Name": "Googliano"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849072662930190844",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DaytonDefi https://t.co/IvuTJHLduG",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T12:57:31Z",
+            "Timestamp": 1729688251,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 97,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849065943680340079",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Dominate the battlefield. Enter now!<br><br><a href=\"https://buff.ly/3BP2JIp\">https://t.co/s4FnE9JoWm</a>",
+            "ID": "1849065945370681643",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849065943680340079",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 29,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849065945370681643",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Dominate the battlefield. Enter now!\n\nhttps://t.co/s4FnE9JoWm",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T12:30:50Z",
+            "Timestamp": 1729686650,
+            "URLs": [
+                "https://buff.ly/3BP2JIp"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5008,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849065943680340079",
+            "GIFs": null,
+            "Hashtags": [
+                "SweatWallet"
+            ],
+            "HTML": "\ud83d\udca5 Lock and load, soldiers! \ud83d\udca5<br><br>We\u2019re giving away Call of Duty: Black Ops 6 \ud83c\udfae <br><br>Head to the <a href=\"https://twitter.com/hashtag/SweatWallet\">#SweatWallet</a> now and enter for your chance to win! <br><a href=\"https://t.co/o2oxm0j2fL\"><img src=\"https://pbs.twimg.com/media/GakzrRSWQAA7Qer.jpg\"/></a>",
+            "ID": "1849065943680340079",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 116,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1849065943680340079",
+            "Photos": [
+                {
+                    "ID": "1849065940480049152",
+                    "URL": "https://pbs.twimg.com/media/GakzrRSWQAA7Qer.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 15,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udca5 Lock and load, soldiers! \ud83d\udca5\n\nWe\u2019re giving away Call of Duty: Black Ops 6 \ud83c\udfae \n\nHead to the #SweatWallet now and enter for your chance to win! https://t.co/o2oxm0j2fL",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T12:30:49Z",
+            "Timestamp": 1729686649,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 6671,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848745004174331936",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The second meme winner is in \ud83d\udc4f<br><br>We love how this captures the spirit of $SWEAT.<br><br>GM everyone.<br><br><a href=\"https://twitter.com/annonnyng\">@annonnyng</a>, check your DMs to claim your 1K $SWEAT!",
+            "ID": "1848745004174331936",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 112,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "3610694801",
+                    "Username": "annonnyng",
+                    "Name": "dogs94"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848745004174331936",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846499874109264298",
+            "Replies": 5,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The second meme winner is in \ud83d\udc4f\n\nWe love how this captures the spirit of $SWEAT.\n\nGM everyone.\n\n@annonnyng, check your DMs to claim your 1K $SWEAT!",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T15:15:31Z",
+            "Timestamp": 1729610131,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 10437,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848362234679795753",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dt_c8rr\">@dt_c8rr</a> Re: Your trade question:<br><br>We feel you. We\u2019d love to keep the Trade feature running, though our partner Orderly recently shut down their operations on NEAR. That said, we're working hard to relaunch this feature with even more impactful trading capabilities.",
+            "ID": "1848645304767172716",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848486179085443459",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1627601084448444417",
+                    "Username": "dt_c8rr",
+                    "Name": "Dave Carr"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848645304767172716",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dt_c8rr Re: Your trade question:\n\nWe feel you. We\u2019d love to keep the Trade feature running, though our partner Orderly recently shut down their operations on NEAR. That said, we're working hard to relaunch this feature with even more impactful trading capabilities.",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T08:39:21Z",
+            "Timestamp": 1729586361,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848362234679795753",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dt_c8rr\">@dt_c8rr</a> Re: Your NEAR question:<br><br>Thanks for raising! We\u2019ve integrated $SWEAT As Gas across 90% of Sweat Wallet interactions.<br><br>There are only a couple of transactions that may still require NEAR. <br><br>However, we\u2019ve even funded you with NEAR to enable these transactions.<br><br>If you have any",
+            "ID": "1848645176304275781",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848486179085443459",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1627601084448444417",
+                    "Username": "dt_c8rr",
+                    "Name": "Dave Carr"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848645176304275781",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dt_c8rr Re: Your NEAR question:\n\nThanks for raising! We\u2019ve integrated $SWEAT As Gas across 90% of Sweat Wallet interactions.\n\nThere are only a couple of transactions that may still require NEAR. \n\nHowever, we\u2019ve even funded you with NEAR to enable these transactions.\n\nIf you have any",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T08:38:50Z",
+            "Timestamp": 1729586330,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 57,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848362234679795753",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dt_c8rr\">@dt_c8rr</a> Hey there! We\u2019ve recently upgraded to a \u201cClaim it ALL\u201d experience, where any earnings of $SWEAT can be claimed in one button. <br><br>This costs a small $SWEAT Gas Fee due to interacting with on-chain contracts. But don\u2019t worry! You can even watch an Ad (or two) to get this transaction",
+            "ID": "1848645018623304086",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848486179085443459",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1627601084448444417",
+                    "Username": "dt_c8rr",
+                    "Name": "Dave Carr"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848645018623304086",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dt_c8rr Hey there! We\u2019ve recently upgraded to a \u201cClaim it ALL\u201d experience, where any earnings of $SWEAT can be claimed in one button. \n\nThis costs a small $SWEAT Gas Fee due to interacting with on-chain contracts. But don\u2019t worry! You can even watch an Ad (or two) to get this transaction",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T08:38:13Z",
+            "Timestamp": 1729586293,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 42,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848362234679795753",
+            "GIFs": [
+                {
+                    "ID": "1848635067318304768",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaerzJrWgAATPiz.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaerzJrWgAATPiz.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mustafa26521\">@mustafa26521</a> <a href=\"https://twitter.com/ialexhaker\">@ialexhaker</a> <br><a href=\"https://t.co/nlCGg1gGhB\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaerzJrWgAATPiz.jpg\"/></a>",
+            "ID": "1848635074738049485",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848452195366449640",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "2779595385",
+                    "Username": "mustafa26521",
+                    "Name": "Elmustafa Elsir"
+                },
+                {
+                    "ID": "1592142995897614338",
+                    "Username": "ialexhaker",
+                    "Name": "IALEX HAKER Butter"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848635074738049485",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mustafa26521 @ialexhaker https://t.co/nlCGg1gGhB",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T07:58:42Z",
+            "Timestamp": 1729583922,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 80,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848362234679795753",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/JouniRahk\">@JouniRahk</a> <a href=\"https://twitter.com/ialexhaker\">@ialexhaker</a> <a href=\"https://twitter.com/JouniRahk\">@JouniRahk</a> thanks to your detective work, we'd like to send you some $SWEAT. Check your DMs.",
+            "ID": "1848446558565744795",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848416691190894830",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1093145827340627970",
+                    "Username": "JouniRahk",
+                    "Name": "Rascal"
+                },
+                {
+                    "ID": "1592142995897614338",
+                    "Username": "ialexhaker",
+                    "Name": "IALEX HAKER Butter"
+                },
+                {
+                    "ID": "1093145827340627970",
+                    "Username": "JouniRahk",
+                    "Name": "Rascal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848446558565744795",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@JouniRahk @ialexhaker @JouniRahk thanks to your detective work, we'd like to send you some $SWEAT. Check your DMs.",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T19:29:36Z",
+            "Timestamp": 1729538976,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 60,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848362234679795753",
+            "GIFs": [
+                {
+                    "ID": "1848445891914469376",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gab_vsYXkAAm0Ev.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gab_vsYXkAAm0Ev.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/JouniRahk\">@JouniRahk</a> <a href=\"https://twitter.com/ialexhaker\">@ialexhaker</a> <a href=\"https://twitter.com/mustafa26521\">@mustafa26521</a> Thanks, detective! <br><a href=\"https://t.co/f5qoljY1qT\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gab_vsYXkAAm0Ev.jpg\"/></a>",
+            "ID": "1848445899925819891",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848445255781380138",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1093145827340627970",
+                    "Username": "JouniRahk",
+                    "Name": "Rascal"
+                },
+                {
+                    "ID": "1592142995897614338",
+                    "Username": "ialexhaker",
+                    "Name": "IALEX HAKER Butter"
+                },
+                {
+                    "ID": "2779595385",
+                    "Username": "mustafa26521",
+                    "Name": "Elmustafa Elsir"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848445899925819891",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@JouniRahk @ialexhaker @mustafa26521 Thanks, detective! https://t.co/f5qoljY1qT",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T19:26:59Z",
+            "Timestamp": 1729538819,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 63,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846495853873177036",
+            "GIFs": [
+                {
+                    "ID": "1848445453597028352",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gab_WLhWMAA9XFz.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gab_WLhWMAA9XFz.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/JammyJose\">@JammyJose</a> <br><a href=\"https://t.co/deCzg02qa8\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gab_WLhWMAA9XFz.jpg\"/></a>",
+            "ID": "1848445460970647706",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846539302672420938",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "394297710",
+                    "Username": "JammyJose",
+                    "Name": "The_passionate_guy"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848445460970647706",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@JammyJose https://t.co/deCzg02qa8",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T19:25:15Z",
+            "Timestamp": 1729538715,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 107,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846495853873177036",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mustafa26521\">@mustafa26521</a> Check your DMs for your win! \ud83d\udc4f",
+            "ID": "1848444945981456859",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846542711341375641",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "2779595385",
+                    "Username": "mustafa26521",
+                    "Name": "Elmustafa Elsir"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848444945981456859",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mustafa26521 Check your DMs for your win! \ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T19:23:12Z",
+            "Timestamp": 1729538592,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 79,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848362234679795753",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/JouniRahk\">@JouniRahk</a> <a href=\"https://twitter.com/ialexhaker\">@ialexhaker</a> We gotta change our socks real quick \ud83e\udde6. <a href=\"https://twitter.com/mustafa26521\">@mustafa26521</a>  check your DMs to collect your win!",
+            "ID": "1848444144626078109",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848416691190894830",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1093145827340627970",
+                    "Username": "JouniRahk",
+                    "Name": "Rascal"
+                },
+                {
+                    "ID": "1592142995897614338",
+                    "Username": "ialexhaker",
+                    "Name": "IALEX HAKER Butter"
+                },
+                {
+                    "ID": "2779595385",
+                    "Username": "mustafa26521",
+                    "Name": "Elmustafa Elsir"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848444144626078109",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@JouniRahk @ialexhaker We gotta change our socks real quick \ud83e\udde6. @mustafa26521  check your DMs to collect your win!",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T19:20:01Z",
+            "Timestamp": 1729538401,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 256,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848380009721000332",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/vxyz_near\">@vxyz_near</a> <a href=\"https://twitter.com/mishalederman\">@mishalederman</a> Active users<br>Active users<br>Active users<br><br>\ud83d\udc4f",
+            "ID": "1848384533923606640",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848380009721000332",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1781829479599411200",
+                    "Username": "vxyz_near",
+                    "Name": "vx \u22c8"
+                },
+                {
+                    "ID": "499955425",
+                    "Username": "mishalederman",
+                    "Name": "Misha Lederman"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848384533923606640",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol @vxyz_near @mishalederman Active users\nActive users\nActive users\n\n\ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T15:23:08Z",
+            "Timestamp": 1729524188,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 862,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848362234679795753",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEAT"
+            ],
+            "HTML": "Thanks to everyone who participated in the <a href=\"https://twitter.com/hashtag/SWEAT\">#SWEAT</a> meme contest.<br><br>\ud83e\udd41 \ud83e\udd41 \ud83e\udd41<br><br>And the first meme winner is in \ud83d\udc4f<br><br>Check your DMs <a href=\"https://twitter.com/ialexhaker\">@ialexhaker</a> for the next steps!<br><br> Stay tuned for more winners \ud83d\udc40",
+            "ID": "1848362234679795753",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 81,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1592142995897614338",
+                    "Username": "ialexhaker",
+                    "Name": "IALEX HAKER Butter"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848362234679795753",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846620670404473292",
+            "Replies": 8,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Thanks to everyone who participated in the #SWEAT meme contest.\n\n\ud83e\udd41 \ud83e\udd41 \ud83e\udd41\n\nAnd the first meme winner is in \ud83d\udc4f\n\nCheck your DMs @ialexhaker for the next steps!\n\n Stay tuned for more winners \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T13:54:32Z",
+            "Timestamp": 1729518872,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 10034,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848315612830769222",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Ismailabad2\">@Ismailabad2</a> Hi! Here's where you can submit your request: <a href=\"https://help.sweateconomy.com/hc/en-us/requests/new\">https://t.co/nV6e6sSXfU</a>",
+            "ID": "1848330641324064996",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848326910041792686",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1569361163426701313",
+                    "Username": "Ismailabad2",
+                    "Name": "Ismail abad"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848330641324064996",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Ismailabad2 Hi! Here's where you can submit your request: https://t.co/nV6e6sSXfU",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T11:48:59Z",
+            "Timestamp": 1729511339,
+            "URLs": [
+                "https://help.sweateconomy.com/hc/en-us/requests/new"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 373,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848315612830769222",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"http://x.com/i/article/1846462891240697856\">https://t.co/osBlrwK8in</a>",
+            "ID": "1848315612830769222",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": true,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 242,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1848315612830769222",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 35,
+            "Retweets": 54,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "https://t.co/osBlrwK8in",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T10:49:16Z",
+            "Timestamp": 1729507756,
+            "URLs": [
+                "http://x.com/i/article/1846462891240697856"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 19446,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847890155937436094",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/WarrenCManuel\">@WarrenCManuel</a> What an achievement!<br><br>The question is... how many steps did you take? \ud83d\udeb6",
+            "ID": "1847909739260239970",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847890155937436094",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "402507482",
+                    "Username": "WarrenCManuel",
+                    "Name": "Warren Manuel"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1847909739260239970",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@WarrenCManuel What an achievement!\n\nThe question is... how many steps did you take? \ud83d\udeb6",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T07:56:28Z",
+            "Timestamp": 1729410988,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 236,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847388442948489257",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/shiva_bewoor\">@shiva_bewoor</a> We have 24/7 support via Discord, or Telegram!<br><br>Come by and chat with the team for help.<br><br><a href=\"http://discord.gg/sweateconomy\">https://t.co/M0i34aoAI7</a><br><br>- David",
+            "ID": "1847549047738892477",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847410648491114844",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "227619097",
+                    "Username": "shiva_bewoor",
+                    "Name": "Shivakumar S Bewoor"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1847549047738892477",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@shiva_bewoor We have 24/7 support via Discord, or Telegram!\n\nCome by and chat with the team for help.\n\nhttps://t.co/M0i34aoAI7\n\n- David",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T08:03:13Z",
+            "Timestamp": 1729324993,
+            "URLs": [
+                "http://discord.gg/sweateconomy"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 223,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847388442948489257",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The $SWEAT Telegram community has all the fun \ud83d\udc4f <br><br>Join the games and level up with Snek 0'Leg \ud83d\udc0d<br><br>\ud83d\udc49  100 steps for every friend you invite!<br><br>Play, invite friends &amp; earn steps that can be converted into $SWEAT \ud83c\udfc6<br><br>\ud83d\udc49  Your welcome bonus is waiting for you! <br><br>\ud83d\udd17 <br><a href=\"https://t.co/NpA69dPi9L\"><img src=\"https://pbs.twimg.com/media/GaM9_tdasAEAqMR.jpg\"/></a>",
+            "ID": "1847388442948489257",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 174,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1847388442948489257",
+            "Photos": [
+                {
+                    "ID": "1847388436896067585",
+                    "URL": "https://pbs.twimg.com/media/GaM9_tdasAEAqMR.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 23,
+            "Retweets": 26,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The $SWEAT Telegram community has all the fun \ud83d\udc4f \n\nJoin the games and level up with Snek 0'Leg \ud83d\udc0d\n\n\ud83d\udc49  100 steps for every friend you invite!\n\nPlay, invite friends &amp; earn steps that can be converted into $SWEAT \ud83c\udfc6\n\n\ud83d\udc49  Your welcome bonus is waiting for you! \n\n\ud83d\udd17 https://t.co/NpA69dPi9L",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T21:25:02Z",
+            "Timestamp": 1729286702,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 12534,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847321501571141783",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/MateraClub\">@MateraClub</a> Check it out \ud83d\udc47<br><br><a href=\"https://wallet.sweateconomy.com/rewards/offer/1427\">https://t.co/MLV0rTp0aK</a>",
+            "ID": "1847333584505622935",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847321501571141783",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 30,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1575031473899552768",
+                    "Username": "MateraClub",
+                    "Name": "Matera"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1847333584505622935",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@MateraClub Check it out \ud83d\udc47\n\nhttps://t.co/MLV0rTp0aK",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T17:47:03Z",
+            "Timestamp": 1729273623,
+            "URLs": [
+                "https://wallet.sweateconomy.com/rewards/offer/1427"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5026,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847321501571141783",
+            "GIFs": null,
+            "Hashtags": [
+                "SweatWallet"
+            ],
+            "HTML": "Hey, you! Did you know that you can earn extra $SWEAT, right now? <br><br>Thanks to our advertising partner, <a href=\"https://twitter.com/MateraClub\">@MateraClub</a>, you can enter the new <a href=\"https://twitter.com/hashtag/SweatWallet\">#SweatWallet</a> reward with a $250 total prize!<br><br>Plus, take the short lesson for a quick balance booster \ud83d\udc40 <br><br>Hurry up, the clock is ticking \u23f3 <br><a href=\"https://t.co/x06bHBGuyT\"><img src=\"https://pbs.twimg.com/media/GaMBHa7XUAATHB7.jpg\"/></a>",
+            "ID": "1847321501571141783",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 130,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1575031473899552768",
+                    "Username": "MateraClub",
+                    "Name": "Matera"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1847321501571141783",
+            "Photos": [
+                {
+                    "ID": "1847321499151060992",
+                    "URL": "https://pbs.twimg.com/media/GaMBHa7XUAATHB7.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 11,
+            "Retweets": 24,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hey, you! Did you know that you can earn extra $SWEAT, right now? \n\nThanks to our advertising partner, @MateraClub, you can enter the new #SweatWallet reward with a $250 total prize!\n\nPlus, take the short lesson for a quick balance booster \ud83d\udc40 \n\nHurry up, the clock is ticking \u23f3 https://t.co/x06bHBGuyT",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T16:59:02Z",
+            "Timestamp": 1729270742,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 9202,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846495853873177036",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/umut3959\">@umut3959</a> Hi! Thanks for sharing this--if you haven't already, please submit a support ticket or send us a DM! We'll help.<br><br>As a reminder, with the new minting window that the community voted on, you'll earn $SWEAT for every step after 3K a day, so before you connect, make sure you're",
+            "ID": "1847179430000488597",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847174443493195867",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1627377143578599424",
+                    "Username": "umut3959",
+                    "Name": "umut3959"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1847179430000488597",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@umut3959 Hi! Thanks for sharing this--if you haven't already, please submit a support ticket or send us a DM! We'll help.\n\nAs a reminder, with the new minting window that the community voted on, you'll earn $SWEAT for every step after 3K a day, so before you connect, make sure you're",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T07:34:29Z",
+            "Timestamp": 1729236869,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 807,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846910897995870324",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Emmytexmartinz\">@Emmytexmartinz</a> Check your DMs!",
+            "ID": "1847178170685857972",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847029366250938674",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1828534851495993344",
+                    "Username": "Emmytexmartinz",
+                    "Name": "Emmytex\ud83d\udcc9"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1847178170685857972",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Emmytexmartinz Check your DMs!",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T07:29:29Z",
+            "Timestamp": 1729236569,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 42,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846910897995870324",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/OffChainPod\">@OffChainPod</a> <a href=\"https://twitter.com/mishalederman\">@mishalederman</a> Watch now \u27a1\ufe0f <a href=\"https://www.youtube.com/watch?v=463wciga8mQ\">https://t.co/4011Lx837x</a><br><br>Listen now \u27a1\ufe0f <br><a href=\"https://open.spotify.com/episode/3AkHdwGpJm7SEets7uuB6W?si=4b3bae12f5524dff&nd=1&dlsi=8fef2830524a4746\">https://t.co/tXGWYs8zKZ</a>",
+            "ID": "1846937439270531241",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846910897995870324",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 35,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1636319005559365633",
+                    "Username": "OffChainPod",
+                    "Name": "Off-Chain"
+                },
+                {
+                    "ID": "499955425",
+                    "Username": "mishalederman",
+                    "Name": "Misha Lederman"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846937439270531241",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@OffChainPod @mishalederman Watch now \u27a1\ufe0f https://t.co/4011Lx837x\n\nListen now \u27a1\ufe0f \nhttps://t.co/tXGWYs8zKZ",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T15:32:54Z",
+            "Timestamp": 1729179174,
+            "URLs": [
+                "https://www.youtube.com/watch?v=463wciga8mQ",
+                "https://open.spotify.com/episode/3AkHdwGpJm7SEets7uuB6W?si=4b3bae12f5524dff&nd=1&dlsi=8fef2830524a4746"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 4743,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846910897995870324",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEAT"
+            ],
+            "HTML": "The consumer crypto boom is coming!<br><br>\ud83d\udc49 For the first time ever, we can capture AND quantify the economic value of movement.<br><br>\ud83d\udcc8 Physical activity will be one of the greatest drivers of growth.<br><br>Tune in to the <a href=\"https://twitter.com/OffChainPod\">@OffChainPod</a> featuring <a href=\"https://twitter.com/hashtag/SWEAT\">#SWEAT</a> CMO <a href=\"https://twitter.com/mishalederman\">@mishalederman</a> to hear how SWEAT is",
+            "ID": "1846910897995870324",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 124,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1636319005559365633",
+                    "Username": "OffChainPod",
+                    "Name": "Off-Chain"
+                },
+                {
+                    "ID": "499955425",
+                    "Username": "mishalederman",
+                    "Name": "Misha Lederman"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846910897995870324",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846783854050529407",
+            "Replies": 9,
+            "Retweets": 21,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The consumer crypto boom is coming!\n\n\ud83d\udc49 For the first time ever, we can capture AND quantify the economic value of movement.\n\n\ud83d\udcc8 Physical activity will be one of the greatest drivers of growth.\n\nTune in to the @OffChainPod featuring #SWEAT CMO @mishalederman to hear how SWEAT is",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T13:47:26Z",
+            "Timestamp": 1729172846,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 15252,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846561182724805104",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udd17  <a href=\"https://buff.ly/3Y6rnM2\">https://t.co/4LE0s5Cm7u</a>",
+            "ID": "1846561184037708064",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846561182724805104",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 29,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846561184037708064",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udd17  https://t.co/4LE0s5Cm7u",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T14:37:48Z",
+            "Timestamp": 1729089468,
+            "URLs": [
+                "https://buff.ly/3Y6rnM2"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 4999,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846561182724805104",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Walk into AI with the new $SWEAT AI feature \ud83d\udeb6\u200d\u2640\ufe0f <br><br>\ud83d\udca1 Query 3 AI enterprise models at once <br>\ud83d\udc40  Get answers to your most pressing questions<br>\ud83d\udd2e See what the future holds<br>\ud83e\udd11 Access answers using $SWEAT<br><br>Click the link below to try it out \u2935\ufe0f <br><a href=\"https://t.co/AIQXS62czH\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1846561147618484224/pu/img/MgcySXCrZDc0EU4z.jpg\"/></a>",
+            "ID": "1846561182724805104",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 105,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846561182724805104",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 19,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Walk into AI with the new $SWEAT AI feature \ud83d\udeb6\u200d\u2640\ufe0f \n\n\ud83d\udca1 Query 3 AI enterprise models at once \n\ud83d\udc40  Get answers to your most pressing questions\n\ud83d\udd2e See what the future holds\n\ud83e\udd11 Access answers using $SWEAT\n\nClick the link below to try it out \u2935\ufe0f https://t.co/AIQXS62czH",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T14:37:48Z",
+            "Timestamp": 1729089468,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": [
+                {
+                    "ID": "1846561147618484224",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1846561147618484224/pu/img/MgcySXCrZDc0EU4z.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1846561147618484224/pu/vid/avc1/720x1556/H18VxUKPGFD4cYgw.mp4?tag=12"
+                }
+            ],
+            "Views": 7121,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846552343413674210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "We are liveeeee \ud83d\udc47",
+            "ID": "1846552343413674210",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 106,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846552343413674210",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846119174063431804",
+            "Replies": 8,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "We are liveeeee \ud83d\udc47",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T14:02:40Z",
+            "Timestamp": 1729087360,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 26086,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846551787303768473",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Join the SWEAT Executive Team for a Roadmap &amp; Token Update! <a href=\"https://x.com/i/broadcasts/1ynJODNNRlrxR\">https://t.co/uQ1f6NeaOO</a>",
+            "ID": "1846551787303768473",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 117,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846551787303768473",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 27,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Join the SWEAT Executive Team for a Roadmap &amp; Token Update! https://t.co/uQ1f6NeaOO",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T14:00:28Z",
+            "Timestamp": 1729087228,
+            "URLs": [
+                "https://x.com/i/broadcasts/1ynJODNNRlrxR"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 6443,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846495853873177036",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mustafa26521\">@mustafa26521</a> ha. We laughed out loud here.",
+            "ID": "1846544637554463121",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846542711341375641",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "2779595385",
+                    "Username": "mustafa26521",
+                    "Name": "Elmustafa Elsir"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846544637554463121",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mustafa26521 ha. We laughed out loud here.",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T13:32:03Z",
+            "Timestamp": 1729085523,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 1292,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846495853873177036",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Make a meme contest - win a share of 10,000 $SWEAT \ud83c\udfc6<br> <br>Turn the photo into a meme for a chance to win \ud83c\udf81 <br><br>Only a few rules:<br><br>1. Repost this post \ud83d\udd03 <br>2. Drop your meme in comments \u2935\ufe0f <br><br>The best 10 memes will each win 1K $SWEAT \ud83e\udd11 <br><a href=\"https://t.co/dMcdXCzk0n\"><img src=\"https://pbs.twimg.com/media/GaASL-8XQAAP3SE.jpg\"/></a>",
+            "ID": "1846495853873177036",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 324,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846495853873177036",
+            "Photos": [
+                {
+                    "ID": "1846495844305944576",
+                    "URL": "https://pbs.twimg.com/media/GaASL-8XQAAP3SE.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 169,
+            "Retweets": 176,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Make a meme contest - win a share of 10,000 $SWEAT \ud83c\udfc6\n \nTurn the photo into a meme for a chance to win \ud83c\udf81 \n\nOnly a few rules:\n\n1. Repost this post \ud83d\udd03 \n2. Drop your meme in comments \u2935\ufe0f \n\nThe best 10 memes will each win 1K $SWEAT \ud83e\udd11 https://t.co/dMcdXCzk0n",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T10:18:12Z",
+            "Timestamp": 1729073892,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 34042,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846119174063431804",
+            "GIFs": [
+                {
+                    "ID": "1846203311487148032",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ8IIVRXYAANBqd.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ8IIVRXYAANBqd.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<br><a href=\"https://t.co/WFKijpE4la\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ8IIVRXYAANBqd.jpg\"/></a>",
+            "ID": "1846203318927839542",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846119174063431804",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 27,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846203318927839542",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "https://t.co/WFKijpE4la",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T14:55:46Z",
+            "Timestamp": 1729004146,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5023,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846119174063431804",
+            "GIFs": [
+                {
+                    "ID": "1846139903307902976",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ7OdfZXcAAJG_h.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ7OdfZXcAAJG_h.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/La_DeCrypt\">@La_DeCrypt</a> <br><a href=\"https://t.co/AMX7oK5cUB\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ7OdfZXcAAJG_h.jpg\"/></a>",
+            "ID": "1846139910689792296",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846133931017474364",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "630920433",
+                    "Username": "La_DeCrypt",
+                    "Name": "LaCrypt || $DEVVE || $SLING || $DGKO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846139910689792296",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@La_DeCrypt https://t.co/AMX7oK5cUB",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T10:43:48Z",
+            "Timestamp": 1728989028,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 345,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846119174063431804",
+            "GIFs": [
+                {
+                    "ID": "1846128575809785856",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ7EKJLXEAATszb.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ7EKJLXEAATszb.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/hatimwolf1\">@hatimwolf1</a> <br><a href=\"https://t.co/cPd35x01Mo\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ7EKJLXEAATszb.jpg\"/></a>",
+            "ID": "1846128583204356513",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846125022508670981",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1676966597729320963",
+                    "Username": "hatimwolf1",
+                    "Name": "hatimwolf"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846128583204356513",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@hatimwolf1 https://t.co/cPd35x01Mo",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T09:58:48Z",
+            "Timestamp": 1728986328,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 344,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846119174063431804",
+            "GIFs": [
+                {
+                    "ID": "1846128463452807168",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ7EDmnXoAAjmMJ.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ7EDmnXoAAjmMJ.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/charlie_bst\">@charlie_bst</a> <br><a href=\"https://t.co/qA91e4RYET\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ7EDmnXoAAjmMJ.jpg\"/></a>",
+            "ID": "1846128470885069186",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846125810303824169",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "3321140668",
+                    "Username": "charlie_bst",
+                    "Name": "Charlie \u25b2"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846128470885069186",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@charlie_bst https://t.co/qA91e4RYET",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T09:58:21Z",
+            "Timestamp": 1728986301,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 325,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846119174063431804",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Huge news incoming \ud83d\udc40 <br><br>Join the Q4 Token Holders Briefing LIVE tomorrow for immediate access and insights from the $SWEAT team:<br><br>\u2705 LIVE product launches <br>\u2705 Token2049 highlights<br>\u2705 Academic research breakthroughs<br><br>And much, much more!<br><br>\ud83d\uddd3\ufe0f 2PM UTC, Wednesday, October 16<br><br>\u26d3\ufe0f <br><a href=\"https://t.co/fmXqcDKATH\"><img src=\"https://pbs.twimg.com/media/GZ67mvoWsAAZDjj.jpg\"/></a>",
+            "ID": "1846119174063431804",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 182,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846119174063431804",
+            "Photos": [
+                {
+                    "ID": "1846119171563630592",
+                    "URL": "https://pbs.twimg.com/media/GZ67mvoWsAAZDjj.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 16,
+            "Retweets": 40,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Huge news incoming \ud83d\udc40 \n\nJoin the Q4 Token Holders Briefing LIVE tomorrow for immediate access and insights from the $SWEAT team:\n\n\u2705 LIVE product launches \n\u2705 Token2049 highlights\n\u2705 Academic research breakthroughs\n\nAnd much, much more!\n\n\ud83d\uddd3\ufe0f 2PM UTC, Wednesday, October 16\n\n\u26d3\ufe0f https://t.co/fmXqcDKATH",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T09:21:24Z",
+            "Timestamp": 1728984084,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 51259,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844683373865816287",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/HEntechnologue\">@HEntechnologue</a> Keep pushing! \ud83d\udeb6",
+            "ID": "1846106786232778925",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844978690603532619",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1798368004905865216",
+                    "Username": "HEntechnologue",
+                    "Name": "\ud81a\udd0d Hamadex_Entechnologue \ud83e\ude90"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846106786232778925",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@HEntechnologue Keep pushing! \ud83d\udeb6",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T08:32:11Z",
+            "Timestamp": 1728981131,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 37,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844747344450822389",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/JouniRahk\">@JouniRahk</a> <a href=\"https://twitter.com/Cointelegraph\">@Cointelegraph</a> You'll need to claim your $SWEAT once the Jar unlocks \u2705<br><br>If you need any help, pop into Discord for 24/7 support!<br><br><a href=\"http://discord.gg/sweateconomy\">https://t.co/M0i34aoAI7</a><br><br>- David",
+            "ID": "1846106445965652088",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845620389814104177",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1093145827340627970",
+                    "Username": "JouniRahk",
+                    "Name": "Rascal"
+                },
+                {
+                    "ID": "2207129125",
+                    "Username": "Cointelegraph",
+                    "Name": "Cointelegraph"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1846106445965652088",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@JouniRahk @Cointelegraph You'll need to claim your $SWEAT once the Jar unlocks \u2705\n\nIf you need any help, pop into Discord for 24/7 support!\n\nhttps://t.co/M0i34aoAI7\n\n- David",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T08:30:50Z",
+            "Timestamp": 1728981050,
+            "URLs": [
+                "http://discord.gg/sweateconomy"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 49,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844747344450822389",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Chazbeck_M\">@Chazbeck_M</a> Hi! That's not common--please send us a DM or submit a support ticket here <a href=\"https://help.sweateconomy.com/hc/en-us/requests/new\">https://t.co/nV6e6sSXfU</a> and we'll help you out.",
+            "ID": "1845774455609446902",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845455702078185958",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1804073102680207361",
+                    "Username": "Chazbeck_M",
+                    "Name": "Mazen Chazbeck"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1845774455609446902",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Chazbeck_M Hi! That's not common--please send us a DM or submit a support ticket here https://t.co/nV6e6sSXfU and we'll help you out.",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T10:31:37Z",
+            "Timestamp": 1728901897,
+            "URLs": [
+                "https://help.sweateconomy.com/hc/en-us/requests/new"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 41,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844747344450822389",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Learn more by reading <a href=\"https://twitter.com/Cointelegraph's\">@Cointelegraph's</a> exclusive article:<br><a href=\"https://cointelegraph.com/news/breaking-the-infrastructure-bubble-key-takeaways-from-token2049-side-event\">https://t.co/fvHPRuzLfG</a><br><br>\ud83d\udd01",
+            "ID": "1844748055322460209",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844747349249163304",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 40,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "2207129125",
+                    "Username": "Cointelegraph",
+                    "Name": "Cointelegraph"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1844748055322460209",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Learn more by reading @Cointelegraph's exclusive article:\nhttps://t.co/fvHPRuzLfG\n\n\ud83d\udd01",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:33:04Z",
+            "Timestamp": 1728657184,
+            "URLs": [
+                "https://cointelegraph.com/news/breaking-the-infrastructure-bubble-key-takeaways-from-token2049-side-event"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5508,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844747344450822389",
+            "GIFs": null,
+            "Hashtags": [
+                "Ethereum",
+                "BNB",
+                "Arbitrum",
+                "Optimism",
+                "Base"
+            ],
+            "HTML": "With Sweat Wallet, you\u2019ll soon be able to transact seamlessly across <a href=\"https://twitter.com/hashtag/Ethereum\">#Ethereum</a>, <a href=\"https://twitter.com/hashtag/BNB\">#BNB</a>, <a href=\"https://twitter.com/hashtag/Arbitrum\">#Arbitrum</a>, <a href=\"https://twitter.com/hashtag/Optimism\">#Optimism</a>, <a href=\"https://twitter.com/hashtag/Base\">#Base</a> and more \u2013 all from one wallet \ud83d\udd25<br><br>Better yet, you can pay your gas fees in $SWEAT across all chains, never having to worry about which chain, or token you're using",
+            "ID": "1844747349249163304",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844747346812309887",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 40,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1844747349249163304",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "With Sweat Wallet, you\u2019ll soon be able to transact seamlessly across #Ethereum, #BNB, #Arbitrum, #Optimism, #Base and more \u2013 all from one wallet \ud83d\udd25\n\nBetter yet, you can pay your gas fees in $SWEAT across all chains, never having to worry about which chain, or token you're using",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:30:16Z",
+            "Timestamp": 1728657016,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5917,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844747344450822389",
+            "GIFs": null,
+            "Hashtags": [
+                "web3"
+            ],
+            "HTML": "At our <a href=\"https://twitter.com/Token2049\">@Token2049</a> SG side event, industry leaders discussed the biggest shift in <a href=\"https://twitter.com/hashtag/web3\">#web3</a>:<br><br>It's no longer about building chains or infrastructure \u2014 it\u2019s about empowering users and building for consumers \ud83d\udca1<br><br>We're leading the charge towards true mass adoption by focusing on user",
+            "ID": "1844747346812309887",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844747344450822389",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "933955400986009600",
+                    "Username": "token2049",
+                    "Name": "TOKEN2049"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1844747346812309887",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "At our @Token2049 SG side event, industry leaders discussed the biggest shift in #web3:\n\nIt's no longer about building chains or infrastructure \u2014 it\u2019s about empowering users and building for consumers \ud83d\udca1\n\nWe're leading the charge towards true mass adoption by focusing on user",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:30:15Z",
+            "Timestamp": 1728657015,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 703,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844747344450822389",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEAT"
+            ],
+            "HTML": "At Token2049, <a href=\"https://twitter.com/SweatEconomy\">@SweatEconomy</a> revealed a game-changing innovation:<br>\ud83d\udca5 1 Wallet. 1 Key. 1 Token.<br><br>Check out <a href=\"https://twitter.com/CoinTelegraph\u2019s\">@CoinTelegraph\u2019s</a> exclusive article on how <a href=\"https://twitter.com/hashtag/SWEAT\">#SWEAT</a> is simplifying crypto and bringing millions of users into web3 \ud83d\udc47<br><a href=\"https://buff.ly/4gZSPng\">https://t.co/qkxmHtByMu</a><br><br>1/3 \ud83e\uddf5",
+            "ID": "1844747344450822389",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 125,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1485617600239489028",
+                    "Username": "SweatEconomy",
+                    "Name": "Sweat \u0415conomy \ud83d\udca7"
+                },
+                {
+                    "ID": "2207129125",
+                    "Username": "Cointelegraph",
+                    "Name": "Cointelegraph"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1844747344450822389",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 22,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "At Token2049, @SweatEconomy revealed a game-changing innovation:\n\ud83d\udca5 1 Wallet. 1 Key. 1 Token.\n\nCheck out @CoinTelegraph\u2019s exclusive article on how #SWEAT is simplifying crypto and bringing millions of users into web3 \ud83d\udc47\nhttps://t.co/qkxmHtByMu\n\n1/3 \ud83e\uddf5",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:30:15Z",
+            "Timestamp": 1728657015,
+            "URLs": [
+                "https://buff.ly/4gZSPng"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 9260,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844683373865816287",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CryptoSteel7\">@CryptoSteel7</a> Get it!",
+            "ID": "1844719854915338302",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844684912068084105",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "1614334310261071873",
+                    "Username": "CryptoSteel7",
+                    "Name": "Degen Tokenized"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1844719854915338302",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CryptoSteel7 Get it!",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T12:41:01Z",
+            "Timestamp": 1728650461,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 147,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844683373865816287",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "wake up and gm <br><a href=\"https://t.co/6qmC15t4C1\"><img src=\"https://pbs.twimg.com/media/GZmAo_6XQAomj_g.jpg\"/></a>",
+            "ID": "1844683373865816287",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 267,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1844683373865816287",
+            "Photos": [
+                {
+                    "ID": "1844646964224278538",
+                    "URL": "https://pbs.twimg.com/media/GZmAo_6XQAomj_g.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 37,
+            "Retweets": 32,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "wake up and gm https://t.co/6qmC15t4C1",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T10:16:03Z",
+            "Timestamp": 1728641763,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 10932,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1829464802223120714",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Full video here: <a href=\"https://x.com/SweatEconomy/status/1843715223347511563\">https://t.co/f6Jzilcd89</a>",
+            "ID": "1843938085647839562",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1829464802223120714",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1843938085647839562",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1843715223347511563",
+            "Replies": 9,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Full video here: https://t.co/f6Jzilcd89",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T08:54:32Z",
+            "Timestamp": 1728464072,
+            "URLs": [
+                "https://x.com/SweatEconomy/status/1843715223347511563"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 8682,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843715223347511563",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcf9 <a href=\"https://www.youtube.com/watch?v=jD3Ugh7rXh4\">https://t.co/tyqvtEwc8M</a>",
+            "ID": "1843715429853999184",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843715223347511563",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1843715429853999184",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcf9 https://t.co/tyqvtEwc8M",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T18:09:47Z",
+            "Timestamp": 1728410987,
+            "URLs": [
+                "https://www.youtube.com/watch?v=jD3Ugh7rXh4"
+            ],
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 5114,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843715223347511563",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEAT",
+                "crypto",
+                "Web3"
+            ],
+            "HTML": "\ud83d\udea8 Just dropped \ud83d\udea8 <br><br>Catch the full Meeting of the Minds convo between <a href=\"https://twitter.com/hashtag/SWEAT\">#SWEAT</a> co-founder <a href=\"https://twitter.com/oleg_fem\">@oleg_fem</a> &amp; <a href=\"https://twitter.com/Wachsman_\">@Wachsman_</a> founder David Wachsman <br><br>Dive into their insights on the future of <a href=\"https://twitter.com/hashtag/crypto\">#crypto</a>, <a href=\"https://twitter.com/hashtag/Web3\">#Web3</a>, and the Movement Economy. Watch it here \ud83d\udc47 <br><a href=\"https://t.co/j9Csh0nxhM\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1843699388645818368/img/BW48isoWvvEDeA_V.jpg\"/></a>",
+            "ID": "1843715223347511563",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 114,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "104829341",
+                    "Username": "oleg_fem",
+                    "Name": "Oleg \ud83d\ude05 Sweat Economy"
+                },
+                {
+                    "ID": "4893133648",
+                    "Username": "Wachsman_",
+                    "Name": "Wachsman"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1843715223347511563",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 17,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udea8 Just dropped \ud83d\udea8 \n\nCatch the full Meeting of the Minds convo between #SWEAT co-founder @oleg_fem &amp; @Wachsman_ founder David Wachsman \n\nDive into their insights on the future of #crypto, #Web3, and the Movement Economy. Watch it here \ud83d\udc47 https://t.co/j9Csh0nxhM",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T18:08:58Z",
+            "Timestamp": 1728410938,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": [
+                {
+                    "ID": "1843699388645818368",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1843699388645818368/img/BW48isoWvvEDeA_V.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1843699388645818368/vid/avc1/1280x720/xdpMH7Nh4ALS6KQB.mp4?tag=14"
+                }
+            ],
+            "Views": 16505,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843310989543883184",
+            "GIFs": null,
+            "Hashtags": [
+                "SWEAT",
+                "crypto"
+            ],
+            "HTML": "<a href=\"https://twitter.com/hashtag/SWEAT\">#SWEAT</a> co-founder <a href=\"https://twitter.com/oleg_fem\">@oleg_fem</a> in <a href=\"https://twitter.com/TheStreet\">@TheStreet</a>: \u201cWe are on the cusp of seeing new asset classes and use cases that go beyond the obvious. Projects that make <a href=\"https://twitter.com/hashtag/crypto\">#crypto</a> seamless and part of everyday life will lead the charge.\u201d \u2935\ufe0f <br><br>\ud83d\uddde\ufe0f Consumer Crypto: The Next Big Shift \ud83d\udd17 <br><a href=\"https://t.co/wApAUsS7Cz\"><img src=\"https://pbs.twimg.com/media/GZS_-I_WQAAIiDW.jpg\"/></a>",
+            "ID": "1843310989543883184",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 126,
+            "Name": "Sweat \u0415conomy \ud83d\udca7",
+            "Mentions": [
+                {
+                    "ID": "104829341",
+                    "Username": "oleg_fem",
+                    "Name": "Oleg \ud83d\ude05 Sweat Economy"
+                },
+                {
+                    "ID": "15281391",
+                    "Username": "TheStreet",
+                    "Name": "TheStreet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/SweatEconomy/status/1843310989543883184",
+            "Photos": [
+                {
+                    "ID": "1843309221787353088",
+                    "URL": "https://pbs.twimg.com/media/GZS_-I_WQAAIiDW.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 10,
+            "Retweets": 17,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "#SWEAT co-founder @oleg_fem in @TheStreet: \u201cWe are on the cusp of seeing new asset classes and use cases that go beyond the obvious. Projects that make #crypto seamless and part of everyday life will lead the charge.\u201d \u2935\ufe0f \n\n\ud83d\uddde\ufe0f Consumer Crypto: The Next Big Shift \ud83d\udd17 https://t.co/wApAUsS7Cz",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T15:22:41Z",
+            "Timestamp": 1728314561,
+            "URLs": null,
+            "UserID": "1485617600239489028",
+            "Username": "SweatEconomy",
+            "Videos": null,
+            "Views": 7572,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

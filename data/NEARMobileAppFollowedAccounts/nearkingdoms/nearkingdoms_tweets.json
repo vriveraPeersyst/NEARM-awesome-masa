@@ -1,0 +1,60 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1851374046388338968",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR",
+                "NFTs",
+                "OG",
+                "P2E",
+                "Gamep2e"
+            ],
+            "HTML": "\u2694\ufe0fJust 258 boxes from OG MMORTS on <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> -<br><a href=\"https://twitter.com/nearkingdoms\">@nearkingdoms</a><br><br>\ud83d\udc49Mint now - <a href=\"https://npunks.io/sale/\">https://t.co/vO4YVEHnur</a> <br><br>All money goes towards development.  <br><br><a href=\"https://twitter.com/hashtag/NFTs\">#NFTs</a> <a href=\"https://twitter.com/hashtag/OG\">#OG</a> <a href=\"https://twitter.com/hashtag/P2E\">#P2E</a> <a href=\"https://twitter.com/hashtag/Gamep2e\">#Gamep2e</a> <br><a href=\"https://t.co/pJPnRr6ljy\"><img src=\"https://pbs.twimg.com/media/GbFmxr_W4AAgiSR.jpg\"/></a>",
+            "ID": "1851374046388338968",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Near Kingdoms \ud83d\udc51",
+            "Mentions": [
+                {
+                    "ID": "1566482126769381376",
+                    "Username": "nearkingdoms",
+                    "Name": "Near Kingdoms \ud83d\udc51"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/nearkingdoms/status/1851374046388338968",
+            "Photos": [
+                {
+                    "ID": "1851373925634072576",
+                    "URL": "https://pbs.twimg.com/media/GbFmxr_W4AAgiSR.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u2694\ufe0fJust 258 boxes from OG MMORTS on #NEAR -\n@nearkingdoms\n\n\ud83d\udc49Mint now - https://t.co/vO4YVEHnur \n\nAll money goes towards development.  \n\n#NFTs #OG #P2E #Gamep2e https://t.co/pJPnRr6ljy",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T21:22:24Z",
+            "Timestamp": 1730236944,
+            "URLs": [
+                "https://npunks.io/sale/"
+            ],
+            "UserID": "1566482126769381376",
+            "Username": "nearkingdoms",
+            "Videos": null,
+            "Views": 88,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

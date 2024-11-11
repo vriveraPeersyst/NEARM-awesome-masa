@@ -1,0 +1,2890 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854545074870194564",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Tomorrow at 17:30 UTC \u2013 AMA with <a href=\"https://twitter.com/ton_blockchain\">@ton_blockchain</a> \ud83d\udc8e<br><br>We\u2019ll be talking all about memes! During the AMA, we\u2019re hosting a big event with a $10,500 prize pool for token creators \ud83e\uddd1\u200d\ud83c\udfa8<br><br>Get your memes ready! Contest details are coming in the next post today. Don't miss it! \ud83d\udd25 <br><a href=\"https://t.co/8iV3LAaZnl\"><img src=\"https://pbs.twimg.com/media/Gbyq5l3WYAcvRBx.jpg\"/></a>",
+            "ID": "1854545074870194564",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 577,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1442437262663319565",
+                    "Username": "ton_blockchain",
+                    "Name": "TON \ud83d\udc8e"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1854545074870194564",
+            "Photos": [
+                {
+                    "ID": "1854545052963332103",
+                    "URL": "https://pbs.twimg.com/media/Gbyq5l3WYAcvRBx.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 44,
+            "Retweets": 65,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Tomorrow at 17:30 UTC \u2013 AMA with @ton_blockchain \ud83d\udc8e\n\nWe\u2019ll be talking all about memes! During the AMA, we\u2019re hosting a big event with a $10,500 prize pool for token creators \ud83e\uddd1\u200d\ud83c\udfa8\n\nGet your memes ready! Contest details are coming in the next post today. Don't miss it! \ud83d\udd25 https://t.co/8iV3LAaZnl",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T15:22:56Z",
+            "Timestamp": 1730992976,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 31828,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854451587730612461",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udd25",
+            "ID": "1854451587730612461",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 564,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1854451587730612461",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854313356229783812",
+            "Replies": 42,
+            "Retweets": 68,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T09:11:27Z",
+            "Timestamp": 1730970687,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 25748,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854210417595122151",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Congrats on the successful launch and first listing! \ud83c\udf89<br><br><a href=\"https://twitter.com/NikolAIToncoin\">@NikolAIToncoin</a> launched through HOT Wallet\u2019s TON Pump! \ud83d\udd25\ud83d\udc8e<br><br>While you\u2019re waiting for our joint activities, you can trade NIKO through HOT Wallet \ud83d\udcf2 and join the campaign with Gate to share $70K prize pool\ud83e\udde1",
+            "ID": "1854210417595122151",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 369,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1851655782473101312",
+                    "Username": "NikolAIToncoin",
+                    "Name": "NikolAI"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1854210417595122151",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854178320864456968",
+            "Replies": 37,
+            "Retweets": 42,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Congrats on the successful launch and first listing! \ud83c\udf89\n\n@NikolAIToncoin launched through HOT Wallet\u2019s TON Pump! \ud83d\udd25\ud83d\udc8e\n\nWhile you\u2019re waiting for our joint activities, you can trade NIKO through HOT Wallet \ud83d\udcf2 and join the campaign with Gate to share $70K prize pool\ud83e\udde1",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T17:13:07Z",
+            "Timestamp": 1730913187,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 21548,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853556235502805070",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/web3jamil\">@web3jamil</a> <a href=\"https://twitter.com/thenotcoin\">@thenotcoin</a> Why not?",
+            "ID": "1853558850273661306",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853558662813409476",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1747373861866258434",
+                    "Username": "web3jamil",
+                    "Name": "The Surgeon"
+                },
+                {
+                    "ID": "1720113316629016581",
+                    "Username": "thenotcoin",
+                    "Name": "Notcoin"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1853558850273661306",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@web3jamil @thenotcoin Why not?",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T22:04:02Z",
+            "Timestamp": 1730757842,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 656,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853556235502805070",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "NEW HOT Mission Alert - Stake SOL! \ud83d\udc9c<br><br>HOT Missions is where millions of users dive deep into crypto! \ud83d\ude80 Starting with simple tasks like transfers and swaps, we've now reached staking \ud83e\ude99<br><br>Are you expecting more educational missions or degen missions from us? \ud83d\udc40 <br><a href=\"https://t.co/TRbVkUPPHy\"><img src=\"https://pbs.twimg.com/media/Gbknj53X0AA0nOg.jpg\"/></a>",
+            "ID": "1853556235502805070",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 424,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1853556235502805070",
+            "Photos": [
+                {
+                    "ID": "1853556219421642752",
+                    "URL": "https://pbs.twimg.com/media/Gbknj53X0AA0nOg.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 48,
+            "Retweets": 49,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "NEW HOT Mission Alert - Stake SOL! \ud83d\udc9c\n\nHOT Missions is where millions of users dive deep into crypto! \ud83d\ude80 Starting with simple tasks like transfers and swaps, we've now reached staking \ud83e\ude99\n\nAre you expecting more educational missions or degen missions from us? \ud83d\udc40 https://t.co/TRbVkUPPHy",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T21:53:38Z",
+            "Timestamp": 1730757218,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 20532,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853401325259596036",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udc40\ud83d\udc40",
+            "ID": "1853401325259596036",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 487,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1853401325259596036",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1853398593106756071",
+            "Replies": 38,
+            "Retweets": 49,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udc40\ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T11:38:05Z",
+            "Timestamp": 1730720285,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 23318,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853145860919693583",
+            "GIFs": [
+                {
+                    "ID": "1853156952798605312",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gbe8bhybMAATX4k.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gbe8bhybMAATX4k.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AminuCryptoLabs\">@AminuCryptoLabs</a> <br><a href=\"https://t.co/ZJGU6lFHMe\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gbe8bhybMAATX4k.jpg\"/></a>",
+            "ID": "1853156964483596633",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853156655602548938",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1740815550756880384",
+                    "Username": "AminuCryptoLabs",
+                    "Name": "Aminu Crypto Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1853156964483596633",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AminuCryptoLabs https://t.co/ZJGU6lFHMe",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T19:27:04Z",
+            "Timestamp": 1730662024,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 1990,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853145860919693583",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udc9b\ud83c\udf82 A Message from our tg chat<br><br>The cake says: Let this year be HOT \ud83d\udd25 <br><a href=\"https://t.co/seDgFvC3XV\"><img src=\"https://pbs.twimg.com/media/Gbex0jBagAArJ8G.jpg\"/></a>",
+            "ID": "1853145860919693583",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1230,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1853145860919693583",
+            "Photos": [
+                {
+                    "ID": "1853145287998734336",
+                    "URL": "https://pbs.twimg.com/media/Gbex0jBagAArJ8G.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 172,
+            "Retweets": 135,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udc9b\ud83c\udf82 A Message from our tg chat\n\nThe cake says: Let this year be HOT \ud83d\udd25 https://t.co/seDgFvC3XV",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T18:42:57Z",
+            "Timestamp": 1730659377,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 54785,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852569399904858278",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 New collection on HOT Mint! \ud83d\ude80<br><br>MITTErian \u2013 the official collection of <a href=\"https://twitter.com/MITTE_gg\">@MITTE_gg</a> , the <a href=\"https://twitter.com/hashtag/1\">#1</a> NEAR NFT marketplace by trading volume and number of traders.<br><br>Terms:<br>\ud83c\udfad <a href=\"https://twitter.com/i_am_hapi_one\">@i_am_hapi_one</a> Score &gt; 40<br>\ud83d\udc33 HOLD 20$ on your balance<br><br>NFT price: 15 HOT \ud83d\udd25 <br><br>Mint date will be announced in the <br><a href=\"https://t.co/8SWf2bxKlq\"><img src=\"https://pbs.twimg.com/media/GbWkL3JWoAAAL65.jpg\"/></a>",
+            "ID": "1852569399904858278",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 766,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1670981747440517123",
+                    "Username": "MITTE_gg",
+                    "Name": "MITTE"
+                },
+                {
+                    "ID": "1359801458913345536",
+                    "Username": "i_am_hapi_one",
+                    "Name": "HAPI | Cybersecurity Solutions"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1852569399904858278",
+            "Photos": [
+                {
+                    "ID": "1852567345421524992",
+                    "URL": "https://pbs.twimg.com/media/GbWkL3JWoAAAL65.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 85,
+            "Retweets": 105,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 New collection on HOT Mint! \ud83d\ude80\n\nMITTErian \u2013 the official collection of @MITTE_gg , the #1 NEAR NFT marketplace by trading volume and number of traders.\n\nTerms:\n\ud83c\udfad @i_am_hapi_one Score &gt; 40\n\ud83d\udc33 HOLD 20$ on your balance\n\nNFT price: 15 HOT \ud83d\udd25 \n\nMint date will be announced in the https://t.co/8SWf2bxKlq",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T04:32:18Z",
+            "Timestamp": 1730521938,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 50803,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852375353701835103",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83e\udd47NEW TON SWAP MISSION <br><br>Conditions:<br>\u27a1 Swap $20 $TON \u2190\u2192 $NIKO<br>\ud83c\udfc6 $2-3 prize<br>\ud83c\udf89 95% chance<br><br>\u2757Be careful with slippage and price impact. This mission is for advanced users. <br><a href=\"https://t.co/hiTAL9A3Ka\"><img src=\"https://pbs.twimg.com/media/GbT1cH_XEAAGl0d.jpg\"/></a>",
+            "ID": "1852375353701835103",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 202,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1852375353701835103",
+            "Photos": [
+                {
+                    "ID": "1852375210286059520",
+                    "URL": "https://pbs.twimg.com/media/GbT1cH_XEAAGl0d.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 15,
+            "Retweets": 19,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83e\udd47NEW TON SWAP MISSION \n\nConditions:\n\u27a1 Swap $20 $TON \u2190\u2192 $NIKO\n\ud83c\udfc6 $2-3 prize\n\ud83c\udf89 95% chance\n\n\u2757Be careful with slippage and price impact. This mission is for advanced users. https://t.co/hiTAL9A3Ka",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T15:41:14Z",
+            "Timestamp": 1730475674,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 13498,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852320542864425324",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udc8e <a href=\"https://twitter.com/ton_blockchain\">@ton_blockchain</a>  launches Memelandia \u2014 and HOT is at the heart of it! \ud83d\udc8e<br><br>Join the Meme Cabal competitions for communities and Meme Mountain for memecoin creators to share in the $1.25M prize pool! \ud83e\udd2f<br><br>\u26a1 TON Pump in HOT Wallet kicks off today! \u26a1<br><br>More details here: <br><a href=\"https://t.co/NxAtMjM6rd\"><img src=\"https://pbs.twimg.com/media/GbTDprlWwAApMN3.jpg\"/></a>",
+            "ID": "1852320542864425324",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 451,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1442437262663319565",
+                    "Username": "ton_blockchain",
+                    "Name": "TON \ud83d\udc8e"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1852320542864425324",
+            "Photos": [
+                {
+                    "ID": "1852320467597574144",
+                    "URL": "https://pbs.twimg.com/media/GbTDprlWwAApMN3.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 37,
+            "Retweets": 44,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udc8e @ton_blockchain  launches Memelandia \u2014 and HOT is at the heart of it! \ud83d\udc8e\n\nJoin the Meme Cabal competitions for communities and Meme Mountain for memecoin creators to share in the $1.25M prize pool! \ud83e\udd2f\n\n\u26a1 TON Pump in HOT Wallet kicks off today! \u26a1\n\nMore details here: https://t.co/NxAtMjM6rd",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T12:03:26Z",
+            "Timestamp": 1730462606,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 22318,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852112644422983943",
+            "GIFs": [
+                {
+                    "ID": "1852113013022625792",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbQG-PEXkAAda8b.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbQG-PEXkAAda8b.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SEXBURG3R\">@SEXBURG3R</a> <br><a href=\"https://t.co/zlIzXauzpJ\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbQG-PEXkAAda8b.jpg\"/></a>",
+            "ID": "1852113017674379432",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852112644422983943",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1400692798219685889",
+                    "Username": "SEXBURG3R",
+                    "Name": "SSIIXXAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1852113017674379432",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SEXBURG3R https://t.co/zlIzXauzpJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T22:18:48Z",
+            "Timestamp": 1730413128,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 777,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852107393762463770",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udc8e Are you ready? \ud83d\udc8e<br><br><a href=\"https://t.me/herewalletbot/app?startapp=hotpump\">https://t.co/jjUR0jX8Yy</a> <br><a href=\"https://t.co/92Ny0ldc36\"><img src=\"https://pbs.twimg.com/media/GbQB2aRXcAADgsR.jpg\"/></a>",
+            "ID": "1852107393762463770",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1034,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1852107393762463770",
+            "Photos": [
+                {
+                    "ID": "1852107381032841216",
+                    "URL": "https://pbs.twimg.com/media/GbQB2aRXcAADgsR.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 141,
+            "Retweets": 130,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udc8e Are you ready? \ud83d\udc8e\n\nhttps://t.co/jjUR0jX8Yy https://t.co/92Ny0ldc36",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T21:56:27Z",
+            "Timestamp": 1730411787,
+            "URLs": [
+                "https://t.me/herewalletbot/app?startapp=hotpump"
+            ],
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 54243,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852036604698706420",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udd25AMA is LIVE \ud83d\udd25<br><br><a href=\"https://www.youtube.com/watch?v=WDId2sOXhAc\">https://t.co/W7j4OU2cb4</a>",
+            "ID": "1852036604698706420",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 305,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1852036604698706420",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 25,
+            "Retweets": 28,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udd25AMA is LIVE \ud83d\udd25\n\nhttps://t.co/W7j4OU2cb4",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T17:15:10Z",
+            "Timestamp": 1730394910,
+            "URLs": [
+                "https://www.youtube.com/watch?v=WDId2sOXhAc"
+            ],
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 15712,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851947237573525547",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udce2 Today at 5 PM UTC \u2014 don\u2019t miss the AMA session with the <a href=\"https://twitter.com/p_volnov\">@p_volnov</a>, co-founder of HOT and <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a>  the co-founder of <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a>!<br><br>\ud83d\uddd3 We\u2019ll be discussing HOT Protocol, \u0421hain abstraction, and exciting new collaboration opportunities. \ud83d\udd25<br><br>Set your alarms, share with <br><a href=\"https://t.co/bW8qkz4oTT\"><img src=\"https://pbs.twimg.com/media/GbNvV1nWUAE908I.jpg\"/></a>",
+            "ID": "1851947237573525547",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 436,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1483476982830714890",
+                    "Username": "p_volnov",
+                    "Name": "Peter Volnov"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1851947237573525547",
+            "Photos": [
+                {
+                    "ID": "1851946292739461121",
+                    "URL": "https://pbs.twimg.com/media/GbNvV1nWUAE908I.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 53,
+            "Retweets": 54,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udce2 Today at 5 PM UTC \u2014 don\u2019t miss the AMA session with the @p_volnov, co-founder of HOT and @ilblackdragon  the co-founder of @NEARProtocol!\n\n\ud83d\uddd3 We\u2019ll be discussing HOT Protocol, \u0421hain abstraction, and exciting new collaboration opportunities. \ud83d\udd25\n\nSet your alarms, share with https://t.co/bW8qkz4oTT",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T11:20:03Z",
+            "Timestamp": 1730373603,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 16470,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851706982421446951",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Our congratulations \ud83d\udc4f",
+            "ID": "1851706982421446951",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 574,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1851706982421446951",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851568220940943498",
+            "Replies": 25,
+            "Retweets": 46,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Our congratulations \ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T19:25:22Z",
+            "Timestamp": 1730316322,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 27985,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851295256991711539",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/binance\">@binance</a> who agrees?",
+            "ID": "1851636187821191539",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851295256991711539",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 969,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "877807935493033984",
+                    "Username": "binance",
+                    "Name": "Binance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1851636187821191539",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 166,
+            "Retweets": 51,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@binance who agrees?",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T14:44:03Z",
+            "Timestamp": 1730299443,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 38203,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851635888029077725",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 Solana staking is now available in HOT Wallet! \ud83d\ude80<br><br>Stake your SOL and earn around 7% APY\u26a1\ufe0fStaking is handled by the <a href=\"https://twitter.com/everstake_pool\">@everstake_pool</a> validator, which has maintained 100% uptime over the past year \ud83c\udfc6 <br><a href=\"https://t.co/YkoTgNUWgr\"><img src=\"https://pbs.twimg.com/media/GbJTtE8XoAMymDt.jpg\"/></a>",
+            "ID": "1851635888029077725",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 479,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1073189409938436097",
+                    "Username": "everstake_pool",
+                    "Name": "Everstake"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1851635888029077725",
+            "Photos": [
+                {
+                    "ID": "1851634430688862211",
+                    "URL": "https://pbs.twimg.com/media/GbJTtE8XoAMymDt.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 34,
+            "Retweets": 38,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 Solana staking is now available in HOT Wallet! \ud83d\ude80\n\nStake your SOL and earn around 7% APY\u26a1\ufe0fStaking is handled by the @everstake_pool validator, which has maintained 100% uptime over the past year \ud83c\udfc6 https://t.co/YkoTgNUWgr",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T14:42:52Z",
+            "Timestamp": 1730299372,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 24227,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851282481720541503",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/cz_binance\">@cz_binance</a> When you come to Telegram with your mini app?",
+            "ID": "1851286757775483240",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851282481720541503",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 355,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "902926941413453824",
+                    "Username": "cz_binance",
+                    "Name": "CZ \ud83d\udd36 BNB"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1851286757775483240",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 31,
+            "Retweets": 15,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@cz_binance When you come to Telegram with your mini app?",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T15:35:32Z",
+            "Timestamp": 1730216132,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 25505,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851187512938819911",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/fernandojrmota\">@fernandojrmota</a> <a href=\"https://twitter.com/MITTE_gg\">@MITTE_gg</a> <a href=\"https://twitter.com/DarAI_Yupik\">@DarAI_Yupik</a> <a href=\"https://twitter.com/here_wallet\">@here_wallet</a> OG",
+            "ID": "1851249660070867387",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851249538775880003",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1635624008916901888",
+                    "Username": "fernandojrmota",
+                    "Name": "motinha.near"
+                },
+                {
+                    "ID": "1670981747440517123",
+                    "Username": "MITTE_gg",
+                    "Name": "MITTE"
+                },
+                {
+                    "ID": "1786387677912137729",
+                    "Username": "DarAI_Yupik",
+                    "Name": "DarAI - Yupland Metaverse"
+                },
+                {
+                    "ID": "1527323662788857856",
+                    "Username": "here_wallet",
+                    "Name": "HERE Wallet \ud83d\udd25"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1851249660070867387",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@fernandojrmota @MITTE_gg @DarAI_Yupik @here_wallet OG",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T13:08:08Z",
+            "Timestamp": 1730207288,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 528,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851247755831775464",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "HOT Protocol \ud83d\udd25 <br><a href=\"https://t.co/V9Vk3zMS4F\"><img src=\"https://pbs.twimg.com/media/GbDz9vaW4AAUojh.jpg\"/></a>",
+            "ID": "1851247755831775464",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1311,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1851247755831775464",
+            "Photos": [
+                {
+                    "ID": "1851247688873861120",
+                    "URL": "https://pbs.twimg.com/media/GbDz9vaW4AAUojh.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 143,
+            "Retweets": 123,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "HOT Protocol \ud83d\udd25 https://t.co/V9Vk3zMS4F",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T13:00:34Z",
+            "Timestamp": 1730206834,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 47800,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850529341320446415",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/codewithcarson\">@codewithcarson</a> Sei + HOT Wallet?",
+            "ID": "1850992343865823615",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850529341320446415",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 195,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1501093154216361989",
+                    "Username": "codewithcarson",
+                    "Name": "carson"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850992343865823615",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 36,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@codewithcarson Sei + HOT Wallet?",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T20:05:39Z",
+            "Timestamp": 1730145939,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 8096,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850897661605654569",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/defiufo\">@defiufo</a> <a href=\"https://twitter.com/DefiSolar\">@DefiSolar</a> We handled the traffic from Hamster Kombat and other huge launches, making us the most prepared wallet for high traffic in the world \ud83d\ude05",
+            "ID": "1850991965782855780",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850990008552804452",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1393564482274791428",
+                    "Username": "defiufo",
+                    "Name": "DeFi Danny \ud83d\udd33"
+                },
+                {
+                    "ID": "1381905478339473409",
+                    "Username": "DefiSolar",
+                    "Name": "Solar \u2600\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850991965782855780",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@defiufo @DefiSolar We handled the traffic from Hamster Kombat and other huge launches, making us the most prepared wallet for high traffic in the world \ud83d\ude05",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T20:04:09Z",
+            "Timestamp": 1730145849,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 751,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850897661605654569",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DefiSolar\">@DefiSolar</a> Use HOT Wallet inside Telegram \ud83d\udc9c",
+            "ID": "1850986588156707035",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850897661605654569",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 205,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1381905478339473409",
+                    "Username": "DefiSolar",
+                    "Name": "Solar \u2600\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850986588156707035",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 27,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DefiSolar Use HOT Wallet inside Telegram \ud83d\udc9c",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T19:42:46Z",
+            "Timestamp": 1730144566,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 8448,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850973012297740730",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "$GRASS trading is available in HOT Wallet \ud83d\udc9a <br><a href=\"https://t.co/9D5jAUPVAY\"><img src=\"https://pbs.twimg.com/media/Ga_6ImYWAAAmNNq.jpg\"/></a>",
+            "ID": "1850973012297740730",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1094,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850973012297740730",
+            "Photos": [
+                {
+                    "ID": "1850972997521113088",
+                    "URL": "https://pbs.twimg.com/media/Ga_6ImYWAAAmNNq.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 90,
+            "Retweets": 110,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "$GRASS trading is available in HOT Wallet \ud83d\udc9a https://t.co/9D5jAUPVAY",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T18:48:50Z",
+            "Timestamp": 1730141330,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 47261,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850864140757164414",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Almost all of them are HOT Wallet users \ud83d\ude80",
+            "ID": "1850864140757164414",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 429,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850864140757164414",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850817091722514862",
+            "Replies": 49,
+            "Retweets": 31,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Almost all of them are HOT Wallet users \ud83d\ude80",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T11:36:13Z",
+            "Timestamp": 1730115373,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 30710,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850817091722514862",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Masi_DN\">@Masi_DN</a> <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/here_wallet\">@here_wallet</a> Almost all of them are HOT Wallet users \ud83d\ude80",
+            "ID": "1850857525744226306",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850817091722514862",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 146,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1074664618352619520",
+                    "Username": "Masi_DN",
+                    "Name": "Masi"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1527323662788857856",
+                    "Username": "here_wallet",
+                    "Name": "HERE Wallet \ud83d\udd25"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850857525744226306",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 15,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Masi_DN @finance_ref @NEARProtocol @here_wallet Almost all of them are HOT Wallet users \ud83d\ude80",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T11:09:56Z",
+            "Timestamp": 1730113796,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 5649,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850853605022060974",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "HOT Bridge roadmap \ud83c\udf09 <br><a href=\"https://t.co/e38Te6E5NU\"><img src=\"https://pbs.twimg.com/media/Ga-NdxEW8AAp9oY.jpg\"/></a>",
+            "ID": "1850853605022060974",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1153,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850853605022060974",
+            "Photos": [
+                {
+                    "ID": "1850853514399903744",
+                    "URL": "https://pbs.twimg.com/media/Ga-NdxEW8AAp9oY.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 111,
+            "Retweets": 121,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "HOT Bridge roadmap \ud83c\udf09 https://t.co/e38Te6E5NU",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T10:54:21Z",
+            "Timestamp": 1730112861,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 65762,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850311482455519397",
+            "GIFs": [
+                {
+                    "ID": "1850397535879258112",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Ga3uwUtXYAA2i3a.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Ga3uwUtXYAA2i3a.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <br><a href=\"https://t.co/EMFzAllJ82\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Ga3uwUtXYAA2i3a.jpg\"/></a>",
+            "ID": "1850397545463226805",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850311482455519397",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 288,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850397545463226805",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 32,
+            "Retweets": 16,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BNBCHAIN https://t.co/EMFzAllJ82",
+            "Thread": null,
+            "TimeParsed": "2024-10-27T04:42:08Z",
+            "Timestamp": 1730004128,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 7367,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850311482455519397",
+            "GIFs": [
+                {
+                    "ID": "1850394855576399872",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Ga3sUTzXcAANwm-.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Ga3sUTzXcAANwm-.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Doss_hari\">@Doss_hari</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <br><a href=\"https://t.co/SCiRSOot7z\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Ga3sUTzXcAANwm-.jpg\"/></a>",
+            "ID": "1850394868004102590",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850316350289228256",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "313261414",
+                    "Username": "Doss_hari",
+                    "Name": "Crypto Doss"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850394868004102590",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Doss_hari @BNBCHAIN https://t.co/SCiRSOot7z",
+            "Thread": null,
+            "TimeParsed": "2024-10-27T04:31:29Z",
+            "Timestamp": 1730003489,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 272,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850282917894795539",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jessepollak\">@jessepollak</a> Chain Abstraction \ud83d\ude08",
+            "ID": "1850296227101065273",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850282917894795539",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 92,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "18876842",
+                    "Username": "jessepollak",
+                    "Name": "jesse.base.eth"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850296227101065273",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 9,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jessepollak Chain Abstraction \ud83d\ude08",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T21:59:32Z",
+            "Timestamp": 1729979972,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 7489,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850208400585400591",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 Whitelist for the New App in HOT Wallet!<br><br>Get ready for Meme Season on <a href=\"https://twitter.com/ton_blockchain\">@ton_blockchain</a>  \u2014 TON PUMP is launching soon on TON, bringing huge opportunities and fun for early adopters!<br><br>\ud83d\udcf2 How to Join the Whitelist?<br>Just hold 5 TON in your HOT Wallet balance, and you\u2019re in!<br><br>Don\u2019t <br><a href=\"https://t.co/6nXv4PzgPB\"><img src=\"https://pbs.twimg.com/media/Ga1CtRTaIAAAP7G.jpg\"/></a>",
+            "ID": "1850208400585400591",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 606,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1442437262663319565",
+                    "Username": "ton_blockchain",
+                    "Name": "TON \ud83d\udc8e"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1850208400585400591",
+            "Photos": [
+                {
+                    "ID": "1850208367425495040",
+                    "URL": "https://pbs.twimg.com/media/Ga1CtRTaIAAAP7G.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 57,
+            "Retweets": 59,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 Whitelist for the New App in HOT Wallet!\n\nGet ready for Meme Season on @ton_blockchain  \u2014 TON PUMP is launching soon on TON, bringing huge opportunities and fun for early adopters!\n\n\ud83d\udcf2 How to Join the Whitelist?\nJust hold 5 TON in your HOT Wallet balance, and you\u2019re in!\n\nDon\u2019t https://t.co/6nXv4PzgPB",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T16:10:32Z",
+            "Timestamp": 1729959032,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 35255,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849587873919459806",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/p_volnov\">@p_volnov</a> \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "ID": "1849932210679275679",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849587873919459806",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 132,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1483476982830714890",
+                    "Username": "p_volnov",
+                    "Name": "Peter Volnov"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1849932210679275679",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@p_volnov \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T21:53:03Z",
+            "Timestamp": 1729893183,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 6610,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849587873919459806",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/p_volnov\">@p_volnov</a> <a href=\"https://twitter.com/TripleWChampion\">@TripleWChampion</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> We use the best technologies to solve user problems and make user-oriented products",
+            "ID": "1849932081935126890",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849931386574021026",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 27,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1483476982830714890",
+                    "Username": "p_volnov",
+                    "Name": "Peter Volnov"
+                },
+                {
+                    "ID": "698581366968029184",
+                    "Username": "TripleWChampion",
+                    "Name": "WinningWealthWisdom (\u2708\ufe0f,\ud83c\udfe8)"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1849932081935126890",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@p_volnov @TripleWChampion @NEARProtocol We use the best technologies to solve user problems and make user-oriented products",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T21:52:33Z",
+            "Timestamp": 1729893153,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 1392,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849902293891817826",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcf9 In our new video, we discussed staking, liquid staking, and lending protocols through which you can earn on your tokens in HOT Wallet.<br><br><a href=\"https://youtu.be/YNYnSlturNU?si=nVaO4X9bElvZzfQ3\">https://t.co/GHMorErKUu</a><br><br>Which protocols should we add to the Earn screen\u2753",
+            "ID": "1849902293891817826",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 241,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1849902293891817826",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 29,
+            "Retweets": 21,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcf9 In our new video, we discussed staking, liquid staking, and lending protocols through which you can earn on your tokens in HOT Wallet.\n\nhttps://t.co/GHMorErKUu\n\nWhich protocols should we add to the Earn screen\u2753",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T19:54:11Z",
+            "Timestamp": 1729886051,
+            "URLs": [
+                "https://youtu.be/YNYnSlturNU?si=nVaO4X9bElvZzfQ3"
+            ],
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 15715,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849455281807167530",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udfc6 We\u2019ve successfully passed the audit with <a href=\"https://twitter.com/hackenclub\">@hackenclub</a> for HOT Omni balances! <br><br>Omni is a crucial part of the HOT ecosystem, powering the HOT Bridge \ud83c\udf09, where you can transfer and claim tokens across multiple networks. <br><br>Soon, FireDrops \ud83d\udd25 across all networks will leverage this <br><a href=\"https://t.co/RYRF6ouEyN\"><img src=\"https://pbs.twimg.com/media/GaqVt1nWgAAHhXO.jpg\"/></a>",
+            "ID": "1849455281807167530",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 882,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "898528774303735808",
+                    "Username": "hackenclub",
+                    "Name": "Hacken\ud83c\uddfa\ud83c\udde6"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1849455281807167530",
+            "Photos": [
+                {
+                    "ID": "1849455211707793408",
+                    "URL": "https://pbs.twimg.com/media/GaqVt1nWgAAHhXO.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 89,
+            "Retweets": 144,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udfc6 We\u2019ve successfully passed the audit with @hackenclub for HOT Omni balances! \n\nOmni is a crucial part of the HOT ecosystem, powering the HOT Bridge \ud83c\udf09, where you can transfer and claim tokens across multiple networks. \n\nSoon, FireDrops \ud83d\udd25 across all networks will leverage this https://t.co/RYRF6ouEyN",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T14:17:55Z",
+            "Timestamp": 1729779475,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 65694,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849028768431579227",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Users are waiting for new degen activities in HOT Wallet <br><a href=\"https://t.co/QtyfCiJhlo\"><img src=\"https://pbs.twimg.com/media/GakRyjwXEAA8-rP.jpg\"/></a>",
+            "ID": "1849028768431579227",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1076,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1849028768431579227",
+            "Photos": [
+                {
+                    "ID": "1849028682301509632",
+                    "URL": "https://pbs.twimg.com/media/GakRyjwXEAA8-rP.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 207,
+            "Retweets": 94,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Users are waiting for new degen activities in HOT Wallet https://t.co/QtyfCiJhlo",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T10:03:06Z",
+            "Timestamp": 1729677786,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 57252,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849002400868098096",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Drive deeper into HOT Protocol idea <br><br><a href=\"https://hot-labs.medium.com/chain-signatures-how-theyre-changing-web3-today-883383e2a389\">https://t.co/2EKklO9kzU</a>",
+            "ID": "1849002400868098096",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 306,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1849002400868098096",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 39,
+            "Retweets": 28,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Drive deeper into HOT Protocol idea \n\nhttps://t.co/2EKklO9kzU",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T08:18:19Z",
+            "Timestamp": 1729671499,
+            "URLs": [
+                "https://hot-labs.medium.com/chain-signatures-how-theyre-changing-web3-today-883383e2a389"
+            ],
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 24618,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848444325975494747",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "How to swap on <a href=\"https://twitter.com/ton_blockchain\">@ton_blockchain</a> \ud83d\udc8e via HOT wallet <br><br>\u27a1 Click \u201cSwaps\u201d<br>\u27a1 Select the desired pair on TON Network<br>\u27a1 Check the result and complete the swap<br><br>HOT Wallet swaps on TON Network work through <a href=\"https://twitter.com/ston_fi\">@ston_fi</a>, which provides the best exchange rates \ud83d\ude80 <br><a href=\"https://t.co/EtbC9p29n0\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1848444237513142272/pu/img/i04qTl7RJHMahhOr.jpg\"/></a>",
+            "ID": "1848444325975494747",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 417,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1442437262663319565",
+                    "Username": "ton_blockchain",
+                    "Name": "TON \ud83d\udc8e"
+                },
+                {
+                    "ID": "1523581356575449093",
+                    "Username": "ston_fi",
+                    "Name": "STON.fi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1848444325975494747",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 54,
+            "Retweets": 39,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "How to swap on @ton_blockchain \ud83d\udc8e via HOT wallet \n\n\u27a1 Click \u201cSwaps\u201d\n\u27a1 Select the desired pair on TON Network\n\u27a1 Check the result and complete the swap\n\nHOT Wallet swaps on TON Network work through @ston_fi, which provides the best exchange rates \ud83d\ude80 https://t.co/EtbC9p29n0",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T19:20:44Z",
+            "Timestamp": 1729538444,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": [
+                {
+                    "ID": "1848444237513142272",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1848444237513142272/pu/img/i04qTl7RJHMahhOr.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1848444237513142272/pu/vid/avc1/720x720/p_VEO6PqBJ4rZtwX.mp4?tag=12"
+                }
+            ],
+            "Views": 23652,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847703773398843726",
+            "GIFs": [
+                {
+                    "ID": "1847703764322459648",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaRcyLqXoAAfTZN.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaRcyLqXoAAfTZN.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<br><a href=\"https://t.co/sZ2RHgkWNp\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaRcyLqXoAAfTZN.jpg\"/></a>",
+            "ID": "1847703773398843726",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 273,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1847703773398843726",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847484071682670701",
+            "Replies": 43,
+            "Retweets": 31,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "https://t.co/sZ2RHgkWNp",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T18:18:02Z",
+            "Timestamp": 1729361882,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 34647,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847631287470711295",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Trading contests in HOT Wallet have become much more pleasant and profitable \ud83e\udd17 <br><a href=\"https://t.co/j7IJuSPqem\"><img src=\"https://pbs.twimg.com/media/GaQaqgQXMAAkI2-.jpg\"/></a>",
+            "ID": "1847631287470711295",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 423,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1847631287470711295",
+            "Photos": [
+                {
+                    "ID": "1847631064644136960",
+                    "URL": "https://pbs.twimg.com/media/GaQaqgQXMAAkI2-.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 44,
+            "Retweets": 38,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Trading contests in HOT Wallet have become much more pleasant and profitable \ud83e\udd17 https://t.co/j7IJuSPqem",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T13:30:00Z",
+            "Timestamp": 1729344600,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 25053,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847338679724847478",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udd25 HOT Wallet X <a href=\"https://twitter.com/lavanetxyz\">@lavanetxyz</a> \ud83d\udd25<br><br>With millions of daily on-chain users, we\u2019ve partnered with Lava to power NEAR and EVM networks. Why Lava?<br><br>\u27a1 Reliable and always fast<br>\u27a1 Top-tier performance<br>\u27a1 Increasing decentralization of our infrastructure<br><br>This partnership ensures HOT <br><a href=\"https://t.co/TMUsVedL5c\"><img src=\"https://pbs.twimg.com/media/GaMQoE8XIAAmXlU.jpg\"/></a>",
+            "ID": "1847338679724847478",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 705,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1510514454559174664",
+                    "Username": "lavanetxyz",
+                    "Name": "Lava Network \ud83c\udf0b"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1847338679724847478",
+            "Photos": [
+                {
+                    "ID": "1847338552859762688",
+                    "URL": "https://pbs.twimg.com/media/GaMQoE8XIAAmXlU.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 81,
+            "Retweets": 97,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udd25 HOT Wallet X @lavanetxyz \ud83d\udd25\n\nWith millions of daily on-chain users, we\u2019ve partnered with Lava to power NEAR and EVM networks. Why Lava?\n\n\u27a1 Reliable and always fast\n\u27a1 Top-tier performance\n\u27a1 Increasing decentralization of our infrastructure\n\nThis partnership ensures HOT https://t.co/TMUsVedL5c",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T18:07:17Z",
+            "Timestamp": 1729274837,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 37060,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846837627275612484",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Mission is Over",
+            "ID": "1846842691612459086",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846837627275612484",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 128,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1846842691612459086",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 10,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Mission is Over",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T09:16:25Z",
+            "Timestamp": 1729156585,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 12694,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846837627275612484",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "NEW  Special mission in HOT Wallet \ud83d\udd25<br><br>Terms:<br>\u27a1 Swap $20+ RIKO <br>\ud83e\ude99 $5 000 prize pool<br>\ud83c\udf89 95% chance to win <br><a href=\"https://t.co/ThvboBQJGA\"><img src=\"https://pbs.twimg.com/media/GaFJAxEXcAAHs8W.jpg\"/></a>",
+            "ID": "1846837627275612484",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 278,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1846837627275612484",
+            "Photos": [
+                {
+                    "ID": "1846837599719092224",
+                    "URL": "https://pbs.twimg.com/media/GaFJAxEXcAAHs8W.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 30,
+            "Retweets": 23,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "NEW  Special mission in HOT Wallet \ud83d\udd25\n\nTerms:\n\u27a1 Swap $20+ RIKO \n\ud83e\ude99 $5 000 prize pool\n\ud83c\udf89 95% chance to win https://t.co/ThvboBQJGA",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T08:56:17Z",
+            "Timestamp": 1729155377,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 20165,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844749359654576333",
+            "GIFs": [
+                {
+                    "ID": "1846668472471662593",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaCvMQ-WMAEQE8l.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaCvMQ-WMAEQE8l.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CaribDAO\">@CaribDAO</a> <br><a href=\"https://t.co/vQgQp34qYg\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaCvMQ-WMAEQE8l.jpg\"/></a>",
+            "ID": "1846668482856804630",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844749359654576333",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1023259507072401409",
+                    "Username": "CaribDAO",
+                    "Name": "Carib DAO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1846668482856804630",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CaribDAO https://t.co/vQgQp34qYg",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T21:44:10Z",
+            "Timestamp": 1729115050,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 421,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846170165613875284",
+            "GIFs": [
+                {
+                    "ID": "1846172320580202496",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ7r8bJXcAAeP4e.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ7r8bJXcAAeP4e.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/trondao\">@trondao</a> <br><a href=\"https://t.co/QsRknAgcCr\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ7r8bJXcAAeP4e.jpg\"/></a>",
+            "ID": "1846172328687771825",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846170165613875284",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 192,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "894231710065446912",
+                    "Username": "trondao",
+                    "Name": "TRON DAO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1846172328687771825",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 20,
+            "Retweets": 13,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@trondao https://t.co/QsRknAgcCr",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T12:52:38Z",
+            "Timestamp": 1728996758,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 6228,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845913824601198695",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 HOT Wallet Ecosystem Expands in Telegram! \ud83d\ude80<br><br><a href=\"https://twitter.com/pitchtalk_com\">@pitchtalk_com</a> has launched their own mini app, where you can complete missions and farm $PTCH points! \ud83d\udc9c<br><br>Connect your HOT Wallet to start earning your first $PTCH. And if you hold PitchTalk NFTs, special bonuses are waiting for <br><a href=\"https://t.co/H70c3pRDmt\"><img src=\"https://pbs.twimg.com/media/GZ4AwMTXwAAZDAo.jpg\"/></a>",
+            "ID": "1845913824601198695",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 664,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1463094749389201413",
+                    "Username": "pitchtalk_com",
+                    "Name": "PitchTalk AI"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1845913824601198695",
+            "Photos": [
+                {
+                    "ID": "1845913725204676608",
+                    "URL": "https://pbs.twimg.com/media/GZ4AwMTXwAAZDAo.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 86,
+            "Retweets": 126,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 HOT Wallet Ecosystem Expands in Telegram! \ud83d\ude80\n\n@pitchtalk_com has launched their own mini app, where you can complete missions and farm $PTCH points! \ud83d\udc9c\n\nConnect your HOT Wallet to start earning your first $PTCH. And if you hold PitchTalk NFTs, special bonuses are waiting for https://t.co/H70c3pRDmt",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T19:45:25Z",
+            "Timestamp": 1728935125,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 54235,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845820032665768225",
+            "GIFs": [
+                {
+                    "ID": "1845822840202760202",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ2uF_SWkAo6Wv-.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ2uF_SWkAo6Wv-.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/crypto_groggs\">@crypto_groggs</a> <a href=\"https://twitter.com/TonAttack\">@TonAttack</a> <br><a href=\"https://t.co/qLfRwis2XL\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ2uF_SWkAo6Wv-.jpg\"/></a>",
+            "ID": "1845822850357223738",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845820032665768225",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1476508372455378945",
+                    "Username": "crypto_groggs",
+                    "Name": "Groggs \u2618\ufe0f"
+                },
+                {
+                    "ID": "1820059795606392832",
+                    "Username": "TonAttack",
+                    "Name": "TON Attack"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1845822850357223738",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@crypto_groggs @TonAttack https://t.co/qLfRwis2XL",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T13:43:55Z",
+            "Timestamp": 1728913435,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 303,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845416080094675264",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf11 Dark Mode is Here in HOT Wallet! \ud83c\udf11<br><br>You\u2019ve been waiting, and now it\u2019s here\u20146 dark themes in total! \ud83e\udd2f<br><br>2 themes are available right away, and you can unlock 4 more by completing missions on different blockchains. \ud83d\ude80<br><br>\ud83d\udcdd Tell us in the comments\u2014what\u2019s your favorite color? <br><a href=\"https://t.co/S69FWNCVJL\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1845416024503406595/pu/img/MxpE65Ze3ICuE07j.jpg\"/></a>",
+            "ID": "1845416080094675264",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1203,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1845416080094675264",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 174,
+            "Retweets": 174,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf11 Dark Mode is Here in HOT Wallet! \ud83c\udf11\n\nYou\u2019ve been waiting, and now it\u2019s here\u20146 dark themes in total! \ud83e\udd2f\n\n2 themes are available right away, and you can unlock 4 more by completing missions on different blockchains. \ud83d\ude80\n\n\ud83d\udcdd Tell us in the comments\u2014what\u2019s your favorite color? https://t.co/S69FWNCVJL",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T10:47:34Z",
+            "Timestamp": 1728816454,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": [
+                {
+                    "ID": "1845416024503406595",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1845416024503406595/pu/img/MxpE65Ze3ICuE07j.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1845416024503406595/pu/vid/avc1/720x720/x8fRqdj1TWVCZIqD.mp4?tag=12"
+                }
+            ],
+            "Views": 60034,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845148486808875331",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u2699\ufe0f HOT Wallet SDK for tg mini apps on any chain:<br><a href=\"https://github.com/hot-dao/hot-sdk-js\">https://t.co/K0FBVeajq6</a>",
+            "ID": "1845148488998310293",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845148486808875331",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 122,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1845148488998310293",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 17,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u2699\ufe0f HOT Wallet SDK for tg mini apps on any chain:\nhttps://t.co/K0FBVeajq6",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T17:04:15Z",
+            "Timestamp": 1728752655,
+            "URLs": [
+                "https://github.com/hot-dao/hot-sdk-js"
+            ],
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 15110,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845148486808875331",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcf9 New Video: What is <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <br><br><a href=\"https://www.youtube.com/watch?v=2E1ONx-GnZc\">https://t.co/RbeUVCdz9F</a><br><br>In this video, we explain BNB Smart Chain\u2014how it works, its key features, and why it\u2019s so popular \ud83d\udc9b<br><br>With HOT Wallet SDK, BNB apps can now integrate directly into Telegram and reach millions of users \ud83d\ude80",
+            "ID": "1845148486808875331",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 409,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1845148486808875331",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 36,
+            "Retweets": 54,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcf9 New Video: What is @BNBCHAIN \n\nhttps://t.co/RbeUVCdz9F\n\nIn this video, we explain BNB Smart Chain\u2014how it works, its key features, and why it\u2019s so popular \ud83d\udc9b\n\nWith HOT Wallet SDK, BNB apps can now integrate directly into Telegram and reach millions of users \ud83d\ude80",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T17:04:15Z",
+            "Timestamp": 1728752655,
+            "URLs": [
+                "https://www.youtube.com/watch?v=2E1ONx-GnZc"
+            ],
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 21247,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845087094374314311",
+            "GIFs": [
+                {
+                    "ID": "1845129053705048067",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZs3GTLXkAMFuco.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZs3GTLXkAMFuco.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <br><a href=\"https://t.co/nexQxhugm2\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZs3GTLXkAMFuco.jpg\"/></a>",
+            "ID": "1845129061393174779",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845087094374314311",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 507,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1845129061393174779",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 51,
+            "Retweets": 39,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BNBCHAIN https://t.co/nexQxhugm2",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T15:47:03Z",
+            "Timestamp": 1728748023,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 14262,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844784311976759737",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/trondao\">@trondao</a> \ud83d\udd96",
+            "ID": "1844786595834032612",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844784311976759737",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 364,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "894231710065446912",
+                    "Username": "trondao",
+                    "Name": "TRON DAO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1844786595834032612",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 31,
+            "Retweets": 13,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@trondao \ud83d\udd96",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T17:06:13Z",
+            "Timestamp": 1728666373,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 15656,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844484101161746817",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf09 HOT Bridge Updates \ud83c\udf09 <br><br>We\u2019ve got some exciting news!<br><br>\u25b8 We\u2019ve moved to new HOT Bridge 2.0 contracts <br>\u25b8 Added <a href=\"https://twitter.com/solana\">@solana</a> network \ud83d\udc9c support <br>\u25b8 More tokens available across all networks <br><br>What\u2019s coming soon:<br>\u25b8 Autopilot \u2708\ufe0f feature so you can bridge even without native tokens <br><a href=\"https://t.co/IRaXWyFhZf\"><img src=\"https://pbs.twimg.com/media/GZjsgWgW0A8hg2R.jpg\"/></a>",
+            "ID": "1844484101161746817",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 781,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "951329744804392960",
+                    "Username": "solana",
+                    "Name": "Solana"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1844484101161746817",
+            "Photos": [
+                {
+                    "ID": "1844484087949479951",
+                    "URL": "https://pbs.twimg.com/media/GZjsgWgW0A8hg2R.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 84,
+            "Retweets": 117,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf09 HOT Bridge Updates \ud83c\udf09 \n\nWe\u2019ve got some exciting news!\n\n\u25b8 We\u2019ve moved to new HOT Bridge 2.0 contracts \n\u25b8 Added @solana network \ud83d\udc9c support \n\u25b8 More tokens available across all networks \n\nWhat\u2019s coming soon:\n\u25b8 Autopilot \u2708\ufe0f feature so you can bridge even without native tokens https://t.co/IRaXWyFhZf",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T21:04:13Z",
+            "Timestamp": 1728594253,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 45496,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844337429055987845",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf89 Airdrop from the HOT Wallet team for everyone who filled out the form! \ud83c\udf89<br><br>The average airdrop was $25. Tokens \ud83e\ude99 were sent to omni balances, meaning you can withdraw them through any network you prefer <br><br>We\u2019ll also be launching quick security quizzes soon to help our users <br><a href=\"https://t.co/nji7vQzeCs\"><img src=\"https://pbs.twimg.com/media/GZhnGKHWMAwtVFm.jpg\"/></a>",
+            "ID": "1844337429055987845",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1629,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1844337429055987845",
+            "Photos": [
+                {
+                    "ID": "1844337402900262924",
+                    "URL": "https://pbs.twimg.com/media/GZhnGKHWMAwtVFm.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 222,
+            "Retweets": 174,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf89 Airdrop from the HOT Wallet team for everyone who filled out the form! \ud83c\udf89\n\nThe average airdrop was $25. Tokens \ud83e\ude99 were sent to omni balances, meaning you can withdraw them through any network you prefer \n\nWe\u2019ll also be launching quick security quizzes soon to help our users https://t.co/nji7vQzeCs",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T11:21:23Z",
+            "Timestamp": 1728559283,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 201901,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844300098215243977",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Mission is Over",
+            "ID": "1844303220279071212",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844300098215243977",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 151,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1844303220279071212",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 15,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Mission is Over",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T09:05:27Z",
+            "Timestamp": 1728551127,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 20694,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844300098215243977",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "NEW  Special mission in HOT Wallet \ud83d\udc9b<br><br>Terms:<br>\u27a1 Swap $20+ <a href=\"https://twitter.com/EeOneGuy\">@EeOneGuy</a> <br>\ud83e\ude99 $5 000 prize pool<br>\ud83c\udf89 95% chance to win<br><br>Check mission here:<br><a href=\"https://t.me/herewalletbot\">https://t.co/A8mcqneXCd</a> <br><a href=\"https://t.co/FCRiuRI4ek\"><img src=\"https://pbs.twimg.com/media/GZhB2i4XkAowxXA.jpg\"/></a>",
+            "ID": "1844300098215243977",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 290,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1321011132",
+                    "Username": "EeOneGuy",
+                    "Name": "Ivan Rudsky"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1844300098215243977",
+            "Photos": [
+                {
+                    "ID": "1844296452740190218",
+                    "URL": "https://pbs.twimg.com/media/GZhB2i4XkAowxXA.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 28,
+            "Retweets": 15,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "NEW  Special mission in HOT Wallet \ud83d\udc9b\n\nTerms:\n\u27a1 Swap $20+ @EeOneGuy \n\ud83e\ude99 $5 000 prize pool\n\ud83c\udf89 95% chance to win\n\nCheck mission here:\nhttps://t.co/A8mcqneXCd https://t.co/FCRiuRI4ek",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T08:53:03Z",
+            "Timestamp": 1728550383,
+            "URLs": [
+                "https://t.me/herewalletbot"
+            ],
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 28526,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844045566914789507",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udd95 Track Tokens Health with HOT Wallet Analytics! <br><br>Use these insights to better research the tokens in your wallet and quickly identify scam tokens. Stay informed and make smarter decisions with HOT Wallet\u2019s token analytics \ud83d\udcaa <br><a href=\"https://t.co/UZ5j1qomDI\"><img src=\"https://pbs.twimg.com/media/GZddqg-X0AAafDv.jpg\"/></a>",
+            "ID": "1844045566914789507",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 493,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1844045566914789507",
+            "Photos": [
+                {
+                    "ID": "1844045557418938368",
+                    "URL": "https://pbs.twimg.com/media/GZddqg-X0AAafDv.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 64,
+            "Retweets": 48,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udd95 Track Tokens Health with HOT Wallet Analytics! \n\nUse these insights to better research the tokens in your wallet and quickly identify scam tokens. Stay informed and make smarter decisions with HOT Wallet\u2019s token analytics \ud83d\udcaa https://t.co/UZ5j1qomDI",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T16:01:38Z",
+            "Timestamp": 1728489698,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 29030,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843312135486734499",
+            "GIFs": [
+                {
+                    "ID": "1843706855735934976",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZYpne4XwAAO1fg.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZYpne4XwAAO1fg.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <br><a href=\"https://t.co/9RZ2opDfvw\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZYpne4XwAAO1fg.jpg\"/></a>",
+            "ID": "1843706869883474414",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843374165426135468",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1843706869883474414",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon https://t.co/9RZ2opDfvw",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T17:35:46Z",
+            "Timestamp": 1728408946,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 570,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843693026746491289",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83e\ude99 <a href=\"https://twitter.com/Hotmoon_game\">@Hotmoon_game</a> Last Season\ud83e\ude99<br><br>\ud83d\ude80 Farming is live on the TON blockchain with boosted rewards for all players: <br><br><a href=\"https://t.me/herewalletbot/app?startapp=app-hotmoon\">https://t.co/5VXd33MubG</a><br><br>\u27a1 $MOON will soon appear in your HOT Wallet portfolio.<br>\u27a1 $MOON listing will happen once omni balances on TON blockchain are ready.<br><br>Are you <br><a href=\"https://t.co/htojuTwCDm\"><img src=\"https://pbs.twimg.com/media/GZYcgPtW0AAMMRi.jpg\"/></a>",
+            "ID": "1843693026746491289",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 361,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": [
+                {
+                    "ID": "1818345631871582208",
+                    "Username": "Hotmoon_game",
+                    "Name": "Hotmoon_game"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/hotdao_/status/1843693026746491289",
+            "Photos": [
+                {
+                    "ID": "1843692437752958976",
+                    "URL": "https://pbs.twimg.com/media/GZYcgPtW0AAMMRi.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 52,
+            "Retweets": 31,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83e\ude99 @Hotmoon_game Last Season\ud83e\ude99\n\n\ud83d\ude80 Farming is live on the TON blockchain with boosted rewards for all players: \n\nhttps://t.co/5VXd33MubG\n\n\u27a1 $MOON will soon appear in your HOT Wallet portfolio.\n\u27a1 $MOON listing will happen once omni balances on TON blockchain are ready.\n\nAre you https://t.co/htojuTwCDm",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T16:40:46Z",
+            "Timestamp": 1728405646,
+            "URLs": [
+                "https://t.me/herewalletbot/app?startapp=app-hotmoon"
+            ],
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 22073,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843312135486734499",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Have you chosen your side in HOT Wallet yet? \u2699 -&gt; \ud83d\udc9b <br><a href=\"https://t.co/9DEJmU0L8p\"><img src=\"https://pbs.twimg.com/media/GZTCnLWXwAEtYyW.jpg\"/></a>",
+            "ID": "1843312135486734499",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 752,
+            "Name": "HOT Protocol \ud83d\udd25",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/hotdao_/status/1843312135486734499",
+            "Photos": [
+                {
+                    "ID": "1843312125818683393",
+                    "URL": "https://pbs.twimg.com/media/GZTCnLWXwAEtYyW.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 129,
+            "Retweets": 47,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Have you chosen your side in HOT Wallet yet? \u2699 -&gt; \ud83d\udc9b https://t.co/9DEJmU0L8p",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T15:27:14Z",
+            "Timestamp": 1728314834,
+            "URLs": null,
+            "UserID": "1759443844884520960",
+            "Username": "hotdao_",
+            "Videos": null,
+            "Views": 54610,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

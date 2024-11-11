@@ -1,0 +1,152 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1848251007014142142",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/dragonisnear\">@dragonisnear</a> This pfp change is \ud83d\udcaf cartel approved sir. \ud83e\udd1d",
+            "ID": "1848327696121577510",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848300727711465732",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "El Cafe Cartel",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ElCafeCartel/status/1848327696121577510",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon @dragonisnear This pfp change is \ud83d\udcaf cartel approved sir. \ud83e\udd1d",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T11:37:17Z",
+            "Timestamp": 1729510637,
+            "URLs": null,
+            "UserID": "1498932898279624709",
+            "Username": "ElCafeCartel",
+            "Videos": null,
+            "Views": 102,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847451451104108810",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/iblolurker\">@iblolurker</a> <a href=\"https://twitter.com/NotAnotherDeriv\">@NotAnotherDeriv</a> <a href=\"https://twitter.com/SolanaMalos\">@SolanaMalos</a> Believe in something",
+            "ID": "1847521688524628117",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847451451104108810",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "El Cafe Cartel",
+            "Mentions": [
+                {
+                    "ID": "1479388883553079297",
+                    "Username": "iblolurker",
+                    "Name": "IblisX | \ud83d\udd2a\ud83d\udc38\ud83d\udd25"
+                },
+                {
+                    "ID": "1750168129315987456",
+                    "Username": "NotAnotherDeriv",
+                    "Name": "COPE HARDER SOLD OUT"
+                },
+                {
+                    "ID": "1694446679259238400",
+                    "Username": "SolanaMalos",
+                    "Name": "MALOs\ud83d\udc8e"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ElCafeCartel/status/1847521688524628117",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@iblolurker @NotAnotherDeriv @SolanaMalos Believe in something",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T06:14:30Z",
+            "Timestamp": 1729318470,
+            "URLs": null,
+            "UserID": "1498932898279624709",
+            "Username": "ElCafeCartel",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846717557971050632",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/iblolurker\">@iblolurker</a> Same mud",
+            "ID": "1847521506709893264",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846717557971050632",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "El Cafe Cartel",
+            "Mentions": [
+                {
+                    "ID": "1479388883553079297",
+                    "Username": "iblolurker",
+                    "Name": "IblisX | \ud83d\udd2a\ud83d\udc38\ud83d\udd25"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/ElCafeCartel/status/1847521506709893264",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@iblolurker Same mud",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T06:13:47Z",
+            "Timestamp": 1729318427,
+            "URLs": null,
+            "UserID": "1498932898279624709",
+            "Username": "ElCafeCartel",
+            "Videos": null,
+            "Views": 25,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

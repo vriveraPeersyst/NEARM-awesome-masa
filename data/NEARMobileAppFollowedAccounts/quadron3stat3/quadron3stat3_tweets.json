@@ -1,0 +1,1836 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854556829176807878",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SocketProtocol\">@SocketProtocol</a> <a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+            "ID": "1854567438085734526",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854556829176807878",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1395754141348028416",
+                    "Username": "SocketProtocol",
+                    "Name": "Socket"
+                },
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1854567438085734526",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SocketProtocol @NEARWEEK @NEARProtocol \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T16:51:48Z",
+            "Timestamp": 1730998308,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 109,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854440134059733497",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Defi0xJeff\">@Defi0xJeff</a> <a href=\"https://twitter.com/_Curmello\">@_Curmello</a> <a href=\"https://twitter.com/ParticleNtwrk\">@ParticleNtwrk</a> <a href=\"https://twitter.com/SocketProtocol\">@SocketProtocol</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Lfg ser \ud83d\udd25",
+            "ID": "1854558499814215998",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854440134059733497",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1460252469745782790",
+                    "Username": "Defi0xJeff",
+                    "Name": "0xJeff"
+                },
+                {
+                    "ID": "1521456405219352576",
+                    "Username": "_Curmello",
+                    "Name": "\ud835\ude72\ud835\ude9e\ud835\ude9b\ud835\ude96\ud835\ude8e\ud835\ude95\ud835\ude95\ud835\ude98 \u22c8 \u2764\ufe0f\u200d\ud83d\udd25"
+                },
+                {
+                    "ID": "1502187805463638018",
+                    "Username": "ParticleNtwrk",
+                    "Name": "Particle Network"
+                },
+                {
+                    "ID": "1395754141348028416",
+                    "Username": "SocketProtocol",
+                    "Name": "Socket"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1854558499814215998",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Defi0xJeff @_Curmello @ParticleNtwrk @SocketProtocol @NEARProtocol Lfg ser \ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T16:16:17Z",
+            "Timestamp": 1730996177,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 18,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854089991653077154",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Gonna be a big week",
+            "ID": "1854089991653077154",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1854089991653077154",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1853775778053234727",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Gonna be a big week",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T09:14:35Z",
+            "Timestamp": 1730884475,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 31,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852632021916426720",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mraltantutar\">@mraltantutar</a> Gnuff",
+            "ID": "1852969096578470370",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852632021916426720",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "760083561475141639",
+                    "Username": "mraltantutar",
+                    "Name": "altan tutar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1852969096578470370",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mraltantutar Gnuff",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T07:00:33Z",
+            "Timestamp": 1730617233,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852811292576501842",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\"AI will put the Web2 oligopoly on steroids.<br><br>Creating distributed, collectively owned open-source AI is a vitally important use case for Web3 and blockchain.<br><br>It\u2019s the only way to avoid misaligned incentives.\"<br><br><a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> is giving decentralized AI a fighting chance.<br><br>Join",
+            "ID": "1852811292576501842",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1852811292576501842",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852499822005158218",
+            "Replies": 2,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\"AI will put the Web2 oligopoly on steroids.\n\nCreating distributed, collectively owned open-source AI is a vitally important use case for Web3 and blockchain.\n\nIt\u2019s the only way to avoid misaligned incentives.\"\n\n@NEARProtocol is giving decentralized AI a fighting chance.\n\nJoin",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T20:33:30Z",
+            "Timestamp": 1730579610,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 1143,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852026388230140086",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/nearhorizon\">@nearhorizon</a> The beginning of the Open Web revolution is NEAR",
+            "ID": "1852298051701862490",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852026388230140086",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1651859609299066880",
+                    "Username": "nearhorizon",
+                    "Name": "NEAR Horizon"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1852298051701862490",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol @nearhorizon The beginning of the Open Web revolution is NEAR",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T10:34:04Z",
+            "Timestamp": 1730457244,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 147,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852053136254640386",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/race_of_sloths\">@race_of_sloths</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1852297874303807770",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852053136254640386",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1791732142583476224",
+                    "Username": "race_of_sloths",
+                    "Name": "race-of-sloths"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1852297874303807770",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@race_of_sloths !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T10:33:21Z",
+            "Timestamp": 1730457201,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852280063271526544",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "NEAR is the blockchain for AI",
+            "ID": "1852280063271526544",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1852280063271526544",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852151786762834007",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "NEAR is the blockchain for AI",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T09:22:35Z",
+            "Timestamp": 1730452955,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 155,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852195247117218119",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/slimedrgn\">@slimedrgn</a> \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "ID": "1852266807484166250",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852195247117218119",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1507969473600536576",
+                    "Username": "slimedrgn",
+                    "Name": "slimedragon.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1852266807484166250",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@slimedrgn \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T08:29:55Z",
+            "Timestamp": 1730449795,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 48,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851904047646675319",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> The future needs a user owned alternative\ud83d\ude4f\ud83c\udffc",
+            "ID": "1851910979849699593",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851904047646675319",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1851910979849699593",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK @ilblackdragon The future needs a user owned alternative\ud83d\ude4f\ud83c\udffc",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T08:55:59Z",
+            "Timestamp": 1730364959,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 25,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851793126228189556",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/TripleWChampion\">@TripleWChampion</a> <a href=\"https://twitter.com/chronear\">@chronear</a> And ends with an I?",
+            "ID": "1851904643720171746",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851795060871901419",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "698581366968029184",
+                    "Username": "TripleWChampion",
+                    "Name": "WinningWealthWisdom (\u2708\ufe0f,\ud83c\udfe8)"
+                },
+                {
+                    "ID": "1380577920465403909",
+                    "Username": "chronear",
+                    "Name": "chronear"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1851904643720171746",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@TripleWChampion @chronear And ends with an I?",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T08:30:48Z",
+            "Timestamp": 1730363448,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 33,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851543324932350349",
+            "GIFs": [
+                {
+                    "ID": "1851698879701438464",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbKOUgOX0AAlHxl.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbKOUgOX0AAlHxl.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/David___Mo\">@David___Mo</a> <br><a href=\"https://t.co/O0DXZIoudC\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbKOUgOX0AAlHxl.jpg\"/></a>",
+            "ID": "1851698887167541567",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851564013903130667",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1230094565467619335",
+                    "Username": "David___Mo",
+                    "Name": "DAOvid Morrison (davidmo.near) \ud83e\udd16"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1851698887167541567",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@David___Mo https://t.co/O0DXZIoudC",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T18:53:12Z",
+            "Timestamp": 1730314392,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 14,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851543324932350349",
+            "GIFs": [
+                {
+                    "ID": "1851563859909165056",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbIThUTWQAAzWYr.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbIThUTWQAAzWYr.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/David___Mo\">@David___Mo</a> God damn tired of being fucked over 24/7! <br><a href=\"https://t.co/BhdCXR3imm\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbIThUTWQAAzWYr.jpg\"/></a>",
+            "ID": "1851563867144425706",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851543324932350349",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1230094565467619335",
+                    "Username": "David___Mo",
+                    "Name": "DAOvid Morrison (davidmo.near) \ud83e\udd16"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1851563867144425706",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@David___Mo God damn tired of being fucked over 24/7! https://t.co/BhdCXR3imm",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T09:56:40Z",
+            "Timestamp": 1730282200,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 43,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851354314079650019",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AlexSkidanov\">@AlexSkidanov</a> \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f",
+            "ID": "1851355886779838552",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851354314079650019",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1034268067331694593",
+                    "Username": "AlexSkidanov",
+                    "Name": "Alex Skidanov (alex.near)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1851355886779838552",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AlexSkidanov \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T20:10:14Z",
+            "Timestamp": 1730232614,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 94,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851271112027455643",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ben_kurrek\">@ben_kurrek</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1851317363880444183",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851271112027455643",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1476970491516702724",
+                    "Username": "ben_kurrek",
+                    "Name": "Ben Kurrek"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1851317363880444183",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ben_kurrek !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T17:37:10Z",
+            "Timestamp": 1730223430,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 64,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849821794485653809",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> Ser \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+            "ID": "1850055361471889894",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849821794485653809",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1850055361471889894",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jarednotjerry1 Ser \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T06:02:25Z",
+            "Timestamp": 1729922545,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849819396577034285",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/cyrilXBT\">@cyrilXBT</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Gud read ser",
+            "ID": "1849877902755512770",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849819396577034285",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1373665408193036293",
+                    "Username": "cyrilXBT",
+                    "Name": "CyrilXBT"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1849877902755512770",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@cyrilXBT @NEARProtocol Gud read ser",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T18:17:15Z",
+            "Timestamp": 1729880235,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849722386494419297",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Looking fwd to seeing everyone IRL again \ud83d\ude4f\ud83c\udffc",
+            "ID": "1849722906860773388",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849722386494419297",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1849722906860773388",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK @NEARProtocol Looking fwd to seeing everyone IRL again \ud83d\ude4f\ud83c\udffc",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T08:01:21Z",
+            "Timestamp": 1729843281,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 28,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849455281807167530",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/hotdao_\">@hotdao_</a> <a href=\"https://twitter.com/hackenclub\">@hackenclub</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1849712015901598187",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849455281807167530",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1759443844884520960",
+                    "Username": "hotdao_",
+                    "Name": "HOT Protocol \ud83d\udd25"
+                },
+                {
+                    "ID": "898528774303735808",
+                    "Username": "hackenclub",
+                    "Name": "Hacken\ud83c\uddfa\ud83c\udde6"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1849712015901598187",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@hotdao_ @hackenclub !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T07:18:05Z",
+            "Timestamp": 1729840685,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 296,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849472117210792385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ALEXLabBTC\">@ALEXLabBTC</a> cooking w/ <a href=\"https://twitter.com/proximityfi\">@proximityfi</a> \ud83d\udc40<br><br>NEAR season incoming.",
+            "ID": "1849472117210792385",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1403698101060313090",
+                    "Username": "ALEXLabBTC",
+                    "Name": "ALEX \ud83d\udfe7 Advancing Bitcoin DeFi"
+                },
+                {
+                    "ID": "1412496723776180227",
+                    "Username": "proximityfi",
+                    "Name": "Proximity Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1849472117210792385",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849458945641034068",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ALEXLabBTC cooking w/ @proximityfi \ud83d\udc40\n\nNEAR season incoming.",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:24:48Z",
+            "Timestamp": 1729783488,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 46,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849383450026926144",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mraltantutar\">@mraltantutar</a> Omfg",
+            "ID": "1849396156482158675",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849383450026926144",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "760083561475141639",
+                    "Username": "mraltantutar",
+                    "Name": "altan tutar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1849396156482158675",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mraltantutar Omfg",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T10:22:58Z",
+            "Timestamp": 1729765378,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 19,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849106252728574276",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> Getting NEARer every day, Lfg ser",
+            "ID": "1849157789676921292",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849106252728574276",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1849157789676921292",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon Getting NEARer every day, Lfg ser",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T18:35:47Z",
+            "Timestamp": 1729708547,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 42,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849157416404885628",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "User-owned AI, DeFi and Chain Abstraction are the components that will power the user-owned internet.<br><br><a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> is that user-owned internet: decentralized and optimized for user\u2019s success. <br><br>And to top things off NEAR boasts some of the best token fundamentals among L1s and",
+            "ID": "1849157416404885628",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1849157416404885628",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "User-owned AI, DeFi and Chain Abstraction are the components that will power the user-owned internet.\n\n@NEARProtocol is that user-owned internet: decentralized and optimized for user\u2019s success. \n\nAnd to top things off NEAR boasts some of the best token fundamentals among L1s and",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T18:34:18Z",
+            "Timestamp": 1729708458,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 467,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849118636805595521",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nufflelabs\">@nufflelabs</a> <a href=\"https://twitter.com/wasabi_protocol\">@wasabi_protocol</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1849154726291534048",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849118636805595521",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1786106969926811648",
+                    "Username": "nufflelabs",
+                    "Name": "nuffle ( waff / le )"
+                },
+                {
+                    "ID": "1587508689572974592",
+                    "Username": "wasabi_protocol",
+                    "Name": "Wasabi Protocol \ud83d\udfe2"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1849154726291534048",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nufflelabs @wasabi_protocol !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T18:23:37Z",
+            "Timestamp": 1729707817,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 18,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848320391212597691",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xhess\">@0xhess</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> <a href=\"https://twitter.com/noahmajor1776\">@noahmajor1776</a> <a href=\"https://twitter.com/NearChanKawaii\">@NearChanKawaii</a> <a href=\"https://twitter.com/HeyMaiye\">@HeyMaiye</a> <a href=\"https://twitter.com/EtimEarnest\">@EtimEarnest</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1848809852816265318",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848320391212597691",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1314075720",
+                    "Username": "0xhess",
+                    "Name": "Hess"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "1434873194670874627",
+                    "Username": "noahmajor1776",
+                    "Name": "Nono \u22c8"
+                },
+                {
+                    "ID": "1488688230157348867",
+                    "Username": "NearChanKawaii",
+                    "Name": "NearChanKawaii"
+                },
+                {
+                    "ID": "1677621700823859200",
+                    "Username": "HeyMaiye",
+                    "Name": "Maiy\u20ac_of_Fortun\u20ac\u2660\ufe0f"
+                },
+                {
+                    "ID": "1054072952969412609",
+                    "Username": "EtimEarnest",
+                    "Name": "Modify\ud83d\udd38"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1848809852816265318",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xhess @NEARProtocol @finance_ref @noahmajor1776 @NearChanKawaii @HeyMaiye @EtimEarnest !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T19:33:12Z",
+            "Timestamp": 1729625592,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 54,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848422965135695980",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SenseiBR_btc\">@SenseiBR_btc</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/OasisProtocol\">@OasisProtocol</a> <a href=\"https://twitter.com/graphprotocol\">@graphprotocol</a> <a href=\"https://twitter.com/bittensorcom\">@bittensorcom</a> <a href=\"https://twitter.com/oraichain\">@oraichain</a> <a href=\"https://twitter.com/worldcoin\">@worldcoin</a> <a href=\"https://twitter.com/golemproject\">@golemproject</a> <a href=\"https://twitter.com/oceanprotocol\">@oceanprotocol</a> Future is NEAR",
+            "ID": "1848803415507251265",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848422965135695980",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1722330307892744192",
+                    "Username": "SenseiBR_btc",
+                    "Name": "Sensei"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1149448314158342144",
+                    "Username": "OasisProtocol",
+                    "Name": "Oasis"
+                },
+                {
+                    "ID": "981325507080814592",
+                    "Username": "graphprotocol",
+                    "Name": "The Graph"
+                },
+                {
+                    "ID": "722461069902348288",
+                    "Username": "bittensorcom",
+                    "Name": "Bittensor"
+                },
+                {
+                    "ID": "1300375231073120256",
+                    "Username": "oraichain",
+                    "Name": "Oraichain"
+                },
+                {
+                    "ID": "70203939",
+                    "Username": "worldcoin",
+                    "Name": "World"
+                },
+                {
+                    "ID": "4053977488",
+                    "Username": "golemproject",
+                    "Name": "Golem Network"
+                },
+                {
+                    "ID": "908581392061214720",
+                    "Username": "oceanprotocol",
+                    "Name": "Ocean Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1848803415507251265",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SenseiBR_btc @NEARProtocol @OasisProtocol @graphprotocol @bittensorcom @oraichain @worldcoin @golemproject @oceanprotocol Future is NEAR",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T19:07:38Z",
+            "Timestamp": 1729624058,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 152,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848791078905729201",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> empowers developers to build AI-powered apps that scale to billions of users. <br><br>By enabling seamless integration of AI with decentralized infrastructure, NEAR is at the forefront of supporting the next generation of AI-driven solutions in the Web3 space.<br><br>You\u2019re not",
+            "ID": "1848791078905729201",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": true,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1848791078905729201",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol empowers developers to build AI-powered apps that scale to billions of users. \n\nBy enabling seamless integration of AI with decentralized infrastructure, NEAR is at the forefront of supporting the next generation of AI-driven solutions in the Web3 space.\n\nYou\u2019re not",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T18:18:36Z",
+            "Timestamp": 1729621116,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 710,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848696991129473303",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/zero1_labs\">@zero1_labs</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1848790316717117626",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848696991129473303",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1723917663884529664",
+                    "Username": "zero1_labs",
+                    "Name": "Zero1 Labs (\ud835\udfd8,\ud835\udff7) | Cypher Testnet Live"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1848790316717117626",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@zero1_labs !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T18:15:35Z",
+            "Timestamp": 1729620935,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 175,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848269161816088722",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/realjameswo\">@realjameswo</a> <a href=\"https://twitter.com/marcus_NEAR\">@marcus_NEAR</a> <a href=\"https://twitter.com/DFG__Official\">@DFG__Official</a> Lfg ser \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+            "ID": "1848706031985078418",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848696016523956727",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "3724412003",
+                    "Username": "realjameswo",
+                    "Name": "James Wo \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e"
+                },
+                {
+                    "ID": "1401917448140595203",
+                    "Username": "marcus_NEAR",
+                    "Name": "Marcus"
+                },
+                {
+                    "ID": "822348194235285508",
+                    "Username": "DFG__Official",
+                    "Name": "DFG"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1848706031985078418",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@realjameswo @marcus_NEAR @DFG__Official Lfg ser \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T12:40:39Z",
+            "Timestamp": 1729600839,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 52,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847331425567330492",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BowenWang18\">@BowenWang18</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1847544532692337059",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847331425567330492",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1040288424874303490",
+                    "Username": "BowenWang18",
+                    "Name": "Bowen Wang"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1847544532692337059",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BowenWang18 !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T07:45:16Z",
+            "Timestamp": 1729323916,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 75,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846970416138801366",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/crypto_groggs\">@crypto_groggs</a> <a href=\"https://twitter.com/near_ai\">@near_ai</a> Lfg ser \ud83c\udfce\ufe0f",
+            "ID": "1847292125878034714",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846970416138801366",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1476508372455378945",
+                    "Username": "crypto_groggs",
+                    "Name": "Groggs \u2618\ufe0f"
+                },
+                {
+                    "ID": "916067753009623040",
+                    "Username": "near_ai",
+                    "Name": "NEAR AI"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1847292125878034714",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@crypto_groggs @near_ai Lfg ser \ud83c\udfce\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T15:02:18Z",
+            "Timestamp": 1729263738,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 21,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846842486359990329",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/guillewrotethis\">@guillewrotethis</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1847187913391448154",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846842486359990329",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "1573310616768598017",
+                    "Username": "guillewrotethis",
+                    "Name": "Guille"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1847187913391448154",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@guillewrotethis @NEARDevHub !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T08:08:12Z",
+            "Timestamp": 1729238892,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 17,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846289491457462655",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/kaiynne\">@kaiynne</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/EFDevcon\">@EFDevcon</a> \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "ID": "1846434268249034876",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846289491457462655",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "24809221",
+                    "Username": "kaiynne",
+                    "Name": "kain"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1013526003015184385",
+                    "Username": "EFDevcon",
+                    "Name": "Deva the Devcon Unicorn"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1846434268249034876",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@kaiynne @NEARProtocol @EFDevcon \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T06:13:29Z",
+            "Timestamp": 1729059209,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 52,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846117019042640198",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> GNEAR \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+            "ID": "1846224653380948317",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846117019042640198",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1846224653380948317",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon GNEAR \ud83e\udd1c\ud83c\udffc\ud83e\udd1b\ud83c\udffc",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T16:20:33Z",
+            "Timestamp": 1729009233,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 70,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846224505875665048",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Gnear \ud83d\udc10",
+            "ID": "1846224505875665048",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1846224505875665048",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846117019042640198",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Gnear \ud83d\udc10",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T16:19:58Z",
+            "Timestamp": 1729009198,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 132,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844030905062699344",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/LLuciano_BTC\">@LLuciano_BTC</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1844720060335526082",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844030905062699344",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "PTR.NEAR (\u22c8, \ud83d\udc09, \ud83d\udce1)",
+            "Mentions": [
+                {
+                    "ID": "3065976851",
+                    "Username": "LLuciano_BTC",
+                    "Name": "Lucky"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/quadron3stat3/status/1844720060335526082",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@LLuciano_BTC @NEARProtocol !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T12:41:50Z",
+            "Timestamp": 1728650510,
+            "URLs": null,
+            "UserID": "586816897",
+            "Username": "quadron3stat3",
+            "Videos": null,
+            "Views": 37,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

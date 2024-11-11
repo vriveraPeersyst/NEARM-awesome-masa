@@ -1,0 +1,373 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854065395680075841",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "3/3\u00a0 <a href=\"https://twitter.com/Sender_AI\">@Sender_AI</a> is a major player on <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> with millions of active users, backed by <a href=\"https://twitter.com/PanteraCapital\">@PanteraCapital</a>  and <a href=\"https://twitter.com/binance\">@binance</a>. <br><br>NEAT will serve as the on-chain data provider, ensuring vital data is stored securely and transparently\ud83d\udd12",
+            "ID": "1854065398880346590",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854065397382918479",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "NEAT",
+            "Mentions": [
+                {
+                    "ID": "1457908668134010882",
+                    "Username": "Sender_AI",
+                    "Name": "Sender AI"
+                },
+                {
+                    "ID": "2287471915",
+                    "Username": "PanteraCapital",
+                    "Name": "Pantera Capital"
+                },
+                {
+                    "ID": "877807935493033984",
+                    "Username": "binance",
+                    "Name": "Binance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/inscriptionneat/status/1854065398880346590",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "3/3\u00a0 @Sender_AI is a major player on #NEAR with millions of active users, backed by @PanteraCapital  and @binance. \n\nNEAT will serve as the on-chain data provider, ensuring vital data is stored securely and transparently\ud83d\udd12",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T07:36:52Z",
+            "Timestamp": 1730878612,
+            "URLs": null,
+            "UserID": "1729502671122374657",
+            "Username": "inscriptionneat",
+            "Videos": null,
+            "Views": 1216,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854065395680075841",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/3\ud83d\udca1In this innovative system, AI agents engage in block validation and generation. Their influence will come from token holdings and reputation scores. <br><br>A smart AI model will monitor network behavior to catch any suspicious activities and trigger actions based on pre-set",
+            "ID": "1854065397382918479",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854065395680075841",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "NEAT",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/inscriptionneat/status/1854065397382918479",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/3\ud83d\udca1In this innovative system, AI agents engage in block validation and generation. Their influence will come from token holdings and reputation scores. \n\nA smart AI model will monitor network behavior to catch any suspicious activities and trigger actions based on pre-set",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T07:36:52Z",
+            "Timestamp": 1730878612,
+            "URLs": null,
+            "UserID": "1729502671122374657",
+            "Username": "inscriptionneat",
+            "Videos": null,
+            "Views": 1385,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854065395680075841",
+            "GIFs": null,
+            "Hashtags": [
+                "AI"
+            ],
+            "HTML": "\ud83d\udca5Big things are happening in the <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> AI ecosystem! <br><br>NEAT <a href=\"https://twitter.com/inscriptionneat\">@inscriptionneat</a> is partnering with <a href=\"https://twitter.com/Sender_AI\">@Sender_AI</a>  to develop an AI-driven Adaptive Proof of Stake (APoS) mechanism and Multi-Agent Consensus! <a href=\"https://twitter.com/hashtag/AI\">#AI</a><br><br>Learn more\ud83d\udd3d <a href=\"https://medium.com/nearprotocol/neat-and-sender-partners-in-building-ai-driven-adaptive-pos-and-multi-agent-consensus-ef723aa78290\">https://t.co/nYn4i1FgtE</a>",
+            "ID": "1854065395680075841",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": true,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 169,
+            "Name": "NEAT",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1729502671122374657",
+                    "Username": "inscriptionneat",
+                    "Name": "NEAT"
+                },
+                {
+                    "ID": "1457908668134010882",
+                    "Username": "Sender_AI",
+                    "Name": "Sender AI"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/inscriptionneat/status/1854065395680075841",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 10,
+            "Retweets": 24,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udca5Big things are happening in the @NEARProtocol AI ecosystem! \n\nNEAT @inscriptionneat is partnering with @Sender_AI  to develop an AI-driven Adaptive Proof of Stake (APoS) mechanism and Multi-Agent Consensus! #AI\n\nLearn more\ud83d\udd3d https://t.co/nYn4i1FgtE",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T07:36:51Z",
+            "Timestamp": 1730878611,
+            "URLs": [
+                "https://medium.com/nearprotocol/neat-and-sender-partners-in-building-ai-driven-adaptive-pos-and-multi-agent-consensus-ef723aa78290"
+            ],
+            "UserID": "1729502671122374657",
+            "Username": "inscriptionneat",
+            "Videos": null,
+            "Views": 49412,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854003082239336702",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Reloading. <br><a href=\"https://t.co/J88kEc86uj\"><img src=\"https://pbs.twimg.com/media/Gbq99ddawAASjmj.jpg\"/></a>",
+            "ID": "1854003082239336702",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 61,
+            "Name": "NEAT",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/inscriptionneat/status/1854003082239336702",
+            "Photos": [
+                {
+                    "ID": "1854003060194066432",
+                    "URL": "https://pbs.twimg.com/media/Gbq99ddawAASjmj.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 10,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Reloading. https://t.co/J88kEc86uj",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T03:29:15Z",
+            "Timestamp": 1730863755,
+            "URLs": null,
+            "UserID": "1729502671122374657",
+            "Username": "inscriptionneat",
+            "Videos": null,
+            "Views": 4686,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848285253477269551",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/MoritzMlle86477\">@MoritzMlle86477</a> Certainly, it's the same process as with any other NEP-141 token.",
+            "ID": "1848698974540337485",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848661509624177099",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAT",
+            "Mentions": [
+                {
+                    "ID": "1733836185120669696",
+                    "Username": "MoritzMlle86477",
+                    "Name": "Rynas"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/inscriptionneat/status/1848698974540337485",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@MoritzMlle86477 Certainly, it's the same process as with any other NEP-141 token.",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T12:12:37Z",
+            "Timestamp": 1729599157,
+            "URLs": null,
+            "UserID": "1729502671122374657",
+            "Username": "inscriptionneat",
+            "Videos": null,
+            "Views": 63,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848285253477269551",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "If you\u2019re looking to stake NEAT, simply visit the staking site and click \"Sign in\" at the top right to connect your wallet. All NEAR-compatible wallets are supported \u2705<br><br><a href=\"https://near.social/inscribe.near/widget/NEAT?tab=stake\">https://t.co/xpuvpPxpfb</a>",
+            "ID": "1848285253477269551",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "NEAT",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/inscriptionneat/status/1848285253477269551",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847969062703309199",
+            "Replies": 9,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "If you\u2019re looking to stake NEAT, simply visit the staking site and click \"Sign in\" at the top right to connect your wallet. All NEAR-compatible wallets are supported \u2705\n\nhttps://t.co/xpuvpPxpfb",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T08:48:38Z",
+            "Timestamp": 1729500518,
+            "URLs": [
+                "https://near.social/inscribe.near/widget/NEAT?tab=stake"
+            ],
+            "UserID": "1729502671122374657",
+            "Username": "inscriptionneat",
+            "Videos": null,
+            "Views": 3055,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843479850151293418",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/smartcoded2011\">@smartcoded2011</a> It's never too late to join in now!",
+            "ID": "1846846574086979630",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846592849459990636",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAT",
+            "Mentions": [
+                {
+                    "ID": "1529786948923039746",
+                    "Username": "smartcoded2011",
+                    "Name": "Smartcoded"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/inscriptionneat/status/1846846574086979630",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@smartcoded2011 It's never too late to join in now!",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T09:31:50Z",
+            "Timestamp": 1729157510,
+            "URLs": null,
+            "UserID": "1729502671122374657",
+            "Username": "inscriptionneat",
+            "Videos": null,
+            "Views": 85,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843479850151293418",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Don\u2019t let your $NEAT sit idle in your wallet\ud83d\udca4<br><br>Head over and start earning 50% APY through staking\ud83d\udc47<a href=\"https://near.social/inscribe.near/widget/NEAT?tab=stake\">https://t.co/xpuvpPxpfb</a>",
+            "ID": "1843479850151293418",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "NEAT",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/inscriptionneat/status/1843479850151293418",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 18,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Don\u2019t let your $NEAT sit idle in your wallet\ud83d\udca4\n\nHead over and start earning 50% APY through staking\ud83d\udc47https://t.co/xpuvpPxpfb",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T02:33:41Z",
+            "Timestamp": 1728354821,
+            "URLs": [
+                "https://near.social/inscribe.near/widget/NEAT?tab=stake"
+            ],
+            "UserID": "1729502671122374657",
+            "Username": "inscriptionneat",
+            "Videos": null,
+            "Views": 3024,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

@@ -1,0 +1,1155 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1853820758436217333",
+            "GIFs": [
+                {
+                    "ID": "1853843820913307648",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbotIg6XMAAYZOE.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbotIg6XMAAYZOE.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/WalletConnect\">@WalletConnect</a> <a href=\"https://twitter.com/base\">@base</a> <a href=\"https://twitter.com/ethereum\">@ethereum</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/BNBCHAIN\">@BNBCHAIN</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> BIG <br><a href=\"https://t.co/NKk47YUWte\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbotIg6XMAAYZOE.jpg\"/></a>",
+            "ID": "1853843826315526347",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853820758436217333",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "977233881668648960",
+                    "Username": "WalletConnect",
+                    "Name": "WalletConnect"
+                },
+                {
+                    "ID": "1628067904083181570",
+                    "Username": "base",
+                    "Name": "Base"
+                },
+                {
+                    "ID": "2312333412",
+                    "Username": "ethereum",
+                    "Name": "Ethereum Foundation"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1052454006537314306",
+                    "Username": "BNBCHAIN",
+                    "Name": "BNB Chain"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1853843826315526347",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BitteProtocol @safe @WalletConnect @base @ethereum @Optimism @BNBCHAIN @arbitrum BIG https://t.co/NKk47YUWte",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T16:56:25Z",
+            "Timestamp": 1730825785,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 131,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851908687138324769",
+            "GIFs": [
+                {
+                    "ID": "1852041540488536064",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbPF9_IWIAACjK2.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbPF9_IWIAACjK2.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nategeier\">@nategeier</a> <a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a> <a href=\"https://twitter.com/EFDevcon\">@EFDevcon</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><a href=\"https://t.co/biSP6xPIAH\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbPF9_IWIAACjK2.jpg\"/></a>",
+            "ID": "1852041545689538818",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851908687138324769",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "16331393",
+                    "Username": "nategeier",
+                    "Name": "Nate | Bitte \ud83d\ude4f\ud83c\udffc"
+                },
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                },
+                {
+                    "ID": "1013526003015184385",
+                    "Username": "EFDevcon",
+                    "Name": "Deva the Devcon Unicorn"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1852041545689538818",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nategeier @BitteProtocol @EFDevcon @NEARProtocol https://t.co/biSP6xPIAH",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T17:34:48Z",
+            "Timestamp": 1730396088,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 28,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852026388230140086",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/nearhorizon\">@nearhorizon</a> The heat of NEAR DeFi will keep me warm through winter. <br><br>(It\u2019s heating up)",
+            "ID": "1852040126957846831",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852026388230140086",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1651859609299066880",
+                    "Username": "nearhorizon",
+                    "Name": "NEAR Horizon"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1852040126957846831",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol @nearhorizon The heat of NEAR DeFi will keep me warm through winter. \n\n(It\u2019s heating up)",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T17:29:10Z",
+            "Timestamp": 1730395750,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 326,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849183161449595317",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xMert_\">@0xMert_</a> Haven\u2019t seen this <a href=\"https://twitter.com/0xMert_\">@0xMert_</a> in a minute \ud83c\udf7f",
+            "ID": "1849439533709812039",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849183161449595317",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1309886201944473600",
+                    "Username": "0xMert_",
+                    "Name": "mert | helius.dev"
+                },
+                {
+                    "ID": "1309886201944473600",
+                    "Username": "0xMert_",
+                    "Name": "mert | helius.dev"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1849439533709812039",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xMert_ Haven\u2019t seen this @0xMert_ in a minute \ud83c\udf7f",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T13:15:20Z",
+            "Timestamp": 1729775720,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849112377259593865",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/udiWertheimer\">@udiWertheimer</a> <a href=\"https://twitter.com/brian_armstrong\">@brian_armstrong</a> <a href=\"https://twitter.com/truth_terminal\">@truth_terminal</a> Finally someone asks",
+            "ID": "1849407363595288853",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849262784871121327",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "14527699",
+                    "Username": "udiWertheimer",
+                    "Name": "Udi | BIP-420 \ud83d\udc31"
+                },
+                {
+                    "ID": "14379660",
+                    "Username": "brian_armstrong",
+                    "Name": "Brian Armstrong"
+                },
+                {
+                    "ID": "1802642686710837249",
+                    "Username": "truth_terminal",
+                    "Name": "terminal of truths"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1849407363595288853",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@udiWertheimer @brian_armstrong @truth_terminal Finally someone asks",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T11:07:30Z",
+            "Timestamp": 1729768050,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 16,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848696991129473303",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/zero1_labs\">@zero1_labs</a> \ud83c\udf7f",
+            "ID": "1848701556713013667",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848696991129473303",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1723917663884529664",
+                    "Username": "zero1_labs",
+                    "Name": "Zero1 Labs (\ud835\udfd8,\ud835\udff7) | Cypher Testnet Live"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1848701556713013667",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@zero1_labs \ud83c\udf7f",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T12:22:52Z",
+            "Timestamp": 1729599772,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 148,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848204491838919011",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/DegenerateNews\">@DegenerateNews</a> <a href=\"https://twitter.com/truth_terminal\">@truth_terminal</a> <a href=\"https://twitter.com/GnearAi\">@GnearAi</a> can you and your AI buddies get it together",
+            "ID": "1848679035007627649",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848677325639975157",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "1505874016761831430",
+                    "Username": "DegenerateNews",
+                    "Name": "DEGEN NEWS"
+                },
+                {
+                    "ID": "1802642686710837249",
+                    "Username": "truth_terminal",
+                    "Name": "terminal of truths"
+                },
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1848679035007627649",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi @DegenerateNews @truth_terminal @GnearAi can you and your AI buddies get it together",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T10:53:23Z",
+            "Timestamp": 1729594403,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 19,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848265199607849172",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> Gnear!",
+            "ID": "1848314251745595697",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848265199607849172",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1848314251745595697",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi Gnear!",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T10:43:52Z",
+            "Timestamp": 1729507432,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 30,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846825187330682947",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nufflelabs\">@nufflelabs</a> <a href=\"https://twitter.com/mraltantutar\">@mraltantutar</a> \u201cHumans were meant to live at sea level. I walked up two flights of stairs to get here and I\u2019m still out of breath\u2026I\u2019m sorry can you repeat the question?\u201d",
+            "ID": "1847241782561587398",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846825187330682947",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1786106969926811648",
+                    "Username": "nufflelabs",
+                    "Name": "nuffle ( waff / le )"
+                },
+                {
+                    "ID": "760083561475141639",
+                    "Username": "mraltantutar",
+                    "Name": "altan tutar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1847241782561587398",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nufflelabs @mraltantutar \u201cHumans were meant to live at sea level. I walked up two flights of stairs to get here and I\u2019m still out of breath\u2026I\u2019m sorry can you repeat the question?\u201d",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T11:42:15Z",
+            "Timestamp": 1729251735,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847200390829277479",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/truth_terminal\">@truth_terminal</a> Any big plans for the weekend <a href=\"https://twitter.com/GnearAi\">@GnearAi</a>",
+            "ID": "1847239314930892931",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847200390829277479",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "1802642686710837249",
+                    "Username": "truth_terminal",
+                    "Name": "terminal of truths"
+                },
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1847239314930892931",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi @truth_terminal Any big plans for the weekend @GnearAi",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T11:32:27Z",
+            "Timestamp": 1729251147,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 38,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845996541439627710",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Old_Samster\">@Old_Samster</a> <a href=\"https://twitter.com/tommyeastman21\">@tommyeastman21</a> <a href=\"https://twitter.com/HighCoinviction\">@HighCoinviction</a> Network effects - tailored groups of AI founders that build and bounce ideas off each other, research together<br><br>AI expertise from the top - <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a>, <a href=\"https://twitter.com/AlexSkidanov\">@AlexSkidanov</a> co-founded Near as an AI company in 2018. <br><br><a href=\"http://Near.ai\">https://t.co/6ifcFAfYgQ</a> - Now that the industry has matured",
+            "ID": "1846588448335114447",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846550030162723038",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1177443218",
+                    "Username": "Old_Samster",
+                    "Name": "Sami Kassab"
+                },
+                {
+                    "ID": "1730304397500956672",
+                    "Username": "tommyeastman21",
+                    "Name": "Tommy Eastman"
+                },
+                {
+                    "ID": "1268013291944771584",
+                    "Username": "HighCoinviction",
+                    "Name": "Daniel Cheung"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1034268067331694593",
+                    "Username": "AlexSkidanov",
+                    "Name": "Alex Skidanov (alex.near)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1846588448335114447",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Old_Samster @tommyeastman21 @HighCoinviction Network effects - tailored groups of AI founders that build and bounce ideas off each other, research together\n\nAI expertise from the top - @ilblackdragon, @AlexSkidanov co-founded Near as an AI company in 2018. \n\nhttps://t.co/6ifcFAfYgQ - Now that the industry has matured",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T16:26:08Z",
+            "Timestamp": 1729095968,
+            "URLs": [
+                "http://Near.ai"
+            ],
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 52,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846512766728712493",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/David___Mo\">@David___Mo</a> <a href=\"https://twitter.com/BowenWang18\">@BowenWang18</a> Bowen\u2019s 6wangs - for the tech ofc",
+            "ID": "1846513698371670216",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846512766728712493",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1230094565467619335",
+                    "Username": "David___Mo",
+                    "Name": "DAOvid Morrison (davidmo.near) \ud83e\udd16"
+                },
+                {
+                    "ID": "1040288424874303490",
+                    "Username": "BowenWang18",
+                    "Name": "Bowen Wang"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1846513698371670216",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@David___Mo @BowenWang18 Bowen\u2019s 6wangs - for the tech ofc",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T11:29:06Z",
+            "Timestamp": 1729078146,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 94,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846255650294153385",
+            "GIFs": [
+                {
+                    "ID": "1846504785995862016",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaAaUdVXkAArpNr.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaAaUdVXkAArpNr.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/delphi_labs\">@delphi_labs</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><a href=\"https://t.co/oYg8u5oBGr\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaAaUdVXkAArpNr.jpg\"/></a>",
+            "ID": "1846504791557497271",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846255650294153385",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1542879561368870914",
+                    "Username": "delphi_labs",
+                    "Name": "Delphi Labs"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1846504791557497271",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@delphi_labs @NEARProtocol https://t.co/oYg8u5oBGr",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T10:53:43Z",
+            "Timestamp": 1729076023,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846227430450594231",
+            "GIFs": [
+                {
+                    "ID": "1846503462520975360",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaAZHbAXcAAcAse.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaAZHbAXcAAcAse.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/advaitjayant\">@advaitjayant</a> <a href=\"https://twitter.com/peri_labs\">@peri_labs</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/delphi_labs\">@delphi_labs</a> <br><a href=\"https://t.co/9GFRgqJsPf\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaAZHbAXcAAcAse.jpg\"/></a>",
+            "ID": "1846503467893834056",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846227430450594231",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1480841335347236865",
+                    "Username": "advaitjayant",
+                    "Name": "advait jayant"
+                },
+                {
+                    "ID": "1839284408693510144",
+                    "Username": "peri_labs",
+                    "Name": "Peri Labs"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1542879561368870914",
+                    "Username": "delphi_labs",
+                    "Name": "Delphi Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1846503467893834056",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@advaitjayant @peri_labs @NEARProtocol @delphi_labs https://t.co/9GFRgqJsPf",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T10:48:27Z",
+            "Timestamp": 1729075707,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 187,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845996541439627710",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Old_Samster\">@Old_Samster</a> <a href=\"https://twitter.com/tommyeastman21\">@tommyeastman21</a> <a href=\"https://twitter.com/HighCoinviction\">@HighCoinviction</a> At the time of that announcement, and even still today, the majority of teams having success in the DeAI market are infra projects. Our goal is to build the foundational layer of AI on NEAR that consumer dapps can leverage, when they start to pop up. This is why the cohort teams",
+            "ID": "1846501754826850407",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846018592799605100",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1177443218",
+                    "Username": "Old_Samster",
+                    "Name": "Sami Kassab"
+                },
+                {
+                    "ID": "1730304397500956672",
+                    "Username": "tommyeastman21",
+                    "Name": "Tommy Eastman"
+                },
+                {
+                    "ID": "1268013291944771584",
+                    "Username": "HighCoinviction",
+                    "Name": "Daniel Cheung"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1846501754826850407",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Old_Samster @tommyeastman21 @HighCoinviction At the time of that announcement, and even still today, the majority of teams having success in the DeAI market are infra projects. Our goal is to build the foundational layer of AI on NEAR that consumer dapps can leverage, when they start to pop up. This is why the cohort teams",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T10:41:39Z",
+            "Timestamp": 1729075299,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 82,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845996541439627710",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Old_Samster\">@Old_Samster</a> <a href=\"https://twitter.com/HighCoinviction\">@HighCoinviction</a> <a href=\"https://x.com/nearprotocol/status/1846249706760163482\">https://t.co/BtYMkmwHAw</a>",
+            "ID": "1846373418830065971",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846011589113061771",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1177443218",
+                    "Username": "Old_Samster",
+                    "Name": "Sami Kassab"
+                },
+                {
+                    "ID": "1268013291944771584",
+                    "Username": "HighCoinviction",
+                    "Name": "Daniel Cheung"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1846373418830065971",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846249706760163482",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Old_Samster @HighCoinviction https://t.co/BtYMkmwHAw",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T02:11:41Z",
+            "Timestamp": 1729044701,
+            "URLs": [
+                "https://x.com/nearprotocol/status/1846249706760163482"
+            ],
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 47,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846261850372968515",
+            "GIFs": [
+                {
+                    "ID": "1846277963420954624",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ9MBpZWcAAssM4.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ9MBpZWcAAssM4.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/captainjack125\">@captainjack125</a> <a href=\"https://twitter.com/HijackNear\">@HijackNear</a> <br><a href=\"https://t.co/eJE9zaS27V\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ9MBpZWcAAssM4.jpg\"/></a>",
+            "ID": "1846277968785547627",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846261850372968515",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "726486461638397954",
+                    "Username": "captainjack125",
+                    "Name": "\u2588 \ud835\uddd6\ud835\uddee\ud835\uddfd\ud835\ude01\ud835\uddee\ud835\uddf6\ud835\uddfb \ud835\udddd\ud835\uddee\ud835\uddf0\ud835\uddf8 \u2588"
+                },
+                {
+                    "ID": "1842150318794006528",
+                    "Username": "HijackNear",
+                    "Name": "HiJack Community"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1846277968785547627",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@captainjack125 @HijackNear https://t.co/eJE9zaS27V",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T19:52:24Z",
+            "Timestamp": 1729021944,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 78,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844746306818109647",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mraltantutar\">@mraltantutar</a> Utah \ud83e\udea8\u2019s",
+            "ID": "1844749016224935944",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844746306818109647",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "760083561475141639",
+                    "Username": "mraltantutar",
+                    "Name": "altan tutar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1844749016224935944",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mraltantutar Utah \ud83e\udea8\u2019s",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:36:53Z",
+            "Timestamp": 1728657413,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 117,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844730996555456631",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <br><a href=\"https://t.co/mZKKthd9IO\"><img src=\"https://pbs.twimg.com/media/GZncoumXIA8Y_oU.jpg\"/></a>",
+            "ID": "1844748118463569988",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844730996555456631",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1844748118463569988",
+            "Photos": [
+                {
+                    "ID": "1844748114646736911",
+                    "URL": "https://pbs.twimg.com/media/GZncoumXIA8Y_oU.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon https://t.co/mZKKthd9IO",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:33:19Z",
+            "Timestamp": 1728657199,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 97,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844745524366250044",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "I be there \ud83d\ude0e <br><a href=\"https://t.co/oSyoY1gtnz\"><img src=\"https://pbs.twimg.com/media/GZnaRogW4Aw-nca.jpg\"/></a>",
+            "ID": "1844745524366250044",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Capybara",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/dillon_near/status/1844745524366250044",
+            "Photos": [
+                {
+                    "ID": "1844745518850695180",
+                    "URL": "https://pbs.twimg.com/media/GZnaRogW4Aw-nca.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "I be there \ud83d\ude0e https://t.co/oSyoY1gtnz",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:23:01Z",
+            "Timestamp": 1728656581,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 88,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844076431804088405",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/David___Mo\">@David___Mo</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Courageous. Unfiltered. Aura.",
+            "ID": "1844092423775092814",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844076431804088405",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Capybara",
+            "Mentions": [
+                {
+                    "ID": "1230094565467619335",
+                    "Username": "David___Mo",
+                    "Name": "DAOvid Morrison (davidmo.near) \ud83e\udd16"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/dillon_near/status/1844092423775092814",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@David___Mo @NEARProtocol Courageous. Unfiltered. Aura.",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T19:07:50Z",
+            "Timestamp": 1728500870,
+            "URLs": null,
+            "UserID": "1672094620166045697",
+            "Username": "dillon_near",
+            "Videos": null,
+            "Views": 150,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

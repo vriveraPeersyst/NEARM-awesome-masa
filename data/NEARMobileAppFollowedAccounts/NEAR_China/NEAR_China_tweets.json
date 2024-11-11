@@ -1,0 +1,330 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1853654592825016525",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "3/ <a href=\"https://twitter.com/nearhorizon\">@nearhorizon</a> \u56e2\u961f\u8fd8\u5f88\u81ea\u8c6a\u80fd\u591f\u4e0eNEAR\u751f\u6001\u4e2d\u7684\u652f\u6301\u56e2\u961f\u5efa\u7acb\u5408\u4f5c\u4f19\u4f34\u5173\u7cfb\uff0c\u4e3a\u8be5\u961f\u5217\u5f00\u53d1\u7684\u539f\u8bed\u63d0\u4f9b\u5206\u53d1\u548c\u6d41\u52a8\u6027\u5f15\u5bfc\u3002\u8fd9\u4e9b\u56e2\u961f\u5305\u62ec <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> <a href=\"https://twitter.com/burrow_finance\">@burrow_finance</a>  <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> \u7b49\u3002",
+            "ID": "1853654595878408518",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853654594532081816",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR\u4e2d\u6587\u793e\u533a\ud83c\udd5d",
+            "Mentions": [
+                {
+                    "ID": "1651859609299066880",
+                    "Username": "nearhorizon",
+                    "Name": "NEAR Horizon"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "1349158098175344640",
+                    "Username": "burrow_finance",
+                    "Name": "Burrow Finance \ud83e\udd94"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEAR_China/status/1853654595878408518",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "3/ @nearhorizon \u56e2\u961f\u8fd8\u5f88\u81ea\u8c6a\u80fd\u591f\u4e0eNEAR\u751f\u6001\u4e2d\u7684\u652f\u6301\u56e2\u961f\u5efa\u7acb\u5408\u4f5c\u4f19\u4f34\u5173\u7cfb\uff0c\u4e3a\u8be5\u961f\u5217\u5f00\u53d1\u7684\u539f\u8bed\u63d0\u4f9b\u5206\u53d1\u548c\u6d41\u52a8\u6027\u5f15\u5bfc\u3002\u8fd9\u4e9b\u56e2\u961f\u5305\u62ec @finance_ref @burrow_finance  @DapDapMeUp \u7b49\u3002",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T04:24:29Z",
+            "Timestamp": 1730780669,
+            "URLs": null,
+            "UserID": "1381493833364434950",
+            "Username": "NEAR_China",
+            "Videos": null,
+            "Views": 81,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853654592825016525",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/ \u540d\u5355\u5982\u4e0b<br><a href=\"https://twitter.com/_atlasprotocol\">@_atlasprotocol</a> \u6bd4\u7279\u5e01\u6d41\u52a8\u6027\u8d28\u62bc<br><a href=\"https://twitter.com/omnilane_labs\">@omnilane_labs</a> \u8de8\u94feRFQ\u534f\u8bae<br><a href=\"https://twitter.com/covenantFi\">@covenantFi</a> \u6c38\u7eed\u503a\u548c\u56fa\u6536\u4ea7\u54c1<br><a href=\"https://twitter.com/TemplarProtocol\">@TemplarProtocol</a> \u96f6\u606f\u8d27\u5e01\u5e02\u573a<br>Vita Finance \u81ea\u52a8\u505a\u5e02\u5546<br>Kairo Money \u501f\u8d37\u534f\u8bae<br><a href=\"https://twitter.com/ThunderHoodLab\">@ThunderHoodLab</a> \u6a21\u56e0\u5e01\u6760\u6746\u4ea4\u6613<br><a href=\"https://twitter.com/DeltaBotTeam\">@DeltaBotTeam</a> Telegram\u7f51\u683c\u4ea4\u6613\u673a\u5668\u4eba<br><a href=\"https://twitter.com/allstake_fi\">@allstake_fi</a> \u591a\u8d44\u4ea7\u518d\u8d28\u62bc",
+            "ID": "1853654594532081816",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853654592825016525",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR\u4e2d\u6587\u793e\u533a\ud83c\udd5d",
+            "Mentions": [
+                {
+                    "ID": "1808779704561979393",
+                    "Username": "_atlasprotocol",
+                    "Name": "Atlas Protocol"
+                },
+                {
+                    "ID": "1813175154496737280",
+                    "Username": "omnilane_labs",
+                    "Name": "Omnilane Labs"
+                },
+                {
+                    "ID": "1630700530828984322",
+                    "Username": "covenantFi",
+                    "Name": "Covenant"
+                },
+                {
+                    "ID": "1828794155461398529",
+                    "Username": "TemplarProtocol",
+                    "Name": "Templar Protocol"
+                },
+                {
+                    "ID": "1801264678544515072",
+                    "Username": "ThunderHoodLab",
+                    "Name": "Thunderhood \u26a1\ufe0f"
+                },
+                {
+                    "ID": "1730425081724297216",
+                    "Username": "DeltaBotTeam",
+                    "Name": "DeltaTrade"
+                },
+                {
+                    "ID": "1760215219362738176",
+                    "Username": "allstake_fi",
+                    "Name": "Allstake"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEAR_China/status/1853654594532081816",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/ \u540d\u5355\u5982\u4e0b\n@_atlasprotocol \u6bd4\u7279\u5e01\u6d41\u52a8\u6027\u8d28\u62bc\n@omnilane_labs \u8de8\u94feRFQ\u534f\u8bae\n@covenantFi \u6c38\u7eed\u503a\u548c\u56fa\u6536\u4ea7\u54c1\n@TemplarProtocol \u96f6\u606f\u8d27\u5e01\u5e02\u573a\nVita Finance \u81ea\u52a8\u505a\u5e02\u5546\nKairo Money \u501f\u8d37\u534f\u8bae\n@ThunderHoodLab \u6a21\u56e0\u5e01\u6760\u6746\u4ea4\u6613\n@DeltaBotTeam Telegram\u7f51\u683c\u4ea4\u6613\u673a\u5668\u4eba\n@allstake_fi \u591a\u8d44\u4ea7\u518d\u8d28\u62bc",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T04:24:29Z",
+            "Timestamp": 1730780669,
+            "URLs": null,
+            "UserID": "1381493833364434950",
+            "Username": "NEAR_China",
+            "Videos": null,
+            "Views": 95,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853654592825016525",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80NEAR\u57fa\u91d1\u4f1a\u5ba3\u5e03\u6210\u7acb\u94fe\u62bd\u8c61\u52a0\u901f\u5668 <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><br>NEAR\u57fa\u91d1\u4f1a\u5ba3\u5e03\u63a8\u51fa\u9996\u4e2a\u4e13\u6ce8\u4e8e\u94fe\u62bd\u8c61\u7684\u52a0\u901f\u5668\u3002\u8fd9\u4e2a\u542f\u52a8\u961f\u5217\u5305\u62ec\u4e00\u7ec4\u7cbe\u9009\u7684\u56e2\u961f\uff0c\u8be5\u52a0\u901f\u5668\u65e8\u5728\u6c47\u805a\u9876\u7ea7NEAR\u539f\u751fDeFi\u56e2\u961f\uff0c\u652f\u6301\u4ed6\u4eec\u5f00\u53d1\u591a\u6837\u5316\u3001\u65b0\u9896\u7684\u7528\u4f8b\uff0c\u5e76\u4e3a\u6765\u81ea\u4efb\u4f55\u539f\u751f\u94fe\u7684degen\u521b\u9020\u65b0\u7684\u673a\u4f1a\u3002<br><br><a href=\"https://near-china.medium.com/near%E5%9F%BA%E9%87%91%E4%BC%9A%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E9%93%BE%E6%8A%BD%E8%B1%A1%E5%8A%A0%E9%80%9F%E5%99%A8-47a86c77c409\">https://t.co/3hcAJMv8oK</a>",
+            "ID": "1853654592825016525",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": true,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "NEAR\u4e2d\u6587\u793e\u533a\ud83c\udd5d",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEAR_China/status/1853654592825016525",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80NEAR\u57fa\u91d1\u4f1a\u5ba3\u5e03\u6210\u7acb\u94fe\u62bd\u8c61\u52a0\u901f\u5668 @NEARProtocol \n\nNEAR\u57fa\u91d1\u4f1a\u5ba3\u5e03\u63a8\u51fa\u9996\u4e2a\u4e13\u6ce8\u4e8e\u94fe\u62bd\u8c61\u7684\u52a0\u901f\u5668\u3002\u8fd9\u4e2a\u542f\u52a8\u961f\u5217\u5305\u62ec\u4e00\u7ec4\u7cbe\u9009\u7684\u56e2\u961f\uff0c\u8be5\u52a0\u901f\u5668\u65e8\u5728\u6c47\u805a\u9876\u7ea7NEAR\u539f\u751fDeFi\u56e2\u961f\uff0c\u652f\u6301\u4ed6\u4eec\u5f00\u53d1\u591a\u6837\u5316\u3001\u65b0\u9896\u7684\u7528\u4f8b\uff0c\u5e76\u4e3a\u6765\u81ea\u4efb\u4f55\u539f\u751f\u94fe\u7684degen\u521b\u9020\u65b0\u7684\u673a\u4f1a\u3002\n\nhttps://t.co/3hcAJMv8oK",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T04:24:28Z",
+            "Timestamp": 1730780668,
+            "URLs": [
+                "https://near-china.medium.com/near%E5%9F%BA%E9%87%91%E4%BC%9A%E5%AE%A3%E5%B8%83%E6%88%90%E7%AB%8B%E9%93%BE%E6%8A%BD%E8%B1%A1%E5%8A%A0%E9%80%9F%E5%99%A8-47a86c77c409"
+            ],
+            "UserID": "1381493833364434950",
+            "Username": "NEAR_China",
+            "Videos": null,
+            "Views": 368,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852150646339965183",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "OpenGradient\u4e0eNuffle Labs\u8fbe\u6210\u6218\u7565\u5408\u4f5c <a href=\"https://twitter.com/OpenGradient\">@OpenGradient</a> <a href=\"https://twitter.com/nufflelabs\">@nufflelabs</a> <br><br>OpenGradient\u7f51\u7edc\u5c06\u5411NEAR DA \u53d1\u5e03\u63a8\u7406\u8bc1\u660e\u548c\u8ba4\u8bc1\uff0c\u5229\u7528Nuffle\u7684\u5feb\u901f\u6700\u7ec8\u6027\u5c42\u63a8\u52a8\u4fe1\u4efb\u6700\u5c0f\u5316\u7684AI\u63a8\u7406\u5b9e\u73b0\u6c11\u4e3b\u5316\u3002<br><br><a href=\"https://near-china.medium.com/opengradient%E4%B8%8Enuffle-labs%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C-6980214185a4\">https://t.co/PNO87dFMqy</a>",
+            "ID": "1852150646339965183",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR\u4e2d\u6587\u793e\u533a\ud83c\udd5d",
+            "Mentions": [
+                {
+                    "ID": "1679140656126541828",
+                    "Username": "OpenGradient",
+                    "Name": "OpenGradient"
+                },
+                {
+                    "ID": "1786106969926811648",
+                    "Username": "nufflelabs",
+                    "Name": "nuffle ( waff / le )"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEAR_China/status/1852150646339965183",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "OpenGradient\u4e0eNuffle Labs\u8fbe\u6210\u6218\u7565\u5408\u4f5c @OpenGradient @nufflelabs \n\nOpenGradient\u7f51\u7edc\u5c06\u5411NEAR DA \u53d1\u5e03\u63a8\u7406\u8bc1\u660e\u548c\u8ba4\u8bc1\uff0c\u5229\u7528Nuffle\u7684\u5feb\u901f\u6700\u7ec8\u6027\u5c42\u63a8\u52a8\u4fe1\u4efb\u6700\u5c0f\u5316\u7684AI\u63a8\u7406\u5b9e\u73b0\u6c11\u4e3b\u5316\u3002\n\nhttps://t.co/PNO87dFMqy",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T00:48:20Z",
+            "Timestamp": 1730422100,
+            "URLs": [
+                "https://near-china.medium.com/opengradient%E4%B8%8Enuffle-labs%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C-6980214185a4"
+            ],
+            "UserID": "1381493833364434950",
+            "Username": "NEAR_China",
+            "Videos": null,
+            "Views": 190,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847916889588322772",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u8fd1\u671f\u65b0\u95fb\u6c47\u603b\uff1aNEAR\u4e3b\u7f51\u4e0a\u7ebf4\u5468\u5e74 <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><br><a href=\"https://near-china.medium.com/%E8%BF%91%E6%9C%9F%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB-illianear%E4%B8%BB%E7%BD%91%E4%B8%8A%E7%BA%BF4%E5%91%A8%E5%B9%B4-c49d9206ff4e\">https://t.co/cqKbkp28rj</a>",
+            "ID": "1847916889588322772",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "NEAR\u4e2d\u6587\u793e\u533a\ud83c\udd5d",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEAR_China/status/1847916889588322772",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u8fd1\u671f\u65b0\u95fb\u6c47\u603b\uff1aNEAR\u4e3b\u7f51\u4e0a\u7ebf4\u5468\u5e74 @NEARProtocol \n\nhttps://t.co/cqKbkp28rj",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T08:24:53Z",
+            "Timestamp": 1729412693,
+            "URLs": [
+                "https://near-china.medium.com/%E8%BF%91%E6%9C%9F%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB-illianear%E4%B8%BB%E7%BD%91%E4%B8%8A%E7%BA%BF4%E5%91%A8%E5%B9%B4-c49d9206ff4e"
+            ],
+            "UserID": "1381493833364434950",
+            "Username": "NEAR_China",
+            "Videos": null,
+            "Views": 151,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845386940134326485",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udce2 \u8fd1\u671f\u65b0\u95fb\u6c47\u603b\uff1a\u65af\u8bfa\u767b\u5c06\u53c2\u52a0NEAR\u66fc\u8c37\u6d3b\u52a8 <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><br><a href=\"https://near-china.medium.com/%E8%BF%91%E6%9C%9F%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB-%E6%96%AF%E8%AF%BA%E7%99%BB%E5%B0%86%E5%8F%82%E5%8A%A0near%E6%9B%BC%E8%B0%B7%E6%B4%BB%E5%8A%A8-6027a9a1347a\">https://t.co/XeZY8ZokDW</a>",
+            "ID": "1845386940134326485",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "NEAR\u4e2d\u6587\u793e\u533a\ud83c\udd5d",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEAR_China/status/1845386940134326485",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udce2 \u8fd1\u671f\u65b0\u95fb\u6c47\u603b\uff1a\u65af\u8bfa\u767b\u5c06\u53c2\u52a0NEAR\u66fc\u8c37\u6d3b\u52a8 @NEARProtocol \n\nhttps://t.co/XeZY8ZokDW",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T08:51:46Z",
+            "Timestamp": 1728809506,
+            "URLs": [
+                "https://near-china.medium.com/%E8%BF%91%E6%9C%9F%E6%96%B0%E9%97%BB%E6%B1%87%E6%80%BB-%E6%96%AF%E8%AF%BA%E7%99%BB%E5%B0%86%E5%8F%82%E5%8A%A0near%E6%9B%BC%E8%B0%B7%E6%B4%BB%E5%8A%A8-6027a9a1347a"
+            ],
+            "UserID": "1381493833364434950",
+            "Username": "NEAR_China",
+            "Videos": null,
+            "Views": 272,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

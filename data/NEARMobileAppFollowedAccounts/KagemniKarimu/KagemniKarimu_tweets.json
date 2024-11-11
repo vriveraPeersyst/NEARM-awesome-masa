@@ -1,0 +1,2432 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854463810343772291",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marcos_placona\">@marcos_placona</a> Honestly. Definitions / the conceptual stuff...<br><br>I look for a way to get quick grasp of the relevant technical ideas and terms",
+            "ID": "1854610175434306013",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854463810343772291",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "2038531",
+                    "Username": "marcos_placona",
+                    "Name": "Marcos Placona"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1854610175434306013",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marcos_placona Honestly. Definitions / the conceptual stuff...\n\nI look for a way to get quick grasp of the relevant technical ideas and terms",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T19:41:37Z",
+            "Timestamp": 1731008497,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 14,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853562853321814358",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xMert_\">@0xMert_</a> Have you ever played Rise of Nations? It was a bit like Civ meets Command &amp; Conquer.",
+            "ID": "1853999349878980704",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853562853321814358",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1309886201944473600",
+                    "Username": "0xMert_",
+                    "Name": "mert | helius.dev"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1853999349878980704",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xMert_ Have you ever played Rise of Nations? It was a bit like Civ meets Command &amp; Conquer.",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T03:14:25Z",
+            "Timestamp": 1730862865,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 12,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853876844950401133",
+            "GIFs": [
+                {
+                    "ID": "1853896916800614400",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbpdbGgXsAAFWmX.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbpdbGgXsAAFWmX.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/grahamfergs\">@grahamfergs</a> <br><a href=\"https://t.co/RxuGrVpZW5\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbpdbGgXsAAFWmX.jpg\"/></a>",
+            "ID": "1853896923532644662",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853876844950401133",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "597961064",
+                    "Username": "grahamfergs",
+                    "Name": "graham"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1853896923532644662",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@grahamfergs https://t.co/RxuGrVpZW5",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T20:27:24Z",
+            "Timestamp": 1730838444,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853811706075509240",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "be there, i sayeth -&gt;",
+            "ID": "1853811706075509240",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1853811706075509240",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1853708926086459603",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "be there, i sayeth -&gt;",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T14:48:47Z",
+            "Timestamp": 1730818127,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 53,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853398127082151991",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/TsukuyomiX_\">@TsukuyomiX_</a> <a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> Ahh OK- more things coming soon",
+            "ID": "1853475173879726538",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853471363388133643",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "2510769488",
+                    "Username": "TsukuyomiX_",
+                    "Name": "TsukuyomiX \ud83c\udf73"
+                },
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1853475173879726538",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@TsukuyomiX_ @ChainbaseHQ Ahh OK- more things coming soon",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T16:31:32Z",
+            "Timestamp": 1730737892,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853398127082151991",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/TsukuyomiX_\">@TsukuyomiX_</a> <a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> ???",
+            "ID": "1853465791472992529",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853399646648857006",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "2510769488",
+                    "Username": "TsukuyomiX_",
+                    "Name": "TsukuyomiX \ud83c\udf73"
+                },
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1853465791472992529",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@TsukuyomiX_ @ChainbaseHQ ???",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T15:54:15Z",
+            "Timestamp": 1730735655,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853398127082151991",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BgOsung\">@BgOsung</a> <a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> huh?",
+            "ID": "1853465741300846620",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853400379901534336",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1325833271549304836",
+                    "Username": "BgOsung",
+                    "Name": "CZ jnr \ud83d\udd36\ufe0f \u2318"
+                },
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1853465741300846620",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BgOsung @ChainbaseHQ huh?",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T15:54:03Z",
+            "Timestamp": 1730735643,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 9,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852745952471167296",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/IamConstructo\">@IamConstructo</a> <a href=\"https://twitter.com/Madhav_goyal_\">@Madhav_goyal_</a> Gold \ud83e\ude99\ud83e\ude99\ud83e\ude99",
+            "ID": "1852879896172953857",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852837034487947452",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1385273097176195072",
+                    "Username": "IamConstructo",
+                    "Name": "ronin \u2013 e/acc"
+                },
+                {
+                    "ID": "1332557057480802305",
+                    "Username": "Madhav_goyal_",
+                    "Name": "madhav"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1852879896172953857",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@IamConstructo @Madhav_goyal_ Gold \ud83e\ude99\ud83e\ude99\ud83e\ude99",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T01:06:06Z",
+            "Timestamp": 1730595966,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 14,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852004590872400311",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/palomasupremacy\">@palomasupremacy</a> Can you add me ? \ud83d\ude2d",
+            "ID": "1852522986797978008",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852004590872400311",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1373373491114872832",
+                    "Username": "palomasupremacy",
+                    "Name": "Paloma"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1852522986797978008",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@palomasupremacy Can you add me ? \ud83d\ude2d",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T01:27:52Z",
+            "Timestamp": 1730510872,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 20,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852019885909434505",
+            "GIFs": [
+                {
+                    "ID": "1852020837844475909",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbOzI7xXYAULQhc.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbOzI7xXYAULQhc.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/_ileolami\">@_ileolami</a> <br><a href=\"https://t.co/iYIWHIr3HV\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbOzI7xXYAULQhc.jpg\"/></a>",
+            "ID": "1852020845348327459",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852019889231339908",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1255907486437126145",
+                    "Username": "_ileolami",
+                    "Name": "TheTechieTherapist\ud83d\udcaf"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1852020845348327459",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@_ileolami https://t.co/iYIWHIr3HV",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T16:12:33Z",
+            "Timestamp": 1730391153,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851663609295781993",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/abruzuc\">@abruzuc</a> what direction are you looking?<br><br>Books<br>- The Four Agreements<br>- Homegoing by Yaa Gyasi<br>- Think &amp; Grow Rich<br><br>Podcasts/AudioBooks<br>- Anything by Carlos Castenada<br>- Women's Wisdom from the Heart of Africa<br><br>Whitepapers<br><a href=\"https://docs.eigenlayer.xyz/eigenlayer/overview/whitepaper\">https://t.co/BMkRk2upVt</a><br><a href=\"https://celestia.org/resources/\">https://t.co/T0UTfbfoeX</a><br><br>Challenges<br>- Treat",
+            "ID": "1851666982225006654",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851663609295781993",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1435425854344077315",
+                    "Username": "abruzuc",
+                    "Name": "Abril Zucchi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851666982225006654",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@abruzuc what direction are you looking?\n\nBooks\n- The Four Agreements\n- Homegoing by Yaa Gyasi\n- Think &amp; Grow Rich\n\nPodcasts/AudioBooks\n- Anything by Carlos Castenada\n- Women's Wisdom from the Heart of Africa\n\nWhitepapers\nhttps://t.co/BMkRk2upVt\nhttps://t.co/T0UTfbfoeX\n\nChallenges\n- Treat",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T16:46:25Z",
+            "Timestamp": 1730306785,
+            "URLs": [
+                "https://docs.eigenlayer.xyz/eigenlayer/overview/whitepaper",
+                "https://celestia.org/resources/"
+            ],
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 216,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851247429435134290",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SafiaHirji\">@SafiaHirji</a> <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> Thank you!\u2764\ufe0f Can we get <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> to RT for visibility ? \ud83d\ude4f\ud83c\udfff\ud83d\ude4f\ud83c\udfff\ud83d\ude4f\ud83c\udfff",
+            "ID": "1851619606806319165",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851508926065397761",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1507553214652108806",
+                    "Username": "SafiaHirji",
+                    "Name": "SafiaHirji"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851619606806319165",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SafiaHirji @ETHGlobal Thank you!\u2764\ufe0f Can we get @ETHGlobal to RT for visibility ? \ud83d\ude4f\ud83c\udfff\ud83d\ude4f\ud83c\udfff\ud83d\ude4f\ud83c\udfff",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T13:38:10Z",
+            "Timestamp": 1730295490,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 16,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851354908290589170",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/redphonecrypto\">@redphonecrypto</a> CT is currently winner-takes-all, popular accounts' opinions are magnified and treated as representative of the whole.<br><br>More fair and interesting if we could not see the amount of followers each account has.<br><br>Less of a popularity contest and follows would be based on engagement.",
+            "ID": "1851609719959658921",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851354908290589170",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1257128739886051330",
+                    "Username": "redphonecrypto",
+                    "Name": "redphone \u260e\ufe0f\ud83e\uddd9\ud83c\udffb\u200d\u2642\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851609719959658921",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@redphonecrypto CT is currently winner-takes-all, popular accounts' opinions are magnified and treated as representative of the whole.\n\nMore fair and interesting if we could not see the amount of followers each account has.\n\nLess of a popularity contest and follows would be based on engagement.",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T12:58:53Z",
+            "Timestamp": 1730293133,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 32,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851029066419204210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Nesseps\">@Nesseps</a> <a href=\"https://twitter.com/jdshutt\">@jdshutt</a> <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> Tag me when you do! \u2764\ufe0f",
+            "ID": "1851304678190916053",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851298695729594564",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "61370989",
+                    "Username": "Nesseps",
+                    "Name": "Vanessa Conyers"
+                },
+                {
+                    "ID": "415186112",
+                    "Username": "jdshutt",
+                    "Name": "John Shutt"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851304678190916053",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Nesseps @jdshutt @ETHGlobal Tag me when you do! \u2764\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T16:46:45Z",
+            "Timestamp": 1730220405,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851247429435134290",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "want to watch on YT instead of X?<br><a href=\"https://www.youtube.com/watch?v=IJJjPJnzO5I\">https://t.co/o9LocqTOox</a>",
+            "ID": "1851247432870359271",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851247429435134290",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851247432870359271",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "want to watch on YT instead of X?\nhttps://t.co/o9LocqTOox",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T12:59:17Z",
+            "Timestamp": 1730206757,
+            "URLs": [
+                "https://www.youtube.com/watch?v=IJJjPJnzO5I"
+            ],
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 163,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851247429435134290",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> San Francisco 2024 \ud83c\udf09<br>Hacker Diaries - \"Proof-of-Hackathon\"<br>\ud83d\udd25\ud83d\udd25\ud83d\udd25 <br><a href=\"https://t.co/fgYAQ0bNYq\"><img src=\"https://pbs.twimg.com/amplify_video_thumb/1851246218850054144/img/h6x5EeMEQkUoQQYx.jpg\"/></a>",
+            "ID": "1851247429435134290",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 42,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851247429435134290",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 18,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ETHGlobal San Francisco 2024 \ud83c\udf09\nHacker Diaries - \"Proof-of-Hackathon\"\n\ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/fgYAQ0bNYq",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T12:59:16Z",
+            "Timestamp": 1730206756,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": [
+                {
+                    "ID": "1851246218850054144",
+                    "Preview": "https://pbs.twimg.com/amplify_video_thumb/1851246218850054144/img/h6x5EeMEQkUoQQYx.jpg",
+                    "URL": "https://video.twimg.com/amplify_video/1851246218850054144/vid/avc1/1920x1080/z0HH5z0TkElKaqWs.mp4?tag=16"
+                }
+            ],
+            "Views": 3599,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851029066419204210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Met too many new friends  and accomplices ( \ud83d\udc4b\ud83c\udfff\ud83d\udc4b\ud83c\udfff<a href=\"https://twitter.com/jdshutt\">@jdshutt</a> and <a href=\"https://twitter.com/Nesseps\">@Nesseps</a> ). Overwhelmed with how decent the hackathon experience was ! Great job <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> <br><br>10/10 would do it again.<br><br>STAY TUNED! I will be dropping a video soon!<br>The Hacker Diaries \ud83d\udcfd\ufe0f\u270c\ufe0f\ud83c\udfff",
+            "ID": "1851029088699310308",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851029086518272028",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "415186112",
+                    "Username": "jdshutt",
+                    "Name": "John Shutt"
+                },
+                {
+                    "ID": "61370989",
+                    "Username": "Nesseps",
+                    "Name": "Vanessa Conyers"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851029088699310308",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Met too many new friends  and accomplices ( \ud83d\udc4b\ud83c\udfff\ud83d\udc4b\ud83c\udfff@jdshutt and @Nesseps ). Overwhelmed with how decent the hackathon experience was ! Great job @ETHGlobal \n\n10/10 would do it again.\n\nSTAY TUNED! I will be dropping a video soon!\nThe Hacker Diaries \ud83d\udcfd\ufe0f\u270c\ufe0f\ud83c\udfff",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T22:31:39Z",
+            "Timestamp": 1730154699,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 106,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851029066419204210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nuke_web3\">@nuke_web3</a> and <a href=\"https://twitter.com/nbeau74\">@nbeau74</a> and <a href=\"https://twitter.com/DenhamPreen\">@DenhamPreen</a> were some of the MVP mentors. honored to mentor alongside them.<br><br>They survived the onslaught &amp; helped countless lost souls ^__^ lol here's nuke at 5 AM ! <br><a href=\"https://t.co/AInpFImL76\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1851027230069071872/pu/img/7Eo2yMpd3mvZLRL9.jpg\"/></a>",
+            "ID": "1851029086518272028",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851029081564880960",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "961864393070792704",
+                    "Username": "nuke_web3",
+                    "Name": "Nuke \ud83c\udf04"
+                },
+                {
+                    "ID": "1745899684286062592",
+                    "Username": "nbeau74",
+                    "Name": "Nate Beauregard"
+                },
+                {
+                    "ID": "1148498700332912640",
+                    "Username": "DenhamPreen",
+                    "Name": "Denham"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851029086518272028",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nuke_web3 and @nbeau74 and @DenhamPreen were some of the MVP mentors. honored to mentor alongside them.\n\nThey survived the onslaught &amp; helped countless lost souls ^__^ lol here's nuke at 5 AM ! https://t.co/AInpFImL76",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T22:31:39Z",
+            "Timestamp": 1730154699,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": [
+                {
+                    "ID": "1851027230069071872",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1851027230069071872/pu/img/7Eo2yMpd3mvZLRL9.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1851027230069071872/pu/vid/avc1/1280x720/C-J19xyeqav4ChnN.mp4?tag=12"
+                }
+            ],
+            "Views": 93,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851029066419204210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nop_sl3d\">@nop_sl3d</a>, <a href=\"https://twitter.com/SafiaHirji\">@SafiaHirji</a> and the whole ETHGlobal team did an amaaazing job organizing. <br>\ud83d\udeccSleeping areas for hackers<br>\ud83c\udf72\ud83c\udf79Around-the-clock refreshments<br>\ud83d\ude9a Free food trucks every few hours<br>\ud83e\udef6\ud83c\udfffHella mentors on deck (see what I did there ;) <br><a href=\"https://t.co/iVxXfMNUGo\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1851026445960712192/pu/img/8gW1ibcKVo3uevhS.jpg\"/></a><br><img src=\"https://pbs.twimg.com/media/GbAqyA3XkAAVLHO.jpg\"/><br><img src=\"https://pbs.twimg.com/media/GbAqz33XwAAf-MM.jpg\"/>",
+            "ID": "1851029081564880960",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851029078733713658",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1782740140223320064",
+                    "Username": "nop_sl3d",
+                    "Name": "nopsl3d"
+                },
+                {
+                    "ID": "1507553214652108806",
+                    "Username": "SafiaHirji",
+                    "Name": "SafiaHirji"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851029081564880960",
+            "Photos": [
+                {
+                    "ID": "1851026485563330560",
+                    "URL": "https://pbs.twimg.com/media/GbAqyA3XkAAVLHO.jpg"
+                },
+                {
+                    "ID": "1851026517507162112",
+                    "URL": "https://pbs.twimg.com/media/GbAqz33XwAAf-MM.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nop_sl3d, @SafiaHirji and the whole ETHGlobal team did an amaaazing job organizing. \n\ud83d\udeccSleeping areas for hackers\n\ud83c\udf72\ud83c\udf79Around-the-clock refreshments\n\ud83d\ude9a Free food trucks every few hours\n\ud83e\udef6\ud83c\udfffHella mentors on deck (see what I did there ;) https://t.co/iVxXfMNUGo",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T22:31:38Z",
+            "Timestamp": 1730154698,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": [
+                {
+                    "ID": "1851026445960712192",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1851026445960712192/pu/img/8gW1ibcKVo3uevhS.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1851026445960712192/pu/vid/avc1/1280x720/7qVRFX7us-Th8Vlu.mp4?tag=12"
+                }
+            ],
+            "Views": 65,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851029066419204210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The best space goes to <a href=\"https://twitter.com/nounsdao\">@nounsdao</a> -<br><br>- table tennis<br>- hacker destressing in comfy lounging<br>- smiling faces all around<br><br>yeah, they did their thing <br><a href=\"https://t.co/3Y73HpUWoT\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1851006663974686720/pu/img/AXOO3fK_0tnNpICB.jpg\"/></a>",
+            "ID": "1851029078733713658",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851029076112273462",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1379430900547510277",
+                    "Username": "nounsdao",
+                    "Name": "Nouns"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851029078733713658",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The best space goes to @nounsdao -\n\n- table tennis\n- hacker destressing in comfy lounging\n- smiling faces all around\n\nyeah, they did their thing https://t.co/3Y73HpUWoT",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T22:31:37Z",
+            "Timestamp": 1730154697,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": [
+                {
+                    "ID": "1851006663974686720",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1851006663974686720/pu/img/AXOO3fK_0tnNpICB.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1851006663974686720/pu/vid/avc1/1280x720/Y80nOqJ31d1QGUDf.mp4?tag=12"
+                }
+            ],
+            "Views": 74,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851029066419204210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The self-driving cars thing was a little creepy am-i-rite? \ud83d\ude05\ud83d\ude05 <br><a href=\"https://t.co/Q9HLYNBc6p\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1851024750446817280/pu/img/jxuf4lZLo-Sknw5e.jpg\"/></a>",
+            "ID": "1851029076112273462",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851029071808925880",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851029076112273462",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The self-driving cars thing was a little creepy am-i-rite? \ud83d\ude05\ud83d\ude05 https://t.co/Q9HLYNBc6p",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T22:31:36Z",
+            "Timestamp": 1730154696,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": [
+                {
+                    "ID": "1851024750446817280",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1851024750446817280/pu/img/jxuf4lZLo-Sknw5e.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1851024750446817280/pu/vid/avc1/1280x720/WCApfvJwhzfUmfMr.mp4?tag=12"
+                }
+            ],
+            "Views": 42,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851029066419204210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "First things first, San Francisco is lowkey beautiful and <a href=\"https://twitter.com/PalaceOfFineArt\">@PalaceOfFineArt</a> was a great selection of venue. <br><a href=\"https://t.co/f1vNyobHLP\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1851024436247379969/pu/img/idEBypdu0Ccr8Wth.jpg\"/></a><br><img src=\"https://pbs.twimg.com/media/GbAo_n0XAAAoT0W.jpg\"/><br><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1851024474058936320/pu/img/RG8tEsIjYj-jJQgP.jpg\"/>",
+            "ID": "1851029071808925880",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851029066419204210",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "854084787086086144",
+                    "Username": "PalaceOfFineArt",
+                    "Name": "ThePalaceOfFineArts"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851029071808925880",
+            "Photos": [
+                {
+                    "ID": "1851024520334737408",
+                    "URL": "https://pbs.twimg.com/media/GbAo_n0XAAAoT0W.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "First things first, San Francisco is lowkey beautiful and @PalaceOfFineArt was a great selection of venue. https://t.co/f1vNyobHLP",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T22:31:35Z",
+            "Timestamp": 1730154695,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": [
+                {
+                    "ID": "1851024436247379969",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1851024436247379969/pu/img/idEBypdu0Ccr8Wth.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1851024436247379969/pu/vid/avc1/1280x720/SBB1Ks4LNgspQR8N.mp4?tag=12"
+                },
+                {
+                    "ID": "1851024474058936320",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1851024474058936320/pu/img/RG8tEsIjYj-jJQgP.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1851024474058936320/pu/vid/avc1/720x1280/nB5-t7Xs0HuJpSRW.mp4?tag=12"
+                }
+            ],
+            "Views": 52,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851029066419204210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "My <a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> Mentoring <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a>  Breakdown \ud83e\uddf5<br>- \ud83d\udd28223 projects built<br>-  \ud83d\udcb837 prizes awarded <br>-  ~1-out-of-6 hackers got bounties<br>- \ud83e\udebdsuper duper fly venue<br>- \ud83d\udc9dpriceless memories <br><a href=\"https://t.co/w7wGNfRtpX\"><img src=\"https://pbs.twimg.com/media/GbAYAE9XIAA7tCr.jpg\"/></a><br><img src=\"https://pbs.twimg.com/media/GbAYDsgWgAA5mJz.jpg\"/>",
+            "ID": "1851029066419204210",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1851029066419204210",
+            "Photos": [
+                {
+                    "ID": "1851005836459450368",
+                    "URL": "https://pbs.twimg.com/media/GbAYAE9XIAA7tCr.jpg"
+                },
+                {
+                    "ID": "1851005898614800384",
+                    "URL": "https://pbs.twimg.com/media/GbAYDsgWgAA5mJz.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "My @ChainbaseHQ Mentoring @ETHGlobal  Breakdown \ud83e\uddf5\n- \ud83d\udd28223 projects built\n-  \ud83d\udcb837 prizes awarded \n-  ~1-out-of-6 hackers got bounties\n- \ud83e\udebdsuper duper fly venue\n- \ud83d\udc9dpriceless memories https://t.co/w7wGNfRtpX",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T22:31:34Z",
+            "Timestamp": 1730154694,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 3091,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848743695304065476",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/HusseinMabera\">@HusseinMabera</a> <a href=\"https://twitter.com/_GCFR\">@_GCFR</a> curl -i localhost:your_port/eigen/node/health<br>OR<br><a href=\"https://holesky.eigenlayer.xyz/avs/0x5e78eff26480a75e06ccdabe88eb522d4d8e1c9d\">https://t.co/gpCyRWQ5Dq</a><br>OR<br>check the NEW dashboard :)",
+            "ID": "1849528897504690322",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849438957358006286",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1307477126149550083",
+                    "Username": "HusseinMabera",
+                    "Name": "Mabera\u26a1\ud83d\udcb5"
+                },
+                {
+                    "ID": "1475801217947295750",
+                    "Username": "_GCFR",
+                    "Name": "Og"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1849528897504690322",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@HusseinMabera @_GCFR curl -i localhost:your_port/eigen/node/health\nOR\nhttps://t.co/gpCyRWQ5Dq\nOR\ncheck the NEW dashboard :)",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T19:10:26Z",
+            "Timestamp": 1729797026,
+            "URLs": [
+                "https://holesky.eigenlayer.xyz/avs/0x5e78eff26480a75e06ccdabe88eb522d4d8e1c9d"
+            ],
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 28,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849473255863701651",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "TDIL from <a href=\"https://twitter.com/luki_notlowkey\">@luki_notlowkey</a> \ud83d\udc47\ud83c\udfff<br>\"Bulgarian is one of the OG Slavic Languages\" \ud83d\ude0e<br><br>From <a href=\"https://twitter.com/Wikipedia\">@Wikipedia</a> \ud83d\udcdc<br>\"Bulgarian was the first Slavic language attested in writing.<br>As Slavic linguistic unity lasted into late antiquity, the oldest manuscripts initially referred to this language as",
+            "ID": "1849473255863701651",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1577322154059669504",
+                    "Username": "luki_notlowkey",
+                    "Name": "Luki_Notlowkey (\u2738,\u2738)"
+                },
+                {
+                    "ID": "86390214",
+                    "Username": "Wikipedia",
+                    "Name": "Wikipedia"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1849473255863701651",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849434481868079514",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "TDIL from @luki_notlowkey \ud83d\udc47\ud83c\udfff\n\"Bulgarian is one of the OG Slavic Languages\" \ud83d\ude0e\n\nFrom @Wikipedia \ud83d\udcdc\n\"Bulgarian was the first Slavic language attested in writing.\nAs Slavic linguistic unity lasted into late antiquity, the oldest manuscripts initially referred to this language as",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:29:20Z",
+            "Timestamp": 1729783760,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 146,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848743695304065476",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/_GCFR\">@_GCFR</a> Niiice :)",
+            "ID": "1849422653708214487",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849395965163118685",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1475801217947295750",
+                    "Username": "_GCFR",
+                    "Name": "Og"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1849422653708214487",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@_GCFR Niiice :)",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T12:08:15Z",
+            "Timestamp": 1729771695,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 23,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848724455859847248",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/kayprasla\">@kayprasla</a> <a href=\"https://twitter.com/zkSyncDevs\">@zkSyncDevs</a> This looks fun and engaging !",
+            "ID": "1848836844907335934",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848724455859847248",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "874626622988603392",
+                    "Username": "kayprasla",
+                    "Name": "krinza.eth"
+                },
+                {
+                    "ID": "1463851728403640326",
+                    "Username": "zkSyncDevs",
+                    "Name": "ZKsync Developers (\u220e, \u2206)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1848836844907335934",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@kayprasla @zkSyncDevs This looks fun and engaging !",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T21:20:28Z",
+            "Timestamp": 1729632028,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848743695304065476",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udce3ATTN: Chainbase AVS Operators - network upgrade!<br>follow new docs to update your nodes ASAP<br><a href=\"https://docs.chainbase.com/node/operator\">https://t.co/iyT1R7efeN</a>",
+            "ID": "1848743695304065476",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "KagemniKarimu",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1848743695304065476",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848665707762094108",
+            "Replies": 6,
+            "Retweets": 13,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udce3ATTN: Chainbase AVS Operators - network upgrade!\nfollow new docs to update your nodes ASAP\nhttps://t.co/iyT1R7efeN",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T15:10:19Z",
+            "Timestamp": 1729609819,
+            "URLs": [
+                "https://docs.chainbase.com/node/operator"
+            ],
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 725,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848370982857142335",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DAppaDanDev\">@DAppaDanDev</a> Time to get a macccc",
+            "ID": "1848484096898445808",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848458085570121949",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1455817770902425601",
+                    "Username": "DAppaDanDev",
+                    "Name": "DappaDan"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1848484096898445808",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DAppaDanDev Time to get a macccc",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T21:58:46Z",
+            "Timestamp": 1729547926,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 2,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848370982857142335",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DAppaDanDev\">@DAppaDanDev</a> What do you do about close precision cuts/edits with lack of mouse?",
+            "ID": "1848441525233193136",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848370982857142335",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1455817770902425601",
+                    "Username": "DAppaDanDev",
+                    "Name": "DappaDan"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1848441525233193136",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DAppaDanDev What do you do about close precision cuts/edits with lack of mouse?",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T19:09:36Z",
+            "Timestamp": 1729537776,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 31,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848404560496209936",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/tonyolendo\">@tonyolendo</a> \ud83e\udd23 So what does this make hotel and megabus wifi",
+            "ID": "1848429674768294336",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848404560496209936",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "239810115",
+                    "Username": "tonyolendo",
+                    "Name": "tonyolendo.eth"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1848429674768294336",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@tonyolendo \ud83e\udd23 So what does this make hotel and megabus wifi",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T18:22:31Z",
+            "Timestamp": 1729534951,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 37,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848258265768952207",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/baseafricaa\">@baseafricaa</a> \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "ID": "1848260555082994049",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848258265768952207",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1274146315384094720",
+                    "Username": "baseafricaa",
+                    "Name": "BASED AFRICA (baseafrica.base.eth)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1848260555082994049",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@baseafricaa \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T07:10:30Z",
+            "Timestamp": 1729494630,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 100,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848245971001508125",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/buzea200\">@buzea200</a> <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> <a href=\"https://twitter.com/colo\">@colo</a> <a href=\"https://twitter.com/nounsdao\">@nounsdao</a> space was incredible",
+            "ID": "1848257857507963333",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848245971001508125",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1453495790496796680",
+                    "Username": "buzea200",
+                    "Name": "buzea200\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc7e\ud83e\udef6"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                },
+                {
+                    "ID": "12405192",
+                    "Username": "colo",
+                    "Name": "Collin Lowenburg"
+                },
+                {
+                    "ID": "1379430900547510277",
+                    "Username": "nounsdao",
+                    "Name": "Nouns"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1848257857507963333",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@buzea200 @ETHGlobal @colo @nounsdao space was incredible",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T06:59:46Z",
+            "Timestamp": 1729493986,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 87,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848055586430066924",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/josephdelong\">@josephdelong</a> this tweet is a work of ... art lol",
+            "ID": "1848057890923216917",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848055586430066924",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "228957664",
+                    "Username": "josephdelong",
+                    "Name": "joseph.eth"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1848057890923216917",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@josephdelong this tweet is a work of ... art lol",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T17:45:11Z",
+            "Timestamp": 1729446311,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 141,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846962922452291949",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/va_lidate\">@va_lidate</a> There will be blood",
+            "ID": "1847396382849847346",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846962922452291949",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1548726178978168833",
+                    "Username": "va_lidate",
+                    "Name": "AY\u15e9\u144eOKO\u148dI"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1847396382849847346",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@va_lidate There will be blood",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T21:56:35Z",
+            "Timestamp": 1729288595,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 9,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846412004061524250",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> \ud83d\udc4b\ud83c\udfff\ud83d\udc4b\ud83c\udfff\ud83d\udc4b\ud83c\udfff",
+            "ID": "1846415628564922650",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846412004061524250",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1846415628564922650",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ETHGlobal \ud83d\udc4b\ud83c\udfff\ud83d\udc4b\ud83c\udfff\ud83d\udc4b\ud83c\udfff",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T04:59:25Z",
+            "Timestamp": 1729054765,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 23,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846289292089610687",
+            "GIFs": [
+                {
+                    "ID": "1846289285252521984",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ9WUqgWIAANX1O.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ9WUqgWIAANX1O.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "I'm going, going, back, back, to Cali, cali \ud83d\ude24\ud83d\ude24 <br><a href=\"https://t.co/7estXI1jA9\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ9WUqgWIAANX1O.jpg\"/></a>",
+            "ID": "1846289292089610687",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "KagemniKarimu",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1846289292089610687",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844020453037441421",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "I'm going, going, back, back, to Cali, cali \ud83d\ude24\ud83d\ude24 https://t.co/7estXI1jA9",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T20:37:24Z",
+            "Timestamp": 1729024644,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 535,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846265462394650775",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Altcoin_daddy\">@Altcoin_daddy</a> you got it \ud83d\udd25\ud83d\udd25",
+            "ID": "1846266570932109666",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846265858592587798",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1239173480890990593",
+                    "Username": "Altcoin_daddy",
+                    "Name": "ALTCOIN D/G\\DDY \ud83c\uddf9\ud83c\uddf9\ud83c\uddf3\ud83c\uddec {A.D}\ud80c\udcf5"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1846266570932109666",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Altcoin_daddy you got it \ud83d\udd25\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T19:07:07Z",
+            "Timestamp": 1729019227,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 52,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846265462394650775",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcbb Weekly Theory of DevRel: <br><br>The greatest success is a builder's imagination unimpeded by technical limitations. \ud83c\udf89",
+            "ID": "1846265462394650775",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "KagemniKarimu",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1846265462394650775",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcbb Weekly Theory of DevRel: \n\nThe greatest success is a builder's imagination unimpeded by technical limitations. \ud83c\udf89",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T19:02:42Z",
+            "Timestamp": 1729018962,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 211,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844571837432488243",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> And of course <a href=\"https://twitter.com/IvyIvyQi\">@IvyIvyQi</a> \ud83d\ude09",
+            "ID": "1844573547722588213",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844571837432488243",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                },
+                {
+                    "ID": "258121527",
+                    "Username": "IvyIvyQi",
+                    "Name": "Ivy Qi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1844573547722588213",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ChainbaseHQ And of course @IvyIvyQi \ud83d\ude09",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T02:59:38Z",
+            "Timestamp": 1728615578,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 31,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844571837432488243",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> Was a fun / amazing call. S/O <a href=\"https://twitter.com/luki_notlowkey\">@luki_notlowkey</a> <a href=\"https://twitter.com/flock_io\">@flock_io</a> <a href=\"https://twitter.com/Altcoin_daddy\">@Altcoin_daddy</a> <a href=\"https://twitter.com/easynodexyz\">@easynodexyz</a> <br>\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "ID": "1844572781758861807",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844571837432488243",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                },
+                {
+                    "ID": "1577322154059669504",
+                    "Username": "luki_notlowkey",
+                    "Name": "Luki_Notlowkey (\u2738,\u2738)"
+                },
+                {
+                    "ID": "1570008098877710341",
+                    "Username": "flock_io",
+                    "Name": "FLock.io"
+                },
+                {
+                    "ID": "1239173480890990593",
+                    "Username": "Altcoin_daddy",
+                    "Name": "ALTCOIN D/G\\DDY \ud83c\uddf9\ud83c\uddf9\ud83c\uddf3\ud83c\uddec {A.D}\ud80c\udcf5"
+                },
+                {
+                    "ID": "1746568395426795521",
+                    "Username": "easynodexyz",
+                    "Name": "EasyNode"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1844572781758861807",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ChainbaseHQ Was a fun / amazing call. S/O @luki_notlowkey @flock_io @Altcoin_daddy @easynodexyz \n\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T02:56:36Z",
+            "Timestamp": 1728615396,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 45,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844020453037441421",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nuke_web3\">@nuke_web3</a> <a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+            "ID": "1844049541433319558",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844049297849069963",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "961864393070792704",
+                    "Username": "nuke_web3",
+                    "Name": "Nuke \ud83c\udf04"
+                },
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1844049541433319558",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nuke_web3 @ChainbaseHQ @ETHGlobal \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T16:17:26Z",
+            "Timestamp": 1728490646,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844019597579620379",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/RyanWatkins_\">@RyanWatkins_</a> Analysis on point. Anarchic energy on 10. \ud83d\udcc8",
+            "ID": "1844022048437444759",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844019597579620379",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "708805895258574849",
+                    "Username": "RyanWatkins_",
+                    "Name": "Ryan Watkins"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1844022048437444759",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@RyanWatkins_ Analysis on point. Anarchic energy on 10. \ud83d\udcc8",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T14:28:11Z",
+            "Timestamp": 1728484091,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 269,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844020453037441421",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Altcoin_daddy\">@Altcoin_daddy</a> <a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> <a href=\"https://twitter.com/nuke_web3\">@nuke_web3</a> ofc my brother \u2764\ufe0f",
+            "ID": "1844021736901353482",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844020629470929126",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1239173480890990593",
+                    "Username": "Altcoin_daddy",
+                    "Name": "ALTCOIN D/G\\DDY \ud83c\uddf9\ud83c\uddf9\ud83c\uddf3\ud83c\uddec {A.D}\ud80c\udcf5"
+                },
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                },
+                {
+                    "ID": "961864393070792704",
+                    "Username": "nuke_web3",
+                    "Name": "Nuke \ud83c\udf04"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1844021736901353482",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Altcoin_daddy @ChainbaseHQ @ETHGlobal @nuke_web3 ofc my brother \u2764\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T14:26:57Z",
+            "Timestamp": 1728484017,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 25,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844020453037441421",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Repping <a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> at <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> SF as one of the Hackathon Mentors :)<br><br>Getting to work alongside <a href=\"https://twitter.com/nuke_web3\">@nuke_web3</a> and the events team again is a blessing all alone. That's not even factoring into the picture the awesomeness of web3 hackers. <br><a href=\"https://t.co/N9MSn27iFF\"><img src=\"https://pbs.twimg.com/media/GZc89ucXwAAlpx0.jpg\"/></a>",
+            "ID": "1844020453037441421",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 17,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                },
+                {
+                    "ID": "961864393070792704",
+                    "Username": "nuke_web3",
+                    "Name": "Nuke \ud83c\udf04"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1844020453037441421",
+            "Photos": [
+                {
+                    "ID": "1844009603568222208",
+                    "URL": "https://pbs.twimg.com/media/GZc89ucXwAAlpx0.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Repping @ChainbaseHQ at @ETHGlobal SF as one of the Hackathon Mentors :)\n\nGetting to work alongside @nuke_web3 and the events team again is a blessing all alone. That's not even factoring into the picture the awesomeness of web3 hackers. https://t.co/N9MSn27iFF",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T14:21:50Z",
+            "Timestamp": 1728483710,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 3361,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844001366902984985",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dariaagad\">@dariaagad</a> \ud83e\udd23",
+            "ID": "1844001520028946536",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844001366902984985",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1353069927058399233",
+                    "Username": "dariaagad",
+                    "Name": "Daria\ud83c\uddf9\ud83c\udded"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1844001520028946536",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dariaagad \ud83e\udd23",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T13:06:36Z",
+            "Timestamp": 1728479196,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 25,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843747076246843874",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ChainbaseHQ\">@ChainbaseHQ</a> <a href=\"https://twitter.com/easynodexyz\">@easynodexyz</a> please weigh in on this dire matter \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "ID": "1843747369856499855",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843747076246843874",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "1473594028000444417",
+                    "Username": "ChainbaseHQ",
+                    "Name": "Chainbase (\u2738,\u2738)"
+                },
+                {
+                    "ID": "1746568395426795521",
+                    "Username": "easynodexyz",
+                    "Name": "EasyNode"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1843747369856499855",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ChainbaseHQ @easynodexyz please weigh in on this dire matter \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T20:16:42Z",
+            "Timestamp": 1728418602,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 126,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843688647025115598",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Hosted by yours truly \ud83d\ude09",
+            "ID": "1843688647025115598",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "KagemniKarimu",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1843688647025115598",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1843687658062512463",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hosted by yours truly \ud83d\ude09",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T16:23:22Z",
+            "Timestamp": 1728404602,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 100,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843642718200959154",
+            "GIFs": [
+                {
+                    "ID": "1843647193959251968",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZXzWtcWQAArEpd.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZXzWtcWQAArEpd.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/valcoholics1\">@valcoholics1</a> <br><a href=\"https://t.co/zfil1dkqrs\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZXzWtcWQAArEpd.jpg\"/></a>",
+            "ID": "1843647200905269432",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843642718200959154",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "KagemniKarimu",
+            "Mentions": [
+                {
+                    "ID": "262895985",
+                    "Username": "valcoholics1",
+                    "Name": "V"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/KagemniKarimu/status/1843647200905269432",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@valcoholics1 https://t.co/zfil1dkqrs",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T13:38:40Z",
+            "Timestamp": 1728394720,
+            "URLs": null,
+            "UserID": "1479209131986894849",
+            "Username": "KagemniKarimu",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

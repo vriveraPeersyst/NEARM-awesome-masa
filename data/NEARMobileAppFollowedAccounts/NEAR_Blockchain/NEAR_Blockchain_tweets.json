@@ -1,0 +1,41 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854117871724687546",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Trump for Pump \ud83d\ude80\ud83d\udcc8",
+            "ID": "1854117871724687546",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "NEAR Blockchain",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NEAR_Blockchain/status/1854117871724687546",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Trump for Pump \ud83d\ude80\ud83d\udcc8",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T11:05:23Z",
+            "Timestamp": 1730891123,
+            "URLs": null,
+            "UserID": "1387456369398140931",
+            "Username": "NEAR_Blockchain",
+            "Videos": null,
+            "Views": 1125,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

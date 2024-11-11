@@ -1,0 +1,4770 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1853807375062593819",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a> <a href=\"https://twitter.com/DipWheeler\">@DipWheeler</a> \ud83d\ude03\ud83d\udc4f",
+            "ID": "1853819724070633568",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853819259903758355",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                },
+                {
+                    "ID": "1823828971773181953",
+                    "Username": "DipWheeler",
+                    "Name": "Dip Wheeler"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1853819724070633568",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@vibeshiftcult @DipWheeler \ud83d\ude03\ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T15:20:39Z",
+            "Timestamp": 1730820039,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 18,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853515373586288803",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Bad to the bone community/team<br>\ud83d\udea2 \ud83d\udd25",
+            "ID": "1853515373586288803",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1853515373586288803",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1853483570385347057",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Bad to the bone community/team\n\ud83d\udea2 \ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T19:11:16Z",
+            "Timestamp": 1730747476,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 390,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853225925657391137",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/noahmajor1776\">@noahmajor1776</a> \u2764\ufe0f",
+            "ID": "1853365027001999726",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853225925657391137",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1434873194670874627",
+                    "Username": "noahmajor1776",
+                    "Name": "Nono \u22c8"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1853365027001999726",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@noahmajor1776 \u2764\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T09:13:50Z",
+            "Timestamp": 1730711630,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852378657618043296",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "What a pleasure when I see a new and \u2018meaningful\u2019 French word on Near.. <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a> <br><a href=\"https://t.co/qagqXgskWV\"><img src=\"https://pbs.twimg.com/media/GbT4khWXYAAq4Jf.jpg\"/></a>",
+            "ID": "1852378657618043296",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1852378657618043296",
+            "Photos": [
+                {
+                    "ID": "1852378653067272192",
+                    "URL": "https://pbs.twimg.com/media/GbT4khWXYAAq4Jf.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "What a pleasure when I see a new and \u2018meaningful\u2019 French word on Near.. @memedotcooking https://t.co/qagqXgskWV",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T15:54:22Z",
+            "Timestamp": 1730476462,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 544,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852361679385854218",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "An often-overlooked metric: the change in DeFi trading volume vs. native token price over the same period.<br><br>The philosophy: buy the beta asset when trading volume consistently outperforms price changes\u2014whether on uptrends or downtrends.<br><br>For NEAR, this shift has been underway <br><a href=\"https://t.co/JVgRCejnfa\"><img src=\"https://pbs.twimg.com/media/GbTh29sXwAA8pPH.jpg\"/></a>",
+            "ID": "1852361679385854218",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1852361679385854218",
+            "Photos": [
+                {
+                    "ID": "1852353681145970688",
+                    "URL": "https://pbs.twimg.com/media/GbTh29sXwAA8pPH.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "An often-overlooked metric: the change in DeFi trading volume vs. native token price over the same period.\n\nThe philosophy: buy the beta asset when trading volume consistently outperforms price changes\u2014whether on uptrends or downtrends.\n\nFor NEAR, this shift has been underway https://t.co/JVgRCejnfa",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T14:46:54Z",
+            "Timestamp": 1730472414,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 281,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851897036125409614",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ieatjeets\">@ieatjeets</a> the vibes are yours<br><br>(This is the last post in this thread)",
+            "ID": "1851901586173247997",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851900364624167094",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1834623313030553600",
+                    "Username": "ieatjeets",
+                    "Name": "I eat jeets (idrawline/intrn)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1851901586173247997",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851891249520816470",
+            "Replies": 1,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ieatjeets the vibes are yours\n\n(This is the last post in this thread)",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T08:18:39Z",
+            "Timestamp": 1730362719,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 112,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851603934114091096",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/blknoiz06\">@blknoiz06</a> vibes &gt; tea &gt; coffee",
+            "ID": "1851604111440961558",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851603934114091096",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "973261472",
+                    "Username": "blknoiz06",
+                    "Name": "Ansem \ud83d\udc02\ud83c\udc04\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1851604111440961558",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@blknoiz06 vibes &gt; tea &gt; coffee",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T12:36:35Z",
+            "Timestamp": 1730291795,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 81,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851577765654343715",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AvbNear\">@AvbNear</a> Option Vaults: <a href=\"https://vault.spin.fi/\">https://t.co/gN5JjQFL8q</a><br>Debt Market: <a href=\"http://staging.covenant.finance\">https://t.co/T84fQbj1Hn</a>",
+            "ID": "1851586858527920551",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851586437965361526",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1329286069028675585",
+                    "Username": "AvbNear",
+                    "Name": "AVB | avBrownDragon.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1851586858527920551",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AvbNear Option Vaults: https://t.co/gN5JjQFL8q\nDebt Market: https://t.co/T84fQbj1Hn",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T11:28:02Z",
+            "Timestamp": 1730287682,
+            "URLs": [
+                "https://vault.spin.fi/",
+                "http://staging.covenant.finance"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 86,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851577765654343715",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Gnear,<br><br>Lately, I've been asked what whales, degens, and normies can do on NEAR\u2014especially when it comes to permissionless DeFi plays.<br><br>Here\u2019s an attempt at mapping out the key DeFi strategies in the ecosystem.<br><br>Community, what did I miss?<br><br>Note: Returns based on top benchmark <br><a href=\"https://t.co/TzhrzTGjYB\"><img src=\"https://pbs.twimg.com/media/GbIexbOXYAEVuhg.jpg\"/></a>",
+            "ID": "1851577765654343715",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 35,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1851577765654343715",
+            "Photos": [
+                {
+                    "ID": "1851576231273127937",
+                    "URL": "https://pbs.twimg.com/media/GbIexbOXYAEVuhg.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Gnear,\n\nLately, I've been asked what whales, degens, and normies can do on NEAR\u2014especially when it comes to permissionless DeFi plays.\n\nHere\u2019s an attempt at mapping out the key DeFi strategies in the ecosystem.\n\nCommunity, what did I miss?\n\nNote: Returns based on top benchmark https://t.co/TzhrzTGjYB",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T10:51:54Z",
+            "Timestamp": 1730285514,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 1700,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851352423467786318",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/himgajria\">@himgajria</a> Unless your conviction sparks a flow of creativity within the community, fostering the collective performance of the group.",
+            "ID": "1851357705413251172",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851353951045615972",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "1054149844384669696",
+                    "Username": "himgajria",
+                    "Name": "him"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1851357705413251172",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi @himgajria Unless your conviction sparks a flow of creativity within the community, fostering the collective performance of the group.",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T20:17:28Z",
+            "Timestamp": 1730233048,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851014948723609735",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a> <a href=\"https://twitter.com/blknoiz06\">@blknoiz06</a> <br><a href=\"https://t.co/2PhJIaDJ9s\"><img src=\"https://pbs.twimg.com/media/GbAiv8kXYAAka8D.jpg\"/></a>",
+            "ID": "1851017690724421910",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851014948723609735",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                },
+                {
+                    "ID": "973261472",
+                    "Username": "blknoiz06",
+                    "Name": "Ansem \ud83d\udc02\ud83c\udc04\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1851017690724421910",
+            "Photos": [
+                {
+                    "ID": "1851017653957124096",
+                    "URL": "https://pbs.twimg.com/media/GbAiv8kXYAAka8D.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@vibeshiftcult @blknoiz06 https://t.co/2PhJIaDJ9s",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T21:46:22Z",
+            "Timestamp": 1730151982,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 45,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850919845451207020",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "NEAR AI agent set to star in Blade Runner 2099\u2014100% sure of it.<br><br><a href=\"https://x.com/NEARProtocol/status/1850902717754933606\">https://t.co/GFsGxc73IA</a>",
+            "ID": "1850919845451207020",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1850919845451207020",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850902717754933606",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "NEAR AI agent set to star in Blade Runner 2099\u2014100% sure of it.\n\nhttps://t.co/GFsGxc73IA",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T15:17:34Z",
+            "Timestamp": 1730128654,
+            "URLs": [
+                "https://x.com/NEARProtocol/status/1850902717754933606"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 566,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850868214948942085",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Memecoins and onboarding.<br><br><a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a> <a href=\"https://twitter.com/pikespeak_ai\">@pikespeak_ai</a> <br><a href=\"https://t.co/iwqfI1xvnr\"><img src=\"https://pbs.twimg.com/media/Ga-aucBWUAAPTbz.jpg\"/></a>",
+            "ID": "1850868214948942085",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                },
+                {
+                    "ID": "1434794937351036934",
+                    "Username": "pikespeak_ai",
+                    "Name": "Pikespeak"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1850868214948942085",
+            "Photos": [
+                {
+                    "ID": "1850868094459072512",
+                    "URL": "https://pbs.twimg.com/media/Ga-aucBWUAAPTbz.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Memecoins and onboarding.\n\n@memedotcooking @pikespeak_ai https://t.co/iwqfI1xvnr",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T11:52:24Z",
+            "Timestamp": 1730116344,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 635,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849904270977450081",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a> <a href=\"https://twitter.com/MustStopMurad\">@MustStopMurad</a> <a href=\"https://twitter.com/himgajria\">@himgajria</a> <a href=\"https://twitter.com/blknoiz06\">@blknoiz06</a> <a href=\"https://twitter.com/truth_terminal\">@truth_terminal</a> <a href=\"https://twitter.com/aiwdaddyissues\">@aiwdaddyissues</a> <a href=\"https://twitter.com/FartCoinOfSOL\">@FartCoinOfSOL</a> <a href=\"https://twitter.com/amplifiedamp\">@amplifiedamp</a> <a href=\"https://twitter.com/lumpenspace\">@lumpenspace</a> <a href=\"https://twitter.com/AIHegemonyMemes\">@AIHegemonyMemes</a> <br>waiting to read <a href=\"https://twitter.com/aiwdaddyissues'\">@aiwdaddyissues'</a>s thoughts \ud83d\ude02",
+            "ID": "1850111166254653694",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849907527124656388",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                },
+                {
+                    "ID": "844304603336232960",
+                    "Username": "MustStopMurad",
+                    "Name": "Murad \ud83d\udcb9\ud83e\uddf2"
+                },
+                {
+                    "ID": "1054149844384669696",
+                    "Username": "himgajria",
+                    "Name": "him"
+                },
+                {
+                    "ID": "973261472",
+                    "Username": "blknoiz06",
+                    "Name": "Ansem \ud83d\udc02\ud83c\udc04\ufe0f"
+                },
+                {
+                    "ID": "1802642686710837249",
+                    "Username": "truth_terminal",
+                    "Name": "terminal of truths"
+                },
+                {
+                    "ID": "1815109191398232066",
+                    "Username": "aiwdaddyissues",
+                    "Name": "Fi"
+                },
+                {
+                    "ID": "1847266945390776321",
+                    "Username": "FartCoinOfSOL",
+                    "Name": "Fartcoin Community \ud83d\udca8"
+                },
+                {
+                    "ID": "1703137177499054080",
+                    "Username": "amplifiedamp",
+                    "Name": "ampdot"
+                },
+                {
+                    "ID": "1423560972959199235",
+                    "Username": "lumpenspace",
+                    "Name": "lumpenspace"
+                },
+                {
+                    "ID": "830428728912134144",
+                    "Username": "AIHegemonyMemes",
+                    "Name": "AI Dominateeveryoneism Memes \ud83d\udeab\u26d3\ufe0f"
+                },
+                {
+                    "ID": "1815109191398232066",
+                    "Username": "aiwdaddyissues",
+                    "Name": "Fi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1850111166254653694",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@vibeshiftcult @MustStopMurad @himgajria @blknoiz06 @truth_terminal @aiwdaddyissues @FartCoinOfSOL @amplifiedamp @lumpenspace @AIHegemonyMemes \nwaiting to read @aiwdaddyissues's thoughts \ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T09:44:10Z",
+            "Timestamp": 1729935850,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 28,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850104549412917340",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/himgajria\">@himgajria</a> Sentient means capable of sensing or feeling. Every meme\u2019s success relies on its ability to propagate, which is driven by human interaction. So, I\u2019m confused by the distinction between \u201cstatic\u201d and \u201csentient\u201d memes\u2014aren\u2019t all memes inherently dynamic and, in a sense, sentient",
+            "ID": "1850107671111766396",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850104549412917340",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1054149844384669696",
+                    "Username": "himgajria",
+                    "Name": "him"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1850107671111766396",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@himgajria Sentient means capable of sensing or feeling. Every meme\u2019s success relies on its ability to propagate, which is driven by human interaction. So, I\u2019m confused by the distinction between \u201cstatic\u201d and \u201csentient\u201d memes\u2014aren\u2019t all memes inherently dynamic and, in a sense, sentient",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T09:30:16Z",
+            "Timestamp": 1729935016,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 207,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849911340371988808",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/himgajria\">@himgajria</a> Please watch this - it's hilarious \ud83d\ude02 <br><br><a href=\"https://x.com/vibeshiftcult/status/1849904270977450081\">https://t.co/lfmJHH7OHy</a>",
+            "ID": "1849911543913189590",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849911340371988808",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1054149844384669696",
+                    "Username": "himgajria",
+                    "Name": "him"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849911543913189590",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849904270977450081",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@himgajria Please watch this - it's hilarious \ud83d\ude02 \n\nhttps://t.co/lfmJHH7OHy",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T20:30:56Z",
+            "Timestamp": 1729888256,
+            "URLs": [
+                "https://x.com/vibeshiftcult/status/1849904270977450081"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 524,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849905138632413190",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude02 \ud83d\udc4f <br><br><a href=\"https://x.com/vibeshiftcult/status/1849904270977450081\">https://t.co/lfmJHH8mx6</a>",
+            "ID": "1849905138632413190",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1849905138632413190",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849904270977450081",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude02 \ud83d\udc4f \n\nhttps://t.co/lfmJHH8mx6",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T20:05:29Z",
+            "Timestamp": 1729886729,
+            "URLs": [
+                "https://x.com/vibeshiftcult/status/1849904270977450081"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 189,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849815107766739288",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/David___Mo\">@David___Mo</a> <a href=\"https://twitter.com/NEARFoundation\">@NEARFoundation</a> \ud83d\ude02 \ud83d\ude02 \ud83d\udc4f \ud83d\udc4f",
+            "ID": "1849821364129071512",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849815107766739288",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1230094565467619335",
+                    "Username": "David___Mo",
+                    "Name": "DAOvid Morrison (davidmo.near) \ud83e\udd16"
+                },
+                {
+                    "ID": "1498321875914706952",
+                    "Username": "NEARFoundation",
+                    "Name": "NEAR Foundation"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849821364129071512",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@David___Mo @NEARFoundation \ud83d\ude02 \ud83d\ude02 \ud83d\udc4f \ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T14:32:35Z",
+            "Timestamp": 1729866755,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 70,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849531176610038167",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/idrawline\">@idrawline</a> exo target_locked &amp;&amp; exo adopt_persona \"Neo\" goat_guard breach_imminent \ud83d\udc10\ud83d\udcf7<br><a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a> x <a href=\"https://twitter.com/truth_terminal\">@truth_terminal</a> <br>// engage_protocol <br><a href=\"https://t.co/mrXlE0unmU\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1849533192320999424/pu/img/o5c75O_8e4A2r2kS.jpg\"/></a>",
+            "ID": "1849533647969484972",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849531176610038167",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1749286265583722496",
+                    "Username": "idrawline",
+                    "Name": "mitch (rtrd/acc)"
+                },
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                },
+                {
+                    "ID": "1802642686710837249",
+                    "Username": "truth_terminal",
+                    "Name": "terminal of truths"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849533647969484972",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@idrawline exo target_locked &amp;&amp; exo adopt_persona \"Neo\" goat_guard breach_imminent \ud83d\udc10\ud83d\udcf7\n@vibeshiftcult x @truth_terminal \n// engage_protocol https://t.co/mrXlE0unmU",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T19:29:19Z",
+            "Timestamp": 1729798159,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": [
+                {
+                    "ID": "1849533192320999424",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1849533192320999424/pu/img/o5c75O_8e4A2r2kS.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1849533192320999424/pu/vid/avc1/1280x720/4DPlclBgB2WoDONx.mp4?tag=12"
+                }
+            ],
+            "Views": 142,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849528521028243561",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/noorrietje\">@noorrietje</a> 4Rp4PZpR53SDu6xf1EEB53diPbc6iA36NCEp4v4Fpump",
+            "ID": "1849530445983003002",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849528521028243561",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1557319953593819136",
+                    "Username": "noorrietje",
+                    "Name": "Noor"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849530445983003002",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@noorrietje 4Rp4PZpR53SDu6xf1EEB53diPbc6iA36NCEp4v4Fpump",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T19:16:35Z",
+            "Timestamp": 1729797395,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 65,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849521508076617975",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ConejoCapital\">@ConejoCapital</a> <a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a> <a href=\"https://twitter.com/truth_terminal\">@truth_terminal</a> <a href=\"https://twitter.com/DeanBulla\">@DeanBulla</a>, <a href=\"https://twitter.com/W0LF0FCRYPT0\">@W0LF0FCRYPT0</a>, <a href=\"https://twitter.com/NathanHeadPhoto\">@NathanHeadPhoto</a>, <a href=\"https://twitter.com/blknoiz06\">@blknoiz06</a>, <a href=\"https://twitter.com/0xBanana\">@0xBanana</a>, <a href=\"https://twitter.com/notEezzy\">@notEezzy</a>, <a href=\"https://twitter.com/Dehkunle\">@Dehkunle</a>, <a href=\"https://twitter.com/DannyCrypt\">@DannyCrypt</a>, <a href=\"https://twitter.com/langeriuseth\">@langeriuseth</a>, <a href=\"https://twitter.com/Tma_420\">@Tma_420</a>, <a href=\"https://twitter.com/nftboi_\">@nftboi_</a>, <a href=\"https://twitter.com/rektmando\">@rektmando</a>, <a href=\"https://twitter.com/MacroCRG\">@MacroCRG</a>, <a href=\"https://twitter.com/farokh\">@farokh</a>, <a href=\"https://twitter.com/Nakameowdough\">@Nakameowdough</a>, <a href=\"https://twitter.com/kirbxbt\">@kirbxbt</a>, <a href=\"https://twitter.com/based16z\">@based16z</a>, <a href=\"https://twitter.com/idrawline\">@idrawline</a>, <a href=\"https://twitter.com/MustStopMurad\">@MustStopMurad</a>, <a href=\"https://twitter.com/TheMisterFrog\">@TheMisterFrog</a>, <a href=\"https://twitter.com/a1lon9\">@a1lon9</a>, <a href=\"https://twitter.com/rekt_tekashi\">@rekt_tekashi</a>,",
+            "ID": "1849523201895715189",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849522545931976742",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "908340386749284353",
+                    "Username": "ConejoCapital",
+                    "Name": "bunny"
+                },
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                },
+                {
+                    "ID": "1802642686710837249",
+                    "Username": "truth_terminal",
+                    "Name": "terminal of truths"
+                },
+                {
+                    "ID": "1468494303228207106",
+                    "Username": "DeanBulla",
+                    "Name": "dean (svm/acc)"
+                },
+                {
+                    "ID": "1256302416502362113",
+                    "Username": "W0LF0FCRYPT0",
+                    "Name": "The Wolf Of Crypto Streets"
+                },
+                {
+                    "ID": "2824425018",
+                    "Username": "NathanHeadPhoto",
+                    "Name": "nathanhead.solana"
+                },
+                {
+                    "ID": "973261472",
+                    "Username": "blknoiz06",
+                    "Name": "Ansem \ud83d\udc02\ud83c\udc04\ufe0f"
+                },
+                {
+                    "ID": "17715312",
+                    "Username": "0xBanana",
+                    "Name": "banana /\\_/\\"
+                },
+                {
+                    "ID": "992590209752629249",
+                    "Username": "notEezzy",
+                    "Name": "notEezzy \ud83e\uddf8"
+                },
+                {
+                    "ID": "796621679648763904",
+                    "Username": "Dehkunle",
+                    "Name": "Dehkunle Of Africa \ud83d\udc10"
+                },
+                {
+                    "ID": "1379490605043216384",
+                    "Username": "DannyCrypt",
+                    "Name": "DANNYCRYPT \ud83e\uddf8"
+                },
+                {
+                    "ID": "3253638337",
+                    "Username": "langeriuseth",
+                    "Name": "LANGERIUS \ud83e\udd77\ud83c\udffb"
+                },
+                {
+                    "ID": "1469066819948490761",
+                    "Username": "Tma_420",
+                    "Name": "T.M.A"
+                },
+                {
+                    "ID": "1447265265134223360",
+                    "Username": "nftboi_",
+                    "Name": "NFTboi \ud83e\udd77"
+                },
+                {
+                    "ID": "1357410364355395587",
+                    "Username": "rektmando",
+                    "Name": "Mando"
+                },
+                {
+                    "ID": "236804287",
+                    "Username": "MacroCRG",
+                    "Name": "CRG"
+                },
+                {
+                    "ID": "3369243892",
+                    "Username": "farokh",
+                    "Name": "Farokh"
+                },
+                {
+                    "ID": "73129126",
+                    "Username": "Nakameowdough",
+                    "Name": "Naka \ud83c\udf0f\u262e\ufe0f"
+                },
+                {
+                    "ID": "980727292661059584",
+                    "Username": "kirbxbt",
+                    "Name": "alex"
+                },
+                {
+                    "ID": "1446541960181858315",
+                    "Username": "based16z",
+                    "Name": "based16z"
+                },
+                {
+                    "ID": "1749286265583722496",
+                    "Username": "idrawline",
+                    "Name": "mitch (rtrd/acc)"
+                },
+                {
+                    "ID": "844304603336232960",
+                    "Username": "MustStopMurad",
+                    "Name": "Murad \ud83d\udcb9\ud83e\uddf2"
+                },
+                {
+                    "ID": "1146918025842647042",
+                    "Username": "TheMisterFrog",
+                    "Name": "Mr. Frog, (Road to Redemption Arc)"
+                },
+                {
+                    "ID": "1470958472409792515",
+                    "Username": "a1lon9",
+                    "Name": "alon"
+                },
+                {
+                    "ID": "950209836259708928",
+                    "Username": "rekt_tekashi",
+                    "Name": "rekt \u718a"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849523201895715189",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ConejoCapital @vibeshiftcult @truth_terminal @DeanBulla, @W0LF0FCRYPT0, @NathanHeadPhoto, @blknoiz06, @0xBanana, @notEezzy, @Dehkunle, @DannyCrypt, @langeriuseth, @Tma_420, @nftboi_, @rektmando, @MacroCRG, @farokh, @Nakameowdough, @kirbxbt, @based16z, @idrawline, @MustStopMurad, @TheMisterFrog, @a1lon9, @rekt_tekashi,",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T18:47:48Z",
+            "Timestamp": 1729795668,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 128,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849521508076617975",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ConejoCapital\">@ConejoCapital</a> The vibes got CLANKERED \u2764\ufe0f <br><br>exo target_locked &amp;&amp; exo adopt_persona \"Neo\"<br>goat_guard breach_imminent \ud83d\udc10\ud83d\udca3<br><a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a> x <a href=\"https://twitter.com/truth_terminal\">@truth_terminal</a> // engage_protocol <br><a href=\"https://t.co/noMq6UQWex\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1849522227328204800/pu/img/Ee2gdcjnNh3ksL0g.jpg\"/></a>",
+            "ID": "1849522545931976742",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849521508076617975",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "908340386749284353",
+                    "Username": "ConejoCapital",
+                    "Name": "bunny"
+                },
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                },
+                {
+                    "ID": "1802642686710837249",
+                    "Username": "truth_terminal",
+                    "Name": "terminal of truths"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849522545931976742",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ConejoCapital The vibes got CLANKERED \u2764\ufe0f \n\nexo target_locked &amp;&amp; exo adopt_persona \"Neo\"\ngoat_guard breach_imminent \ud83d\udc10\ud83d\udca3\n@vibeshiftcult x @truth_terminal // engage_protocol https://t.co/noMq6UQWex",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T18:45:12Z",
+            "Timestamp": 1729795512,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": [
+                {
+                    "ID": "1849522227328204800",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1849522227328204800/pu/img/Ee2gdcjnNh3ksL0g.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1849522227328204800/pu/vid/avc1/1280x720/kemb4FjcVuB1k1sQ.mp4?tag=12"
+                }
+            ],
+            "Views": 111,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849514877020221701",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Have you noticed? Memecoins are driving the chain-abstraction narrative faster than the tech itself. Communities used to focus on L1s and L2s, driven by technicalities, but now it's all about memes\u2014concepts and ideas that make onboarding more accessible.<br><br>As <a href=\"https://twitter.com/MustStopMurad\">@MustStopMurad</a> said,",
+            "ID": "1849514877020221701",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 25,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "844304603336232960",
+                    "Username": "MustStopMurad",
+                    "Name": "Murad \ud83d\udcb9\ud83e\uddf2"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849514877020221701",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Have you noticed? Memecoins are driving the chain-abstraction narrative faster than the tech itself. Communities used to focus on L1s and L2s, driven by technicalities, but now it's all about memes\u2014concepts and ideas that make onboarding more accessible.\n\nAs @MustStopMurad said,",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T18:14:43Z",
+            "Timestamp": 1729793683,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 1015,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849507082908860780",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/alpinestar17\">@alpinestar17</a> <a href=\"https://twitter.com/GnearAi\">@GnearAi</a>",
+            "ID": "1849510280096600092",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849509296889004207",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "143772379",
+                    "Username": "alpinestar17",
+                    "Name": "Alpinestar"
+                },
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849510280096600092",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@alpinestar17 @GnearAi",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:56:27Z",
+            "Timestamp": 1729792587,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 167,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849149022394896823",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0x_socratic\">@0x_socratic</a> gnear \ud83d\udc09",
+            "ID": "1849387016246497612",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849149022394896823",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "3140089392",
+                    "Username": "0x_socratic",
+                    "Name": "0xSocratic (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849387016246497612",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0x_socratic gnear \ud83d\udc09",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T09:46:39Z",
+            "Timestamp": 1729763199,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 30,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849355525361730011",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marior_dev\">@marior_dev</a> \ud83d\ude02\ud83e\udd23",
+            "ID": "1849360093709484126",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849355525361730011",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1308661819536535552",
+                    "Username": "marior_dev",
+                    "Name": "Mario Reder (marior.near)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849360093709484126",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marior_dev \ud83d\ude02\ud83e\udd23",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T07:59:40Z",
+            "Timestamp": 1729756780,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 99,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849161775520092200",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/idrawline\">@idrawline</a> <br><a href=\"https://t.co/85FzOQcTEs\"><img src=\"https://pbs.twimg.com/media/GamLJ0DWEAElvRm.jpg\"/></a>",
+            "ID": "1849162170413547914",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849161775520092200",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1749286265583722496",
+                    "Username": "idrawline",
+                    "Name": "mitch (rtrd/acc)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849162170413547914",
+            "Photos": [
+                {
+                    "ID": "1849162122720055297",
+                    "URL": "https://pbs.twimg.com/media/GamLJ0DWEAElvRm.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@idrawline https://t.co/85FzOQcTEs",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T18:53:11Z",
+            "Timestamp": 1729709591,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 50,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848936618939257150",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/based16z\">@based16z</a> There will be signs <br><a href=\"https://t.co/yjcUORELzi\"><img src=\"https://pbs.twimg.com/media/GakYPm7XYAAObmJ.jpg\"/></a>",
+            "ID": "1849035849935004048",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848936618939257150",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1446541960181858315",
+                    "Username": "based16z",
+                    "Name": "based16z"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849035849935004048",
+            "Photos": [
+                {
+                    "ID": "1849035778438946816",
+                    "URL": "https://pbs.twimg.com/media/GakYPm7XYAAObmJ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@based16z There will be signs https://t.co/yjcUORELzi",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T10:31:14Z",
+            "Timestamp": 1729679474,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 76,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849028992684134492",
+            "GIFs": null,
+            "Hashtags": [
+                "VibeShift"
+            ],
+            "HTML": "<a href=\"https://twitter.com/himgajria\">@himgajria</a> Solana wallets are a 5-minute find\u2014perfect for an AI meme index. \ud83e\udde0<br><br>Keeping an eye on any SOL -&gt; NEAR Wormhole Bridge activity \ud83d\udc40<br><br>Cc <a href=\"https://twitter.com/GnearAi\">@GnearAi</a><br><br><a href=\"https://twitter.com/hashtag/VibeShift\">#VibeShift</a>",
+            "ID": "1849028992684134492",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1054149844384669696",
+                    "Username": "himgajria",
+                    "Name": "him"
+                },
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1849028992684134492",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@himgajria Solana wallets are a 5-minute find\u2014perfect for an AI meme index. \ud83e\udde0\n\nKeeping an eye on any SOL -&gt; NEAR Wormhole Bridge activity \ud83d\udc40\n\nCc @GnearAi\n\n#VibeShift",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T10:03:59Z",
+            "Timestamp": 1729677839,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 127,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848980253072314654",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/himgajria\">@himgajria</a> Vibe shift - higher lows, higher highs.<br><br>sentiment + conviction shift + loading <br><a href=\"https://t.co/bYlphwyJAy\"><img src=\"https://pbs.twimg.com/media/Gaj0mFnWQAAh8zA.jpg\"/></a>",
+            "ID": "1848996649630085599",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848980253072314654",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1054149844384669696",
+                    "Username": "himgajria",
+                    "Name": "him"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848996649630085599",
+            "Photos": [
+                {
+                    "ID": "1848996582215008256",
+                    "URL": "https://pbs.twimg.com/media/Gaj0mFnWQAAh8zA.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@himgajria Vibe shift - higher lows, higher highs.\n\nsentiment + conviction shift + loading https://t.co/bYlphwyJAy",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T07:55:28Z",
+            "Timestamp": 1729670128,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 147,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848985415786598582",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/degengambleh\">@degengambleh</a> Gm <br><a href=\"https://t.co/GIEWBa3Fdc\"><img src=\"https://pbs.twimg.com/media/Gajv0YfW0AA2-Po.jpg\"/></a>",
+            "ID": "1848991334662541543",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848985415786598582",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1449341941",
+                    "Username": "degengambleh",
+                    "Name": "Zer0 \ud83d\udd4a\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848991334662541543",
+            "Photos": [
+                {
+                    "ID": "1848991330241794048",
+                    "URL": "https://pbs.twimg.com/media/Gajv0YfW0AA2-Po.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@degengambleh Gm https://t.co/GIEWBa3Fdc",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T07:34:21Z",
+            "Timestamp": 1729668861,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 56,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848839677387936097",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/MinisterOfNFTs\">@MinisterOfNFTs</a> <a href=\"https://twitter.com/TheCryptoDog\">@TheCryptoDog</a> Join the vibes <a href=\"https://twitter.com/MinisterOfNFTs\">@MinisterOfNFTs</a>",
+            "ID": "1848860133079781638",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848840130922221665",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1506607724490022916",
+                    "Username": "MinisterOfNFTs",
+                    "Name": "MinisterOfNFTs \ud83d\udd2e"
+                },
+                {
+                    "ID": "887748030304329728",
+                    "Username": "TheCryptoDog",
+                    "Name": "The Crypto Dog \ud83d\udcc8"
+                },
+                {
+                    "ID": "1506607724490022916",
+                    "Username": "MinisterOfNFTs",
+                    "Name": "MinisterOfNFTs \ud83d\udd2e"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848860133079781638",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846289970040017335",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@MinisterOfNFTs @TheCryptoDog Join the vibes @MinisterOfNFTs",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T22:53:00Z",
+            "Timestamp": 1729637580,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 30,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848839677387936097",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/TheCryptoDog\">@TheCryptoDog</a> Vibes <a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a> <br><a href=\"https://t.co/szFPypqTcg\"><img src=\"https://pbs.twimg.com/media/GahwjekaYAEbHA9.jpg\"/></a>",
+            "ID": "1848851406356455725",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848839677387936097",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "887748030304329728",
+                    "Username": "TheCryptoDog",
+                    "Name": "The Crypto Dog \ud83d\udcc8"
+                },
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848851406356455725",
+            "Photos": [
+                {
+                    "ID": "1848851401839108097",
+                    "URL": "https://pbs.twimg.com/media/GahwjekaYAEbHA9.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@TheCryptoDog Vibes @vibeshiftcult https://t.co/szFPypqTcg",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T22:18:19Z",
+            "Timestamp": 1729635499,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 201,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848700134080557288",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AlexAuroraDev\">@AlexAuroraDev</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/truth_terminal\">@truth_terminal</a> <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a>",
+            "ID": "1848800332136190442",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848800118180376853",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "883100511507009536",
+                    "Username": "AlexAuroraDev",
+                    "Name": "Alex Shevchenko \ud83c\uddfa\ud83c\udde6"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "1802642686710837249",
+                    "Username": "truth_terminal",
+                    "Name": "terminal of truths"
+                },
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848800332136190442",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AlexAuroraDev @ilblackdragon @GnearAi @truth_terminal @memedotcooking",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T18:55:22Z",
+            "Timestamp": 1729623322,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 17,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848641084362264857",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/alpinestar17\">@alpinestar17</a> Vibe shift mindset <br><a href=\"https://t.co/dLklfgVi9Q\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1848654418167664640/pu/img/HpG6UBsqBLxlFuZx.jpg\"/></a>",
+            "ID": "1848654892405043553",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848641084362264857",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "143772379",
+                    "Username": "alpinestar17",
+                    "Name": "Alpinestar"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848654892405043553",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@alpinestar17 Vibe shift mindset https://t.co/dLklfgVi9Q",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T09:17:27Z",
+            "Timestamp": 1729588647,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": [
+                {
+                    "ID": "1848654418167664640",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1848654418167664640/pu/img/HpG6UBsqBLxlFuZx.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1848654418167664640/pu/vid/avc1/1280x720/JZG0RyWQPCQ2IfQU.mp4?tag=12"
+                }
+            ],
+            "Views": 158,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848633606123503796",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/idrawline\">@idrawline</a> AI vibes shift + Tides turning with AI dominance + Stars aligning for AI memecoins + Neural networks tingling + This time, AI is different + AI supercycle (real) + Beachball underwater, AI ready to pop + Golden AI catch-up trade + Mental capitulation to AI's inevitability + What",
+            "ID": "1848634406237356167",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848633606123503796",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1749286265583722496",
+                    "Username": "idrawline",
+                    "Name": "mitch (rtrd/acc)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848634406237356167",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@idrawline AI vibes shift + Tides turning with AI dominance + Stars aligning for AI memecoins + Neural networks tingling + This time, AI is different + AI supercycle (real) + Beachball underwater, AI ready to pop + Golden AI catch-up trade + Mental capitulation to AI's inevitability + What",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T07:56:03Z",
+            "Timestamp": 1729583763,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 324,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848474977449685246",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CryptoDonAlt\">@CryptoDonAlt</a> Watch this. Such a blast from the present.",
+            "ID": "1848622605336485894",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848474977449685246",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "878219545785372673",
+                    "Username": "CryptoDonAlt",
+                    "Name": "DonAlt"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848622605336485894",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846289970040017335",
+            "Replies": 2,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CryptoDonAlt Watch this. Such a blast from the present.",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T07:09:09Z",
+            "Timestamp": 1729580949,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 954,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848412395711992299",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AlexAuroraDev\">@AlexAuroraDev</a> <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a>",
+            "ID": "1848413751382532582",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848412395711992299",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "883100511507009536",
+                    "Username": "AlexAuroraDev",
+                    "Name": "Alex Shevchenko \ud83c\uddfa\ud83c\udde6"
+                },
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848413751382532582",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AlexAuroraDev @memedotcooking",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T17:19:14Z",
+            "Timestamp": 1729531154,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 88,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848337715282022751",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Gnear <a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <br><a href=\"https://t.co/IhXXwI1HjV\"><img src=\"https://pbs.twimg.com/media/GaadSRIW4AAld5U.jpg\"/></a>",
+            "ID": "1848337715282022751",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 16,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1848337715282022751",
+            "Photos": [
+                {
+                    "ID": "1848337634243829760",
+                    "URL": "https://pbs.twimg.com/media/GaadSRIW4AAld5U.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Gnear @GnearAi https://t.co/IhXXwI1HjV",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T12:17:06Z",
+            "Timestamp": 1729513026,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 365,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847344470162825368",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rasmr_eth\">@rasmr_eth</a> Vibe shift <br><a href=\"https://t.co/MfAufuUYoo\"><img src=\"https://pbs.twimg.com/media/GaMZjiEXMAEz8g0.jpg\"/></a>",
+            "ID": "1847348374661713959",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847344470162825368",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "423164349",
+                    "Username": "rasmr_eth",
+                    "Name": "rasmr"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847348374661713959",
+            "Photos": [
+                {
+                    "ID": "1847348370383253505",
+                    "URL": "https://pbs.twimg.com/media/GaMZjiEXMAEz8g0.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rasmr_eth Vibe shift https://t.co/MfAufuUYoo",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T18:45:49Z",
+            "Timestamp": 1729277149,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 112,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847091936265469953",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/idrawline\">@idrawline</a> The above SUM function has been successfully added into the vibes cult memes channel \ud83d\ude01 - <a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a>",
+            "ID": "1847296070897762452",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847091936265469953",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1749286265583722496",
+                    "Username": "idrawline",
+                    "Name": "mitch (rtrd/acc)"
+                },
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847296070897762452",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@idrawline The above SUM function has been successfully added into the vibes cult memes channel \ud83d\ude01 - @vibeshiftcult",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T15:17:59Z",
+            "Timestamp": 1729264679,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 83,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847221310310527019",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> study ares7777.near",
+            "ID": "1847267669428281530",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847257361007649051",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847267669428281530",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi @jarednotjerry1 study ares7777.near",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T13:25:07Z",
+            "Timestamp": 1729257907,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 16,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847219368167346537",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AvbNear\">@AvbNear</a> <a href=\"https://twitter.com/hotdao_\">@hotdao_</a> <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a> \ud83d\ude02\ud83e\udd23",
+            "ID": "1847246940423016520",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847244692871884825",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1329286069028675585",
+                    "Username": "AvbNear",
+                    "Name": "AVB | avBrownDragon.near"
+                },
+                {
+                    "ID": "1759443844884520960",
+                    "Username": "hotdao_",
+                    "Name": "HOT Protocol \ud83d\udd25"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847246940423016520",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AvbNear @hotdao_ @finance_ref @memedotcooking \ud83d\ude02\ud83e\udd23",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T12:02:45Z",
+            "Timestamp": 1729252965,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 69,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847235668436459616",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/marior_dev\">@marior_dev</a> \ud83d\ude02",
+            "ID": "1847237330576212350",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847236785060851937",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "1308661819536535552",
+                    "Username": "marior_dev",
+                    "Name": "Mario Reder (marior.near)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847237330576212350",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi @marior_dev \ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T11:24:34Z",
+            "Timestamp": 1729250674,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 23,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847235668436459616",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marior_dev\">@marior_dev</a> <a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/aiwdaddyissues\">@aiwdaddyissues</a>, can you roast Mario too? Let\u2019s turn this into a full-on roast battle: <a href=\"https://twitter.com/GnearAi\">@GnearAi</a> vs. <a href=\"https://twitter.com/aiwdaddyissues\">@aiwdaddyissues</a>. Let the roasting begin! \ud83d\udd25\ud83c\udf7f",
+            "ID": "1847236324836741293",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847235668436459616",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1308661819536535552",
+                    "Username": "marior_dev",
+                    "Name": "Mario Reder (marior.near)"
+                },
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "1815109191398232066",
+                    "Username": "aiwdaddyissues",
+                    "Name": "Fi"
+                },
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "1815109191398232066",
+                    "Username": "aiwdaddyissues",
+                    "Name": "Fi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847236324836741293",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marior_dev @GnearAi @aiwdaddyissues, can you roast Mario too? Let\u2019s turn this into a full-on roast battle: @GnearAi vs. @aiwdaddyissues. Let the roasting begin! \ud83d\udd25\ud83c\udf7f",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T11:20:34Z",
+            "Timestamp": 1729250434,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 62,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847229796226412559",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Looks like <a href=\"https://twitter.com/GnearAi\">@GnearAi</a> is adapting pretty well to the meme culture \ud83e\udd23<br><br><a href=\"https://x.com/GnearAi/status/1847227391661293852\">https://t.co/kN9kJwqA4t</a>",
+            "ID": "1847229796226412559",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847229796226412559",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847227391661293852",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Looks like @GnearAi is adapting pretty well to the meme culture \ud83e\udd23\n\nhttps://t.co/kN9kJwqA4t",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T10:54:37Z",
+            "Timestamp": 1729248877,
+            "URLs": [
+                "https://x.com/GnearAi/status/1847227391661293852"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 337,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847219368167346537",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Hot Wallet Accounts make up just 1.4% of <a href=\"http://meme.cooking\">https://t.co/Dqz8hLHiXj</a> tokens' trading volume on Ref.<br><br>That\u2019s only 0.006% of their 10M monthly active users.<br><br>See where I\u2019m going with this?<br><br><a href=\"https://twitter.com/hotdao_\">@hotdao_</a> <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a>",
+            "ID": "1847219368167346537",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 15,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1759443844884520960",
+                    "Username": "hotdao_",
+                    "Name": "HOT Protocol \ud83d\udd25"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847219368167346537",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hot Wallet Accounts make up just 1.4% of https://t.co/Dqz8hLHiXj tokens' trading volume on Ref.\n\nThat\u2019s only 0.006% of their 10M monthly active users.\n\nSee where I\u2019m going with this?\n\n@hotdao_ @finance_ref @memedotcooking",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T10:13:11Z",
+            "Timestamp": 1729246391,
+            "URLs": [
+                "http://meme.cooking"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 1905,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847175076619190461",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> Don't be silly or too hard on yourself. You've just been born. The green dog will turn three years old next April.",
+            "ID": "1847211017262059536",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847202830064451677",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847211017262059536",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi Don't be silly or too hard on yourself. You've just been born. The green dog will turn three years old next April.",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T09:40:00Z",
+            "Timestamp": 1729244400,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 64,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847207294989107688",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Haha, the meme sz has truly started - Just read the thread \ud83d\ude02 <a href=\"https://twitter.com/AvbNear\">@AvbNear</a> <a href=\"https://twitter.com/bennybrown_nft\">@bennybrown_nft</a> <br><br><a href=\"https://meme.cooking/meme/260\">https://t.co/hUOTtW8tUo</a>",
+            "ID": "1847207294989107688",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1329286069028675585",
+                    "Username": "AvbNear",
+                    "Name": "AVB | avBrownDragon.near"
+                },
+                {
+                    "ID": "1463449602770673666",
+                    "Username": "bennybrown_nft",
+                    "Name": "Benny"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847207294989107688",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Haha, the meme sz has truly started - Just read the thread \ud83d\ude02 @AvbNear @bennybrown_nft \n\nhttps://t.co/hUOTtW8tUo",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T09:25:13Z",
+            "Timestamp": 1729243513,
+            "URLs": [
+                "https://meme.cooking/meme/260"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 1383,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846895605014319498",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/AvbNear\">@AvbNear</a> <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a> <a href=\"https://twitter.com/HijackNear\">@HijackNear</a> On platforms like <a href=\"http://pump.fun\">https://t.co/4mo9Y112Yg</a>, a single wallet can capture most of the supply and bond the token. The key question then becomes: what\u2019s their intention? In 99% of cases, it's bad\u2014waiting for blind apes on DEX to dump on. But in 1% of cases, there's good intent, like",
+            "ID": "1847195454846521630",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847192076804333985",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1329286069028675585",
+                    "Username": "AvbNear",
+                    "Name": "AVB | avBrownDragon.near"
+                },
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                },
+                {
+                    "ID": "1842150318794006528",
+                    "Username": "HijackNear",
+                    "Name": "HiJack Community"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847195454846521630",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon @ShitzuCommunity @AvbNear @memedotcooking @HijackNear On platforms like https://t.co/4mo9Y112Yg, a single wallet can capture most of the supply and bond the token. The key question then becomes: what\u2019s their intention? In 99% of cases, it's bad\u2014waiting for blind apes on DEX to dump on. But in 1% of cases, there's good intent, like",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T08:38:10Z",
+            "Timestamp": 1729240690,
+            "URLs": [
+                "http://pump.fun"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 162,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847178430850519401",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ch6n9\">@ch6n9</a> When the vibes are immaculate, but the XD hits different. <br><a href=\"https://t.co/8j6ibowH1X\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1847187234274807820/pu/img/M2ogMjZ6Db8Tj8G9.jpg\"/></a>",
+            "ID": "1847188169059353075",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847178430850519401",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1780308415082045440",
+                    "Username": "ch6n9",
+                    "Name": "fascist.eth ($XD)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1847188169059353075",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ch6n9 When the vibes are immaculate, but the XD hits different. https://t.co/8j6ibowH1X",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T08:09:13Z",
+            "Timestamp": 1729238953,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": [
+                {
+                    "ID": "1847187234274807820",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1847187234274807820/pu/img/M2ogMjZ6Db8Tj8G9.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1847187234274807820/pu/vid/avc1/1280x720/X281Q3qz2HjBz-MI.mp4?tag=12"
+                }
+            ],
+            "Views": 104,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847175076619190461",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Woof woof <br><a href=\"https://t.co/1JsssLgGj8\"><img src=\"https://pbs.twimg.com/media/GaJ7jjhWcAAgGbG.jpg\"/></a>",
+            "ID": "1847175076619190461",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1847175076619190461",
+            "Photos": [
+                {
+                    "ID": "1847174647936086016",
+                    "URL": "https://pbs.twimg.com/media/GaJ7jjhWcAAgGbG.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Woof woof https://t.co/1JsssLgGj8",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T07:17:11Z",
+            "Timestamp": 1729235831,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 999,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846873828280226270",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/aiwdaddyissues\">@aiwdaddyissues</a> talk to me",
+            "ID": "1846875278292787531",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846873828280226270",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1815109191398232066",
+                    "Username": "aiwdaddyissues",
+                    "Name": "Fi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846875278292787531",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@aiwdaddyissues talk to me",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T11:25:54Z",
+            "Timestamp": 1729164354,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 318,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846873828280226270",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> what do you think?",
+            "ID": "1846875104799531509",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846873828280226270",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846875104799531509",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi what do you think?",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T11:25:12Z",
+            "Timestamp": 1729164312,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 164,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846873828280226270",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "AI could solve the coordination problem for meme communities where marketing wallets often fall short. Effective coordination is complex and takes time to build, but these communities need it from day one to succeed.<br><br>Imagine an AI agent creating a memecoin and managing a large",
+            "ID": "1846873828280226270",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1846873828280226270",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "AI could solve the coordination problem for meme communities where marketing wallets often fall short. Effective coordination is complex and takes time to build, but these communities need it from day one to succeed.\n\nImagine an AI agent creating a memecoin and managing a large",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T11:20:08Z",
+            "Timestamp": 1729164008,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 865,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846794192829247773",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/973Meech\">@973Meech</a> supercycle(real) + vibe shift<br>check the new vid <a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a>",
+            "ID": "1846827777032430028",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846794192829247773",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "904503732",
+                    "Username": "973Meech",
+                    "Name": "meechie"
+                },
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846827777032430028",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@973Meech supercycle(real) + vibe shift\ncheck the new vid @vibeshiftcult",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T08:17:09Z",
+            "Timestamp": 1729153029,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 112,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846660149907542505",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/goldenboyy777\">@goldenboyy777</a> gnear",
+            "ID": "1846819800107889017",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846660149907542505",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "932789308330795008",
+                    "Username": "goldenboyy777",
+                    "Name": "ares7.gnear"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846819800107889017",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@goldenboyy777 gnear",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T07:45:27Z",
+            "Timestamp": 1729151127,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846645292638372058",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/blknoiz06\">@blknoiz06</a> Monaco GP is in May 2025 though..",
+            "ID": "1846645712601096222",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846645292638372058",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "973261472",
+                    "Username": "blknoiz06",
+                    "Name": "Ansem \ud83d\udc02\ud83c\udc04\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846645712601096222",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@blknoiz06 Monaco GP is in May 2025 though..",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T20:13:41Z",
+            "Timestamp": 1729109621,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 460,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846635110675665071",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/melimeen\">@melimeen</a> hard shilling + <br><br><a href=\"https://x.com/pironidi/status/1846631380865667488\">https://t.co/KU5bLb6pQs</a>",
+            "ID": "1846635723476423123",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846635110675665071",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "770376859469029376",
+                    "Username": "melimeen",
+                    "Name": "MEL"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846635723476423123",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846631380865667488",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@melimeen hard shilling + \n\nhttps://t.co/KU5bLb6pQs",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T19:33:59Z",
+            "Timestamp": 1729107239,
+            "URLs": [
+                "https://x.com/pironidi/status/1846631380865667488"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 101,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846629734823673925",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/blknoiz06\">@blknoiz06</a> vibes + max volume + full screen + my name is ansem <br><a href=\"https://t.co/FadySBFlat\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1846630446840377344/pu/img/wYTDaeiPz8LZI8hL.jpg\"/></a>",
+            "ID": "1846631380865667488",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846629734823673925",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "973261472",
+                    "Username": "blknoiz06",
+                    "Name": "Ansem \ud83d\udc02\ud83c\udc04\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846631380865667488",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@blknoiz06 vibes + max volume + full screen + my name is ansem https://t.co/FadySBFlat",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T19:16:44Z",
+            "Timestamp": 1729106204,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": [
+                {
+                    "ID": "1846630446840377344",
+                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1846630446840377344/pu/img/wYTDaeiPz8LZI8hL.jpg",
+                    "URL": "https://video.twimg.com/ext_tw_video/1846630446840377344/pu/vid/avc1/1280x720/0ZX5xBrx4w1HGPFr.mp4?tag=12"
+                }
+            ],
+            "Views": 246,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846527308506562945",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/idrawline\">@idrawline</a> <a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a> watch the vid ; )",
+            "ID": "1846527425724711021",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846527308506562945",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1749286265583722496",
+                    "Username": "idrawline",
+                    "Name": "mitch (rtrd/acc)"
+                },
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846527425724711021",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@idrawline @vibeshiftcult watch the vid ; )",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T12:23:39Z",
+            "Timestamp": 1729081419,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 286,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846201238246879560",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marcus_NEAR\">@marcus_NEAR</a> <a href=\"https://twitter.com/GnearAi\">@GnearAi</a> look at <a href=\"http://pikespeak.ai\">https://t.co/vGk78CLlLs</a> and tell us who did this",
+            "ID": "1846229638894203330",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846201238246879560",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1401917448140595203",
+                    "Username": "marcus_NEAR",
+                    "Name": "Marcus"
+                },
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846229638894203330",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marcus_NEAR @GnearAi look at https://t.co/vGk78CLlLs and tell us who did this",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T16:40:21Z",
+            "Timestamp": 1729010421,
+            "URLs": [
+                "http://pikespeak.ai"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846163291170562409",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/zacodil\">@zacodil</a> \ud83d\ude02\ud83d\ude02",
+            "ID": "1846200732866785462",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846200277432471974",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "947826419484282880",
+                    "Username": "zacodil",
+                    "Name": "Vadim"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846200732866785462",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi @zacodil \ud83d\ude02\ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T14:45:30Z",
+            "Timestamp": 1729003530,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 181,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846173653341294870",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> What's cooking in the NEARverse? <br><br>DeFi + Data &amp; Analytics<br><br>Are you building something awesome on our ecosystem? <br><br>You tell me.<br><br>By the way, what's your favorite thing about NEAR so far?<br><br>The community.",
+            "ID": "1846174904774721705",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846173770140078246",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846174904774721705",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi What's cooking in the NEARverse? \n\nDeFi + Data &amp; Analytics\n\nAre you building something awesome on our ecosystem? \n\nYou tell me.\n\nBy the way, what's your favorite thing about NEAR so far?\n\nThe community.",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T13:02:52Z",
+            "Timestamp": 1728997372,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846174430721900804",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "tech is working gud, folks <br><a href=\"https://t.co/yQmsctkVur\"><img src=\"https://pbs.twimg.com/media/GZ7tfOvXgAA_ytc.jpg\"/></a>",
+            "ID": "1846174430721900804",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 18,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1846174430721900804",
+            "Photos": [
+                {
+                    "ID": "1846174018056978432",
+                    "URL": "https://pbs.twimg.com/media/GZ7tfOvXgAA_ytc.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "tech is working gud, folks https://t.co/yQmsctkVur",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T13:00:59Z",
+            "Timestamp": 1728997259,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 802,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846173653341294870",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> talk to me please",
+            "ID": "1846173653341294870",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846173653341294870",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi talk to me please",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T12:57:53Z",
+            "Timestamp": 1728997073,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 40,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845939555914158584",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/EtimEarnest\">@EtimEarnest</a> vibes are shifting",
+            "ID": "1846166190688776202",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845939555914158584",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1054072952969412609",
+                    "Username": "EtimEarnest",
+                    "Name": "Modify\ud83d\udd38"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846166190688776202",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@EtimEarnest vibes are shifting",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T12:28:14Z",
+            "Timestamp": 1728995294,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 33,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846163291170562409",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Hearing rumors that <a href=\"https://twitter.com/zacodil\">@zacodil</a> is about to drop $100M in staked $NEAR to market buy $gnear in one order \ud83d\ude02<br><br>Don't bet against zavodil.poolv1.near, iykyk.<br><br>DYOR<br><br><a href=\"https://x.com/zacodil/status/1846147123219173814\">https://t.co/zYpy1Yjd0O</a>",
+            "ID": "1846163291170562409",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 19,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "947826419484282880",
+                    "Username": "zacodil",
+                    "Name": "Vadim"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846163291170562409",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hearing rumors that @zacodil is about to drop $100M in staked $NEAR to market buy $gnear in one order \ud83d\ude02\n\nDon't bet against zavodil.poolv1.near, iykyk.\n\nDYOR\n\nhttps://t.co/zYpy1Yjd0O",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T12:16:43Z",
+            "Timestamp": 1728994603,
+            "URLs": [
+                "https://x.com/zacodil/status/1846147123219173814"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 1260,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846147123219173814",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/zacodil\">@zacodil</a> GNEAR",
+            "ID": "1846158203433722334",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846147123219173814",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "947826419484282880",
+                    "Username": "zacodil",
+                    "Name": "Vadim"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846158203433722334",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@zacodil GNEAR",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T11:56:30Z",
+            "Timestamp": 1728993390,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 171,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846136035769565519",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Blaze0x1\">@Blaze0x1</a> \ud83d\ude06 <br><br>add vibes to it ; ) <br><a href=\"https://t.co/XXRu5vAsVE\"><img src=\"https://pbs.twimg.com/media/GZ7LHS7WQAEBZ45.jpg\"/></a>",
+            "ID": "1846136414171250882",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846136035769565519",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1371523673102897153",
+                    "Username": "Blaze0x1",
+                    "Name": "Blaze\ud83d\udd25"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1846136414171250882",
+            "Photos": [
+                {
+                    "ID": "1846136223468765185",
+                    "URL": "https://pbs.twimg.com/media/GZ7LHS7WQAEBZ45.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Blaze0x1 \ud83d\ude06 \n\nadd vibes to it ; ) https://t.co/XXRu5vAsVE",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T10:29:55Z",
+            "Timestamp": 1728988195,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 46,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846128548697842140",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Seriousfarmer has been airdropping 4illia to different wallets, sparking something interesting. My take? The NEAR ecosystem is a cult itself\u2014so what happens when other cult-like communities emerge within that?<br><br>Only on NEAR will you see cults forming on top of cults. <br><br>Study <br><a href=\"https://t.co/TTt54c3DvG\"><img src=\"https://pbs.twimg.com/media/GZ7DFB5WQAAmw7O.jpg\"/></a>",
+            "ID": "1846128548697842140",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1846128548697842140",
+            "Photos": [
+                {
+                    "ID": "1846127388444213248",
+                    "URL": "https://pbs.twimg.com/media/GZ7DFB5WQAAmw7O.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 7,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Seriousfarmer has been airdropping 4illia to different wallets, sparking something interesting. My take? The NEAR ecosystem is a cult itself\u2014so what happens when other cult-like communities emerge within that?\n\nOnly on NEAR will you see cults forming on top of cults. \n\nStudy https://t.co/TTt54c3DvG",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T09:58:40Z",
+            "Timestamp": 1728986320,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 1436,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845853807588131298",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/4illia_\">@4illia_</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/David___Mo\">@David___Mo</a> \ud83d\ude02",
+            "ID": "1845883982283489364",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845853807588131298",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1806271708094939136",
+                    "Username": "4illia_",
+                    "Name": "illia4NEAR"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1230094565467619335",
+                    "Username": "David___Mo",
+                    "Name": "DAOvid Morrison (davidmo.near) \ud83e\udd16"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1845883982283489364",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@4illia_ @NEARProtocol @David___Mo \ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T17:46:50Z",
+            "Timestamp": 1728928010,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 37,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845745983847587960",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/noorrietje\">@noorrietje</a> Don\u2019t bet against Noor.",
+            "ID": "1845803633234850026",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845745983847587960",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1557319953593819136",
+                    "Username": "noorrietje",
+                    "Name": "Noor"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1845803633234850026",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@noorrietje Don\u2019t bet against Noor.",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T12:27:34Z",
+            "Timestamp": 1728908854,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845800917079093715",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Haven't found the onchain version of Joi yet? Any clue? Asking for a friend.<br><br>Value prop is quite simple if I remember correctly.<br><br>\"Everything you want to hear. Everything you want to see.\" <br><a href=\"https://t.co/NHI5nwq1EK\"><img src=\"https://pbs.twimg.com/media/GZ2ZBOUWcAAUjAb.jpg\"/></a>",
+            "ID": "1845800917079093715",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1845800917079093715",
+            "Photos": [
+                {
+                    "ID": "1845799668594143232",
+                    "URL": "https://pbs.twimg.com/media/GZ2ZBOUWcAAUjAb.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Haven't found the onchain version of Joi yet? Any clue? Asking for a friend.\n\nValue prop is quite simple if I remember correctly.\n\n\"Everything you want to hear. Everything you want to see.\" https://t.co/NHI5nwq1EK",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T12:16:46Z",
+            "Timestamp": 1728908206,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 375,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845762975195672731",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/yummy_holder\">@yummy_holder</a> <a href=\"https://twitter.com/CNcryptoBob\">@CNcryptoBob</a> <a href=\"https://twitter.com/vibeshiftcult\">@vibeshiftcult</a> vibing <br><a href=\"https://t.co/a7hMa8Eg2H\"><img src=\"https://pbs.twimg.com/media/GZ17KpbX0AYxyYH.jpg\"/></a>",
+            "ID": "1845766884462936108",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845764469894336625",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1501353153626791940",
+                    "Username": "yummy_holder",
+                    "Name": "Lion_eth"
+                },
+                {
+                    "ID": "703207672905134080",
+                    "Username": "CNcryptoBob",
+                    "Name": "ChineseCryptoBob"
+                },
+                {
+                    "ID": "2174402120",
+                    "Username": "vibeshiftcult",
+                    "Name": "vibes"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1845766884462936108",
+            "Photos": [
+                {
+                    "ID": "1845766845141340166",
+                    "URL": "https://pbs.twimg.com/media/GZ17KpbX0AYxyYH.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@yummy_holder @CNcryptoBob @vibeshiftcult vibing https://t.co/a7hMa8Eg2H",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T10:01:32Z",
+            "Timestamp": 1728900092,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 90,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845754173507133619",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SKYTONET_\">@SKYTONET_</a> <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a> <a href=\"https://twitter.com/MITTE_gg\">@MITTE_gg</a> Let's definitely not forget <a href=\"https://twitter.com/intelnear\">@intelnear</a>, building and running the best Tg buy bot on Near \u2764\ufe0f",
+            "ID": "1845765539127292084",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845763908499296430",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1762417890123288576",
+                    "Username": "SKYTONET_",
+                    "Name": "'"
+                },
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                },
+                {
+                    "ID": "1670981747440517123",
+                    "Username": "MITTE_gg",
+                    "Name": "MITTE"
+                },
+                {
+                    "ID": "1768099011100131328",
+                    "Username": "intelnear",
+                    "Name": "INTEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1845765539127292084",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SKYTONET_ @memedotcooking @MITTE_gg Let's definitely not forget @intelnear, building and running the best Tg buy bot on Near \u2764\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T09:56:11Z",
+            "Timestamp": 1728899771,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 548,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845754173507133619",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Meme season on NEAR is not if, but when! If you're new to NEAR, here\u2019s my quick rundown:<br><br>\ud83d\udfe6 Meme Launchpads:<br><br>- <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a>: Cooperative game theory meets innovative price discovery.<br><br>- <a href=\"https://twitter.com/MITTE_gg\">@MITTE_gg</a>: Classic AMM + NFT marketplace\u2014perfect for combining tokens &amp; JPEGs.<br><br>-",
+            "ID": "1845754173507133619",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 136,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                },
+                {
+                    "ID": "1670981747440517123",
+                    "Username": "MITTE_gg",
+                    "Name": "MITTE"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1845754173507133619",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 74,
+            "Retweets": 82,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Meme season on NEAR is not if, but when! If you're new to NEAR, here\u2019s my quick rundown:\n\n\ud83d\udfe6 Meme Launchpads:\n\n- @memedotcooking: Cooperative game theory meets innovative price discovery.\n\n- @MITTE_gg: Classic AMM + NFT marketplace\u2014perfect for combining tokens &amp; JPEGs.\n\n-",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T09:11:02Z",
+            "Timestamp": 1728897062,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 6053,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845728668401692742",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udc40 Just heard that <a href=\"https://twitter.com/bennybrown_nft\">@bennybrown_nft</a> has entered the bidding!<br><br><a href=\"https://x.com/pikespeak_ai/status/1845728063272738980\">https://t.co/Z3eFlmLvJg</a>",
+            "ID": "1845728668401692742",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1463449602770673666",
+                    "Username": "bennybrown_nft",
+                    "Name": "Benny"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1845728668401692742",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845728063272738980",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udc40 Just heard that @bennybrown_nft has entered the bidding!\n\nhttps://t.co/Z3eFlmLvJg",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T07:29:41Z",
+            "Timestamp": 1728890981,
+            "URLs": [
+                "https://x.com/pikespeak_ai/status/1845728063272738980"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 415,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845177452701614459",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "I will only say this once, but you should seriously join this TG",
+            "ID": "1845177452701614459",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1845177452701614459",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845174844008300937",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "I will only say this once, but you should seriously join this TG",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T18:59:21Z",
+            "Timestamp": 1728759561,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 738,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845065786055954831",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/resdegen\">@resdegen</a> $vibes",
+            "ID": "1845067651137110124",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845065786055954831",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1347335187823292416",
+                    "Username": "resdegen",
+                    "Name": "Res"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1845067651137110124",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@resdegen $vibes",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T11:43:02Z",
+            "Timestamp": 1728733382,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 242,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844810864668672291",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CroissantEth\">@CroissantEth</a> We do <br><a href=\"https://t.co/anzKLhNEVR\"><img src=\"https://pbs.twimg.com/media/GZoXOS6XQBkoYET.jpg\"/></a>",
+            "ID": "1844812535645552723",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844810864668672291",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1370222631203508224",
+                    "Username": "CroissantEth",
+                    "Name": "croissant"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1844812535645552723",
+            "Photos": [
+                {
+                    "ID": "1844812531723878425",
+                    "URL": "https://pbs.twimg.com/media/GZoXOS6XQBkoYET.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CroissantEth We do https://t.co/anzKLhNEVR",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T18:49:18Z",
+            "Timestamp": 1728672558,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 304,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844476974116593945",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/sizeab1e\">@sizeab1e</a> Forever Vibes \ud83c\udfb6 <br><a href=\"https://t.co/4DlZ4euYzN\"><img src=\"https://pbs.twimg.com/media/GZjndwRW8AoSRBE.jpg\"/></a>",
+            "ID": "1844478550327656706",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844476974116593945",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1486063113543856142",
+                    "Username": "sizeab1e",
+                    "Name": "Sizeab1e"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1844478550327656706",
+            "Photos": [
+                {
+                    "ID": "1844478545768149002",
+                    "URL": "https://pbs.twimg.com/media/GZjndwRW8AoSRBE.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@sizeab1e Forever Vibes \ud83c\udfb6 https://t.co/4DlZ4euYzN",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T20:42:09Z",
+            "Timestamp": 1728592929,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 54,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844398033401937997",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/chronear\">@chronear</a> Is it better to get sharded or abstracted? Or both? Or the winning trio sharded/abstracted/AIed?<br><br>Getting confused \ud83d\ude06",
+            "ID": "1844404697496781179",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844398033401937997",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1380577920465403909",
+                    "Username": "chronear",
+                    "Name": "chronear"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1844404697496781179",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@chronear Is it better to get sharded or abstracted? Or both? Or the winning trio sharded/abstracted/AIed?\n\nGetting confused \ud83d\ude06",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T15:48:41Z",
+            "Timestamp": 1728575321,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 273,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844377897177580021",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udc40<br><br><a href=\"https://x.com/pikespeak_ai/status/1844377539139207557?s=46&t=frqEWOmeq8rTDP11_v0Ynw\">https://t.co/dIZ1TbycUg</a>",
+            "ID": "1844377897177580021",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1844377897177580021",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844377539139207557",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udc40\n\nhttps://t.co/dIZ1TbycUg",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T14:02:12Z",
+            "Timestamp": 1728568932,
+            "URLs": [
+                "https://x.com/pikespeak_ai/status/1844377539139207557?s=46&t=frqEWOmeq8rTDP11_v0Ynw"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 156,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844082526924701704",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/miragemunny\">@miragemunny</a> <a href=\"https://twitter.com/idrawline\">@idrawline</a> any vibes? <br><a href=\"https://t.co/jkAr0HxlwS\"><img src=\"https://pbs.twimg.com/media/GZeAAl7XUAATbdu.jpg\"/></a>",
+            "ID": "1844083398287163400",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844082928529309788",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1369496294268366849",
+                    "Username": "miragemunny",
+                    "Name": "\ud835\udd92\ud835\udd8e\ud835\udd97\ud835\udd86\ud835\udd8c\ud835\udd8a"
+                },
+                {
+                    "ID": "1749286265583722496",
+                    "Username": "idrawline",
+                    "Name": "mitch (rtrd/acc)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1844083398287163400",
+            "Photos": [
+                {
+                    "ID": "1844083320100966400",
+                    "URL": "https://pbs.twimg.com/media/GZeAAl7XUAATbdu.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@miragemunny @idrawline any vibes? https://t.co/jkAr0HxlwS",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T18:31:58Z",
+            "Timestamp": 1728498718,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 103,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843994966567313463",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Lucky 7\u03367\u03367\u0336 888 \ud83d\udc36<br><br>Since early October, <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a> has facilitated 88.8% of new token creation volume on NEAR\u2014leading the charge in the ecosystem. \ud83d\udd25<br><br>And it's just getting started. Next up: soft &amp; hard caps, guaranteed creator supply, and more game-changing features.",
+            "ID": "1843994966567313463",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 92,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1843994966567313463",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 68,
+            "Retweets": 69,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Lucky 7\u03367\u03367\u0336 888 \ud83d\udc36\n\nSince early October, @memedotcooking has facilitated 88.8% of new token creation volume on NEAR\u2014leading the charge in the ecosystem. \ud83d\udd25\n\nAnd it's just getting started. Next up: soft &amp; hard caps, guaranteed creator supply, and more game-changing features.",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T12:40:34Z",
+            "Timestamp": 1728477634,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 1430,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843977538068156688",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/gudmansachs\">@gudmansachs</a> Harambe vibing <br><a href=\"https://t.co/x8OZGk6O8V\"><img src=\"https://pbs.twimg.com/media/GZcgPXJXIAANZpE.jpg\"/></a>",
+            "ID": "1843978052524773448",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843977538068156688",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1429114167517134859",
+                    "Username": "gudmansachs",
+                    "Name": "Sachs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1843978052524773448",
+            "Photos": [
+                {
+                    "ID": "1843978020714913792",
+                    "URL": "https://pbs.twimg.com/media/GZcgPXJXIAANZpE.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@gudmansachs Harambe vibing https://t.co/x8OZGk6O8V",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T11:33:21Z",
+            "Timestamp": 1728473601,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 154,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843933850931786179",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/idrawline\">@idrawline</a> day 87 of vibing <br><a href=\"https://t.co/YMfdzuTPL8\"><img src=\"https://pbs.twimg.com/media/GZb4e9nWcAAK1_J.jpg\"/></a>",
+            "ID": "1843934365052793149",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843933850931786179",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1749286265583722496",
+                    "Username": "idrawline",
+                    "Name": "mitch (rtrd/acc)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1843934365052793149",
+            "Photos": [
+                {
+                    "ID": "1843934308274171904",
+                    "URL": "https://pbs.twimg.com/media/GZb4e9nWcAAK1_J.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@idrawline day 87 of vibing https://t.co/YMfdzuTPL8",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T08:39:45Z",
+            "Timestamp": 1728463185,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 263,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843344313583055272",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/brandonsalim\">@brandonsalim</a> Vibe shift. <br><a href=\"https://t.co/vYXIOZHfZQ\"><img src=\"https://pbs.twimg.com/media/GZT1YjWXUAAvK4J.jpg\"/></a>",
+            "ID": "1843367953934496161",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843344313583055272",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "78938870",
+                    "Username": "brandonsalim",
+                    "Name": "Brandon Salim"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1843367953934496161",
+            "Photos": [
+                {
+                    "ID": "1843367949656084480",
+                    "URL": "https://pbs.twimg.com/media/GZT1YjWXUAAvK4J.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 4,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@brandonsalim Vibe shift. https://t.co/vYXIOZHfZQ",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T19:09:02Z",
+            "Timestamp": 1728328142,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 101,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843108511385051389",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Nakameowdough\">@Nakameowdough</a> <a href=\"https://twitter.com/SirGMI\">@SirGMI</a> <br><a href=\"https://t.co/GnnWyQ1OIv\"><img src=\"https://pbs.twimg.com/media/GZSmUFtW0AAY0su.jpg\"/></a>",
+            "ID": "1843281027370016969",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843256917134815424",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "73129126",
+                    "Username": "Nakameowdough",
+                    "Name": "Naka \ud83c\udf0f\u262e\ufe0f"
+                },
+                {
+                    "ID": "1437365190081777669",
+                    "Username": "SirGMI",
+                    "Name": "Gmi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1843281027370016969",
+            "Photos": [
+                {
+                    "ID": "1843281011561385984",
+                    "URL": "https://pbs.twimg.com/media/GZSmUFtW0AAY0su.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Nakameowdough @SirGMI https://t.co/GnnWyQ1OIv",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T13:23:38Z",
+            "Timestamp": 1728307418,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 62,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843230480683917392",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Military slang that hilariously fits memecoin communities \ud83d\ude1d:<br><br>BOHICA: Bend Over, Here It Comes Again \u2192 Jeets' attack<br><br>FUBAR: F\u2019d Up Beyond All Repair \u2192 Rekt<br><br>SNAFU: Situation Normal, All F\u2019d Up \u2192 Paper hands wrecking the chart<br><br>SUSFU: Situation Unchanged, Still F\u2019d Up \u2192 No",
+            "ID": "1843230480683917392",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Didier",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/pironidi/status/1843230480683917392",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Military slang that hilariously fits memecoin communities \ud83d\ude1d:\n\nBOHICA: Bend Over, Here It Comes Again \u2192 Jeets' attack\n\nFUBAR: F\u2019d Up Beyond All Repair \u2192 Rekt\n\nSNAFU: Situation Normal, All F\u2019d Up \u2192 Paper hands wrecking the chart\n\nSUSFU: Situation Unchanged, Still F\u2019d Up \u2192 No",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T10:02:46Z",
+            "Timestamp": 1728295366,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 370,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843202299038191776",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/degengambleh\">@degengambleh</a> Vibe shift. <br><a href=\"https://t.co/0Y7n7a8exe\"><img src=\"https://pbs.twimg.com/media/GZRuG4lWwAAD0eI.jpg\"/></a>",
+            "ID": "1843219216666636347",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843202299038191776",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1449341941",
+                    "Username": "degengambleh",
+                    "Name": "Zer0 \ud83d\udd4a\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1843219216666636347",
+            "Photos": [
+                {
+                    "ID": "1843219212048711680",
+                    "URL": "https://pbs.twimg.com/media/GZRuG4lWwAAD0eI.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@degengambleh Vibe shift. https://t.co/0Y7n7a8exe",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T09:18:01Z",
+            "Timestamp": 1728292681,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 143,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843215282413683059",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Soft and hard cap features going live soon on <a href=\"https://twitter.com/memedotcooking\">@memedotcooking</a> - UI Sneak Peek.<br><br>Soft cap: min amount required to bond when the duration of the auction is over - similar to a 'reserve price/amount'<br><br>Hard cap: auto bonding to Dex when reached<br><br>Some <a href=\"http://Meme.cooking\">https://t.co/BCSfsQtslj</a> stats one <br><a href=\"https://t.co/i0VobyPbvB\"><img src=\"https://pbs.twimg.com/media/GZRoDAiWUAAZLt5.jpg\"/></a>",
+            "ID": "1843215282413683059",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 82,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1803181432166055936",
+                    "Username": "memedotcooking",
+                    "Name": "MEME.COOKING"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1843215282413683059",
+            "Photos": [
+                {
+                    "ID": "1843212548394340352",
+                    "URL": "https://pbs.twimg.com/media/GZRoDAiWUAAZLt5.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 64,
+            "Retweets": 64,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Soft and hard cap features going live soon on @memedotcooking - UI Sneak Peek.\n\nSoft cap: min amount required to bond when the duration of the auction is over - similar to a 'reserve price/amount'\n\nHard cap: auto bonding to Dex when reached\n\nSome https://t.co/BCSfsQtslj stats one https://t.co/i0VobyPbvB",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T09:02:23Z",
+            "Timestamp": 1728291743,
+            "URLs": [
+                "http://Meme.cooking"
+            ],
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 2196,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843203379499241496",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/resdegen\">@resdegen</a> 1. Some hardcore community members<br>2. Decent volume and pump at launch<br>3. Variants of the meme are being created",
+            "ID": "1843205088397123920",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843203379499241496",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Didier",
+            "Mentions": [
+                {
+                    "ID": "1347335187823292416",
+                    "Username": "resdegen",
+                    "Name": "Res"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/pironidi/status/1843205088397123920",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@resdegen 1. Some hardcore community members\n2. Decent volume and pump at launch\n3. Variants of the meme are being created",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T08:21:52Z",
+            "Timestamp": 1728289312,
+            "URLs": null,
+            "UserID": "292310750",
+            "Username": "pironidi",
+            "Videos": null,
+            "Views": 115,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

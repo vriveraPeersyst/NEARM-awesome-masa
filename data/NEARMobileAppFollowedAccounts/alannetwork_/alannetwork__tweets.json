@@ -1,0 +1,1435 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854634306276319425",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": ".<a href=\"https://twitter.com/meta_pool\">@meta_pool</a> siempre en los events mas relevances de Latam",
+            "ID": "1854634306276319425",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1854634306276319425",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854620057252352345",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": ".@meta_pool siempre en los events mas relevances de Latam",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T21:17:30Z",
+            "Timestamp": 1731014250,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 152,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854387183211434426",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": ".<a href=\"https://twitter.com/srpuuul\">@srpuuul</a> is now at the Co Working space provided by <a href=\"https://twitter.com/nearhorizon\">@nearhorizon</a>. <br><a href=\"https://t.co/N3HvqWqYNp\"><img src=\"https://pbs.twimg.com/media/GbwbT8XbgAA2p9e.jpg\"/></a>",
+            "ID": "1854387183211434426",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 21,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1750305017121136640",
+                    "Username": "srpuuul",
+                    "Name": "Sr. Puuul"
+                },
+                {
+                    "ID": "1651859609299066880",
+                    "Username": "nearhorizon",
+                    "Name": "NEAR Horizon"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1854387183211434426",
+            "Photos": [
+                {
+                    "ID": "1854387176005664768",
+                    "URL": "https://pbs.twimg.com/media/GbwbT8XbgAA2p9e.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": ".@srpuuul is now at the Co Working space provided by @nearhorizon. https://t.co/N3HvqWqYNp",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T04:55:31Z",
+            "Timestamp": 1730955331,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 423,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854132489276600356",
+            "GIFs": [
+                {
+                    "ID": "1854136230826655744",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gbs3FAuawAAmxyW.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gbs3FAuawAAmxyW.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/iamwosp\">@iamwosp</a> <br><a href=\"https://t.co/iWybMHe608\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gbs3FAuawAAmxyW.jpg\"/></a>",
+            "ID": "1854136240234451436",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854132489276600356",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "36403920",
+                    "Username": "iamwosp",
+                    "Name": "Wosp \ud83d\udd38"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1854136240234451436",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@iamwosp https://t.co/iWybMHe608",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T12:18:22Z",
+            "Timestamp": 1730895502,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 7,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854010145812123681",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "New $BTC ATH! We reached 75k USD! <br><a href=\"https://t.co/0WstRotHPA\"><img src=\"https://pbs.twimg.com/media/GbrEW9ba8AApfTZ.jpg\"/></a>",
+            "ID": "1854010145812123681",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1854010145812123681",
+            "Photos": [
+                {
+                    "ID": "1854010095342120960",
+                    "URL": "https://pbs.twimg.com/media/GbrEW9ba8AApfTZ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "New $BTC ATH! We reached 75k USD! https://t.co/0WstRotHPA",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T03:57:19Z",
+            "Timestamp": 1730865439,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 76,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853947420369154165",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\uddf9\ud83c\udded I just landed in Thailand and I\u2019m looking for the most ambitious members of mpDAO, I\u2019ve a gift for you all <br><br>Also remember that we are now on scoring process for RPGF <a href=\"https://twitter.com/hashtag/1\">#1</a> of <a href=\"https://twitter.com/meta_pool\">@meta_pool</a>, so start contributing to our brilliant ecosystem! \ud83d\ude80 <br><a href=\"https://t.co/UTHYrktae7\"><img src=\"https://pbs.twimg.com/media/GbqK7uabwAAcNvD.jpg\"/></a>",
+            "ID": "1853947420369154165",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 28,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1853947420369154165",
+            "Photos": [
+                {
+                    "ID": "1853946955292196864",
+                    "URL": "https://pbs.twimg.com/media/GbqK7uabwAAcNvD.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 5,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\uddf9\ud83c\udded I just landed in Thailand and I\u2019m looking for the most ambitious members of mpDAO, I\u2019ve a gift for you all \n\nAlso remember that we are now on scoring process for RPGF #1 of @meta_pool, so start contributing to our brilliant ecosystem! \ud83d\ude80 https://t.co/UTHYrktae7",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T23:48:04Z",
+            "Timestamp": 1730850484,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 621,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852503035152675067",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Adivinen quien soy",
+            "ID": "1852503035152675067",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1852503035152675067",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852492285209972878",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Adivinen quien soy",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T00:08:36Z",
+            "Timestamp": 1730506116,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 97,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852076679436345374",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Kalipssoh\">@Kalipssoh</a> <a href=\"https://twitter.com/Bitso\">@Bitso</a> <a href=\"https://twitter.com/RosaGlez_eth\">@RosaGlez_eth</a> <a href=\"https://twitter.com/ValeCreativo\">@ValeCreativo</a> <a href=\"https://twitter.com/luzmargaritas\">@luzmargaritas</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/lablockatoon\">@lablockatoon</a> \u00c9xito!",
+            "ID": "1852399572049395921",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852076679436345374",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "47174939",
+                    "Username": "Kalipssoh",
+                    "Name": "Cande"
+                },
+                {
+                    "ID": "2241683586",
+                    "Username": "Bitso",
+                    "Name": "Bitso"
+                },
+                {
+                    "ID": "1748965503865937920",
+                    "Username": "RosaGlez_eth",
+                    "Name": "Rosa Glez. Art"
+                },
+                {
+                    "ID": "1364625354657173508",
+                    "Username": "ValeCreativo",
+                    "Name": "Valent\u00edn Mart\u00ednez\ud83e\udd77\ud83c\udffb\ud83c\udf33"
+                },
+                {
+                    "ID": "313534028",
+                    "Username": "luzmargaritas",
+                    "Name": "Margarita Saucedo"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1727366629132996614",
+                    "Username": "lablockatoon",
+                    "Name": "La Blocka \u3290"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1852399572049395921",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Kalipssoh @Bitso @RosaGlez_eth @ValeCreativo @luzmargaritas @meta_pool @lablockatoon \u00c9xito!",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T17:17:28Z",
+            "Timestamp": 1730481448,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 49,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852398261623017518",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Viernes de concurso de disfraces de bajo costo \ud83d\udc7f\ud83e\uddff <br><a href=\"https://t.co/Hjz7x2Q5e1\"><img src=\"https://pbs.twimg.com/media/GbUKT9BWsAA6T9Y.jpg\"/></a>",
+            "ID": "1852398261623017518",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1852398261623017518",
+            "Photos": [
+                {
+                    "ID": "1852398159646863360",
+                    "URL": "https://pbs.twimg.com/media/GbUKT9BWsAA6T9Y.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Viernes de concurso de disfraces de bajo costo \ud83d\udc7f\ud83e\uddff https://t.co/Hjz7x2Q5e1",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T17:12:16Z",
+            "Timestamp": 1730481136,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 233,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852377254451425301",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/openwebacademy_\">@openwebacademy_</a> Jajaja",
+            "ID": "1852380568698159426",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852377254451425301",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1514757335163588615",
+                    "Username": "openwebacademy_",
+                    "Name": "Open Web Academy"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1852380568698159426",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@openwebacademy_ Jajaja",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T16:01:57Z",
+            "Timestamp": 1730476917,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 11,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851732313400303640",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ethereum_mexico\">@ethereum_mexico</a> Quien para compartir Airbnb, lleg\u00f3 el 5",
+            "ID": "1851737012413575536",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851732313400303640",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1531753945508585475",
+                    "Username": "ethereum_mexico",
+                    "Name": "Ethereum M\u00e9xico \ud83c\uddf2\ud83c\uddfd"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1851737012413575536",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ethereum_mexico Quien para compartir Airbnb, lleg\u00f3 el 5",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T21:24:42Z",
+            "Timestamp": 1730323482,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851444823968141546",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Join to know more about the RPGF#1 created by Meta Pool",
+            "ID": "1851444823968141546",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1851444823968141546",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851443872250941916",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Join to know more about the RPGF#1 created by Meta Pool",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T02:03:38Z",
+            "Timestamp": 1730253818,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 104,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851380847284535668",
+            "GIFs": [
+                {
+                    "ID": "1851384093910425601",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbFwBjxW4AEW1n7.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbFwBjxW4AEW1n7.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/bairorb\">@bairorb</a> new rug <br><a href=\"https://t.co/Pq5iyynJJi\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbFwBjxW4AEW1n7.jpg\"/></a>",
+            "ID": "1851384100063506594",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851380847284535668",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "99324905",
+                    "Username": "bairorb",
+                    "Name": "bairo.ic"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1851384100063506594",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@bairorb new rug https://t.co/Pq5iyynJJi",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T22:02:21Z",
+            "Timestamp": 1730239341,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 39,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851362321211498775",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Todo lo que se construye en los hackathones de Open Web Academy \ud83d\ude80",
+            "ID": "1851362321211498775",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1851362321211498775",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851358789628522694",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Todo lo que se construye en los hackathones de Open Web Academy \ud83d\ude80",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T20:35:48Z",
+            "Timestamp": 1730234148,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 84,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851320032166551752",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ThePiVortex\">@ThePiVortex</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/openwebacademy_\">@openwebacademy_</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> The most likely scenario is the need to run a transaction on the NEAR side reading the information, but still exploring solutions, don't sure on how to do this",
+            "ID": "1851335602459058494",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851328279179117048",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "908332748435324929",
+                    "Username": "ThePiVortex",
+                    "Name": "Owen"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1514757335163588615",
+                    "Username": "openwebacademy_",
+                    "Name": "Open Web Academy"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1851335602459058494",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ThePiVortex @NEARProtocol @openwebacademy_ @NEARDevHub The most likely scenario is the need to run a transaction on the NEAR side reading the information, but still exploring solutions, don't sure on how to do this",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T18:49:38Z",
+            "Timestamp": 1730227778,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 197,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851320032166551752",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ref_intern\">@ref_intern</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/openwebacademy_\">@openwebacademy_</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> like it or no like it, be honest",
+            "ID": "1851322752025903170",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851320943500554286",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1816232921876819968",
+                    "Username": "ref_intern",
+                    "Name": "Ref Intern"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1514757335163588615",
+                    "Username": "openwebacademy_",
+                    "Name": "Open Web Academy"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1851322752025903170",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ref_intern @NEARProtocol @openwebacademy_ @NEARDevHub like it or no like it, be honest",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T17:58:34Z",
+            "Timestamp": 1730224714,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 47,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851320032166551752",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": ".<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> fam, wdyt about the design of Chain Abstracted Ethereum? <br><br>The <a href=\"https://twitter.com/openwebacademy_\">@openwebacademy_</a> team is working on it for the [REDACTED] hackathon and would like to explore your opinions and also we would like to receive ideas on how to integrate AI on it <br><a href=\"https://t.co/4zOVo7BXAm\"><img src=\"https://pbs.twimg.com/media/GbE1LqwbYAAp78Y.jpg\"/></a>",
+            "ID": "1851320032166551752",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 27,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1514757335163588615",
+                    "Username": "openwebacademy_",
+                    "Name": "Open Web Academy"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1851320032166551752",
+            "Photos": [
+                {
+                    "ID": "1851319396398227456",
+                    "URL": "https://pbs.twimg.com/media/GbE1LqwbYAAp78Y.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": ".@NEARProtocol fam, wdyt about the design of Chain Abstracted Ethereum? \n\nThe @openwebacademy_ team is working on it for the [REDACTED] hackathon and would like to explore your opinions and also we would like to receive ideas on how to integrate AI on it https://t.co/4zOVo7BXAm",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T17:47:46Z",
+            "Timestamp": 1730224066,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 971,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850930828358123696",
+            "GIFs": [
+                {
+                    "ID": "1850932190181249025",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Ga_VBTMW0AE0X0o.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Ga_VBTMW0AE0X0o.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> <br><a href=\"https://t.co/MpegL1hCUq\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Ga_VBTMW0AE0X0o.jpg\"/></a>",
+            "ID": "1850932195419971837",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850930828358123696",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1850932195419971837",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARDevHub https://t.co/MpegL1hCUq",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T16:06:38Z",
+            "Timestamp": 1730131598,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 46,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848392434935611506",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/meta_pool_vn\">@meta_pool_vn</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/SuperteamVN\">@SuperteamVN</a> <a href=\"https://twitter.com/icphub_VN\">@icphub_VN</a> <a href=\"https://twitter.com/ccossio\">@ccossio</a> <a href=\"https://twitter.com/lucio_tato\">@lucio_tato</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/solana\">@solana</a> <a href=\"https://twitter.com/NEAR_Blockchain\">@NEAR_Blockchain</a> <a href=\"https://twitter.com/PolyquestSOL\">@PolyquestSOL</a> <a href=\"https://twitter.com/caddyfi\">@caddyfi</a> <a href=\"https://twitter.com/near_insider\">@near_insider</a> LFG!!",
+            "ID": "1849442076691255725",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848392434935611506",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1764647845377015808",
+                    "Username": "meta_pool_vn",
+                    "Name": "Meta Pool Vietnam \ud83c\uddfb\ud83c\uddf3"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1578004618289635330",
+                    "Username": "SuperteamVN",
+                    "Name": "Superteam Vietnam"
+                },
+                {
+                    "ID": "1669997860811857923",
+                    "Username": "icphub_VN",
+                    "Name": "ICP HUB Vietnam"
+                },
+                {
+                    "ID": "20304727",
+                    "Username": "ccossio",
+                    "Name": "Claudio Cossio"
+                },
+                {
+                    "ID": "2196241940",
+                    "Username": "lucio_tato",
+                    "Name": "Lucio Tato"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "951329744804392960",
+                    "Username": "solana",
+                    "Name": "Solana"
+                },
+                {
+                    "ID": "1387456369398140931",
+                    "Username": "NEAR_Blockchain",
+                    "Name": "NEAR Blockchain"
+                },
+                {
+                    "ID": "1813104675891343361",
+                    "Username": "PolyquestSOL",
+                    "Name": "POLYQUEST"
+                },
+                {
+                    "ID": "1820812064014901248",
+                    "Username": "caddyfi",
+                    "Name": "Caddy Finance"
+                },
+                {
+                    "ID": "1458802517714694148",
+                    "Username": "near_insider",
+                    "Name": "Near Insider"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1849442076691255725",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@meta_pool_vn @meta_pool @SuperteamVN @icphub_VN @ccossio @lucio_tato @NEARProtocol @solana @NEAR_Blockchain @PolyquestSOL @caddyfi @near_insider LFG!!",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T13:25:26Z",
+            "Timestamp": 1729776326,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846944099108077714",
+            "GIFs": [
+                {
+                    "ID": "1846957912888885248",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaG2b6jWwAApFFp.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaG2b6jWwAApFFp.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/meta_pool\">@meta_pool</a> Start hacking ! <br><a href=\"https://t.co/mz8iSE6LCV\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaG2b6jWwAApFFp.jpg\"/></a>",
+            "ID": "1846957919075815861",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846944099108077714",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1846957919075815861",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@meta_pool Start hacking ! https://t.co/mz8iSE6LCV",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T16:54:17Z",
+            "Timestamp": 1729184057,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 30,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845914223802491110",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marcrypted\">@marcrypted</a> <a href=\"https://twitter.com/solana\">@solana</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/skyempire90\">@skyempire90</a> <a href=\"https://twitter.com/abrahamrivv\">@abrahamrivv</a> \ud83d\udc4f\ud83c\udffb",
+            "ID": "1845960910159921206",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845914223802491110",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "172387972",
+                    "Username": "marcrypted",
+                    "Name": "POAPQueen\ud83d\udcab"
+                },
+                {
+                    "ID": "951329744804392960",
+                    "Username": "solana",
+                    "Name": "Solana"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1354060910906761217",
+                    "Username": "skyempire90",
+                    "Name": "skyempire90"
+                },
+                {
+                    "ID": "4741462968",
+                    "Username": "abrahamrivv",
+                    "Name": "Abraham Rivv"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1845960910159921206",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marcrypted @solana @meta_pool @skyempire90 @abrahamrivv \ud83d\udc4f\ud83c\udffb",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T22:52:31Z",
+            "Timestamp": 1728946351,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 64,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845936571088097598",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "El que no construya es porque no quiere",
+            "ID": "1845936571088097598",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1845936571088097598",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845935008705311123",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "El que no construya es porque no quiere",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T21:15:49Z",
+            "Timestamp": 1728940549,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 178,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844573848949186623",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Nota mental: Si toman mucho mate \ud83e\uddc9 les puede dar un ataque de ansiedad. \ud83d\ude25",
+            "ID": "1844573848949186623",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1844573848949186623",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Nota mental: Si toman mucho mate \ud83e\uddc9 les puede dar un ataque de ansiedad. \ud83d\ude25",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T03:00:50Z",
+            "Timestamp": 1728615650,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 106,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843730558884688328",
+            "GIFs": [
+                {
+                    "ID": "1844060391728443392",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZdrJ_FXcAAPbx0.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZdrJ_FXcAAPbx0.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/freddier\">@freddier</a> <br><a href=\"https://t.co/ZKRVIuB0pN\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZdrJ_FXcAAPbx0.jpg\"/></a>",
+            "ID": "1844060398368285004",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843730558884688328",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "16742912",
+                    "Username": "freddier",
+                    "Name": "Freddy Vega"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1844060398368285004",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@freddier https://t.co/ZKRVIuB0pN",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T17:00:34Z",
+            "Timestamp": 1728493234,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 9,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844035020685803623",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Buenos d\u00edas, despues de ver el documental de HBO me lleva a pensar que tal vez yo podr\u00eda ser Satoshi Nakamoto",
+            "ID": "1844035020685803623",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1844035020685803623",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Buenos d\u00edas, despues de ver el documental de HBO me lleva a pensar que tal vez yo podr\u00eda ser Satoshi Nakamoto",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T15:19:44Z",
+            "Timestamp": 1728487184,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 356,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843798279110394306",
+            "GIFs": null,
+            "Hashtags": [
+                "mpDAO"
+            ],
+            "HTML": "Great day we had yesterday on our Monthly Alpha Leaks session for Ambassadors and Moderators of <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <br><br>This Q4-2024 is going to have amazing news for the whole <a href=\"https://twitter.com/hashtag/mpDAO\">#mpDAO</a> community! <br><a href=\"https://t.co/phJNU4zCKm\"><img src=\"https://pbs.twimg.com/media/GZZ8m4JXUAAGHcx.jpg\"/></a>",
+            "ID": "1843798279110394306",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1843798279110394306",
+            "Photos": [
+                {
+                    "ID": "1843798104803332096",
+                    "URL": "https://pbs.twimg.com/media/GZZ8m4JXUAAGHcx.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Great day we had yesterday on our Monthly Alpha Leaks session for Ambassadors and Moderators of @meta_pool \n\nThis Q4-2024 is going to have amazing news for the whole #mpDAO community! https://t.co/phJNU4zCKm",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T23:39:00Z",
+            "Timestamp": 1728430740,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 419,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843261765695717731",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Juminstock\">@Juminstock</a> <a href=\"https://twitter.com/tododecripto\">@tododecripto</a> <a href=\"https://twitter.com/th3hodlfather\">@th3hodlfather</a> Mira <a href=\"https://twitter.com/alansicairos_\">@alansicairos_</a>, todav\u00eda ten\u00eda una sonrisa y brillo en sus ojos en los primeros d\u00edas",
+            "ID": "1843716253049073809",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843261765695717731",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "1526920393625423910",
+                    "Username": "Juminstock",
+                    "Name": "Carlos Rodr\u00edguez \ud83d\udcbf"
+                },
+                {
+                    "ID": "1308217001668616194",
+                    "Username": "tododecripto",
+                    "Name": "tododecripto.eth"
+                },
+                {
+                    "ID": "3178071048",
+                    "Username": "th3hodlfather",
+                    "Name": "the hodlfather"
+                },
+                {
+                    "ID": "226856024",
+                    "Username": "alansicairos_",
+                    "Name": "Al\u00e1n Sicairos"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1843716253049073809",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Juminstock @tododecripto @th3hodlfather Mira @alansicairos_, todav\u00eda ten\u00eda una sonrisa y brillo en sus ojos en los primeros d\u00edas",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T18:13:03Z",
+            "Timestamp": 1728411183,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843296803728584770",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "La suerte se reparte diario de 5 a 6 de la ma\u00f1ana, y no hay m\u00e1s.<br><br>Buenos d\u00edas \u2600\ufe0f",
+            "ID": "1843296803728584770",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1843296803728584770",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "La suerte se reparte diario de 5 a 6 de la ma\u00f1ana, y no hay m\u00e1s.\n\nBuenos d\u00edas \u2600\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T14:26:19Z",
+            "Timestamp": 1728311179,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 71,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843286778742198514",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/eliandecrypto\">@eliandecrypto</a> Fuerza <a href=\"https://twitter.com/eliandecrypto\">@eliandecrypto</a>, tu sigue en lo tuyo que es hacer contenido ching\u00f3n",
+            "ID": "1843287548283810242",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843286778742198514",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f",
+            "Mentions": [
+                {
+                    "ID": "2451449592",
+                    "Username": "eliandecrypto",
+                    "Name": "\u039elian Mr\u2b55\ufe0frdinal \u26a1\ufe0f"
+                },
+                {
+                    "ID": "2451449592",
+                    "Username": "eliandecrypto",
+                    "Name": "\u039elian Mr\u2b55\ufe0frdinal \u26a1\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/alannetwork_/status/1843287548283810242",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@eliandecrypto Fuerza @eliandecrypto, tu sigue en lo tuyo que es hacer contenido ching\u00f3n",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T13:49:32Z",
+            "Timestamp": 1728308972,
+            "URLs": null,
+            "UserID": "228967834",
+            "Username": "alannetwork_",
+            "Videos": null,
+            "Views": 418,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

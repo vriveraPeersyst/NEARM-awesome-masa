@@ -1,0 +1,4268 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854105533738786901",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "source:<br><a href=\"https://flipsidecrypto.xyz/Saleh/olas-service-transactions-overview-qjVVjf\">https://t.co/rF5RrIW7vH</a>",
+            "ID": "1854232877510037784",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854105533738786901",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1854232877510037784",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "source:\nhttps://t.co/rF5RrIW7vH",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T18:42:22Z",
+            "Timestamp": 1730918542,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/olas-service-transactions-overview-qjVVjf"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854105533738786901",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/digital_khenny\">@digital_khenny</a> <a href=\"https://twitter.com/autonolas\">@autonolas</a> <a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> <a href=\"https://twitter.com/kupermind\">@kupermind</a> <a href=\"https://twitter.com/victornotaro\">@victornotaro</a> <a href=\"https://twitter.com/fitzhere9\">@fitzhere9</a> <a href=\"https://twitter.com/david_enim\">@david_enim</a> <a href=\"https://twitter.com/phypto_logic\">@phypto_logic</a> Sure!",
+            "ID": "1854131853545926990",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854107203986161938",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1603416450965901312",
+                    "Username": "digital_khenny",
+                    "Name": "Dawood Kehinde"
+                },
+                {
+                    "ID": "1450081635559428107",
+                    "Username": "autonolas",
+                    "Name": "Olas (aka Autonolas)"
+                },
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                },
+                {
+                    "ID": "240827253",
+                    "Username": "kupermind",
+                    "Name": "Alex Kuperman \u2634"
+                },
+                {
+                    "ID": "1446499634839539713",
+                    "Username": "victornotaro",
+                    "Name": "victor \u2634"
+                },
+                {
+                    "ID": "135678427",
+                    "Username": "fitzhere9",
+                    "Name": "Fi\u03c4z"
+                },
+                {
+                    "ID": "315490172",
+                    "Username": "david_enim",
+                    "Name": "David Minarsch \u2634"
+                },
+                {
+                    "ID": "1508963774711042049",
+                    "Username": "phypto_logic",
+                    "Name": "Phyp\u03c4o \u2634"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1854131853545926990",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@digital_khenny @autonolas @flipsidecrypto @kupermind @victornotaro @fitzhere9 @david_enim @phypto_logic Sure!",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T12:00:56Z",
+            "Timestamp": 1730894456,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 18,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854105533738786901",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u2634 Audience for this tweet: senior members of the <a href=\"https://twitter.com/autonolas\">@autonolas</a> community:<br><a href=\"https://twitter.com/fitzhere9\">@fitzhere9</a><br><a href=\"https://twitter.com/nonstopTheo\">@nonstopTheo</a> <br><a href=\"https://twitter.com/kupermind\">@kupermind</a> <br><a href=\"https://twitter.com/phypto_logic\">@phypto_logic</a> <br><a href=\"https://twitter.com/victornotaro\">@victornotaro</a> <br><a href=\"https://twitter.com/david_enim\">@david_enim</a>",
+            "ID": "1854105541213073734",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854105538277019772",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1450081635559428107",
+                    "Username": "autonolas",
+                    "Name": "Olas (aka Autonolas)"
+                },
+                {
+                    "ID": "135678427",
+                    "Username": "fitzhere9",
+                    "Name": "Fi\u03c4z"
+                },
+                {
+                    "ID": "2574187768",
+                    "Username": "nonstopTheo",
+                    "Name": "Theo"
+                },
+                {
+                    "ID": "240827253",
+                    "Username": "kupermind",
+                    "Name": "Alex Kuperman \u2634"
+                },
+                {
+                    "ID": "1508963774711042049",
+                    "Username": "phypto_logic",
+                    "Name": "Phyp\u03c4o \u2634"
+                },
+                {
+                    "ID": "1446499634839539713",
+                    "Username": "victornotaro",
+                    "Name": "victor \u2634"
+                },
+                {
+                    "ID": "315490172",
+                    "Username": "david_enim",
+                    "Name": "David Minarsch \u2634"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1854105541213073734",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u2634 Audience for this tweet: senior members of the @autonolas community:\n@fitzhere9\n@nonstopTheo \n@kupermind \n@phypto_logic \n@victornotaro \n@david_enim",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T10:16:23Z",
+            "Timestamp": 1730888183,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 52,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854105533738786901",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u2634 Remarkable Growth of Services in the <a href=\"https://twitter.com/autonolas\">@autonolas</a> Ecosystem <br><br>\u2634 Monthly Comparison: In October, services grew by 216% compared to September.<br><br>\u2634 Relative Growth: Services in October saw a 39% increase compared to total services.<br><br>\u2634 Transactions: Only in October, 212.6K <br><a href=\"https://t.co/XxxjvtmgLP\"><img src=\"https://pbs.twimg.com/media/GbsYpc9aoAAEuF-.jpg\"/></a>",
+            "ID": "1854105533738786901",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": true,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 35,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1450081635559428107",
+                    "Username": "autonolas",
+                    "Name": "Olas (aka Autonolas)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1854105533738786901",
+            "Photos": [
+                {
+                    "ID": "1854102772020584448",
+                    "URL": "https://pbs.twimg.com/media/GbsYpc9aoAAEuF-.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1853876162004455578",
+            "Replies": 3,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u2634 Remarkable Growth of Services in the @autonolas Ecosystem \n\n\u2634 Monthly Comparison: In October, services grew by 216% compared to September.\n\n\u2634 Relative Growth: Services in October saw a 39% increase compared to total services.\n\n\u2634 Transactions: Only in October, 212.6K https://t.co/XxxjvtmgLP",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T10:16:21Z",
+            "Timestamp": 1730888181,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2358,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853876162004455578",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/olas-service-transactions-overview-qjVVjf\">https://t.co/rF5RrIW7vH</a>",
+            "ID": "1853876165619880020",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853876162004455578",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1853876165619880020",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/rF5RrIW7vH",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T19:04:55Z",
+            "Timestamp": 1730833495,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/olas-service-transactions-overview-qjVVjf"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 72,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853876162004455578",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca Olas (aka <a href=\"https://twitter.com/autonolas\">@autonolas</a>) Service Transactions Overview :<br><br>- \ud83d\udcc5 Active Days: 867<br><br>- \u26a1 Total Transactions: 1.6M<br><br>- \ud83d\udcc8 Avg Daily Transactions (Last Week): 10.5K<br><br>\ud83c\udf10 Total Service Transactions by Chain:<br><br>- \u26d3\ufe0fMain share by Gnosis Chain <br><br>- \ud83d\udcdd Registrants: 1.3K<br><br>- \u2705 Agents: 34<br><br>- \u2699\ufe0f <br><a href=\"https://t.co/fTXxkSrDZT\"><img src=\"https://pbs.twimg.com/media/GbpG7tnW4AIqYww.jpg\"/></a>",
+            "ID": "1853876162004455578",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 47,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1450081635559428107",
+                    "Username": "autonolas",
+                    "Name": "Olas (aka Autonolas)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1853876162004455578",
+            "Photos": [
+                {
+                    "ID": "1853872188287279106",
+                    "URL": "https://pbs.twimg.com/media/GbpG7tnW4AIqYww.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca Olas (aka @autonolas) Service Transactions Overview :\n\n- \ud83d\udcc5 Active Days: 867\n\n- \u26a1 Total Transactions: 1.6M\n\n- \ud83d\udcc8 Avg Daily Transactions (Last Week): 10.5K\n\n\ud83c\udf10 Total Service Transactions by Chain:\n\n- \u26d3\ufe0fMain share by Gnosis Chain \n\n- \ud83d\udcdd Registrants: 1.3K\n\n- \u2705 Agents: 34\n\n- \u2699\ufe0f https://t.co/fTXxkSrDZT",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T19:04:55Z",
+            "Timestamp": 1730833495,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4798,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853050355820458289",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/tracking-avax-staking-activity-on-gogopool-B8UdHB\">https://t.co/E5ZJcWyTcX</a>",
+            "ID": "1853050359414935892",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853050355820458289",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1853050359414935892",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/E5ZJcWyTcX",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T12:23:28Z",
+            "Timestamp": 1730636608,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/tracking-avax-staking-activity-on-gogopool-B8UdHB"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 56,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853050355820458289",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaTracking $GGAVAX staking on <a href=\"https://twitter.com/GoGoPool_\">@GoGoPool_</a> : <br><br>- Total Staked: $22.4M (928.99K $GGAVAX)<br><br>- $GGAVAX APR: 7.65%<br><br>- Total Delegators: 9.4K<br><br>- Average Staked Volume: $1K<br><br>- 21.7K Stakes over 578 active days<br><br>\ud83d\udc68\u200d\ud83d\udcbbThe highest number of new users was active on October 9.<br><br>\ud83d\udcb567% of holders <br><a href=\"https://t.co/fVxtCFnbmc\"><img src=\"https://pbs.twimg.com/media/Gbdau60asAABHUL.jpg\"/></a>",
+            "ID": "1853050355820458289",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 32,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1490381694918090761",
+                    "Username": "GoGoPool_",
+                    "Name": "GoGoPool\ud83c\udf88"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1853050355820458289",
+            "Photos": [
+                {
+                    "ID": "1853049533795840000",
+                    "URL": "https://pbs.twimg.com/media/Gbdau60asAABHUL.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaTracking $GGAVAX staking on @GoGoPool_ : \n\n- Total Staked: $22.4M (928.99K $GGAVAX)\n\n- $GGAVAX APR: 7.65%\n\n- Total Delegators: 9.4K\n\n- Average Staked Volume: $1K\n\n- 21.7K Stakes over 578 active days\n\n\ud83d\udc68\u200d\ud83d\udcbbThe highest number of new users was active on October 9.\n\n\ud83d\udcb567% of holders https://t.co/fVxtCFnbmc",
+            "Thread": null,
+            "TimeParsed": "2024-11-03T12:23:27Z",
+            "Timestamp": 1730636607,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 1962,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852270263053750447",
+            "GIFs": [
+                {
+                    "ID": "1852621773226815488",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbXVr-hWsAA6yk1.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbXVr-hWsAA6yk1.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/allstake_fi\">@allstake_fi</a> <a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <br><a href=\"https://t.co/dNjN3bsin8\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbXVr-hWsAA6yk1.jpg\"/></a>",
+            "ID": "1852621781896442162",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852621314177286270",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1760215219362738176",
+                    "Username": "allstake_fi",
+                    "Name": "Allstake"
+                },
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1852621781896442162",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@allstake_fi @flipsidecrypto @NEARProtocol https://t.co/dNjN3bsin8",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T08:00:27Z",
+            "Timestamp": 1730534427,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852270263053750447",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/allstake-staking-status-november-hUSqzV\">https://t.co/3hgFyCXn61</a>",
+            "ID": "1852270266040074587",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852270263053750447",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1852270266040074587",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/3hgFyCXn61",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T08:43:39Z",
+            "Timestamp": 1730450619,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/allstake-staking-status-november-hUSqzV"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 94,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852270263053750447",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaRestake volume on <a href=\"https://twitter.com/allstake_fi\">@allstake_fi</a> has grown over time, reaching $16.4M in 4 months :<br><br>- Meta Pool : $1.3m (234.988k $stNEAR)<br><br>- LiNEAR Protocol : $13.6m (2.2783m $LiNEAR)<br><br>- Aurora : $1.6m (12.7m $AURORA) <br><a href=\"https://t.co/9QV9dE4GqP\"><img src=\"https://pbs.twimg.com/media/GbSUObgXMAAJIDE.png\"/></a>",
+            "ID": "1852270263053750447",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 57,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1760215219362738176",
+                    "Username": "allstake_fi",
+                    "Name": "Allstake"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1852270263053750447",
+            "Photos": [
+                {
+                    "ID": "1852268322378690560",
+                    "URL": "https://pbs.twimg.com/media/GbSUObgXMAAJIDE.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaRestake volume on @allstake_fi has grown over time, reaching $16.4M in 4 months :\n\n- Meta Pool : $1.3m (234.988k $stNEAR)\n\n- LiNEAR Protocol : $13.6m (2.2783m $LiNEAR)\n\n- Aurora : $1.6m (12.7m $AURORA) https://t.co/9QV9dE4GqP",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T08:43:38Z",
+            "Timestamp": 1730450618,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4093,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851547626178486503",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/meme-season-analysis-trends-and-insights-6iVPUW\">https://t.co/YA2gBrnN4v</a>",
+            "ID": "1851547629441683582",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851547626178486503",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1851547629441683582",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/YA2gBrnN4v",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T08:52:09Z",
+            "Timestamp": 1730278329,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/meme-season-analysis-trends-and-insights-6iVPUW"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 71,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851547626178486503",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaMeme Season Analysis: TVL at $4.3M with an average staked volume of $254.6K. $BlackDragon, $NEKO, and $GEAR dominate meme staking, while activity spans 275 days with 32K stakes from 8.6K unique stakers. APYs vary widely, with $GEAR peaking at 42.08%. Trends show consistent <br><a href=\"https://t.co/7DK5Jh8lzR\"><img src=\"https://pbs.twimg.com/media/GbIDXAFWIAAKBZV.jpg\"/></a>",
+            "ID": "1851547626178486503",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 37,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1851547626178486503",
+            "Photos": [
+                {
+                    "ID": "1851546090496991232",
+                    "URL": "https://pbs.twimg.com/media/GbIDXAFWIAAKBZV.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 11,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaMeme Season Analysis: TVL at $4.3M with an average staked volume of $254.6K. $BlackDragon, $NEKO, and $GEAR dominate meme staking, while activity spans 275 days with 32K stakes from 8.6K unique stakers. APYs vary widely, with $GEAR peaking at 42.08%. Trends show consistent https://t.co/7DK5Jh8lzR",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T08:52:08Z",
+            "Timestamp": 1730278328,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2855,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850855151847743609",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/meteor-wallet-staking-overview-_gt2nS\">https://t.co/KymUofSu0p</a>",
+            "ID": "1850855155438370975",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850855151847743609",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1850855155438370975",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/KymUofSu0p",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T11:00:30Z",
+            "Timestamp": 1730113230,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/meteor-wallet-staking-overview-_gt2nS"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 55,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850855151847743609",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80<a href=\"https://twitter.com/MeteorWallet\">@MeteorWallet</a> staking volume increase has brought TVL to $4.5M. \ud83d\ude80<br><br>\ud83d\udcc8 Active Stakers : 26.2K  <br><br>\ud83d\ude80 Total Stakes : 56.5K  <br><br>\ud83d\udcca Avg Stake Volume : $79.5<br><br>On October 21, the number of $NEAR stakers saw an uptick, coinciding with a price increase \ud83d\udcc8 <br><a href=\"https://t.co/8MEjIgKg6G\"><img src=\"https://pbs.twimg.com/media/Ga-OQfPXEAAQy8c.jpg\"/></a>",
+            "ID": "1850855151847743609",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 41,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1527219489351385088",
+                    "Username": "MeteorWallet",
+                    "Name": "Meteor Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1850855151847743609",
+            "Photos": [
+                {
+                    "ID": "1850854385787539456",
+                    "URL": "https://pbs.twimg.com/media/Ga-OQfPXEAAQy8c.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 11,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80@MeteorWallet staking volume increase has brought TVL to $4.5M. \ud83d\ude80\n\n\ud83d\udcc8 Active Stakers : 26.2K  \n\n\ud83d\ude80 Total Stakes : 56.5K  \n\n\ud83d\udcca Avg Stake Volume : $79.5\n\nOn October 21, the number of $NEAR stakers saw an uptick, coinciding with a price increase \ud83d\udcc8 https://t.co/8MEjIgKg6G",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T11:00:30Z",
+            "Timestamp": 1730113230,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2581,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850320751741558843",
+            "GIFs": [
+                {
+                    "ID": "1850423674571984896",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Ga4Ghy7WEAAE_Zi.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Ga4Ghy7WEAAE_Zi.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/aragorn_eth\">@aragorn_eth</a> <br><a href=\"https://t.co/bY50E1xNPu\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Ga4Ghy7WEAAE_Zi.jpg\"/></a>",
+            "ID": "1850423686634803250",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850321811696718246",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "270766690",
+                    "Username": "aragorn_eth",
+                    "Name": "Aragorn"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1850423686634803250",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@aragorn_eth https://t.co/bY50E1xNPu",
+            "Thread": null,
+            "TimeParsed": "2024-10-27T06:26:00Z",
+            "Timestamp": 1730010360,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 91,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850091454019846206",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/MotiBanks\">@MotiBanks</a> <a href=\"https://twitter.com/Lonkonnear\">@Lonkonnear</a> <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> <a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/HeyMaiye\">@HeyMaiye</a> Yes, but it\u2019s probably not sustainable.",
+            "ID": "1850150460000252117",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850149179319898190",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1552550496715644929",
+                    "Username": "MotiBanks",
+                    "Name": "M O T I L O L A"
+                },
+                {
+                    "ID": "1735008385580552192",
+                    "Username": "Lonkonnear",
+                    "Name": "Lonk \ud83d\udc32"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1677621700823859200",
+                    "Username": "HeyMaiye",
+                    "Name": "Maiy\u20ac_of_Fortun\u20ac\u2660\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1850150460000252117",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@MotiBanks @Lonkonnear @finance_ref @flipsidecrypto @NEARProtocol @HeyMaiye Yes, but it\u2019s probably not sustainable.",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T12:20:18Z",
+            "Timestamp": 1729945218,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 35,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850091454019846206",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/meme-season-analysis-trends-and-insights-6iVPUW\">https://t.co/YA2gBrnN4v</a>",
+            "ID": "1850091458746847347",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850091454019846206",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1850091458746847347",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/YA2gBrnN4v",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T08:25:51Z",
+            "Timestamp": 1729931151,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/meme-season-analysis-trends-and-insights-6iVPUW"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 73,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850091454019846206",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaStaking volume for meme coin <a href=\"https://twitter.com/Lonkonnear\">@Lonkonnear</a> increased, reaching a total of $1.696M with 2.7K stakers on <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> . <br><a href=\"https://t.co/GP7CabNZRv\"><img src=\"https://pbs.twimg.com/media/GazXyBpaAAgTlKJ.jpg\"/></a>",
+            "ID": "1850091454019846206",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 40,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1735008385580552192",
+                    "Username": "Lonkonnear",
+                    "Name": "Lonk \ud83d\udc32"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1850091454019846206",
+            "Photos": [
+                {
+                    "ID": "1850090801377968136",
+                    "URL": "https://pbs.twimg.com/media/GazXyBpaAAgTlKJ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848658995583627365",
+            "Replies": 2,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaStaking volume for meme coin @Lonkonnear increased, reaching a total of $1.696M with 2.7K stakers on @finance_ref . https://t.co/GP7CabNZRv",
+            "Thread": null,
+            "TimeParsed": "2024-10-26T08:25:50Z",
+            "Timestamp": 1729931150,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2812,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849884582591569928",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/allstake-staking-status-october-HQNcWZ\">https://t.co/RyZsVyyKu8</a>",
+            "ID": "1849884586408329249",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849884582591569928",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1849884586408329249",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/RyZsVyyKu8",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T18:43:49Z",
+            "Timestamp": 1729881829,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/allstake-staking-status-october-HQNcWZ"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 76,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849884582591569928",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The TVL of <a href=\"https://twitter.com/allstake_fi\">@allstake_fi</a>  has reached $16.4m in 131 days.  <br>Below are some additional statistics:<br><br>\ud83d\udc65 3.4k stakers<br><br>\ud83d\ude80 7.2k stakes<br><br>\ud83d\udd17 2.2777m $LiNEAR <br><br>\ud83c\udf0a 242.16k $stNEAR <br><br>\u26a1 12.5m $AURORA <br><a href=\"https://t.co/zcuSNv92BC\"><img src=\"https://pbs.twimg.com/media/GawbhbZWYAA1L13.jpg\"/></a>",
+            "ID": "1849884582591569928",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 42,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1760215219362738176",
+                    "Username": "allstake_fi",
+                    "Name": "Allstake"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1849884582591569928",
+            "Photos": [
+                {
+                    "ID": "1849883808046145536",
+                    "URL": "https://pbs.twimg.com/media/GawbhbZWYAA1L13.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The TVL of @allstake_fi  has reached $16.4m in 131 days.  \nBelow are some additional statistics:\n\n\ud83d\udc65 3.4k stakers\n\n\ud83d\ude80 7.2k stakes\n\n\ud83d\udd17 2.2777m $LiNEAR \n\n\ud83c\udf0a 242.16k $stNEAR \n\n\u26a1 12.5m $AURORA https://t.co/zcuSNv92BC",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T18:43:48Z",
+            "Timestamp": 1729881828,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 3541,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849794671603540086",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "3/3\ud83c\udf10More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/tortuga-finance-staking-performance-and-trends-CFN1Nj\">https://t.co/gNN6jyxdLA</a>",
+            "ID": "1849794683431489764",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849794677710409801",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1849794683431489764",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "3/3\ud83c\udf10More details:\nhttps://t.co/gNN6jyxdLA",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T12:46:34Z",
+            "Timestamp": 1729860394,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/tortuga-finance-staking-performance-and-trends-CFN1Nj"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 75,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849794671603540086",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "2/3\ud83d\udcc8Increased staking volume and higher interest in staking by delegators coincided with the rise in Aptos price on October 21. <br><a href=\"https://t.co/zyckFmo415\"><img src=\"https://pbs.twimg.com/media/GavG1THWkAAZfP7.png\"/></a>",
+            "ID": "1849794677710409801",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849794671603540086",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1849794677710409801",
+            "Photos": [
+                {
+                    "ID": "1849790690932199424",
+                    "URL": "https://pbs.twimg.com/media/GavG1THWkAAZfP7.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "2/3\ud83d\udcc8Increased staking volume and higher interest in staking by delegators coincided with the rise in Aptos price on October 21. https://t.co/zyckFmo415",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T12:46:33Z",
+            "Timestamp": 1729860393,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 107,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849794671603540086",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "1/3\ud83d\uddd2\ufe0f<a href=\"https://twitter.com/TortugaFinance\">@TortugaFinance</a> : Staking Performance and Trends on <a href=\"https://twitter.com/Aptos\">@Aptos</a> :<br><br>\ud83d\udcca Total Staked: $2.762M (276.7K $APT)<br><br>\ud83d\udc65 Total Delegators: 151.6K<br><br>\ud83d\udcc8 APY: 7%<br><br>\ud83d\udcb0 Average Staked Volume: $9.9<br><br>\u25b6\ufe0f Total Stakes: 278K <br><a href=\"https://t.co/vfwdP9pDuD\"><img src=\"https://pbs.twimg.com/media/GavIokgWgAABugy.jpg\"/></a>",
+            "ID": "1849794671603540086",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 38,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1550539853137416195",
+                    "Username": "TortugaFinance",
+                    "Name": "Tortuga Finance"
+                },
+                {
+                    "ID": "1491526425580474368",
+                    "Username": "Aptos",
+                    "Name": "Aptos"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1849794671603540086",
+            "Photos": [
+                {
+                    "ID": "1849792671285411840",
+                    "URL": "https://pbs.twimg.com/media/GavIokgWgAABugy.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "1/3\ud83d\uddd2\ufe0f@TortugaFinance : Staking Performance and Trends on @Aptos :\n\n\ud83d\udcca Total Staked: $2.762M (276.7K $APT)\n\n\ud83d\udc65 Total Delegators: 151.6K\n\n\ud83d\udcc8 APY: 7%\n\n\ud83d\udcb0 Average Staked Volume: $9.9\n\n\u25b6\ufe0f Total Stakes: 278K https://t.co/vfwdP9pDuD",
+            "Thread": null,
+            "TimeParsed": "2024-10-25T12:46:31Z",
+            "Timestamp": 1729860391,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2292,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848991809936019948",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/near-protocol-weekly-comprehensive-status-update-oZLULj\">https://t.co/4vjW3nID19</a>",
+            "ID": "1848991812683227303",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848991809936019948",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1848991812683227303",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/4vjW3nID19",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T07:36:15Z",
+            "Timestamp": 1729668975,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/near-protocol-weekly-comprehensive-status-update-oZLULj"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 71,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848991809936019948",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a>  Weekly : Comprehensive Status Update <br><br>- \ud83d\udcc8 105.6K new accounts added  <br><br>- \ud83d\udd04 50.7M total transactions  <br><br>- \u2b07\ufe0f (-)1.4% transaction decline<br><br>- \ud83d\udcb5 Avg NEAR price: $4.81  <br><br>- \ud83d\udcb0 Total fees: $131.3K  <br><br>- \u26a1 Transactions per second: 73.4 TPS <br><a href=\"https://t.co/CDqoKfT1qv\"><img src=\"https://pbs.twimg.com/media/Gajv-3gWoAA2If2.jpg\"/></a>",
+            "ID": "1848991809936019948",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 30,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1848991809936019948",
+            "Photos": [
+                {
+                    "ID": "1848991510366167040",
+                    "URL": "https://pbs.twimg.com/media/Gajv-3gWoAA2If2.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol  Weekly : Comprehensive Status Update \n\n- \ud83d\udcc8 105.6K new accounts added  \n\n- \ud83d\udd04 50.7M total transactions  \n\n- \u2b07\ufe0f (-)1.4% transaction decline\n\n- \ud83d\udcb5 Avg NEAR price: $4.81  \n\n- \ud83d\udcb0 Total fees: $131.3K  \n\n- \u26a1 Transactions per second: 73.4 TPS https://t.co/CDqoKfT1qv",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T07:36:14Z",
+            "Timestamp": 1729668974,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2635,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848716762751086898",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/shitzu-staking-overview-YfnaAj\">https://t.co/Cab0UJ4qwV</a>",
+            "ID": "1848716765896843439",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848716762751086898",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1848716765896843439",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/Cab0UJ4qwV",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:23:19Z",
+            "Timestamp": 1729603399,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/shitzu-staking-overview-YfnaAj"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 62,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848716762751086898",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaStaking overview on <a href=\"https://twitter.com/shitzuonnear\">@shitzuonnear</a> :<br><br>- TVL: $725.9k (152.3k $NEAR)<br><br>- Total Stakes: 1.1k<br><br>- Active Stakers: 322<br><br>- Average Stake Volume: $644.1 <br><a href=\"https://t.co/NG4vvcEkjc\"><img src=\"https://pbs.twimg.com/media/Gaf1lVQWMAAftqY.png\"/></a>",
+            "ID": "1848716762751086898",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 32,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1799466871101562880",
+                    "Username": "shitzuonnear",
+                    "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1848716762751086898",
+            "Photos": [
+                {
+                    "ID": "1848716193768550400",
+                    "URL": "https://pbs.twimg.com/media/Gaf1lVQWMAAftqY.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaStaking overview on @shitzuonnear :\n\n- TVL: $725.9k (152.3k $NEAR)\n\n- Total Stakes: 1.1k\n\n- Active Stakers: 322\n\n- Average Stake Volume: $644.1 https://t.co/NG4vvcEkjc",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:23:18Z",
+            "Timestamp": 1729603398,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2151,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848658995583627365",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/meme-season-analysis-trends-and-insights-6iVPUW\">https://t.co/YA2gBrnN4v</a>",
+            "ID": "1848658999912149038",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848658995583627365",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1848658999912149038",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/YA2gBrnN4v",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T09:33:46Z",
+            "Timestamp": 1729589626,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/meme-season-analysis-trends-and-insights-6iVPUW"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 72,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848658995583627365",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca xREF Staking Volume by MEME Coins on <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> :<br><br>1. BLACKDRAGON: $311,633 (60.19%)<br>2. KAT: $86,380 (16.67%)<br>3. TOUCHED: $45,594 (8.80%)<br>4. GEAR: $17,633 (3.41%)<br>5. GP: $17,074 (3.29%)<br>6. SHITZU: $15,772 (3.05%)<br>7. UWON: $13,036 (2.52%)<br>8. LONK: $10,502 (2.03%) <br><a href=\"https://t.co/DqdzJwSN5l\"><img src=\"https://pbs.twimg.com/media/GafAknZXgAA1pH2.jpg\"/></a>",
+            "ID": "1848658995583627365",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 36,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1848658995583627365",
+            "Photos": [
+                {
+                    "ID": "1848657907342082048",
+                    "URL": "https://pbs.twimg.com/media/GafAknZXgAA1pH2.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848122480214614099",
+            "Replies": 1,
+            "Retweets": 11,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca xREF Staking Volume by MEME Coins on @finance_ref :\n\n1. BLACKDRAGON: $311,633 (60.19%)\n2. KAT: $86,380 (16.67%)\n3. TOUCHED: $45,594 (8.80%)\n4. GEAR: $17,633 (3.41%)\n5. GP: $17,074 (3.29%)\n6. SHITZU: $15,772 (3.05%)\n7. UWON: $13,036 (2.52%)\n8. LONK: $10,502 (2.03%) https://t.co/DqdzJwSN5l",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T09:33:45Z",
+            "Timestamp": 1729589625,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4757,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848462884373958966",
+            "GIFs": [
+                {
+                    "ID": "1848655044444336128",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gae99-RWsAAz-RW.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gae99-RWsAAz-RW.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Haj1379\">@Haj1379</a> <br><a href=\"https://t.co/Ul6AMHciob\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gae99-RWsAAz-RW.jpg\"/></a>",
+            "ID": "1848655054154129843",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848462884373958966",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "983371688770527232",
+                    "Username": "Haj1379",
+                    "Name": "yasi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1848655054154129843",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Haj1379 https://t.co/Ul6AMHciob",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T09:18:05Z",
+            "Timestamp": 1729588685,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 20,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848333975477236194",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/near-protocol-decentralization-validator-distribution-1t4IPv\">https://t.co/iH7PqARjct</a>",
+            "ID": "1848333995777413570",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848333975477236194",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1848333995777413570",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/iH7PqARjct",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T12:02:19Z",
+            "Timestamp": 1729512139,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/near-protocol-decentralization-validator-distribution-1t4IPv"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 74,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848333975477236194",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a>  latest decentralization metrics:<br>- 236 active validators<br>- TVL at 616.3M $NEAR<br>- Steady monthly staking with minor fluctuations in TVL and price. <br><a href=\"https://t.co/raomrDUXTC\"><img src=\"https://pbs.twimg.com/media/GaaYZKWW0AAAqFv.jpg\"/></a>",
+            "ID": "1848333975477236194",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 37,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1848333975477236194",
+            "Photos": [
+                {
+                    "ID": "1848332255124443136",
+                    "URL": "https://pbs.twimg.com/media/GaaYZKWW0AAAqFv.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca @NEARProtocol  latest decentralization metrics:\n- 236 active validators\n- TVL at 616.3M $NEAR\n- Steady monthly staking with minor fluctuations in TVL and price. https://t.co/raomrDUXTC",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T12:02:14Z",
+            "Timestamp": 1729512134,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2262,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848295958456480207",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/allstake-staking-status-october-HQNcWZ\">https://t.co/RyZsVyyKu8</a>",
+            "ID": "1848295962143277263",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848295958456480207",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1848295962143277263",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/RyZsVyyKu8",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T09:31:11Z",
+            "Timestamp": 1729503071,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/allstake-staking-status-october-HQNcWZ"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 73,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848295958456480207",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaThe latest update from the <a href=\"https://twitter.com/allstake_fi\">@allstake_fi</a>  Staking Dashboard reveals that the Total Value Locked has reached $16.7M . <br><br>\ud83d\udcc8 Following the initiation of Restake from <a href=\"https://twitter.com/auroraisnear\">@auroraisnear</a> on July 26, approximately $875.2K has been included in this figure.<br><br>\ud83d\udc68\u200d\ud83d\udcbbNotably, the largest number of <br><a href=\"https://t.co/07sxa5WtPZ\"><img src=\"https://pbs.twimg.com/media/GaZ23tMXoAAuEw0.jpg\"/></a>",
+            "ID": "1848295958456480207",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 34,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1760215219362738176",
+                    "Username": "allstake_fi",
+                    "Name": "Allstake"
+                },
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1848295958456480207",
+            "Photos": [
+                {
+                    "ID": "1848295396478525440",
+                    "URL": "https://pbs.twimg.com/media/GaZ23tMXoAAuEw0.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaThe latest update from the @allstake_fi  Staking Dashboard reveals that the Total Value Locked has reached $16.7M . \n\n\ud83d\udcc8 Following the initiation of Restake from @auroraisnear on July 26, approximately $875.2K has been included in this figure.\n\n\ud83d\udc68\u200d\ud83d\udcbbNotably, the largest number of https://t.co/07sxa5WtPZ",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T09:31:10Z",
+            "Timestamp": 1729503070,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2236,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848122480214614099",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/meme-season-analysis-trends-and-insights-6iVPUW\">https://t.co/YA2gBrnN4v</a>",
+            "ID": "1848122484337336448",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848122480214614099",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1848122484337336448",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/YA2gBrnN4v",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T22:01:51Z",
+            "Timestamp": 1729461711,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/meme-season-analysis-trends-and-insights-6iVPUW"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 160,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848122480214614099",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaCurrent meme coin staking TVL on <a href=\"https://twitter.com/finance_ref\">@finance_ref</a>  :<br><br>- LONK: $1,665,256 (45.24%)<br>- BLACKDRAGON: $1,398,998 (38.01%)<br>- SHITZU: $471,369 (12.81%)<br>- GEAR: $144,945 (3.94%)<br><br>\ud83d\udd25The highest APY is for GEAR, which is 40%.<br><br>\ud83d\udcb8The largest xREF volume belongs to $BLACKDRAGON, with <br><a href=\"https://t.co/cQYo1X19Re\"><img src=\"https://pbs.twimg.com/media/GaXW_YLWYAAGJwr.png\"/></a>",
+            "ID": "1848122480214614099",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 115,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1848122480214614099",
+            "Photos": [
+                {
+                    "ID": "1848119606415613952",
+                    "URL": "https://pbs.twimg.com/media/GaXW_YLWYAAGJwr.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaCurrent meme coin staking TVL on @finance_ref  :\n\n- LONK: $1,665,256 (45.24%)\n- BLACKDRAGON: $1,398,998 (38.01%)\n- SHITZU: $471,369 (12.81%)\n- GEAR: $144,945 (3.94%)\n\n\ud83d\udd25The highest APY is for GEAR, which is 40%.\n\n\ud83d\udcb8The largest xREF volume belongs to $BLACKDRAGON, with https://t.co/cQYo1X19Re",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T22:01:50Z",
+            "Timestamp": 1729461710,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 3784,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848029876982350160",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/meteor-wallet-staking-overview-_gt2nS\">https://t.co/KymUofSu0p</a>",
+            "ID": "1848029880442876045",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848029876982350160",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1848029880442876045",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/KymUofSu0p",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T15:53:52Z",
+            "Timestamp": 1729439632,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/meteor-wallet-staking-overview-_gt2nS"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 61,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848029876982350160",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca<a href=\"https://twitter.com/MeteorWallet\">@MeteorWallet</a> Staking Overview:  <br>- \ud83d\udcc8 Staking volume increased during October.<br>- \ud83d\udcb0 Stake TVL: $5.1M  <br>-\ud83d\udc65 25.6K Stakers | \ud83d\ude80 54.8K Stakes  <br>-\ud83e\udde0 Average stake volume: $93.5 | \ud83d\udc8e Stake NEAR : 1.078M $NEAR <br><a href=\"https://t.co/fOaN0LwgYv\"><img src=\"https://pbs.twimg.com/media/GaWE679XUAAcmto.jpg\"/></a>",
+            "ID": "1848029876982350160",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 38,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1527219489351385088",
+                    "Username": "MeteorWallet",
+                    "Name": "Meteor Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1848029876982350160",
+            "Photos": [
+                {
+                    "ID": "1848029370167808000",
+                    "URL": "https://pbs.twimg.com/media/GaWE679XUAAcmto.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca@MeteorWallet Staking Overview:  \n- \ud83d\udcc8 Staking volume increased during October.\n- \ud83d\udcb0 Stake TVL: $5.1M  \n-\ud83d\udc65 25.6K Stakers | \ud83d\ude80 54.8K Stakes  \n-\ud83e\udde0 Average stake volume: $93.5 | \ud83d\udc8e Stake NEAR : 1.078M $NEAR https://t.co/fOaN0LwgYv",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T15:53:52Z",
+            "Timestamp": 1729439632,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 3098,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847737167256440904",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-avalanche-cmIh6v\">https://t.co/nmg6S2loqb</a>",
+            "ID": "1847737173593739562",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847737167256440904",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1847737173593739562",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/nmg6S2loqb",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T20:30:46Z",
+            "Timestamp": 1729369846,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-avalanche-cmIh6v"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847737167256440904",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaNew users on <a href=\"https://twitter.com/avax\">@avax</a>  are primarily interacting with Bridges (34.88%) and DeFi (29.12%) as their first activity, with Dex (25.50%) and Dapps (9.28%) following behind. It's clear that cross-chain and decentralized finance solutions are key attractions. <br><a href=\"https://t.co/jXUSPAdk4Z\"><img src=\"https://pbs.twimg.com/media/GaR6wOiWAAAIbhW.jpg\"/></a>",
+            "ID": "1847737167256440904",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1055894724245155841",
+                    "Username": "avax",
+                    "Name": "Avalanche9000 \ud83d\udd3a"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1847737167256440904",
+            "Photos": [
+                {
+                    "ID": "1847736716083200000",
+                    "URL": "https://pbs.twimg.com/media/GaR6wOiWAAAIbhW.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847383853184536752",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaNew users on @avax  are primarily interacting with Bridges (34.88%) and DeFi (29.12%) as their first activity, with Dex (25.50%) and Dapps (9.28%) following behind. It's clear that cross-chain and decentralized finance solutions are key attractions. https://t.co/jXUSPAdk4Z",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T20:30:44Z",
+            "Timestamp": 1729369844,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2018,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847672822644064559",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/tracking-avax-staking-activity-on-gogopool-B8UdHB\">https://t.co/E5ZJcWyTcX</a>",
+            "ID": "1847672826821574976",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847672822644064559",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1847672826821574976",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/E5ZJcWyTcX",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T16:15:04Z",
+            "Timestamp": 1729354504,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/tracking-avax-staking-activity-on-gogopool-B8UdHB"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 46,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847672822644064559",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udd3aThe distribution of delegators in <a href=\"https://twitter.com/GoGoPool_\">@GoGoPool_</a> , based on stake volume, reveals significant insights into user behavior and the overall ecosystem of liquid staking on the Avalanche network. Here\u2019s a breakdown of the statistics:<br><br>1\u20e3- 66.94% (3,324) delegators hold $11-$100<br>2\u20e3- <br><a href=\"https://t.co/rvpnPqSt2h\"><img src=\"https://pbs.twimg.com/media/GaRADC3XoAAbOIH.jpg\"/></a>",
+            "ID": "1847672822644064559",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 33,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1490381694918090761",
+                    "Username": "GoGoPool_",
+                    "Name": "GoGoPool\ud83c\udf88"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1847672822644064559",
+            "Photos": [
+                {
+                    "ID": "1847672168181637120",
+                    "URL": "https://pbs.twimg.com/media/GaRADC3XoAAbOIH.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847332122786136144",
+            "Replies": 1,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udd3aThe distribution of delegators in @GoGoPool_ , based on stake volume, reveals significant insights into user behavior and the overall ecosystem of liquid staking on the Avalanche network. Here\u2019s a breakdown of the statistics:\n\n1\u20e3- 66.94% (3,324) delegators hold $11-$100\n2\u20e3- https://t.co/rvpnPqSt2h",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T16:15:03Z",
+            "Timestamp": 1729354503,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2491,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847383853184536752",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaThe first activity of new users on the <a href=\"https://twitter.com/avax\">@avax</a> has been using Trader Joe - <a href=\"https://twitter.com/LFJ_gg\">@LFJ_gg</a> , which accounts for about 34% of total transactions.<br><br>\ud83d\udd17<a href=\"https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-avalanche-cmIh6v\">https://t.co/nmg6S2lWfJ</a> <br><a href=\"https://t.co/lWzyojHGYr\"><img src=\"https://pbs.twimg.com/media/GaM5P0BbUAUuc1B.jpg\"/></a>",
+            "ID": "1847383853184536752",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 36,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1055894724245155841",
+                    "Username": "avax",
+                    "Name": "Avalanche9000 \ud83d\udd3a"
+                },
+                {
+                    "ID": "1380341547154083844",
+                    "Username": "LFJ_gg",
+                    "Name": "LFJ (prev. Trader Joe)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1847383853184536752",
+            "Photos": [
+                {
+                    "ID": "1847383215977484293",
+                    "URL": "https://pbs.twimg.com/media/GaM5P0BbUAUuc1B.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847023964440100914",
+            "Replies": 0,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaThe first activity of new users on the @avax has been using Trader Joe - @LFJ_gg , which accounts for about 34% of total transactions.\n\n\ud83d\udd17https://t.co/nmg6S2lWfJ https://t.co/lWzyojHGYr",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T21:06:47Z",
+            "Timestamp": 1729285607,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-avalanche-cmIh6v"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4127,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847332122786136144",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/tracking-avax-staking-activity-on-gogopool-B8UdHB\">https://t.co/E5ZJcWzr2v</a>",
+            "ID": "1847332126720741611",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847332122786136144",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1847332126720741611",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/E5ZJcWzr2v",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T17:41:15Z",
+            "Timestamp": 1729273275,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/tracking-avax-staking-activity-on-gogopool-B8UdHB"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 71,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847332122786136144",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca $AVAX staking on <a href=\"https://twitter.com/GoGoPool_\">@GoGoPool_</a> :  <br>\ud83d\udcb0 Total Staked: $27.5M  <br>\ud83d\udd25 $ggAVAX Volume: 1.01M  <br>\ud83d\udcc8 APR: 7.9%  <br>\ud83d\udd17 Stakes: 21.2k  <br>\ud83d\udc65 Total Delegators: 9.1k  <br>\ud83d\udce6 Avg. Staked Volume: $1.3k <br><a href=\"https://t.co/zFs9Cacuib\"><img src=\"https://pbs.twimg.com/media/GaMKY4BXwAAD_zY.jpg\"/></a>",
+            "ID": "1847332122786136144",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 28,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1490381694918090761",
+                    "Username": "GoGoPool_",
+                    "Name": "GoGoPool\ud83c\udf88"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1847332122786136144",
+            "Photos": [
+                {
+                    "ID": "1847331694623309824",
+                    "URL": "https://pbs.twimg.com/media/GaMKY4BXwAAD_zY.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca $AVAX staking on @GoGoPool_ :  \n\ud83d\udcb0 Total Staked: $27.5M  \n\ud83d\udd25 $ggAVAX Volume: 1.01M  \n\ud83d\udcc8 APR: 7.9%  \n\ud83d\udd17 Stakes: 21.2k  \n\ud83d\udc65 Total Delegators: 9.1k  \n\ud83d\udce6 Avg. Staked Volume: $1.3k https://t.co/zFs9Cacuib",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T17:41:14Z",
+            "Timestamp": 1729273274,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4478,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847023964440100914",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xafonso\">@0xafonso</a> <a href=\"https://twitter.com/avax\">@avax</a> <a href=\"https://twitter.com/LayerZero_Core\">@LayerZero_Core</a> <a href=\"https://twitter.com/LFJ_gg\">@LFJ_gg</a> <a href=\"https://twitter.com/beefyfinance\">@beefyfinance</a> <a href=\"https://twitter.com/StargateFinance\">@StargateFinance</a> <a href=\"https://twitter.com/pangolindex\">@pangolindex</a> <a href=\"https://twitter.com/SushiSwap\">@SushiSwap</a> <a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> \ud83d\udc99",
+            "ID": "1847306034290819093",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847237363472478243",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1530654774223314945",
+                    "Username": "0xafonso",
+                    "Name": "Afonso"
+                },
+                {
+                    "ID": "1055894724245155841",
+                    "Username": "avax",
+                    "Name": "Avalanche9000 \ud83d\udd3a"
+                },
+                {
+                    "ID": "1395504028910424065",
+                    "Username": "LayerZero_Core",
+                    "Name": "LayerZero"
+                },
+                {
+                    "ID": "1380341547154083844",
+                    "Username": "LFJ_gg",
+                    "Name": "LFJ (prev. Trader Joe)"
+                },
+                {
+                    "ID": "1305519876921004033",
+                    "Username": "beefyfinance",
+                    "Name": "Beefy"
+                },
+                {
+                    "ID": "1407791976909393923",
+                    "Username": "StargateFinance",
+                    "Name": "Stargate"
+                },
+                {
+                    "ID": "1330644600801865728",
+                    "Username": "pangolindex",
+                    "Name": "Pangolin (V3 coming soon)"
+                },
+                {
+                    "ID": "1303577160234328066",
+                    "Username": "SushiSwap",
+                    "Name": "Sushi.com"
+                },
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1847306034290819093",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xafonso @avax @LayerZero_Core @LFJ_gg @beefyfinance @StargateFinance @pangolindex @SushiSwap @flipsidecrypto \ud83d\udc99",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T15:57:34Z",
+            "Timestamp": 1729267054,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 41,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847225839785541640",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xafonso\">@0xafonso</a> <a href=\"https://twitter.com/Swapscanner\">@Swapscanner</a> <a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> <a href=\"https://twitter.com/KaiaChain\">@KaiaChain</a> \ud83d\udd25",
+            "ID": "1847305888777764889",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847237506481394172",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1530654774223314945",
+                    "Username": "0xafonso",
+                    "Name": "Afonso"
+                },
+                {
+                    "ID": "1476067640154411010",
+                    "Username": "Swapscanner",
+                    "Name": "Swapscanner(\uc2a4\uc651\uc2a4\uce90\ub108)"
+                },
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                },
+                {
+                    "ID": "1016987310221455360",
+                    "Username": "KaiaChain",
+                    "Name": "Kaia (prev. Klaytn & Finschia)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1847305888777764889",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xafonso @Swapscanner @flipsidecrypto @KaiaChain \ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T15:56:59Z",
+            "Timestamp": 1729267019,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847236779067281794",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Haj1379\">@Haj1379</a> <a href=\"https://twitter.com/dexalot\">@dexalot</a> <a href=\"https://twitter.com/avax\">@avax</a> \ud83d\udd25",
+            "ID": "1847273397660549171",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847236779067281794",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "983371688770527232",
+                    "Username": "Haj1379",
+                    "Name": "yasi"
+                },
+                {
+                    "ID": "1405793698131189761",
+                    "Username": "dexalot",
+                    "Name": "Dexalot"
+                },
+                {
+                    "ID": "1055894724245155841",
+                    "Username": "avax",
+                    "Name": "Avalanche9000 \ud83d\udd3a"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1847273397660549171",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Haj1379 @dexalot @avax \ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T13:47:53Z",
+            "Timestamp": 1729259273,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 31,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847225839785541640",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/the-status-of-staking-on-swapscanner-1YNja8\">https://t.co/4UCj5JGLD8</a>",
+            "ID": "1847225843287769116",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847225839785541640",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1847225843287769116",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/4UCj5JGLD8",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T10:38:55Z",
+            "Timestamp": 1729247935,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/the-status-of-staking-on-swapscanner-1YNja8"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 59,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847225839785541640",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "In 2024, insights on staking from <a href=\"https://twitter.com/Swapscanner\">@Swapscanner</a>  reveal the following key statistics:<br><br>- Total staked volume: $7M <br><br>- Number of stakers: Approximately 51.7K users.<br><br>- Peak staking date: January 1, 2024, recorded the highest amount of staking.<br><br>- Highest user participation: <br><a href=\"https://t.co/C0ZzfM15eE\"><img src=\"https://pbs.twimg.com/media/GaKpB8IXEAAYQQJ.jpg\"/></a>",
+            "ID": "1847225839785541640",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1476067640154411010",
+                    "Username": "Swapscanner",
+                    "Name": "Swapscanner(\uc2a4\uc651\uc2a4\uce90\ub108)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1847225839785541640",
+            "Photos": [
+                {
+                    "ID": "1847224647961481216",
+                    "URL": "https://pbs.twimg.com/media/GaKpB8IXEAAYQQJ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846833098694029453",
+            "Replies": 2,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "In 2024, insights on staking from @Swapscanner  reveal the following key statistics:\n\n- Total staked volume: $7M \n\n- Number of stakers: Approximately 51.7K users.\n\n- Peak staking date: January 1, 2024, recorded the highest amount of staking.\n\n- Highest user participation: https://t.co/C0ZzfM15eE",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T10:38:54Z",
+            "Timestamp": 1729247934,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2033,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847023964440100914",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-avalanche-cmIh6v\">https://t.co/nmg6S2loqb</a>",
+            "ID": "1847023968026239036",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847023964440100914",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1847023968026239036",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/nmg6S2loqb",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T21:16:44Z",
+            "Timestamp": 1729199804,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-avalanche-cmIh6v"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 92,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847023964440100914",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 Top Projects by First-Time User Activity on <a href=\"https://twitter.com/avax\">@avax</a> \ud83c\udf10<br>1. <a href=\"https://twitter.com/LayerZero_Core\">@LayerZero_Core</a> : 4.4M wallets (31.8%)<br>2. <a href=\"https://twitter.com/LFJ_gg\">@LFJ_gg</a> (Trader Joe) : 3.43M wallets (23.3%)<br>3. <a href=\"https://twitter.com/beefyfinance\">@beefyfinance</a> : 2.8M wallets (20%)<br>4. <a href=\"https://twitter.com/StargateFinance\">@StargateFinance</a> : 1.6M wallets (11.4%)<br>5. <a href=\"https://twitter.com/pangolindex\">@pangolindex</a> : 900K wallets (8%)<br>6. <a href=\"https://twitter.com/SushiSwap\">@SushiSwap</a> : <br><a href=\"https://t.co/lYbDZxJiOY\"><img src=\"https://pbs.twimg.com/media/GaHvWCxWsAEkII1.jpg\"/></a>",
+            "ID": "1847023964440100914",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 36,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1055894724245155841",
+                    "Username": "avax",
+                    "Name": "Avalanche9000 \ud83d\udd3a"
+                },
+                {
+                    "ID": "1395504028910424065",
+                    "Username": "LayerZero_Core",
+                    "Name": "LayerZero"
+                },
+                {
+                    "ID": "1380341547154083844",
+                    "Username": "LFJ_gg",
+                    "Name": "LFJ (prev. Trader Joe)"
+                },
+                {
+                    "ID": "1305519876921004033",
+                    "Username": "beefyfinance",
+                    "Name": "Beefy"
+                },
+                {
+                    "ID": "1407791976909393923",
+                    "Username": "StargateFinance",
+                    "Name": "Stargate"
+                },
+                {
+                    "ID": "1330644600801865728",
+                    "Username": "pangolindex",
+                    "Name": "Pangolin (V3 coming soon)"
+                },
+                {
+                    "ID": "1303577160234328066",
+                    "Username": "SushiSwap",
+                    "Name": "Sushi.com"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1847023964440100914",
+            "Photos": [
+                {
+                    "ID": "1847020484178653185",
+                    "URL": "https://pbs.twimg.com/media/GaHvWCxWsAEkII1.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 Top Projects by First-Time User Activity on @avax \ud83c\udf10\n1. @LayerZero_Core : 4.4M wallets (31.8%)\n2. @LFJ_gg (Trader Joe) : 3.43M wallets (23.3%)\n3. @beefyfinance : 2.8M wallets (20%)\n4. @StargateFinance : 1.6M wallets (11.4%)\n5. @pangolindex : 900K wallets (8%)\n6. @SushiSwap : https://t.co/lYbDZxJiOY",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T21:16:43Z",
+            "Timestamp": 1729199803,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4257,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846833098694029453",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/the-status-of-staking-on-swapscanner-1YNja8\">https://t.co/4UCj5JGLD8</a>",
+            "ID": "1846833102158446841",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846833098694029453",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1846833102158446841",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/4UCj5JGLD8",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T08:38:18Z",
+            "Timestamp": 1729154298,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/the-status-of-staking-on-swapscanner-1YNja8"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 59,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846833098694029453",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca Second Insight: There is a noticeable correlation between the drop in $KLAY price and the decrease in staking volume on <a href=\"https://twitter.com/Swapscanner\">@Swapscanner</a> during the month of October. This trend could signal shifts in investor behavior or market dynamics influencing staking activity. <br><a href=\"https://t.co/4wqJbBj3rj\"><img src=\"https://pbs.twimg.com/media/GaFDXOLWkAAmvXl.jpg\"/></a>",
+            "ID": "1846833098694029453",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 31,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1476067640154411010",
+                    "Username": "Swapscanner",
+                    "Name": "Swapscanner(\uc2a4\uc651\uc2a4\uce90\ub108)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1846833098694029453",
+            "Photos": [
+                {
+                    "ID": "1846831388420378624",
+                    "URL": "https://pbs.twimg.com/media/GaFDXOLWkAAmvXl.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846282922422083726",
+            "Replies": 1,
+            "Retweets": 7,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca Second Insight: There is a noticeable correlation between the drop in $KLAY price and the decrease in staking volume on @Swapscanner during the month of October. This trend could signal shifts in investor behavior or market dynamics influencing staking activity. https://t.co/4wqJbBj3rj",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T08:38:17Z",
+            "Timestamp": 1729154297,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4026,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846621149704200424",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcc8Staking volume increased over the last 5 days on <a href=\"https://twitter.com/Swapscanner\">@Swapscanner</a>, with the highest increase on October 12th, around 414K $SCNR .<br>\ud83d\udd17 <a href=\"https://flipsidecrypto.xyz/Saleh/status-of-scnr-staking-on-the-klaytn-blockchain-U8pgly\">https://t.co/su4RfHvS7v</a> <br><a href=\"https://t.co/5hsz73KF9r\"><img src=\"https://pbs.twimg.com/media/GaCDGVYWgAE_7RQ.jpg\"/></a>",
+            "ID": "1846621149704200424",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 32,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1476067640154411010",
+                    "Username": "Swapscanner",
+                    "Name": "Swapscanner(\uc2a4\uc651\uc2a4\uce90\ub108)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1846621149704200424",
+            "Photos": [
+                {
+                    "ID": "1846619992063639553",
+                    "URL": "https://pbs.twimg.com/media/GaCDGVYWgAE_7RQ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846237275690000783",
+            "Replies": 0,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcc8Staking volume increased over the last 5 days on @Swapscanner, with the highest increase on October 12th, around 414K $SCNR .\n\ud83d\udd17 https://t.co/su4RfHvS7v https://t.co/5hsz73KF9r",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T18:36:05Z",
+            "Timestamp": 1729103765,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/status-of-scnr-staking-on-the-klaytn-blockchain-U8pgly"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2008,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846504002571141486",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/tortuga-finance-staking-performance-and-trends-copy-CFN1Nj\">https://t.co/dNnpiPbQos</a>",
+            "ID": "1846504005586846191",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846504002571141486",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1846504005586846191",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/dNnpiPbQos",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T10:50:35Z",
+            "Timestamp": 1729075835,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/tortuga-finance-staking-performance-and-trends-copy-CFN1Nj"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 49,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846504002571141486",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca <a href=\"https://twitter.com/TortugaFinance\">@TortugaFinance</a> : Staking Performance and Trends on <a href=\"https://twitter.com/Aptos\">@Aptos</a> <br>Here's the breakdown of delegators by staking volume:<br>- Less than $10: 121K delegators (78.2%)<br>- $11 - $100: 22.9K delegators (14.8%)<br>- $101 - $500: 8.8K delegators (5.7%)<br>- $501 - $1,000: 1.2K delegators (0.8%) <br><a href=\"https://t.co/WOoB5AWJLh\"><img src=\"https://pbs.twimg.com/media/GaAXcQhWsAU7Cb_.jpg\"/></a>",
+            "ID": "1846504002571141486",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1550539853137416195",
+                    "Username": "TortugaFinance",
+                    "Name": "Tortuga Finance"
+                },
+                {
+                    "ID": "1491526425580474368",
+                    "Username": "Aptos",
+                    "Name": "Aptos"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1846504002571141486",
+            "Photos": [
+                {
+                    "ID": "1846501621460545541",
+                    "URL": "https://pbs.twimg.com/media/GaAXcQhWsAU7Cb_.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca @TortugaFinance : Staking Performance and Trends on @Aptos \nHere's the breakdown of delegators by staking volume:\n- Less than $10: 121K delegators (78.2%)\n- $11 - $100: 22.9K delegators (14.8%)\n- $101 - $500: 8.8K delegators (5.7%)\n- $501 - $1,000: 1.2K delegators (0.8%) https://t.co/WOoB5AWJLh",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T10:50:35Z",
+            "Timestamp": 1729075835,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2149,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846282922422083726",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/the-status-of-staking-on-swapscanner-1YNja8\">https://t.co/4UCj5JGLD8</a>",
+            "ID": "1846282927111336327",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846282922422083726",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1846282927111336327",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/4UCj5JGLD8",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T20:12:06Z",
+            "Timestamp": 1729023126,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/the-status-of-staking-on-swapscanner-1YNja8"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 55,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846282922422083726",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca The Status of Staking on <a href=\"https://twitter.com/Swapscanner\">@Swapscanner</a> \ud83d\udcca  <br>\ud83d\ude80 Total Staked: $7M (55.4M $KLAY)<br>\ud83d\udc65 Stakers: 51.7K  <br>\ud83d\udcb0 Avg. Volume Staked: $3.9  <br>\ud83d\udd04 Total Stakes: 1.8M  <br>\ud83d\udd1d Max Volume Staked : $127 <br><a href=\"https://t.co/Ym2yVx6rzQ\"><img src=\"https://pbs.twimg.com/media/GZ9QW6QWwAA-He4.jpg\"/></a>",
+            "ID": "1846282922422083726",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 30,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1476067640154411010",
+                    "Username": "Swapscanner",
+                    "Name": "Swapscanner(\uc2a4\uc651\uc2a4\uce90\ub108)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1846282922422083726",
+            "Photos": [
+                {
+                    "ID": "1846282726770393088",
+                    "URL": "https://pbs.twimg.com/media/GZ9QW6QWwAA-He4.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1841404634558013799",
+            "Replies": 1,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca The Status of Staking on @Swapscanner \ud83d\udcca  \n\ud83d\ude80 Total Staked: $7M (55.4M $KLAY)\n\ud83d\udc65 Stakers: 51.7K  \n\ud83d\udcb0 Avg. Volume Staked: $3.9  \n\ud83d\udd04 Total Stakes: 1.8M  \n\ud83d\udd1d Max Volume Staked : $127 https://t.co/Ym2yVx6rzQ",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T20:12:05Z",
+            "Timestamp": 1729023125,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4122,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846165280172442098",
+            "GIFs": [
+                {
+                    "ID": "1846255160936239104",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ83SXhWEAAUZFM.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ83SXhWEAAUZFM.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xham3d_eth\">@0xham3d_eth</a> <br><a href=\"https://t.co/nzUtCUiSaq\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ83SXhWEAAUZFM.jpg\"/></a>",
+            "ID": "1846255172080881757",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846165280172442098",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1003711887458983936",
+                    "Username": "0xham3d_eth",
+                    "Name": "0xHaM\u2630d"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1846255172080881757",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xham3d_eth https://t.co/nzUtCUiSaq",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T18:21:49Z",
+            "Timestamp": 1729016509,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846237275690000783",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/status-of-scnr-staking-on-the-klaytn-blockchain-U8pgly\">https://t.co/su4RfHvS7v</a>",
+            "ID": "1846237279884361923",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846237275690000783",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1846237279884361923",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/su4RfHvS7v",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:10:43Z",
+            "Timestamp": 1729012243,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/status-of-scnr-staking-on-the-klaytn-blockchain-U8pgly"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 49,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846237275690000783",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udd0d Latest insights on staking $SCNR on the <a href=\"https://twitter.com/Swapscanner\">@Swapscanner</a> :<br>\ud83d\udcb0 TVL : $2.8m<br>\ud83d\udcc8 Total Volume Staked: 30.7M $SCNR<br>\ud83d\udcca Total Stakes: 493.2K<br>\ud83d\udc65 Stakers: 4.6K<br>\ud83d\udcc8 Average Stake Volume: $21.9<br>\u23f3 Activity Days: 977<br>Explore staking trends, distribution, and more in-depth data! <br><a href=\"https://t.co/nJo1zOIOvE\"><img src=\"https://pbs.twimg.com/media/GZ8lo62WkAA_Rf9.jpg\"/></a>",
+            "ID": "1846237275690000783",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 26,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1476067640154411010",
+                    "Username": "Swapscanner",
+                    "Name": "Swapscanner(\uc2a4\uc651\uc2a4\uce90\ub108)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1846237275690000783",
+            "Photos": [
+                {
+                    "ID": "1846235757167415296",
+                    "URL": "https://pbs.twimg.com/media/GZ8lo62WkAA_Rf9.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1841530176238231898",
+            "Replies": 1,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udd0d Latest insights on staking $SCNR on the @Swapscanner :\n\ud83d\udcb0 TVL : $2.8m\n\ud83d\udcc8 Total Volume Staked: 30.7M $SCNR\n\ud83d\udcca Total Stakes: 493.2K\n\ud83d\udc65 Stakers: 4.6K\n\ud83d\udcc8 Average Stake Volume: $21.9\n\u23f3 Activity Days: 977\nExplore staking trends, distribution, and more in-depth data! https://t.co/nJo1zOIOvE",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:10:42Z",
+            "Timestamp": 1729012242,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 3193,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846102720731570663",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-aptos-IIcPR4\">https://t.co/A2uaqGIHHV</a>",
+            "ID": "1846102724158357865",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846102720731570663",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1846102724158357865",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/A2uaqGIHHV",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T08:16:03Z",
+            "Timestamp": 1728980163,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-aptos-IIcPR4"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 67,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846102720731570663",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 Distribution of New Users\u2019 First Transactions on <a href=\"https://twitter.com/Aptos\">@Aptos</a> Ecosystem :<br>- <a href=\"https://twitter.com/AptinLabs\">@AptinLabs</a> : 18.07%<br>- <a href=\"https://twitter.com/LayerZero_Core\">@LayerZero_Core</a> : 14.12%<br>- <a href=\"https://twitter.com/PontemNetwork\">@PontemNetwork</a> : 13.12%<br>- <a href=\"https://twitter.com/PancakeSwap\">@PancakeSwap</a> : 8.71%<br>- <a href=\"https://twitter.com/ThalaLabs\">@ThalaLabs</a> : 7.80%<br>-  Others : 24.46% ( <a href=\"https://twitter.com/AmnisFinance\">@AmnisFinance</a>, <a href=\"https://twitter.com/EconiaLabs\">@EconiaLabs</a> , <a href=\"https://twitter.com/wapal_official\">@wapal_official</a>  ) <br><a href=\"https://t.co/G5CCLesgQl\"><img src=\"https://pbs.twimg.com/media/GZ6rKspWgAAL4-U.jpg\"/></a>",
+            "ID": "1846102720731570663",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 36,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1491526425580474368",
+                    "Username": "Aptos",
+                    "Name": "Aptos"
+                },
+                {
+                    "ID": "1556946087180570627",
+                    "Username": "AptinLabs",
+                    "Name": "Aptin Finance"
+                },
+                {
+                    "ID": "1395504028910424065",
+                    "Username": "LayerZero_Core",
+                    "Name": "LayerZero"
+                },
+                {
+                    "ID": "1338852157337071623",
+                    "Username": "PontemNetwork",
+                    "Name": "Pontem Lumio"
+                },
+                {
+                    "ID": "1305349277422477313",
+                    "Username": "PancakeSwap",
+                    "Name": "PancakeSwap"
+                },
+                {
+                    "ID": "1537363442222309376",
+                    "Username": "ThalaLabs",
+                    "Name": "Thala"
+                },
+                {
+                    "ID": "1693545432226598912",
+                    "Username": "AmnisFinance",
+                    "Name": "Amnis Finance"
+                },
+                {
+                    "ID": "1524224906090606592",
+                    "Username": "EconiaLabs",
+                    "Name": "Econia Labs"
+                },
+                {
+                    "ID": "1609760883751948289",
+                    "Username": "wapal_official",
+                    "Name": "Wapal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1846102720731570663",
+            "Photos": [
+                {
+                    "ID": "1846101097540124672",
+                    "URL": "https://pbs.twimg.com/media/GZ6rKspWgAAL4-U.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845513100482490526",
+            "Replies": 2,
+            "Retweets": 12,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 Distribution of New Users\u2019 First Transactions on @Aptos Ecosystem :\n- @AptinLabs : 18.07%\n- @LayerZero_Core : 14.12%\n- @PontemNetwork : 13.12%\n- @PancakeSwap : 8.71%\n- @ThalaLabs : 7.80%\n-  Others : 24.46% ( @AmnisFinance, @EconiaLabs , @wapal_official  ) https://t.co/G5CCLesgQl",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T08:16:02Z",
+            "Timestamp": 1728980162,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 3473,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845904548726022495",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/tortuga-finance-staking-performance-and-trends-WiFwui\">https://t.co/HllCbuwhRu</a>",
+            "ID": "1845904556762317022",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845904548726022495",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1845904556762317022",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/HllCbuwhRu",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T19:08:36Z",
+            "Timestamp": 1728932916,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/tortuga-finance-staking-performance-and-trends-WiFwui"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 82,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845904548726022495",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcc8Correlation between $APT price and delegators on <a href=\"https://twitter.com/TortugaFinance\">@TortugaFinance</a> over the past month: $APT price rose above $10 on October 13, with an overall trend suggesting that as the price increases, delegator numbers also tend to rise. <br><a href=\"https://t.co/3XUSmowiE5\"><img src=\"https://pbs.twimg.com/media/GZ326qwWkAAKm-h.png\"/></a>",
+            "ID": "1845904548726022495",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 34,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1550539853137416195",
+                    "Username": "TortugaFinance",
+                    "Name": "Tortuga Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1845904548726022495",
+            "Photos": [
+                {
+                    "ID": "1845902910061711360",
+                    "URL": "https://pbs.twimg.com/media/GZ326qwWkAAKm-h.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 5,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcc8Correlation between $APT price and delegators on @TortugaFinance over the past month: $APT price rose above $10 on October 13, with an overall trend suggesting that as the price increases, delegator numbers also tend to rise. https://t.co/3XUSmowiE5",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T19:08:34Z",
+            "Timestamp": 1728932914,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2271,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845550218772963574",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/tortuga-finance-staking-performance-and-trends-WiFwui\">https://t.co/HllCbuwhRu</a>",
+            "ID": "1845550223256395921",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845550218772963574",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 6,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1845550223256395921",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/HllCbuwhRu",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T19:40:36Z",
+            "Timestamp": 1728848436,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/tortuga-finance-staking-performance-and-trends-WiFwui"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 76,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845550218772963574",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca <a href=\"https://twitter.com/TortugaFinance\">@TortugaFinance</a> : Staking Performance &amp; Trends<br><br>\ud83d\udcb0 TVL : $2.729M <br>\ud83d\udc65 Total Delegators : 149.3K<br>\ud83d\udcc8 Staked Volume : 271.8K $tAPT<br>\ud83d\udcca APY: 7%<br>\ud83e\udde9 Stakes: 274.5k<br>\ud83d\udcc5 Daily activity over the past 30 days shows spikes in staking and new delegations <br><a href=\"https://t.co/37UgdUDfm1\"><img src=\"https://pbs.twimg.com/media/GZy1WqAW4AA0vnn.jpg\"/></a>",
+            "ID": "1845550218772963574",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1550539853137416195",
+                    "Username": "TortugaFinance",
+                    "Name": "Tortuga Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1845550218772963574",
+            "Photos": [
+                {
+                    "ID": "1845549348152598528",
+                    "URL": "https://pbs.twimg.com/media/GZy1WqAW4AA0vnn.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca @TortugaFinance : Staking Performance &amp; Trends\n\n\ud83d\udcb0 TVL : $2.729M \n\ud83d\udc65 Total Delegators : 149.3K\n\ud83d\udcc8 Staked Volume : 271.8K $tAPT\n\ud83d\udcca APY: 7%\n\ud83e\udde9 Stakes: 274.5k\n\ud83d\udcc5 Daily activity over the past 30 days shows spikes in staking and new delegations https://t.co/37UgdUDfm1",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T19:40:35Z",
+            "Timestamp": 1728848435,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2046,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845513100482490526",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-aptos-IIcPR4\">https://t.co/A2uaqGJfxt</a>",
+            "ID": "1845513103800426694",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845513100482490526",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1845513103800426694",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/A2uaqGJfxt",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T17:13:06Z",
+            "Timestamp": 1728839586,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/new-user-distribution-across-blockchain-components-on-aptos-IIcPR4"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 92,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845513100482490526",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca New User Distribution Across Blockchain Components on <a href=\"https://twitter.com/Aptos\">@Aptos</a> \ud83e\udde9<br>- <a href=\"https://twitter.com/Econia\">@Econia</a>: 28.51%<br>- <a href=\"https://twitter.com/Switchboard\">@Switchboard</a>: 20.68%<br>- <a href=\"https://twitter.com/PontemNetwork\">@PontemNetwork</a>: 10.66%<br>- <a href=\"https://twitter.com/Pancakeswap\">@Pancakeswap</a>: 9.44%<br>- <a href=\"https://twitter.com/ThalaLabs\">@ThalaLabs</a>: 5.24%<br>- <a href=\"https://twitter.com/LayerZero_Core\">@LayerZero_Core</a>: 4.97%<br>- <a href=\"https://twitter.com/Merkle_Trade\">@Merkle_Trade</a>, <a href=\"https://twitter.com/topazlabs\">@topazlabs</a>, <a href=\"https://twitter.com/AmnisFinance\">@AmnisFinance</a>, <a href=\"https://twitter.com/wapal_official\">@wapal_official</a> &amp; others <br><a href=\"https://t.co/eERn3taL6e\"><img src=\"https://pbs.twimg.com/media/GZyT7pUXkAER_ZA.jpg\"/></a>",
+            "ID": "1845513100482490526",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 38,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1491526425580474368",
+                    "Username": "Aptos",
+                    "Name": "Aptos"
+                },
+                {
+                    "ID": "61519364",
+                    "Username": "Econia",
+                    "Name": "\u3048\u3053@\uff81\uff71\uff77\uff81\uff6c\uff9d"
+                },
+                {
+                    "ID": "97248582",
+                    "Username": "switchboard",
+                    "Name": "Switchboard"
+                },
+                {
+                    "ID": "1338852157337071623",
+                    "Username": "PontemNetwork",
+                    "Name": "Pontem Lumio"
+                },
+                {
+                    "ID": "1305349277422477313",
+                    "Username": "PancakeSwap",
+                    "Name": "PancakeSwap"
+                },
+                {
+                    "ID": "1537363442222309376",
+                    "Username": "ThalaLabs",
+                    "Name": "Thala"
+                },
+                {
+                    "ID": "1395504028910424065",
+                    "Username": "LayerZero_Core",
+                    "Name": "LayerZero"
+                },
+                {
+                    "ID": "1620244530418315265",
+                    "Username": "Merkle_Trade",
+                    "Name": "Merkle Trade \ud83c\udf32"
+                },
+                {
+                    "ID": "15076316",
+                    "Username": "topazlabs",
+                    "Name": "Topaz Labs"
+                },
+                {
+                    "ID": "1693545432226598912",
+                    "Username": "AmnisFinance",
+                    "Name": "Amnis Finance"
+                },
+                {
+                    "ID": "1609760883751948289",
+                    "Username": "wapal_official",
+                    "Name": "Wapal"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1845513100482490526",
+            "Photos": [
+                {
+                    "ID": "1845512600227909633",
+                    "URL": "https://pbs.twimg.com/media/GZyT7pUXkAER_ZA.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 11,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca New User Distribution Across Blockchain Components on @Aptos \ud83e\udde9\n- @Econia: 28.51%\n- @Switchboard: 20.68%\n- @PontemNetwork: 10.66%\n- @Pancakeswap: 9.44%\n- @ThalaLabs: 5.24%\n- @LayerZero_Core: 4.97%\n- @Merkle_Trade, @topazlabs, @AmnisFinance, @wapal_official &amp; others https://t.co/eERn3taL6e",
+            "Thread": null,
+            "TimeParsed": "2024-10-13T17:13:05Z",
+            "Timestamp": 1728839585,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 5187,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845069224072327500",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/hbd1994\">@hbd1994</a> <a href=\"https://twitter.com/BlockdaemonHQ\">@BlockdaemonHQ</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> thanks\ud83d\udc99",
+            "ID": "1845075966688698733",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845074578520883530",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "920718738181296139",
+                    "Username": "hbd1994",
+                    "Name": "hbd"
+                },
+                {
+                    "ID": "897279210099589120",
+                    "Username": "BlockdaemonHQ",
+                    "Name": "Blockdaemon \ud83d\ude08"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1845075966688698733",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@hbd1994 @BlockdaemonHQ @NEARProtocol @flipsidecrypto thanks\ud83d\udc99",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T12:16:04Z",
+            "Timestamp": 1728735364,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 14,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845069224072327500",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/near-protocol-decentralization-validator-distribution-1t4IPv\">https://t.co/iH7PqARjct</a>",
+            "ID": "1845069227440378180",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845069224072327500",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1845069227440378180",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/iH7PqARjct",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T11:49:18Z",
+            "Timestamp": 1728733758,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/near-protocol-decentralization-validator-distribution-1t4IPv"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 62,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845069224072327500",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaIn the past 24 hours, the highest delegation volume belongs to <a href=\"https://twitter.com/BlockdaemonHQ\">@BlockdaemonHQ</a> , with an approximate volume of $2.121M on <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> . <br><a href=\"https://t.co/W68EYpaFZL\"><img src=\"https://pbs.twimg.com/media/GZr_qp6XoAMyCUu.png\"/></a>",
+            "ID": "1845069224072327500",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 38,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "897279210099589120",
+                    "Username": "BlockdaemonHQ",
+                    "Name": "Blockdaemon \ud83d\ude08"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1845069224072327500",
+            "Photos": [
+                {
+                    "ID": "1845068105631899651",
+                    "URL": "https://pbs.twimg.com/media/GZr_qp6XoAMyCUu.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844383011577659595",
+            "Replies": 2,
+            "Retweets": 11,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaIn the past 24 hours, the highest delegation volume belongs to @BlockdaemonHQ , with an approximate volume of $2.121M on @NEARProtocol . https://t.co/W68EYpaFZL",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T11:49:17Z",
+            "Timestamp": 1728733757,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2339,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844661196135203050",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/lava-network-stake-monitor-klEbFD\">https://t.co/0gJS9T3Xz2</a>",
+            "ID": "1844661199650046167",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844661196135203050",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1844661199650046167",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/0gJS9T3Xz2",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T08:47:56Z",
+            "Timestamp": 1728636476,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/lava-network-stake-monitor-klEbFD"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 58,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844661196135203050",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\ude80 Lava Network Stake Monitor \ud83d\ude80  <br>\ud83d\udd39 $55.2M Volume of Staked  <br>\ud83d\udd39 721.6M $LAVA Voting Power  <br>\ud83d\udd39 5.6K Stakers | 48.7K Stakes  <br>\ud83d\udd39 131 Validators | 268 Activity Days  <br><br>\ud83d\udcca Staking Distribution:  <br>- Top range: 1,001-5,000 $LAVA  <br>- Majority between 101-1,000 $LAVA  <br><br>\ud83d\udd0e Validator <br><a href=\"https://t.co/BysYqV5ecn\"><img src=\"https://pbs.twimg.com/media/GZmMKBmWwAsxVw4.jpg\"/></a>",
+            "ID": "1844661196135203050",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 35,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1844661196135203050",
+            "Photos": [
+                {
+                    "ID": "1844659626240819211",
+                    "URL": "https://pbs.twimg.com/media/GZmMKBmWwAsxVw4.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\ude80 Lava Network Stake Monitor \ud83d\ude80  \n\ud83d\udd39 $55.2M Volume of Staked  \n\ud83d\udd39 721.6M $LAVA Voting Power  \n\ud83d\udd39 5.6K Stakers | 48.7K Stakes  \n\ud83d\udd39 131 Validators | 268 Activity Days  \n\n\ud83d\udcca Staking Distribution:  \n- Top range: 1,001-5,000 $LAVA  \n- Majority between 101-1,000 $LAVA  \n\n\ud83d\udd0e Validator https://t.co/BysYqV5ecn",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T08:47:55Z",
+            "Timestamp": 1728636475,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2462,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844383011577659595",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/near-protocol-decentralization-validator-distribution-1t4IPv\">https://t.co/iH7PqARR21</a>",
+            "ID": "1844383015700713841",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844383011577659595",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1844383015700713841",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/iH7PqARR21",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T14:22:32Z",
+            "Timestamp": 1728570152,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/near-protocol-decentralization-validator-distribution-1t4IPv"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 83,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844383011577659595",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udccaIn the past 24 hours, the highest delegation volume belongs to <a href=\"https://twitter.com/auroraisnear\">@auroraisnear</a>, with an approximate volume of $2.036M on <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a>. <br><a href=\"https://t.co/I0oBMiEmG2\"><img src=\"https://pbs.twimg.com/media/GZiOS8xW0Aoo-gc.png\"/></a>",
+            "ID": "1844383011577659595",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 32,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1844383011577659595",
+            "Photos": [
+                {
+                    "ID": "1844380503610150922",
+                    "URL": "https://pbs.twimg.com/media/GZiOS8xW0Aoo-gc.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 10,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udccaIn the past 24 hours, the highest delegation volume belongs to @auroraisnear, with an approximate volume of $2.036M on @NEARProtocol. https://t.co/I0oBMiEmG2",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T14:22:31Z",
+            "Timestamp": 1728570151,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4465,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843667307651866711",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/thorswap-trends-2024--YN7nh\">https://t.co/7PPZyHu7Ur</a>",
+            "ID": "1843667311871545636",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843667307651866711",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1843667311871545636",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/7PPZyHu7Ur",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T14:58:35Z",
+            "Timestamp": 1728399515,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/thorswap-trends-2024--YN7nh"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 45,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843667307651866711",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca User Distribution Based on Swap Volume - October 2024 Update on <a href=\"https://twitter.com/THORSwap\">@THORSwap</a> \ud83d\udcca<br><br>Breakdown of traders by swap volume:<br>- \ud83d\udcb5 $10,000+ : 163 traders (32.5%)<br>- \ud83d\udcb5 $1,001 - $5,000 : 98 traders (19.6%)<br>- \ud83d\udcb5 $101 - $500 : 58 traders (11.6%)<br>- \ud83d\udcb5 $11 - $100 : 41 traders (8.2%)<br>- \ud83d\udcb5 <br><a href=\"https://t.co/JQRolLxep2\"><img src=\"https://pbs.twimg.com/media/GZYDfypXwAAykO1.png\"/></a>",
+            "ID": "1843667307651866711",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1371793093247258626",
+                    "Username": "THORSwap",
+                    "Name": "THORSwap \u26a1 #BetterThanCEX"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1843667307651866711",
+            "Photos": [
+                {
+                    "ID": "1843664942160920576",
+                    "URL": "https://pbs.twimg.com/media/GZYDfypXwAAykO1.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1843228982998945972",
+            "Replies": 1,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca User Distribution Based on Swap Volume - October 2024 Update on @THORSwap \ud83d\udcca\n\nBreakdown of traders by swap volume:\n- \ud83d\udcb5 $10,000+ : 163 traders (32.5%)\n- \ud83d\udcb5 $1,001 - $5,000 : 98 traders (19.6%)\n- \ud83d\udcb5 $101 - $500 : 58 traders (11.6%)\n- \ud83d\udcb5 $11 - $100 : 41 traders (8.2%)\n- \ud83d\udcb5 https://t.co/JQRolLxep2",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T14:58:34Z",
+            "Timestamp": 1728399514,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 1997,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843605272712884666",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/thorchain-lp-status-7Kf-nO\">https://t.co/erf5D3yZ24</a>",
+            "ID": "1843605278098632972",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843605272712884666",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1843605278098632972",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/erf5D3yZ24",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T10:52:05Z",
+            "Timestamp": 1728384725,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/thorchain-lp-status-7Kf-nO"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 59,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843605272712884666",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udd0d <a href=\"https://twitter.com/THORChain\">@THORChain</a> LP Status Update  :<br>User distribution by volume shows that 77.1% of providers (10,625) contribute less than $10, while 20.8% (2,859) fall in the $101-$500 range. Only 4.9% of providers (669) are staking over $10,000. Mid-range volumes such as $501-$1,000 and <br><a href=\"https://t.co/hbgz3D8bG5\"><img src=\"https://pbs.twimg.com/media/GZXM2dBWIAAA8Ie.jpg\"/></a>",
+            "ID": "1843605272712884666",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 32,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1012021170244161536",
+                    "Username": "THORChain",
+                    "Name": "THORChain"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1843605272712884666",
+            "Photos": [
+                {
+                    "ID": "1843604858353360896",
+                    "URL": "https://pbs.twimg.com/media/GZXM2dBWIAAA8Ie.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1843177634857111722",
+            "Replies": 1,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udd0d @THORChain LP Status Update  :\nUser distribution by volume shows that 77.1% of providers (10,625) contribute less than $10, while 20.8% (2,859) fall in the $101-$500 range. Only 4.9% of providers (669) are staking over $10,000. Mid-range volumes such as $501-$1,000 and https://t.co/hbgz3D8bG5",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T10:52:04Z",
+            "Timestamp": 1728384724,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 2353,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843228982998945972",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/thorswap-trends-2024--YN7nh\">https://t.co/7PPZyHu7Ur</a>",
+            "ID": "1843228986601853186",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843228982998945972",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1843228986601853186",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/7PPZyHu7Ur",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T09:56:50Z",
+            "Timestamp": 1728295010,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/thorswap-trends-2024--YN7nh"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 56,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843228982998945972",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udcca <a href=\"https://twitter.com/THORSwap\">@THORSwap</a> Trends 2024 \ud83d\udcca<br><br>\ud83d\udd04 Swaps: 149.3k \ud83d\udc5b Swappers: 46.1k \ud83c\udd95 New Users: Tracking growth over the year \ud83d\udcb5 Swap Volume: $3.5B+ <br><a href=\"https://t.co/KWw7z4fPCl\"><img src=\"https://pbs.twimg.com/media/GZR2a_ZXwAA28Fs.jpg\"/></a>",
+            "ID": "1843228982998945972",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 37,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1371793093247258626",
+                    "Username": "THORSwap",
+                    "Name": "THORSwap \u26a1 #BetterThanCEX"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1843228982998945972",
+            "Photos": [
+                {
+                    "ID": "1843228353567899648",
+                    "URL": "https://pbs.twimg.com/media/GZR2a_ZXwAA28Fs.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udcca @THORSwap Trends 2024 \ud83d\udcca\n\n\ud83d\udd04 Swaps: 149.3k \ud83d\udc5b Swappers: 46.1k \ud83c\udd95 New Users: Tracking growth over the year \ud83d\udcb5 Swap Volume: $3.5B+ https://t.co/KWw7z4fPCl",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T09:56:49Z",
+            "Timestamp": 1728295009,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4181,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843177634857111722",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More details:<br><a href=\"https://flipsidecrypto.xyz/Saleh/thorchain-lp-status-7Kf-nO\">https://t.co/erf5D3yZ24</a>",
+            "ID": "1843177639391138260",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843177634857111722",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Saleh",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/sal_data/status/1843177639391138260",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More details:\nhttps://t.co/erf5D3yZ24",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T06:32:48Z",
+            "Timestamp": 1728282768,
+            "URLs": [
+                "https://flipsidecrypto.xyz/Saleh/thorchain-lp-status-7Kf-nO"
+            ],
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 52,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843177634857111722",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83d\udca7 <a href=\"https://twitter.com/THORChain\">@THORChain</a> LP Status Update \ud83d\ude80<br><br>\ud83d\udd39 TVL: $33.3M  <br>\ud83d\udd39 Providers: 20.3K  <br>\ud83d\udd39 Top Liquidity Supply Volume: $1.7M  <br>\ud83d\udd39 Avg Liquidity Supply Volume: $351.2  <br><br>\ud83d\udcbc Pools Distribution:<br>- $ETH - $RUNE: 33.17%<br>- $BNB - $BNB: 13%<br>- $BUSD - $BNB: 8.79% <br><a href=\"https://t.co/S3QIZdDtrH\"><img src=\"https://pbs.twimg.com/media/GZRGa9IWUAAEsYD.jpg\"/></a>",
+            "ID": "1843177634857111722",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 36,
+            "Name": "Saleh",
+            "Mentions": [
+                {
+                    "ID": "1012021170244161536",
+                    "Username": "THORChain",
+                    "Name": "THORChain"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/sal_data/status/1843177634857111722",
+            "Photos": [
+                {
+                    "ID": "1843175576401498112",
+                    "URL": "https://pbs.twimg.com/media/GZRGa9IWUAAEsYD.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 8,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83d\udca7 @THORChain LP Status Update \ud83d\ude80\n\n\ud83d\udd39 TVL: $33.3M  \n\ud83d\udd39 Providers: 20.3K  \n\ud83d\udd39 Top Liquidity Supply Volume: $1.7M  \n\ud83d\udd39 Avg Liquidity Supply Volume: $351.2  \n\n\ud83d\udcbc Pools Distribution:\n- $ETH - $RUNE: 33.17%\n- $BNB - $BNB: 13%\n- $BUSD - $BNB: 8.79% https://t.co/S3QIZdDtrH",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T06:32:47Z",
+            "Timestamp": 1728282767,
+            "URLs": null,
+            "UserID": "1469609182739456000",
+            "Username": "sal_data",
+            "Videos": null,
+            "Views": 4173,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

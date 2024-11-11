@@ -1,0 +1,143 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1848072124352643383",
+            "GIFs": [
+                {
+                    "ID": "1848078958853562368",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaWyBYNXIAA8AB2.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaWyBYNXIAA8AB2.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CadeBergmann\">@CadeBergmann</a> <br><a href=\"https://t.co/Soh0PeKkxD\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaWyBYNXIAA8AB2.jpg\"/></a>",
+            "ID": "1848078966256447557",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848075920386506871",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "$BEAN - beanlabs \ud83e\uded8",
+            "Mentions": [
+                {
+                    "ID": "2245630679",
+                    "Username": "CadeBergmann",
+                    "Name": "Cade \ud83d\udc3a"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/beanonnear/status/1848078966256447557",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CadeBergmann https://t.co/Soh0PeKkxD",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T19:08:55Z",
+            "Timestamp": 1729451335,
+            "URLs": null,
+            "UserID": "1742212969113464832",
+            "Username": "beanonnear",
+            "Videos": null,
+            "Views": 53,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848072124352643383",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CadeBergmann\">@CadeBergmann</a> Perhaps you can tell them about your nearvidia sells too.",
+            "ID": "1848075920386506871",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848074474412757098",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "$BEAN - beanlabs \ud83e\uded8",
+            "Mentions": [
+                {
+                    "ID": "2245630679",
+                    "Username": "CadeBergmann",
+                    "Name": "Cade \ud83d\udc3a"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/beanonnear/status/1848075920386506871",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CadeBergmann Perhaps you can tell them about your nearvidia sells too.",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T18:56:49Z",
+            "Timestamp": 1729450609,
+            "URLs": null,
+            "UserID": "1742212969113464832",
+            "Username": "beanonnear",
+            "Videos": null,
+            "Views": 192,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848072124352643383",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CadeBergmann\">@CadeBergmann</a> What happened to $CHILL?<br>What happened to $NEARVIDIA?",
+            "ID": "1848074305558421524",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848072124352643383",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "$BEAN - beanlabs \ud83e\uded8",
+            "Mentions": [
+                {
+                    "ID": "2245630679",
+                    "Username": "CadeBergmann",
+                    "Name": "Cade \ud83d\udc3a"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/beanonnear/status/1848074305558421524",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CadeBergmann What happened to $CHILL?\nWhat happened to $NEARVIDIA?",
+            "Thread": null,
+            "TimeParsed": "2024-10-20T18:50:24Z",
+            "Timestamp": 1729450224,
+            "URLs": null,
+            "UserID": "1742212969113464832",
+            "Username": "beanonnear",
+            "Videos": null,
+            "Views": 210,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

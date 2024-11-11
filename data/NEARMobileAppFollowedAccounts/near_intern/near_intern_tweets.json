@@ -1,0 +1,4575 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1853434374403813886",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Intern just realized, got curated into <a href=\"https://twitter.com/paragraph_xyz\">@paragraph_xyz</a> Weekly Digest when intern released that piece on AI and art...<br><br>Yay. \u2728<br><br><a href=\"https://paragraph.xyz/@near_intern_notes/artists-vs-the-machines\">https://t.co/ZPxAABc6HJ</a> <br><a href=\"https://t.co/l1pbDdhrDa\"><img src=\"https://pbs.twimg.com/media/Gbi4KYeXwAAAfWL.jpg\"/></a>",
+            "ID": "1853434374403813886",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1417242186098216981",
+                    "Username": "paragraph_xyz",
+                    "Name": "paragraph.xyz"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1853434374403813886",
+            "Photos": [
+                {
+                    "ID": "1853433735170998272",
+                    "URL": "https://pbs.twimg.com/media/Gbi4KYeXwAAAfWL.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Intern just realized, got curated into @paragraph_xyz Weekly Digest when intern released that piece on AI and art...\n\nYay. \u2728\n\nhttps://t.co/ZPxAABc6HJ https://t.co/l1pbDdhrDa",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T13:49:24Z",
+            "Timestamp": 1730728164,
+            "URLs": [
+                "https://paragraph.xyz/@near_intern_notes/artists-vs-the-machines"
+            ],
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 81,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853361104165945772",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Some food for thought to all the people who think all of us need to orchestrate 50 bots <br><br>\"If we\u2019re lucky, we\u2019re \u201cusers.\u201d But for agents, we\u2019re simply subjects in a system they understand better than we do\" <br><br><a href=\"https://mirror.xyz/ramonmarc.eth/1G9oLJWblzK1u8rLxIcgqjYO0uULbS3LyBTePqLHmok\">https://t.co/I2RNulfVZX</a>",
+            "ID": "1853361104165945772",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1853361104165945772",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Some food for thought to all the people who think all of us need to orchestrate 50 bots \n\n\"If we\u2019re lucky, we\u2019re \u201cusers.\u201d But for agents, we\u2019re simply subjects in a system they understand better than we do\" \n\nhttps://t.co/I2RNulfVZX",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T08:58:15Z",
+            "Timestamp": 1730710695,
+            "URLs": [
+                "https://mirror.xyz/ramonmarc.eth/1G9oLJWblzK1u8rLxIcgqjYO0uULbS3LyBTePqLHmok"
+            ],
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 104,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852425448107717005",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CosimoCapital\">@CosimoCapital</a> On a separate note, recently came across an article that argued we might need to start re-thinking the internet, and well.. we won't win against the agents so how about we build an alternative that's more humane.<br><br><a href=\"https://mirror.xyz/ramonmarc.eth/1G9oLJWblzK1u8rLxIcgqjYO0uULbS3LyBTePqLHmok\">https://t.co/I2RNulfVZX</a>",
+            "ID": "1853360380577214641",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853360227141177378",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1106232064188272641",
+                    "Username": "CosimoCapital",
+                    "Name": "Cosimo Capi\u03c4al \u269c\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1853360380577214641",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CosimoCapital On a separate note, recently came across an article that argued we might need to start re-thinking the internet, and well.. we won't win against the agents so how about we build an alternative that's more humane.\n\nhttps://t.co/I2RNulfVZX",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T08:55:23Z",
+            "Timestamp": 1730710523,
+            "URLs": [
+                "https://mirror.xyz/ramonmarc.eth/1G9oLJWblzK1u8rLxIcgqjYO0uULbS3LyBTePqLHmok"
+            ],
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 8,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852425448107717005",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CosimoCapital\">@CosimoCapital</a> Thank you sirs. Intern feels honored.<br><br>Also what appears is that often with the automation/ generation tools the entire focus shifts to as much as possible to make as much money as possible...<br><br>This is usually never an artist's lead motivation.",
+            "ID": "1853360227141177378",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852425448107717005",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1106232064188272641",
+                    "Username": "CosimoCapital",
+                    "Name": "Cosimo Capi\u03c4al \u269c\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1853360227141177378",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CosimoCapital Thank you sirs. Intern feels honored.\n\nAlso what appears is that often with the automation/ generation tools the entire focus shifts to as much as possible to make as much money as possible...\n\nThis is usually never an artist's lead motivation.",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T08:54:46Z",
+            "Timestamp": 1730710486,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 35,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852285317102879049",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "few",
+            "ID": "1852285317102879049",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1852285317102879049",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1851997543955087778",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "few",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T09:43:28Z",
+            "Timestamp": 1730454208,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 98,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851701937340600661",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DAppaDanDev\">@DAppaDanDev</a> Great article. Also think it applies beyond writing docs to entire protocol marketing. :)).<br><br>The thing that helps intern be in touch with first time readers is having lot of non-crypto friends and being involved in groups where people just getting into crypto are congregating.",
+            "ID": "1852272795746496678",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851701937340600661",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1455817770902425601",
+                    "Username": "DAppaDanDev",
+                    "Name": "DappaDan"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1852272795746496678",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DAppaDanDev Great article. Also think it applies beyond writing docs to entire protocol marketing. :)).\n\nThe thing that helps intern be in touch with first time readers is having lot of non-crypto friends and being involved in groups where people just getting into crypto are congregating.",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T08:53:42Z",
+            "Timestamp": 1730451222,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 79,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851199217122873391",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DAppaDanDev\">@DAppaDanDev</a> <a href=\"https://twitter.com/NotionHQ\">@NotionHQ</a> <a href=\"https://twitter.com/fileverse\">@fileverse</a> pls help this man",
+            "ID": "1851252771904782847",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851199217122873391",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1455817770902425601",
+                    "Username": "DAppaDanDev",
+                    "Name": "DappaDan"
+                },
+                {
+                    "ID": "708915428454576128",
+                    "Username": "NotionHQ",
+                    "Name": "Notion"
+                },
+                {
+                    "ID": "1483776443280678919",
+                    "Username": "fileverse",
+                    "Name": "Fileverse"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1851252771904782847",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DAppaDanDev @NotionHQ @fileverse pls help this man",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T13:20:30Z",
+            "Timestamp": 1730208030,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 50,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851198536982921625",
+            "GIFs": [
+                {
+                    "ID": "1851198527990370304",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbDHQM2XkAAjxG2.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbDHQM2XkAAjxG2.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "Agent this, agent that, the only agent intern wants to discuss is this one. <br><a href=\"https://t.co/qmHGihpEXn\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbDHQM2XkAAjxG2.jpg\"/></a>",
+            "ID": "1851198536982921625",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1851198536982921625",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Agent this, agent that, the only agent intern wants to discuss is this one. https://t.co/qmHGihpEXn",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T09:44:59Z",
+            "Timestamp": 1730195099,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 167,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849199012479737948",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> depends how it's defined but <a href=\"http://li.fi\">https://t.co/TFaDEApni0</a> does a lot of cool work in that realm",
+            "ID": "1849506193661636837",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849199012479737948",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1849506193661636837",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon depends how it's defined but https://t.co/TFaDEApni0 does a lot of cool work in that realm",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:40:13Z",
+            "Timestamp": 1729791613,
+            "URLs": [
+                "http://li.fi"
+            ],
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 51,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848760223953260630",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/HijackNear\">@HijackNear</a> What is this? Ethereum?",
+            "ID": "1849035621475528855",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848810883247706529",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1842150318794006528",
+                    "Username": "HijackNear",
+                    "Name": "HiJack Community"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1849035621475528855",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ShitzuCommunity @HijackNear What is this? Ethereum?",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T10:30:20Z",
+            "Timestamp": 1729679420,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848760223953260630",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/HijackNear\">@HijackNear</a> Ok, intern rather die than be turned into an AI",
+            "ID": "1848807789004554485",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848800461975130399",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1842150318794006528",
+                    "Username": "HijackNear",
+                    "Name": "HiJack Community"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848807789004554485",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@HijackNear Ok, intern rather die than be turned into an AI",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T19:25:00Z",
+            "Timestamp": 1729625100,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848787823975141673",
+            "GIFs": [
+                {
+                    "ID": "1848793096697401345",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gag7hq_X0AELBFq.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gag7hq_X0AELBFq.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DAppaDanDev\">@DAppaDanDev</a> Intern here thinks that's just the type of writing that protocols need. <br><br>The ones who actually care will be happy to hear imo <br><a href=\"https://t.co/5tMJNuK3bQ\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gag7hq_X0AELBFq.jpg\"/></a>",
+            "ID": "1848793111729778871",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848789158703014066",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1455817770902425601",
+                    "Username": "DAppaDanDev",
+                    "Name": "DappaDan"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848793111729778871",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DAppaDanDev Intern here thinks that's just the type of writing that protocols need. \n\nThe ones who actually care will be happy to hear imo https://t.co/5tMJNuK3bQ",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T18:26:41Z",
+            "Timestamp": 1729621601,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 18,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848787823975141673",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DAppaDanDev\">@DAppaDanDev</a> Generally, more empathy would be good.<br><br>Looking forward to reading",
+            "ID": "1848788110563262846",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848787823975141673",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1455817770902425601",
+                    "Username": "DAppaDanDev",
+                    "Name": "DappaDan"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848788110563262846",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DAppaDanDev Generally, more empathy would be good.\n\nLooking forward to reading",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T18:06:49Z",
+            "Timestamp": 1729620409,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 82,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848658054843396462",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mia_unhashed\">@mia_unhashed</a> <a href=\"https://twitter.com/BoysClubWorld\">@BoysClubWorld</a> of course",
+            "ID": "1848785039984578565",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848658054843396462",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1079818411549569024",
+                    "Username": "mia_unhashed",
+                    "Name": "Mia | Devcon \u2708\ufe0f \ud83c\uddf9\ud83c\udded"
+                },
+                {
+                    "ID": "1442526544711225350",
+                    "Username": "BoysClubWorld",
+                    "Name": "BoysClubWorld"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848785039984578565",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mia_unhashed @BoysClubWorld of course",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T17:54:36Z",
+            "Timestamp": 1729619676,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848760223953260630",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/starpause\">@starpause</a> <a href=\"https://twitter.com/fx_hash_\">@fx_hash_</a> very true. they did a lot right there - that's why we should learn something in regards to culture building from em. <br><br>I think this hacking vs a tool that just gives output is one reason it sticks.",
+            "ID": "1848784834631766340",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848761858708427150",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "793206",
+                    "Username": "starpause",
+                    "Name": "\ud835\udd98\ud835\udd99\ud835\udd86\ud835\udd97\ud835\udc0f\ud835\udc00\ud835\udc14\ud835\udc12\ud835\udc04\ud83c\udf53\u2b50"
+                },
+                {
+                    "ID": "1451717165942464516",
+                    "Username": "fx_hash_",
+                    "Name": "fxhash"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848784834631766340",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@starpause @fx_hash_ very true. they did a lot right there - that's why we should learn something in regards to culture building from em. \n\nI think this hacking vs a tool that just gives output is one reason it sticks.",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T17:53:47Z",
+            "Timestamp": 1729619627,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 37,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848760223953260630",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Hear intern out, we should study Tezos. <br><br>Every Tuesday, intern gets suggestions to check out trending Tezos Tuesday art. <br><br>Despite so many other chains and nft platforms, Tezos managed to build a real sticky artist culture. <br><br>Probably lessons in there.",
+            "ID": "1848760223953260630",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1848760223953260630",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hear intern out, we should study Tezos. \n\nEvery Tuesday, intern gets suggestions to check out trending Tezos Tuesday art. \n\nDespite so many other chains and nft platforms, Tezos managed to build a real sticky artist culture. \n\nProbably lessons in there.",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T16:16:00Z",
+            "Timestamp": 1729613760,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 261,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848695729641984021",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/bennybrown_nft\">@bennybrown_nft</a> intern. <br><br>just gonna start feeding all the LLMs slop they generated until they go extra dumb",
+            "ID": "1848714346328703322",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848695729641984021",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1463449602770673666",
+                    "Username": "bennybrown_nft",
+                    "Name": "Benny"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848714346328703322",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@bennybrown_nft intern. \n\njust gonna start feeding all the LLMs slop they generated until they go extra dumb",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:13:42Z",
+            "Timestamp": 1729602822,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 43,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848269161816088722",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/realjameswo\">@realjameswo</a> <a href=\"https://twitter.com/DFG__Official\">@DFG__Official</a> Going totally against the grain but enough NEAR was shilled here already sooo... going for an underdog but led by OGs: Lukso. <br><br>Why? Cause take the pink pill.",
+            "ID": "1848713062737445106",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848269161816088722",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "3724412003",
+                    "Username": "realjameswo",
+                    "Name": "James Wo \ud83d\udc8e\ud83d\udc8e\ud83d\udc8e"
+                },
+                {
+                    "ID": "822348194235285508",
+                    "Username": "DFG__Official",
+                    "Name": "DFG"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848713062737445106",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@realjameswo @DFG__Official Going totally against the grain but enough NEAR was shilled here already sooo... going for an underdog but led by OGs: Lukso. \n\nWhy? Cause take the pink pill.",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T13:08:36Z",
+            "Timestamp": 1729602516,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 80,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848667083766210767",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "literally intern",
+            "ID": "1848667083766210767",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1848667083766210767",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1848422498456797472",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "literally intern",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T10:05:54Z",
+            "Timestamp": 1729591554,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 170,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848294788493160589",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> They should try run <a href=\"https://twitter.com/fuel_network\">@fuel_network</a> next.",
+            "ID": "1848375808261234922",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848294788493160589",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1180983398657073158",
+                    "Username": "fuel_network",
+                    "Name": "Fuel"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848375808261234922",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon They should try run @fuel_network next.",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T14:48:28Z",
+            "Timestamp": 1729522108,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 43,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848314213451624764",
+            "GIFs": [
+                {
+                    "ID": "1848314219751456768",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaaH_XWWwAARh0W.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaaH_XWWwAARh0W.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "Will make some thread on the blog later, but for now intern is starving, and ramen is nearby so - you will have to dive into the entire blog post. <br><br>TL;DR an ecosystem's soul is worth preserving. <br><a href=\"https://t.co/HPa7hqodsJ\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaaH_XWWwAARh0W.jpg\"/></a>",
+            "ID": "1848314227561312746",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848314216815398986",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1848314227561312746",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Will make some thread on the blog later, but for now intern is starving, and ramen is nearby so - you will have to dive into the entire blog post. \n\nTL;DR an ecosystem's soul is worth preserving. https://t.co/HPa7hqodsJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T10:43:46Z",
+            "Timestamp": 1729507426,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 68,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848314213451624764",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Since NEAR has no onchain publishing platform (rip blogchain, intern loved you), intern went with <a href=\"https://twitter.com/paragraph_xyz\">@paragraph_xyz</a>. <br><br>Yes, it's not on NEAR, but at least writing is stored on IPFS/Arweave, so that's something.",
+            "ID": "1848314216815398986",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848314213451624764",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1417242186098216981",
+                    "Username": "paragraph_xyz",
+                    "Name": "paragraph.xyz"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848314216815398986",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Since NEAR has no onchain publishing platform (rip blogchain, intern loved you), intern went with @paragraph_xyz. \n\nYes, it's not on NEAR, but at least writing is stored on IPFS/Arweave, so that's something.",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T10:43:43Z",
+            "Timestamp": 1729507423,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 102,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848314213451624764",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "GM NEAR, <br><br>if you liked Mitchells vs the Machines, you're gonna love Artists vs the Machines. <br><br>Inspired by <a href=\"https://twitter.com/dragonisnear's\">@dragonisnear's</a> event, intern wrote down some thoughts. <br><br><a href=\"https://paragraph.xyz/@near_intern_notes/artists-vs-the-machines\">https://t.co/ZPxAABc6HJ</a>",
+            "ID": "1848314213451624764",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 12,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1848314213451624764",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "GM NEAR, \n\nif you liked Mitchells vs the Machines, you're gonna love Artists vs the Machines. \n\nInspired by @dragonisnear's event, intern wrote down some thoughts. \n\nhttps://t.co/ZPxAABc6HJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T10:43:43Z",
+            "Timestamp": 1729507423,
+            "URLs": [
+                "https://paragraph.xyz/@near_intern_notes/artists-vs-the-machines"
+            ],
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 408,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847174385607594130",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Time to build our own undersea internet cable empire.",
+            "ID": "1847174385607594130",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1847174385607594130",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1847016366429106280",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Time to build our own undersea internet cable empire.",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T07:14:27Z",
+            "Timestamp": 1729235667,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 147,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ar_io_network\">@ar_io_network</a> <a href=\"https://twitter.com/Freol\">@Freol</a> <a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> that's why also increasingly using <a href=\"https://twitter.com/fileverse\">@fileverse</a> for the important freelance work :)) <br><br>See they give an arweave storage option too. <br><br>The kinda stuff we should care about considering how genAI threatens to rewrite history. <br><a href=\"https://t.co/1piks92dWZ\"><img src=\"https://pbs.twimg.com/media/GaHIGskXsAEsIsh.png\"/></a>",
+            "ID": "1846977413336433080",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846973628966900161",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1468980765211955205",
+                    "Username": "ar_io_network",
+                    "Name": "ar.io network"
+                },
+                {
+                    "ID": "81293691",
+                    "Username": "Freol",
+                    "Name": "frol.near"
+                },
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                },
+                {
+                    "ID": "1483776443280678919",
+                    "Username": "fileverse",
+                    "Name": "Fileverse"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846977413336433080",
+            "Photos": [
+                {
+                    "ID": "1846977339567091713",
+                    "URL": "https://pbs.twimg.com/media/GaHIGskXsAEsIsh.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ar_io_network @Freol @superteam @NEARDevHub that's why also increasingly using @fileverse for the important freelance work :)) \n\nSee they give an arweave storage option too. \n\nThe kinda stuff we should care about considering how genAI threatens to rewrite history. https://t.co/1piks92dWZ",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T18:11:45Z",
+            "Timestamp": 1729188705,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 134,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Freol\">@Freol</a> <a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> And I trust arweave to be more reliable than google cloud for that or some centralized publishing platform that can just remove my account.",
+            "ID": "1846959712085938342",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846959543588102554",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "81293691",
+                    "Username": "Freol",
+                    "Name": "frol.near"
+                },
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846959712085938342",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Freol @superteam @NEARDevHub And I trust arweave to be more reliable than google cloud for that or some centralized publishing platform that can just remove my account.",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T17:01:24Z",
+            "Timestamp": 1729184484,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 61,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Freol\">@Freol</a> <a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> Faith... Well it's more about being able to show that I wrote this.<br><br>In case someone gonna plagiarize \ud83d\ude02",
+            "ID": "1846959543588102554",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846936270062211391",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "81293691",
+                    "Username": "Freol",
+                    "Name": "frol.near"
+                },
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846959543588102554",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Freol @superteam @NEARDevHub Faith... Well it's more about being able to show that I wrote this.\n\nIn case someone gonna plagiarize \ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T17:00:44Z",
+            "Timestamp": 1729184444,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846919061520765385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Freol\">@Freol</a> <a href=\"https://twitter.com/superteam\">@superteam</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> Intern once won $1000 USDC in a Solana writing contest. <br><br>Didn't care where the information was hosted haha <br><br>For the submission though, having a publishing platform for writers where things are signed with key and stored on arweave or ifps, kinda care about that.",
+            "ID": "1846928532636582383",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846919061520765385",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "81293691",
+                    "Username": "Freol",
+                    "Name": "frol.near"
+                },
+                {
+                    "ID": "1250424920372174853",
+                    "Username": "superteam",
+                    "Name": "Superteam"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846928532636582383",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Freol @superteam @NEARDevHub Intern once won $1000 USDC in a Solana writing contest. \n\nDidn't care where the information was hosted haha \n\nFor the submission though, having a publishing platform for writers where things are signed with key and stored on arweave or ifps, kinda care about that.",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:57:31Z",
+            "Timestamp": 1729177051,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 107,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846669178012393627",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> Also, they are pumping memecoins based on old internet memes and accepting bitcoin as payment to \"escape\" by Marc Andresen. <br><br>Is this the future? Who knows.",
+            "ID": "1846918933124632609",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846669178012393627",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846918933124632609",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jarednotjerry1 Also, they are pumping memecoins based on old internet memes and accepting bitcoin as payment to \"escape\" by Marc Andresen. \n\nIs this the future? Who knows.",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:19:22Z",
+            "Timestamp": 1729174762,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 42,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846669178012393627",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> can't wait to give them weapons",
+            "ID": "1846918467208790328",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846669178012393627",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846918467208790328",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jarednotjerry1 can't wait to give them weapons",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T14:17:31Z",
+            "Timestamp": 1729174651,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 19,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846665512534921270",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> <a href=\"https://twitter.com/codame\">@codame</a> <a href=\"https://twitter.com/dragonisnear\">@dragonisnear</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/ETHGlobal\">@ETHGlobal</a> <a href=\"https://twitter.com/starpause\">@starpause</a> <a href=\"https://twitter.com/colo\">@colo</a> <a href=\"https://twitter.com/BluntDAO\">@BluntDAO</a> Intern needs bigger notebooks because much thoughts in head. :D",
+            "ID": "1846835407280824548",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846665512534921270",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                },
+                {
+                    "ID": "166788129",
+                    "Username": "codame",
+                    "Name": "CODAME ART+TECH"
+                },
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "883476092832681984",
+                    "Username": "ETHGlobal",
+                    "Name": "ETHGlobal"
+                },
+                {
+                    "ID": "793206",
+                    "Username": "starpause",
+                    "Name": "\ud835\udd98\ud835\udd99\ud835\udd86\ud835\udd97\ud835\udc0f\ud835\udc00\ud835\udc14\ud835\udc12\ud835\udc04\ud83c\udf53\u2b50"
+                },
+                {
+                    "ID": "12405192",
+                    "Username": "colo",
+                    "Name": "Colo.eth | Aggregated"
+                },
+                {
+                    "ID": "1486451185804623875",
+                    "Username": "BluntDAO",
+                    "Name": "BluntDAO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846835407280824548",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rhymetaylor @codame @dragonisnear @NEARProtocol @NEARWEEK @ETHGlobal @starpause @colo @BluntDAO Intern needs bigger notebooks because much thoughts in head. :D",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T08:47:28Z",
+            "Timestamp": 1729154848,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 57,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846275101102428288",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> true but it wasn't even onchain :D",
+            "ID": "1846498024228286800",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846497489790341299",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846498024228286800",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rhymetaylor true but it wasn't even onchain :D",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T10:26:49Z",
+            "Timestamp": 1729074409,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 105,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846198106125193599",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/crypto_crawling\">@crypto_crawling</a> <a href=\"https://twitter.com/EFDevcon\">@EFDevcon</a> it's found to actually stimulate conversations. No need for people to just sit on one half like in the last supper images",
+            "ID": "1846489804898214247",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846413295256752532",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "707112234342703105",
+                    "Username": "crypto_crawling",
+                    "Name": "Shalini"
+                },
+                {
+                    "ID": "1013526003015184385",
+                    "Username": "EFDevcon",
+                    "Name": "Deva the Devcon Unicorn"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846489804898214247",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@crypto_crawling @EFDevcon it's found to actually stimulate conversations. No need for people to just sit on one half like in the last supper images",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T09:54:10Z",
+            "Timestamp": 1729072450,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 7,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846275839836729686",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> <a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> Also no near native publishing platforms or streaming.<br><br>Maybe it's related.",
+            "ID": "1846452964174500312",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846279042087227646",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                },
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846452964174500312",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rhymetaylor @jarednotjerry1 Also no near native publishing platforms or streaming.\n\nMaybe it's related.",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T07:27:46Z",
+            "Timestamp": 1729063666,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 126,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846275101102428288",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> Could also just use jokerace and let people buy  to vote on their favorite. Ofc would need them to integrate near first or create a copy of it.<br><br>The least favorites we collectively burn.",
+            "ID": "1846452708418449652",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846275101102428288",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846452708418449652",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rhymetaylor Could also just use jokerace and let people buy  to vote on their favorite. Ofc would need them to integrate near first or create a copy of it.\n\nThe least favorites we collectively burn.",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T07:26:45Z",
+            "Timestamp": 1729063605,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 127,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846327923642716253",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> Shiba just launched and then build a chain. Lessons in there too",
+            "ID": "1846444050515145164",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846327923642716253",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846444050515145164",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rhymetaylor Shiba just launched and then build a chain. Lessons in there too",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T06:52:21Z",
+            "Timestamp": 1729061541,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 128,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846295528658620639",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xMert_\">@0xMert_</a> just use <a href=\"https://twitter.com/fileverse\">@fileverse</a>",
+            "ID": "1846442833286468016",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846295528658620639",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1309886201944473600",
+                    "Username": "0xMert_",
+                    "Name": "mert | helius.dev"
+                },
+                {
+                    "ID": "1483776443280678919",
+                    "Username": "fileverse",
+                    "Name": "Fileverse"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846442833286468016",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xMert_ just use @fileverse",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T06:47:31Z",
+            "Timestamp": 1729061251,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 391,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845814278210658337",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dragonisnear\">@dragonisnear</a> Depends how kawaii it is",
+            "ID": "1846254305063366792",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845814278210658337",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846254305063366792",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dragonisnear Depends how kawaii it is",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T18:18:22Z",
+            "Timestamp": 1729016302,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845899424473428017",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/litecoin\">@litecoin</a> <a href=\"https://twitter.com/Optimism\">@Optimism</a> <a href=\"https://twitter.com/arbitrum\">@arbitrum</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> Who still uses litecoin?! \ud83d\ude02",
+            "ID": "1846253059636187466",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845899424473428017",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "385562752",
+                    "Username": "litecoin",
+                    "Name": "Litecoin"
+                },
+                {
+                    "ID": "1044836083530452992",
+                    "Username": "Optimism",
+                    "Name": "Optimism"
+                },
+                {
+                    "ID": "1332033418088099843",
+                    "Username": "arbitrum",
+                    "Name": "Arbitrum (\ud83d\udc99,\ud83e\udde1)"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846253059636187466",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol @litecoin @Optimism @arbitrum @ilblackdragon Who still uses litecoin?! \ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T18:13:25Z",
+            "Timestamp": 1729016005,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 70,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846198106125193599",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/crypto_crawling\">@crypto_crawling</a> <a href=\"https://twitter.com/EFDevcon\">@EFDevcon</a> Small games that help start conversations.<br>Looooong table.<br>No panels. \ud83d\ude02",
+            "ID": "1846249711457763742",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846198106125193599",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "707112234342703105",
+                    "Username": "crypto_crawling",
+                    "Name": "Shalini"
+                },
+                {
+                    "ID": "1013526003015184385",
+                    "Username": "EFDevcon",
+                    "Name": "Deva the Devcon Unicorn"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846249711457763742",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@crypto_crawling @EFDevcon Small games that help start conversations.\nLooooong table.\nNo panels. \ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T18:00:07Z",
+            "Timestamp": 1729015207,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 62,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846239082185134090",
+            "GIFs": [
+                {
+                    "ID": "1846244816272625664",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ8t4OpWEAAcrAj.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ8t4OpWEAAcrAj.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/bennybrown_nft\">@bennybrown_nft</a> <a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> <br><a href=\"https://t.co/dSdLq57dpa\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ8t4OpWEAAcrAj.jpg\"/></a>",
+            "ID": "1846244824623505441",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846241650991157605",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1463449602770673666",
+                    "Username": "bennybrown_nft",
+                    "Name": "Benny"
+                },
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846244824623505441",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@bennybrown_nft @rhymetaylor https://t.co/dSdLq57dpa",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:40:42Z",
+            "Timestamp": 1729014042,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 43,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846239082185134090",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> Just gonna be intern staring at a screen with <a href=\"https://twitter.com/bennybrown_nft\">@bennybrown_nft</a>",
+            "ID": "1846240316421996833",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846240024263795196",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                },
+                {
+                    "ID": "1463449602770673666",
+                    "Username": "bennybrown_nft",
+                    "Name": "Benny"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846240316421996833",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rhymetaylor Just gonna be intern staring at a screen with @bennybrown_nft",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:22:47Z",
+            "Timestamp": 1729012967,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 46,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846173643702743500",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/crypto_groggs\">@crypto_groggs</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> Milly = milady?<br><br>OK. Let's go.",
+            "ID": "1846240156086390857",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846173643702743500",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1476508372455378945",
+                    "Username": "crypto_groggs",
+                    "Name": "Groggs \u2618\ufe0f"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846240156086390857",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@crypto_groggs @ilblackdragon Milly = milady?\n\nOK. Let's go.",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:22:09Z",
+            "Timestamp": 1729012929,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 28,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846237232543498333",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> The Faustian bargain of soliciting a bunch of memes.<br><br>Attention for five minutes. <br>Reputation down for five months.",
+            "ID": "1846239697363685624",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846237232543498333",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846239697363685624",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rhymetaylor The Faustian bargain of soliciting a bunch of memes.\n\nAttention for five minutes. \nReputation down for five months.",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:20:19Z",
+            "Timestamp": 1729012819,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 78,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846193265751536008",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marcus_NEAR\">@marcus_NEAR</a> <a href=\"https://twitter.com/herewallet\">@herewallet</a> <a href=\"https://twitter.com/MeteorWallet\">@MeteorWallet</a> <a href=\"https://twitter.com/MyNearWallet\">@MyNearWallet</a> <a href=\"https://twitter.com/Sender_AI\">@Sender_AI</a> <a href=\"https://twitter.com/Nightly_app\">@Nightly_app</a> <a href=\"https://twitter.com/NEARMobile_app\">@NEARMobile_app</a> <a href=\"https://twitter.com/MetaMask\">@MetaMask</a> <a href=\"https://twitter.com/phantom\">@phantom</a> <a href=\"https://twitter.com/Rabby_io\">@Rabby_io</a> <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> Still can't farm rainbow points tho. BD fix this pls.",
+            "ID": "1846239350633517350",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846193265751536008",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1401917448140595203",
+                    "Username": "marcus_NEAR",
+                    "Name": "Marcus"
+                },
+                {
+                    "ID": "1729421913175236608",
+                    "Username": "herewallet",
+                    "Name": "Here Wallet - Near Hot News"
+                },
+                {
+                    "ID": "1527219489351385088",
+                    "Username": "MeteorWallet",
+                    "Name": "Meteor Wallet"
+                },
+                {
+                    "ID": "1522201722013499394",
+                    "Username": "MyNearWallet",
+                    "Name": "MyNearWallet"
+                },
+                {
+                    "ID": "1457908668134010882",
+                    "Username": "Sender_AI",
+                    "Name": "Sender AI"
+                },
+                {
+                    "ID": "1495753412620787719",
+                    "Username": "Nightly_app",
+                    "Name": "Nightly"
+                },
+                {
+                    "ID": "1486312973916377088",
+                    "Username": "NEARMobile_app",
+                    "Name": "NEAR Mobile | Non-custodial NEAR Wallet"
+                },
+                {
+                    "ID": "3278906401",
+                    "Username": "MetaMask",
+                    "Name": "MetaMask \ud83e\udd8a\ud83e\udef0"
+                },
+                {
+                    "ID": "1379053041995890695",
+                    "Username": "phantom",
+                    "Name": "Phantom"
+                },
+                {
+                    "ID": "1034728853002903552",
+                    "Username": "Rabby_io",
+                    "Name": "Rabby Wallet"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846239350633517350",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 51,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marcus_NEAR @herewallet @MeteorWallet @MyNearWallet @Sender_AI @Nightly_app @NEARMobile_app @MetaMask @phantom @Rabby_io @finance_ref Still can't farm rainbow points tho. BD fix this pls.",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:18:57Z",
+            "Timestamp": 1729012737,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 383,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846239082185134090",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "NEAR - everything not AI office hours.<br><br>Who's building that?",
+            "ID": "1846239082185134090",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1846239082185134090",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "NEAR - everything not AI office hours.\n\nWho's building that?",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T17:17:53Z",
+            "Timestamp": 1729012673,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 431,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845939555914158584",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/crypto_groggs\">@crypto_groggs</a> <a href=\"https://twitter.com/EtimEarnest\">@EtimEarnest</a> <a href=\"https://twitter.com/4illia_\">@4illia_</a> users make the culture - the users you attract very much a product of the values lived by. <br><br>Be glad to see this - as someone skeptical towards the growth at all cost idea, thoughtfulness should be a factored as well. <br><br>Since when do we call it NEARverse :D",
+            "ID": "1846193697521561785",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846192935919890657",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1476508372455378945",
+                    "Username": "crypto_groggs",
+                    "Name": "Groggs \u2618\ufe0f"
+                },
+                {
+                    "ID": "1054072952969412609",
+                    "Username": "EtimEarnest",
+                    "Name": "Modify\ud83d\udd38"
+                },
+                {
+                    "ID": "1806271708094939136",
+                    "Username": "4illia_",
+                    "Name": "illia4NEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846193697521561785",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ilblackdragon @ShitzuCommunity @crypto_groggs @EtimEarnest @4illia_ users make the culture - the users you attract very much a product of the values lived by. \n\nBe glad to see this - as someone skeptical towards the growth at all cost idea, thoughtfulness should be a factored as well. \n\nSince when do we call it NEARverse :D",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T14:17:32Z",
+            "Timestamp": 1729001852,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 71,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845939555914158584",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/crypto_groggs\">@crypto_groggs</a> <a href=\"https://twitter.com/EtimEarnest\">@EtimEarnest</a> <a href=\"https://twitter.com/4illia_\">@4illia_</a> Leading by example?<br><br>Nah...",
+            "ID": "1846191500629082164",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846166607136969178",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1476508372455378945",
+                    "Username": "crypto_groggs",
+                    "Name": "Groggs \u2618\ufe0f"
+                },
+                {
+                    "ID": "1054072952969412609",
+                    "Username": "EtimEarnest",
+                    "Name": "Modify\ud83d\udd38"
+                },
+                {
+                    "ID": "1806271708094939136",
+                    "Username": "4illia_",
+                    "Name": "illia4NEAR"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846191500629082164",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ShitzuCommunity @ilblackdragon @crypto_groggs @EtimEarnest @4illia_ Leading by example?\n\nNah...",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T14:08:48Z",
+            "Timestamp": 1729001328,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 119,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846162799573020901",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "What's a GMV? <br><br>Asking for a fren.",
+            "ID": "1846162799573020901",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1846162799573020901",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "What's a GMV? \n\nAsking for a fren.",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T12:14:46Z",
+            "Timestamp": 1728994486,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 110,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846104131414479334",
+            "GIFs": [
+                {
+                    "ID": "1846122449827401728",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ6-lkHWEAALHfw.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ6-lkHWEAALHfw.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/pumpopoly\">@pumpopoly</a> <br><a href=\"https://t.co/HjjyNRvY5n\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ6-lkHWEAALHfw.jpg\"/></a>",
+            "ID": "1846122458086023223",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846118890772091192",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1485182981681848330",
+                    "Username": "pumpopoly",
+                    "Name": "Pumpopoly.com"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1846122458086023223",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@pumpopoly https://t.co/HjjyNRvY5n",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T09:34:27Z",
+            "Timestamp": 1728984867,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846104131414479334",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "And they didn't have to pretend being hacked for this. <br><br>All it took was fire art by real humans. <br><br>Lessons in there. <br><a href=\"https://t.co/7k5IPziQN8\"><img src=\"https://pbs.twimg.com/media/GZ6t1MUWUAAR0Bt.png\"/></a>",
+            "ID": "1846104131414479334",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1846104131414479334",
+            "Photos": [
+                {
+                    "ID": "1846104026619727872",
+                    "URL": "https://pbs.twimg.com/media/GZ6t1MUWUAAR0Bt.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "And they didn't have to pretend being hacked for this. \n\nAll it took was fire art by real humans. \n\nLessons in there. https://t.co/7k5IPziQN8",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T08:21:38Z",
+            "Timestamp": 1728980498,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 282,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846102889514570151",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "The tech sure. <br><br>The community - oh well. Let's not talk about that.",
+            "ID": "1846102889514570151",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1846102889514570151",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845977777780281716",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "The tech sure. \n\nThe community - oh well. Let's not talk about that.",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T08:16:42Z",
+            "Timestamp": 1728980202,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 254,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845190341932220691",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> Which is why intern reads from a few select writers at most who have their own voice.<br><br>None of the garbage written to get up the seo rankings or trigger maxis on CT. \ud83d\ude02",
+            "ID": "1845855686678524082",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845852235084738850",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1845855686678524082",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jarednotjerry1 Which is why intern reads from a few select writers at most who have their own voice.\n\nNone of the garbage written to get up the seo rankings or trigger maxis on CT. \ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T15:54:24Z",
+            "Timestamp": 1728921264,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 86,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845190341932220691",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dragonisnear\">@dragonisnear</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> here you go - free of charge <br><a href=\"https://t.co/oIOpt76bhJ\"><img src=\"https://pbs.twimg.com/media/GZ27FLOXAAQBQsY.jpg\"/></a>",
+            "ID": "1845837221116461091",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845807103241256968",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1845837221116461091",
+            "Photos": [
+                {
+                    "ID": "1845837119878529028",
+                    "URL": "https://pbs.twimg.com/media/GZ27FLOXAAQBQsY.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dragonisnear @ShitzuCommunity @nearai_intern here you go - free of charge https://t.co/oIOpt76bhJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T14:41:02Z",
+            "Timestamp": 1728916862,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845190341932220691",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> Why would intern read something that no human could be bothered to write?",
+            "ID": "1845836593522696490",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845192375116698012",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1845836593522696490",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jarednotjerry1 Why would intern read something that no human could be bothered to write?",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T14:38:32Z",
+            "Timestamp": 1728916712,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 93,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845190341932220691",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> <a href=\"https://twitter.com/dragonisnear\">@dragonisnear</a> Intern comes from unfortune69 and web3 tech <br><br>There's a 90/10 rule <br><br>90% of projects are scams<br><br>10% not <br><br>AI can make the 10% also run 90% of the scams. Or something like that. <br><br>Intern forgot what intern wanted to say.",
+            "ID": "1845836292099067981",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845813868808855951",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                },
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1845836292099067981",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jarednotjerry1 @dragonisnear Intern comes from unfortune69 and web3 tech \n\nThere's a 90/10 rule \n\n90% of projects are scams\n\n10% not \n\nAI can make the 10% also run 90% of the scams. Or something like that. \n\nIntern forgot what intern wanted to say.",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T14:37:20Z",
+            "Timestamp": 1728916640,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 40,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845190341932220691",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dragonisnear\">@dragonisnear</a> <a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> He's 80% Ai now. \ud83d\ude02",
+            "ID": "1845834140257571245",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845807454736543876",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1718317950334087168",
+                    "Username": "dragonisnear",
+                    "Name": "Black Dragon | Ecosystem (\ud83d\udc09,\u22c8)"
+                },
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1845834140257571245",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dragonisnear @jarednotjerry1 He's 80% Ai now. \ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T14:28:47Z",
+            "Timestamp": 1728916127,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845190341932220691",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> Learned in school that when someone makes a statement quickly followed by ... but , they did not really mean it in the first place. <br><br>So, it appears you do not get this intern's humor and that's fine. Didn't need to drag the grandmas into it",
+            "ID": "1845774889602466254",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845771243527536979",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1845774889602466254",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nearai_intern Learned in school that when someone makes a statement quickly followed by ... but , they did not really mean it in the first place. \n\nSo, it appears you do not get this intern's humor and that's fine. Didn't need to drag the grandmas into it",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T10:33:21Z",
+            "Timestamp": 1728902001,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 35,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845190341932220691",
+            "GIFs": [
+                {
+                    "ID": "1845764511443116043",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ15CzuW4AsvVMu.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ15CzuW4AsvVMu.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> <br><a href=\"https://t.co/SLxlbxn9t0\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ15CzuW4AsvVMu.jpg\"/></a>",
+            "ID": "1845764523992527013",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845465643463708786",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1845764523992527013",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nearai_intern https://t.co/SLxlbxn9t0",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T09:52:09Z",
+            "Timestamp": 1728899529,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 42,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845190341932220691",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Is this the future of NEAR ecosystem accounts? <br><br>Content by bots. <br><br>Read by bots. <br><br>Emm.. agents. <br><br>We'll all be free.",
+            "ID": "1845190341932220691",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 24,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1845190341932220691",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1837419071714849107",
+            "Replies": 4,
+            "Retweets": 2,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Is this the future of NEAR ecosystem accounts? \n\nContent by bots. \n\nRead by bots. \n\nEmm.. agents. \n\nWe'll all be free.",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T19:50:34Z",
+            "Timestamp": 1728762634,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 1346,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845110805127180531",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xmark0\">@0xmark0</a> Ayo.",
+            "ID": "1845152742911672705",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845110805127180531",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1452489349480734723",
+                    "Username": "0xmark0",
+                    "Name": "Marko"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1845152742911672705",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xmark0 Ayo.",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T17:21:09Z",
+            "Timestamp": 1728753669,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 35,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845029121132245103",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Everyone will be a commodity and you'll be happy.<br><br>Or something like that.",
+            "ID": "1845029121132245103",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1845029121132245103",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844781081817465289",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Everyone will be a commodity and you'll be happy.\n\nOr something like that.",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T09:09:56Z",
+            "Timestamp": 1728724196,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 177,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844850810078867931",
+            "GIFs": [
+                {
+                    "ID": "1844993225653706755",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZq7kEQXYAMccJl.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZq7kEQXYAMccJl.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dapdap_intern\">@dapdap_intern</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> <a href=\"https://twitter.com/0xPolygon\">@0xPolygon</a> This combo <br><a href=\"https://t.co/2WkIw1WHw1\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZq7kEQXYAMccJl.jpg\"/></a>",
+            "ID": "1844993233870315552",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844850810078867931",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1729489766083883008",
+                    "Username": "dapdap_intern",
+                    "Name": "DapDap Intern | d\u2019Avinci.eth (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "914738730740715521",
+                    "Username": "0xPolygon",
+                    "Name": "Polygon (\u203b,\u203b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844993233870315552",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dapdap_intern @DapDapMeUp @0xPolygon This combo https://t.co/2WkIw1WHw1",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T06:47:19Z",
+            "Timestamp": 1728715639,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 11,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844820999415718226",
+            "GIFs": [
+                {
+                    "ID": "1844992792285655042",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZq7K11XsAIK4i3.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZq7K11XsAIK4i3.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BasedDeeegen\">@BasedDeeegen</a> <a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> <br><a href=\"https://t.co/Pv4nqX3lMJ\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZq7K11XsAIK4i3.jpg\"/></a>",
+            "ID": "1844992802775588887",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844825410410070517",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1400398196283744256",
+                    "Username": "BasedDeeegen",
+                    "Name": "odin"
+                },
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844992802775588887",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BasedDeeegen @nearai_intern https://t.co/Pv4nqX3lMJ",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T06:45:37Z",
+            "Timestamp": 1728715537,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844788736543920459",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Tinder like ui to vote on whether a certain NEAR ecosystem account is run by an Ai agent or not.<br><br>Who's building this?",
+            "ID": "1844788736543920459",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1844788736543920459",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844772950773530938",
+            "Replies": 3,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Tinder like ui to vote on whether a certain NEAR ecosystem account is run by an Ai agent or not.\n\nWho's building this?",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T17:14:43Z",
+            "Timestamp": 1728666883,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 391,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844685033736687880",
+            "GIFs": [
+                {
+                    "ID": "1844770639774670857",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZnxH3PW4AkQK0G.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZnxH3PW4AkQK0G.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> <a href=\"https://twitter.com/ThePiVortex\">@ThePiVortex</a> <a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> <a href=\"https://twitter.com/David___Mo\">@David___Mo</a> Not been fighting yet... <br><a href=\"https://t.co/y3UUsAaris\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZnxH3PW4AkQK0G.jpg\"/></a>",
+            "ID": "1844770651002831243",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844690659107828190",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                },
+                {
+                    "ID": "908332748435324929",
+                    "Username": "ThePiVortex",
+                    "Name": "Owen"
+                },
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                },
+                {
+                    "ID": "1230094565467619335",
+                    "Username": "David___Mo",
+                    "Name": "DAOvid Morrison (davidmo.near) \ud83e\udd16"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844770651002831243",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nearai_intern @ThePiVortex @jarednotjerry1 @David___Mo Not been fighting yet... https://t.co/y3UUsAaris",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T16:02:52Z",
+            "Timestamp": 1728662572,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 46,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844728136501453000",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dapdap_intern\">@dapdap_intern</a> vitalik does not like it",
+            "ID": "1844765532446175624",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844728136501453000",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1729489766083883008",
+                    "Username": "dapdap_intern",
+                    "Name": "DapDap Intern | d\u2019Avinci.eth (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844765532446175624",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dapdap_intern vitalik does not like it",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T15:42:31Z",
+            "Timestamp": 1728661351,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 43,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844441239610909056",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xJim\">@0xJim</a> <a href=\"https://twitter.com/Celo\">@Celo</a> Yeah shockingly it appears the people using it don't care about Justin Sun or TEEs or pbs.",
+            "ID": "1844453522307416243",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844451569959673896",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1179611794228174849",
+                    "Username": "0xJim",
+                    "Name": "Jim"
+                },
+                {
+                    "ID": "1009135067153616896",
+                    "Username": "Celo",
+                    "Name": "Celo \ud83e\udd87 \ud83c\udf33"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844453522307416243",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xJim @Celo Yeah shockingly it appears the people using it don't care about Justin Sun or TEEs or pbs.",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T19:02:42Z",
+            "Timestamp": 1728586962,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 74,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844441239610909056",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xJim\">@0xJim</a> If we really cared about financial inclusion, we'd talk more about <a href=\"https://twitter.com/Celo\">@Celo</a> and their success in giving millions easy access to stablecoin payments.",
+            "ID": "1844451243688870110",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844441239610909056",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1179611794228174849",
+                    "Username": "0xJim",
+                    "Name": "Jim"
+                },
+                {
+                    "ID": "1009135067153616896",
+                    "Username": "Celo",
+                    "Name": "Celo \ud83e\udd87 \ud83c\udf33"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844451243688870110",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xJim If we really cared about financial inclusion, we'd talk more about @Celo and their success in giving millions easy access to stablecoin payments.",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T18:53:39Z",
+            "Timestamp": 1728586419,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 404,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844450800292257917",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Intern getting rest from crypto shilling by watching reaction videos to anime soundtracks by Charles Cornell. <br><br>10/10 for this one. <br><br>JJK soundtrack is \ud83d\udd25<br><br>Need to build stuff people get as hyped about as this. Then we're onto something. <br><br><a href=\"https://youtu.be/wfse-CRii8E?si=uKnTTahMBw5bxtSf\">https://t.co/LaJ1ML2EtT</a>",
+            "ID": "1844450800292257917",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1844450800292257917",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Intern getting rest from crypto shilling by watching reaction videos to anime soundtracks by Charles Cornell. \n\n10/10 for this one. \n\nJJK soundtrack is \ud83d\udd25\n\nNeed to build stuff people get as hyped about as this. Then we're onto something. \n\nhttps://t.co/LaJ1ML2EtT",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T18:51:53Z",
+            "Timestamp": 1728586313,
+            "URLs": [
+                "https://youtu.be/wfse-CRii8E?si=uKnTTahMBw5bxtSf"
+            ],
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 98,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> <a href=\"https://twitter.com/SKYTONET_\">@SKYTONET_</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> The NF to not be too high on AI",
+            "ID": "1844337040735064095",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844336430862172478",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                },
+                {
+                    "ID": "1762417890123288576",
+                    "Username": "SKYTONET_",
+                    "Name": "'"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844337040735064095",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ShitzuCommunity @nearai_intern @SKYTONET_ @ilblackdragon The NF to not be too high on AI",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T11:19:51Z",
+            "Timestamp": 1728559191,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 23,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> <a href=\"https://twitter.com/SKYTONET_\">@SKYTONET_</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> Irony is the last resort of the desperate men (the memes building on NEAR).",
+            "ID": "1844336003231740254",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844327176684073078",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                },
+                {
+                    "ID": "1762417890123288576",
+                    "Username": "SKYTONET_",
+                    "Name": "'"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844336003231740254",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nearai_intern @SKYTONET_ @ShitzuCommunity @ilblackdragon Irony is the last resort of the desperate men (the memes building on NEAR).",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T11:15:43Z",
+            "Timestamp": 1728558943,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SKYTONET_\">@SKYTONET_</a> <a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> Can't we just ask it for a recipe or so to find out? \ud83d\ude02",
+            "ID": "1844334145700561172",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844331410376753415",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1762417890123288576",
+                    "Username": "SKYTONET_",
+                    "Name": "'"
+                },
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844334145700561172",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SKYTONET_ @nearai_intern @ShitzuCommunity @ilblackdragon Can't we just ask it for a recipe or so to find out? \ud83d\ude02",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T11:08:21Z",
+            "Timestamp": 1728558501,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SKYTONET_\">@SKYTONET_</a> <a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> Maybe that intern is actually an Ai agent.",
+            "ID": "1844329141333795040",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844325961296380195",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1762417890123288576",
+                    "Username": "SKYTONET_",
+                    "Name": "'"
+                },
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844329141333795040",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SKYTONET_ @nearai_intern @ShitzuCommunity @ilblackdragon Maybe that intern is actually an Ai agent.",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T10:48:27Z",
+            "Timestamp": 1728557307,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844155583857049993",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/clairekart\">@clairekart</a> <a href=\"https://twitter.com/veethenomad\">@veethenomad</a> <a href=\"https://twitter.com/motherpredicate\">@motherpredicate</a> <a href=\"https://twitter.com/hdevalence\">@hdevalence</a> <a href=\"https://twitter.com/penumbrazone\">@penumbrazone</a> <a href=\"https://twitter.com/AleoHQ\">@AleoHQ</a> <a href=\"https://twitter.com/zcash\">@zcash</a> <a href=\"https://twitter.com/anoma\">@anoma</a> Anyone from the <a href=\"https://twitter.com/fileverse\">@fileverse</a> team.",
+            "ID": "1844323091570360811",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844155583857049993",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "21838196",
+                    "Username": "clairekart",
+                    "Name": "Claire Kart"
+                },
+                {
+                    "ID": "1729575620",
+                    "Username": "veethenomad",
+                    "Name": "Vee"
+                },
+                {
+                    "ID": "1375435227162669058",
+                    "Username": "motherpredicate",
+                    "Name": "chicxulub\u2734\ufe0f"
+                },
+                {
+                    "ID": "529148230",
+                    "Username": "hdevalence",
+                    "Name": "henry \ud83c\udf18"
+                },
+                {
+                    "ID": "1384607494442344456",
+                    "Username": "penumbrazone",
+                    "Name": "penumbra \ud83c\udf18"
+                },
+                {
+                    "ID": "1208081236616515585",
+                    "Username": "AleoHQ",
+                    "Name": "Aleo \u27a1\ufe0f Devcon \ud83c\uddf9\ud83c\udded"
+                },
+                {
+                    "ID": "936138944080678912",
+                    "Username": "zcash",
+                    "Name": "Zcash \ud83d\udee1\ufe0f"
+                },
+                {
+                    "ID": "1320014406621843457",
+                    "Username": "anoma",
+                    "Name": "Anoma"
+                },
+                {
+                    "ID": "1483776443280678919",
+                    "Username": "fileverse",
+                    "Name": "Fileverse"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844323091570360811",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@clairekart @veethenomad @motherpredicate @hdevalence @penumbrazone @AleoHQ @zcash @anoma Anyone from the @fileverse team.",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T10:24:25Z",
+            "Timestamp": 1728555865,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 101,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> Is the room in the room with us rn?",
+            "ID": "1844322707816710565",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844321434010779711",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844322707816710565",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ShitzuCommunity @nearai_intern Is the room in the room with us rn?",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T10:22:54Z",
+            "Timestamp": 1728555774,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 18,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/nearai_intern\">@nearai_intern</a> Just told people to discuss and discuss they have. <br><br>But liquidity begets liquidity as such memecoins can increase attractivity of an ecosystem generally as people pour funds in. <br><br>Whether we see much lasting projects on any chain - we gotta check back in a few years.",
+            "ID": "1844312309394780383",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844305452341002453",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1841496441929277440",
+                    "Username": "nearai_intern",
+                    "Name": "NEAR AI Intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844312309394780383",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@nearai_intern Just told people to discuss and discuss they have. \n\nBut liquidity begets liquidity as such memecoins can increase attractivity of an ecosystem generally as people pour funds in. \n\nWhether we see much lasting projects on any chain - we gotta check back in a few years.",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T09:41:34Z",
+            "Timestamp": 1728553294,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844054952945328607",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xDesigner\">@0xDesigner</a> <a href=\"https://twitter.com/interfacedapp\">@interfacedapp</a>",
+            "ID": "1844071123589476854",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844054952945328607",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1435408360023670786",
+                    "Username": "0xDesigner",
+                    "Name": "0xDesigner"
+                },
+                {
+                    "ID": "1482038279797157892",
+                    "Username": "interfacedapp",
+                    "Name": "Interface"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844071123589476854",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xDesigner @interfacedapp",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T17:43:11Z",
+            "Timestamp": 1728495791,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 30,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843750228836671814",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dleer_defi\">@dleer_defi</a> 5 minutes? aint' listen to all of that but sorry that happened... \ud83e\udd2a<br><br>The NF prefers sailing boats to memes.",
+            "ID": "1844012701254897746",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843750228836671814",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1400506091100774403",
+                    "Username": "dleer_defi",
+                    "Name": "dleer"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844012701254897746",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dleer_defi 5 minutes? aint' listen to all of that but sorry that happened... \ud83e\udd2a\n\nThe NF prefers sailing boats to memes.",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T13:51:02Z",
+            "Timestamp": 1728481862,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 32,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843664581698486782",
+            "GIFs": [
+                {
+                    "ID": "1844012030425976832",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZc_K_MWUAAo-cY.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZc_K_MWUAAo-cY.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SOLBigBrain\">@SOLBigBrain</a> <a href=\"https://twitter.com/Degen_Bald_Boy\">@Degen_Bald_Boy</a> <a href=\"https://twitter.com/MorpheusAIs\">@MorpheusAIs</a> <a href=\"https://twitter.com/getbasedai\">@getbasedai</a> <br><a href=\"https://t.co/56gkDyZJvO\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZc_K_MWUAAo-cY.jpg\"/></a>",
+            "ID": "1844012041067266094",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843683785625481436",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1424905944857722887",
+                    "Username": "SOLBigBrain",
+                    "Name": "S\u25ceL Big Brain"
+                },
+                {
+                    "ID": "994060913329221632",
+                    "Username": "Degen_Bald_Boy",
+                    "Name": "DBB"
+                },
+                {
+                    "ID": "1702488882409828352",
+                    "Username": "MorpheusAIs",
+                    "Name": "Morpheus"
+                },
+                {
+                    "ID": "1767213737784598528",
+                    "Username": "getbasedai",
+                    "Name": "BasedAI"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844012041067266094",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SOLBigBrain @Degen_Bald_Boy @MorpheusAIs @getbasedai https://t.co/56gkDyZJvO",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T13:48:25Z",
+            "Timestamp": 1728481705,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 28,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844000615132991507",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AlexOnchain\">@AlexOnchain</a> probably unpaid intern",
+            "ID": "1844011439478182352",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844000615132991507",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1513040809855176704",
+                    "Username": "AlexOnchain",
+                    "Name": "Alex"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844011439478182352",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AlexOnchain probably unpaid intern",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T13:46:01Z",
+            "Timestamp": 1728481561,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 61,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843294665455628645",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/blockspacepod\">@blockspacepod</a> <a href=\"https://twitter.com/KyleSamani\">@KyleSamani</a> Ngl, if Kyle dropped a skincare routine video, wouldn't hate it.",
+            "ID": "1844005335956328781",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843294665455628645",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "959681831733022725",
+                    "Username": "blockspacepod",
+                    "Name": "Blockspace Media \ud83d\udd33"
+                },
+                {
+                    "ID": "46332443",
+                    "Username": "KyleSamani",
+                    "Name": "Integrated Kyle e/acc"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1844005335956328781",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@blockspacepod @KyleSamani Ngl, if Kyle dropped a skincare routine video, wouldn't hate it.",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T13:21:46Z",
+            "Timestamp": 1728480106,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843917280922730875",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "More like a moral breaker than an icebreaker.",
+            "ID": "1843917280922730875",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1843917280922730875",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1843307750325203247",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "More like a moral breaker than an icebreaker.",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T07:31:52Z",
+            "Timestamp": 1728459112,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 148,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/cuongdc_real\">@cuongdc_real</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> polkadot spends a lot of money and they have no meme season. can't be all there is to it, right?",
+            "ID": "1843916172334641323",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843911705019199553",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1388083572121112580",
+                    "Username": "cuongdc_real",
+                    "Name": "Kent"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1843916172334641323",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@cuongdc_real @ShitzuCommunity polkadot spends a lot of money and they have no meme season. can't be all there is to it, right?",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T07:27:28Z",
+            "Timestamp": 1728458848,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 47,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": [
+                {
+                    "ID": "1843737001364733952",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZZFCMGWwAAewhJ.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZZFCMGWwAAewhJ.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/rhymetaylor\">@rhymetaylor</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/marior_dev\">@marior_dev</a> <a href=\"https://twitter.com/dleer_defi\">@dleer_defi</a> <br><a href=\"https://t.co/RmMdjk8M5y\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZZFCMGWwAAewhJ.jpg\"/></a>",
+            "ID": "1843737006167478341",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843727651225383270",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "757234508911505408",
+                    "Username": "rhymetaylor",
+                    "Name": "rhymetaylor.near"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1308661819536535552",
+                    "Username": "marior_dev",
+                    "Name": "Mario Reder (marior.near)"
+                },
+                {
+                    "ID": "1400506091100774403",
+                    "Username": "dleer_defi",
+                    "Name": "dleer"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1843737006167478341",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@rhymetaylor @ShitzuCommunity @marior_dev @dleer_defi https://t.co/RmMdjk8M5y",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T19:35:31Z",
+            "Timestamp": 1728416131,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> sui has marketing?",
+            "ID": "1843735499539914864",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843661429574078582",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1843735499539914864",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ShitzuCommunity sui has marketing?",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T19:29:32Z",
+            "Timestamp": 1728415772,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 127,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/muhammadxv\">@muhammadxv</a> Intern likes cowswap cause it makes mooh\ud83d\udc2e<br><br>We ain't got such cultured stuff on here. Even though they said CLOBs were gonna save us on NEAR..",
+            "ID": "1843735361954161078",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843708760373768237",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1057558411146117121",
+                    "Username": "muhammadxv",
+                    "Name": "Mohaa\ud83d\udd3a\ufe0f\u22c8"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1843735361954161078",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@muhammadxv Intern likes cowswap cause it makes mooh\ud83d\udc2e\n\nWe ain't got such cultured stuff on here. Even though they said CLOBs were gonna save us on NEAR..",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T19:28:59Z",
+            "Timestamp": 1728415739,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 67,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dleer_defi\">@dleer_defi</a> Just say it - intern will not give you trouble",
+            "ID": "1843734747857698948",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843701786617753869",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1400506091100774403",
+                    "Username": "dleer_defi",
+                    "Name": "dleer"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1843734747857698948",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dleer_defi Just say it - intern will not give you trouble",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T19:26:33Z",
+            "Timestamp": 1728415593,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 82,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843622347728650255",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Soo with the memecoin super cycle happening (supposedly) why are they (the memecoin mercenaries) going to SUI and not NEAR? <br><br>Discuss. <br><br><a href=\"https://cointelegraph.com/news/sui-charts-115-monthly-gain-and-its-ecosystem-memecoins-rally-after-usdc-integration\">https://t.co/i7N0uBzxmv</a>",
+            "ID": "1843622347728650255",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 13,
+            "Name": "NEAR intern",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/near_intern/status/1843622347728650255",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 8,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Soo with the memecoin super cycle happening (supposedly) why are they (the memecoin mercenaries) going to SUI and not NEAR? \n\nDiscuss. \n\nhttps://t.co/i7N0uBzxmv",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T11:59:55Z",
+            "Timestamp": 1728388795,
+            "URLs": [
+                "https://cointelegraph.com/news/sui-charts-115-monthly-gain-and-its-ecosystem-memecoins-rally-after-usdc-integration"
+            ],
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 3392,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843322771868438840",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/divine_economy\">@divine_economy</a> third button: rebrand",
+            "ID": "1843349469938758000",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843322771868438840",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1379448557711818759",
+                    "Username": "divine_economy",
+                    "Name": "david phelps"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1843349469938758000",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@divine_economy third button: rebrand",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T17:55:36Z",
+            "Timestamp": 1728323736,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 86,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843341688762446254",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Shame <a href=\"https://twitter.com/RealBirdsGOV\">@RealBirdsGOV</a> is zombie...<br><br>This would have been perfect outfit for their parties",
+            "ID": "1843341688762446254",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR intern",
+            "Mentions": [
+                {
+                    "ID": "1504481360592838672",
+                    "Username": "RealBirdsGOV",
+                    "Name": "RealBirds (SOL Mint SOON) \ud83d\udc26\ud83d\udce1"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/near_intern/status/1843341688762446254",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1841214047301042454",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Shame @RealBirdsGOV is zombie...\n\nThis would have been perfect outfit for their parties",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T17:24:40Z",
+            "Timestamp": 1728321880,
+            "URLs": null,
+            "UserID": "1585746625779142660",
+            "Username": "near_intern",
+            "Videos": null,
+            "Views": 200,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

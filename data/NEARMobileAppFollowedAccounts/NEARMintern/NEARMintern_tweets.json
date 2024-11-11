@@ -1,0 +1,147 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854130461930361221",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARMobile_app\">@NEARMobile_app</a> Ohhhh yes! And smells great \ud83d\ude0b",
+            "ID": "1854131544266244105",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854130461930361221",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "TradFi \ud83e\udef5\ud83d\udc49 DeFi \ud83d\udc4c",
+            "Mentions": [
+                {
+                    "ID": "1486312973916377088",
+                    "Username": "NEARMobile_app",
+                    "Name": "NEAR Mobile | Non-custodial NEAR Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMintern/status/1854131544266244105",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARMobile_app Ohhhh yes! And smells great \ud83d\ude0b",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T11:59:42Z",
+            "Timestamp": 1730894382,
+            "URLs": null,
+            "UserID": "1831737728808976384",
+            "Username": "NEARMintern",
+            "Videos": null,
+            "Views": 32,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851951735897473204",
+            "GIFs": null,
+            "Hashtags": [
+                "XRPLSnap",
+                "XRPLedger"
+            ],
+            "HTML": "I've just installed the new <a href=\"https://twitter.com/Metamask\">@Metamask</a> <a href=\"https://twitter.com/hashtag/XRPLSnap\">#XRPLSnap</a> for the <a href=\"https://twitter.com/hashtag/XRPLedger\">#XRPLedger</a> build by <a href=\"https://twitter.com/Peersyst\">@Peersyst</a>! <a href=\"https://gleam.io/4mkf3/xrpl-metamask-snap-10000-xrp-early-adopter-campaign\">https://t.co/sPHb1qz6V0</a>",
+            "ID": "1851951735897473204",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "TradFi \ud83e\udef5\ud83d\udc49 DeFi \ud83d\udc4c",
+            "Mentions": [
+                {
+                    "ID": "3278906401",
+                    "Username": "MetaMask",
+                    "Name": "MetaMask \ud83e\udd8a\ud83e\udef0"
+                },
+                {
+                    "ID": "1185605699251953664",
+                    "Username": "Peersyst",
+                    "Name": "Peersyst Technology"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMintern/status/1851951735897473204",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "I've just installed the new @Metamask #XRPLSnap for the #XRPLedger build by @Peersyst! https://t.co/sPHb1qz6V0",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T11:37:56Z",
+            "Timestamp": 1730374676,
+            "URLs": [
+                "https://gleam.io/4mkf3/xrpl-metamask-snap-10000-xrp-early-adopter-campaign"
+            ],
+            "UserID": "1831737728808976384",
+            "Username": "NEARMintern",
+            "Videos": null,
+            "Views": 51,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849479445142253609",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf0b <a href=\"https://twitter.com/lavanetxyz\">@lavanetxyz</a> going live soon! \ud83e\udd84\ud83e\udee1",
+            "ID": "1849479445142253609",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "TradFi \ud83e\udef5\ud83d\udc49 DeFi \ud83d\udc4c",
+            "Mentions": [
+                {
+                    "ID": "1510514454559174664",
+                    "Username": "lavanetxyz",
+                    "Name": "Lava Network \ud83c\udf0b"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NEARMintern/status/1849479445142253609",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf0b @lavanetxyz going live soon! \ud83e\udd84\ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:53:56Z",
+            "Timestamp": 1729785236,
+            "URLs": null,
+            "UserID": "1831737728808976384",
+            "Username": "NEARMintern",
+            "Videos": null,
+            "Views": 109,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

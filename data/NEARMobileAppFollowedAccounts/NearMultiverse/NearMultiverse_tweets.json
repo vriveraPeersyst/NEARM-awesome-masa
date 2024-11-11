@@ -1,0 +1,4648 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1854598715019051030",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/MentoLabs\">@MentoLabs</a> <a href=\"https://twitter.com/EFDevcon\">@EFDevcon</a> <a href=\"https://twitter.com/MarkusMento\">@MarkusMento</a> <a href=\"https://twitter.com/joaoavf\">@joaoavf</a> <a href=\"https://twitter.com/usePicnicBR\">@usePicnicBR</a> <a href=\"https://twitter.com/ccossio\">@ccossio</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/r0dtr\">@r0dtr</a> <a href=\"https://twitter.com/Ipoventures\">@Ipoventures</a> <a href=\"https://twitter.com/robsjre\">@robsjre</a> <a href=\"https://twitter.com/PodsFinance\">@PodsFinance</a> <a href=\"https://twitter.com/idOS_network\">@idOS_network</a> Huge!! \ud83d\ude0d",
+            "ID": "1854602767311966691",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854598715019051030",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1518944693593255942",
+                    "Username": "MentoLabs",
+                    "Name": "Mento Labs"
+                },
+                {
+                    "ID": "1013526003015184385",
+                    "Username": "EFDevcon",
+                    "Name": "Deva the Devcon Unicorn"
+                },
+                {
+                    "ID": "1357448414255022090",
+                    "Username": "MarkusMento",
+                    "Name": "MarkusMento \u25d8 \ud83e\udd87\ud83c\udf33"
+                },
+                {
+                    "ID": "81863182",
+                    "Username": "joaoavf",
+                    "Name": "Jo\u00e3o Ferreira \ud83e\uddfa"
+                },
+                {
+                    "ID": "1645424947806740480",
+                    "Username": "usePicnicBR",
+                    "Name": "Picnic"
+                },
+                {
+                    "ID": "20304727",
+                    "Username": "ccossio",
+                    "Name": "Claudio Cossio"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1582353688382906371",
+                    "Username": "r0dtr",
+                    "Name": "Rodrigo Trindade"
+                },
+                {
+                    "ID": "1357488930233417729",
+                    "Username": "Ipoventures",
+                    "Name": "IporangaVentures"
+                },
+                {
+                    "ID": "819629861098688513",
+                    "Username": "robsjre",
+                    "Name": "Rob - robsjre.eth"
+                },
+                {
+                    "ID": "1258507775862243328",
+                    "Username": "PodsFinance",
+                    "Name": "Pods"
+                },
+                {
+                    "ID": "1691343515253440513",
+                    "Username": "idOS_network",
+                    "Name": "idOS"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1854602767311966691",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@MentoLabs @EFDevcon @MarkusMento @joaoavf @usePicnicBR @ccossio @meta_pool @r0dtr @Ipoventures @robsjre @PodsFinance @idOS_network Huge!! \ud83d\ude0d",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T19:12:11Z",
+            "Timestamp": 1731006731,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854599253047623693",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Luacantu\">@Luacantu</a> <a href=\"https://twitter.com/playSparkball\">@playSparkball</a> Invita",
+            "ID": "1854600664778748326",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854599253047623693",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "442096128",
+                    "Username": "Luacantu",
+                    "Name": "Luana"
+                },
+                {
+                    "ID": "1537880021259280385",
+                    "Username": "playSparkball",
+                    "Name": "Sparkball"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1854600664778748326",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Luacantu @playSparkball Invita",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T19:03:49Z",
+            "Timestamp": 1731006229,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854554671450312737",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": ".<a href=\"https://twitter.com/finance_ref\">@finance_ref</a> ha anunciado una nueva interfaz en su dApp y algo nuevo que han agregado es la secci\u00f3n de tokens populares donde $stNEAR de <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> esta en el top.<br><br>Anuncios con factos \ud83d\ude0e <br><a href=\"https://t.co/KVDTXHMmtl\"><img src=\"https://pbs.twimg.com/media/GbyzaudXIBIHdp-.jpg\"/></a>",
+            "ID": "1854554671450312737",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1854554671450312737",
+            "Photos": [
+                {
+                    "ID": "1854554418298953746",
+                    "URL": "https://pbs.twimg.com/media/GbyzaudXIBIHdp-.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": ".@finance_ref ha anunciado una nueva interfaz en su dApp y algo nuevo que han agregado es la secci\u00f3n de tokens populares donde $stNEAR de @meta_pool esta en el top.\n\nAnuncios con factos \ud83d\ude0e https://t.co/KVDTXHMmtl",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T16:01:04Z",
+            "Timestamp": 1730995264,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 65,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854383021153239503",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/nearhorizon\">@nearhorizon</a> <a href=\"https://twitter.com/ALEXLabBTC\">@ALEXLabBTC</a> M\u00e1s r\u00e1pido que la velocidad de la luz, ah! \ud83d\udc40",
+            "ID": "1854383183040508150",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854383021153239503",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1651859609299066880",
+                    "Username": "nearhorizon",
+                    "Name": "NEAR Horizon"
+                },
+                {
+                    "ID": "1403698101060313090",
+                    "Username": "ALEXLabBTC",
+                    "Name": "ALEX \ud83d\udfe7 Advancing Bitcoin DeFi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1854383183040508150",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK @ilblackdragon @NEARProtocol @nearhorizon @ALEXLabBTC M\u00e1s r\u00e1pido que la velocidad de la luz, ah! \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-11-07T04:39:38Z",
+            "Timestamp": 1730954378,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 45,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854231340129911237",
+            "GIFs": [
+                {
+                    "ID": "1854254576842440704",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gbuitp_WAAAySBk.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gbuitp_WAAAySBk.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marcrypted\">@marcrypted</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <br><a href=\"https://t.co/dZ7G1mHmim\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gbuitp_WAAAySBk.jpg\"/></a>",
+            "ID": "1854254583846969425",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854231340129911237",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "172387972",
+                    "Username": "marcrypted",
+                    "Name": "POAPQueen\ud83d\udcab"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1854254583846969425",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marcrypted @meta_pool https://t.co/dZ7G1mHmim",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T20:08:37Z",
+            "Timestamp": 1730923717,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 20,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854197540587024852",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/manuphotos_\">@manuphotos_</a> <a href=\"https://twitter.com/abrahamrivv\">@abrahamrivv</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> Suena genial. Te comparto esta secci\u00f3n de la gobernanza donde puedes proponer mejoras al protocolo <br><br><a href=\"https://near.org/meta-pool-official.near/widget/ImprovementProposals\">https://t.co/jVowQ857RQ</a>",
+            "ID": "1854254292309352836",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854236053860696510",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "739093769434238977",
+                    "Username": "manuphotos_",
+                    "Name": "Manu.$hive \u2666\ufe0f"
+                },
+                {
+                    "ID": "4741462968",
+                    "Username": "abrahamrivv",
+                    "Name": "Abraham Rivv"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1854254292309352836",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@manuphotos_ @abrahamrivv @meta_pool Suena genial. Te comparto esta secci\u00f3n de la gobernanza donde puedes proponer mejoras al protocolo \n\nhttps://t.co/jVowQ857RQ",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T20:07:28Z",
+            "Timestamp": 1730923648,
+            "URLs": [
+                "https://near.org/meta-pool-official.near/widget/ImprovementProposals"
+            ],
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854207449458241950",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Luacantu\">@Luacantu</a> <a href=\"https://twitter.com/GAGMIWeb3\">@GAGMIWeb3</a> <a href=\"https://twitter.com/GAGMILabs\">@GAGMILabs</a> <a href=\"https://twitter.com/Nyx3Media\">@Nyx3Media</a> <a href=\"https://twitter.com/VincentVanHoLM\">@VincentVanHoLM</a> <a href=\"https://twitter.com/IdMintThat\">@IdMintThat</a> \u00bfEras modelo? \ud83d\ude31",
+            "ID": "1854224540244877597",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1854207449458241950",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "442096128",
+                    "Username": "Luacantu",
+                    "Name": "Luana"
+                },
+                {
+                    "ID": "1825593145054154752",
+                    "Username": "GAGMIWeb3",
+                    "Name": "GAGMI \ud83c\udf99\ud83d\udc85"
+                },
+                {
+                    "ID": "1567279040070926336",
+                    "Username": "GAGMILabs",
+                    "Name": "GAGMILabs"
+                },
+                {
+                    "ID": "1522677854181462016",
+                    "Username": "Nyx3Media",
+                    "Name": "NYX \u2728"
+                },
+                {
+                    "ID": "1479184804964974593",
+                    "Username": "VincentVanHoLM",
+                    "Name": "VanHo9000\ud83d\udc51"
+                },
+                {
+                    "ID": "1249740856967430144",
+                    "Username": "IdMintThat",
+                    "Name": "mickele \u2728"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1854224540244877597",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Luacantu @GAGMIWeb3 @GAGMILabs @Nyx3Media @VincentVanHoLM @IdMintThat \u00bfEras modelo? \ud83d\ude31",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T18:09:14Z",
+            "Timestamp": 1730916554,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 45,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1854163267133804606",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "El modo oscuro en <a href=\"http://metapool.app\">https://t.co/uKI92OUUu8</a> esta disponible, gran trabajo del equipo de desarrollo, liderado por <a href=\"https://twitter.com/lucasmcasp\">@lucasmcasp</a> \ud83d\udc4f<br><br>\u00a1Mis ojos os agradece un mont\u00f3n! \ud83e\ude76<br><br>Pru\u00e9balo ahora: <a href=\"http://metapool.app\">https://t.co/uKI92OUUu8</a>",
+            "ID": "1854163267133804606",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "279778263",
+                    "Username": "lucasmcasp",
+                    "Name": "Lucas Casp"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1854163267133804606",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1854162191714250898",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "El modo oscuro en https://t.co/uKI92OUUu8 esta disponible, gran trabajo del equipo de desarrollo, liderado por @lucasmcasp \ud83d\udc4f\n\n\u00a1Mis ojos os agradece un mont\u00f3n! \ud83e\ude76\n\nPru\u00e9balo ahora: https://t.co/uKI92OUUu8",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T14:05:46Z",
+            "Timestamp": 1730901946,
+            "URLs": [
+                "http://metapool.app",
+                "http://metapool.app"
+            ],
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 116,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853832748177232372",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a> <a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> I love the concept! \u26a1\ufe0f<br><br>Tell me more ;)",
+            "ID": "1853963912779087918",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853899178461511841",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                },
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853963912779087918",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BitteProtocol @jarednotjerry1 @NEARProtocol @safe @meta_pool I love the concept! \u26a1\ufe0f\n\nTell me more ;)",
+            "Thread": null,
+            "TimeParsed": "2024-11-06T00:53:36Z",
+            "Timestamp": 1730854416,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853832748177232372",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a> <a href=\"https://twitter.com/safe\">@safe</a> Huge! <a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a> \ud83d\ude0d",
+            "ID": "1853873105854222414",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853832748177232372",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853873105854222414",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jarednotjerry1 @NEARProtocol @BitteProtocol @safe Huge! @BitteProtocol \ud83d\ude0d",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T18:52:46Z",
+            "Timestamp": 1730832766,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 54,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853872120482140669",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/cripterosnear\">@cripterosnear</a> <a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/Near_ES\">@Near_ES</a> Es una buena Wallet, yo la cre\u00e9 desde antes que sea bitte \ud83e\udee1 <a href=\"https://twitter.com/BitteProtocol\">@BitteProtocol</a>",
+            "ID": "1853872960601219373",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853872120482140669",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1473804952803893253",
+                    "Username": "cripterosnear",
+                    "Name": "Cripteras \ud83d\udcab\ud83d\udc9c \u22c8"
+                },
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                },
+                {
+                    "ID": "1084436562929242113",
+                    "Username": "BitteProtocol",
+                    "Name": "Bitte"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853872960601219373",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@cripterosnear @BitteProtocol @meta_pool @Near_ES Es una buena Wallet, yo la cre\u00e9 desde antes que sea bitte \ud83e\udee1 @BitteProtocol",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T18:52:11Z",
+            "Timestamp": 1730832731,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 22,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853814389578592421",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BandoCool\">@BandoCool</a> Oye <a href=\"https://twitter.com/BandoCool\">@BandoCool</a> \u00bfCuando tarjeta cripto para Ecuador?",
+            "ID": "1853870204251701748",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853814389578592421",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1689346699548905473",
+                    "Username": "BandoCool",
+                    "Name": "Bando"
+                },
+                {
+                    "ID": "1689346699548905473",
+                    "Username": "BandoCool",
+                    "Name": "Bando"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853870204251701748",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BandoCool Oye @BandoCool \u00bfCuando tarjeta cripto para Ecuador?",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T18:41:14Z",
+            "Timestamp": 1730832074,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 23,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853858262489178597",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Hey, <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> Community! \ud83e\udee1<br><br>I've posted the <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> DAO Rewards (October) on the NEAR Forum. If you're there, leave a comment! \ud83d\ude00<br><br><a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/neardc\">@neardc</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/Near_ES\">@Near_ES</a><br><a href=\"https://gov.near.org/t/dao-rewards-for-voters-in-meta-pool-s-governance-october-2024/40386\">https://t.co/cjNw0ELsH3</a>",
+            "ID": "1853858262489178597",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 11,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853858262489178597",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hey, #NEAR Community! \ud83e\udee1\n\nI've posted the @meta_pool DAO Rewards (October) on the NEAR Forum. If you're there, leave a comment! \ud83d\ude00\n\n@NEARWEEK @neardc @ShitzuCommunity @Near_ES\nhttps://t.co/cjNw0ELsH3",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T17:53:47Z",
+            "Timestamp": 1730829227,
+            "URLs": [
+                "https://gov.near.org/t/dao-rewards-for-voters-in-meta-pool-s-governance-october-2024/40386"
+            ],
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 140,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853650958393425948",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Diana_the_King\">@Diana_the_King</a> <a href=\"https://twitter.com/EFDevcon\">@EFDevcon</a> \ud83e\udee1",
+            "ID": "1853710834012205124",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853650958393425948",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1076871407034871808",
+                    "Username": "Diana_the_King",
+                    "Name": "Diana King \ud83c\uddfa\ud83c\udde6"
+                },
+                {
+                    "ID": "1013526003015184385",
+                    "Username": "EFDevcon",
+                    "Name": "Deva the Devcon Unicorn"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853710834012205124",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Diana_the_King @EFDevcon \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T08:07:57Z",
+            "Timestamp": 1730794077,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853599679163855216",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "A new validator has arrived in <a href=\"https://twitter.com/meta_pool's\">@meta_pool's</a> validator section!  <br><br>See what <a href=\"https://twitter.com/shitzuonnear/@\">@shitzuonnear/@</a>ShitzuCommunity is building on NEAR Protocol.  <br><br>OG Community \ud83e\udee1 <br><a href=\"https://t.co/KOLicDT00q\"><img src=\"https://pbs.twimg.com/media/GblO2s1WEAAWrq0.png\"/></a>",
+            "ID": "1853599679163855216",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 15,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1799466871101562880",
+                    "Username": "shitzuonnear",
+                    "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853599679163855216",
+            "Photos": [
+                {
+                    "ID": "1853599423294476288",
+                    "URL": "https://pbs.twimg.com/media/GblO2s1WEAAWrq0.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 3,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "A new validator has arrived in @meta_pool's validator section!  \n\nSee what @shitzuonnear/@ShitzuCommunity is building on NEAR Protocol.  \n\nOG Community \ud83e\udee1 https://t.co/KOLicDT00q",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T00:46:16Z",
+            "Timestamp": 1730767576,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 410,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853502743299666105",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ETHKipu\">@ETHKipu</a> <a href=\"https://twitter.com/yo_mmart\">@yo_mmart</a> <a href=\"https://twitter.com/lorenzz29\">@lorenzz29</a> <a href=\"https://twitter.com/jorgethewalker\">@jorgethewalker</a> \u00bfComo puedo adquirir uno o ser parte de tener un nodo? \ud83e\udee1",
+            "ID": "1853597054448394593",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853502743299666105",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1608494361666273283",
+                    "Username": "ETHKipu",
+                    "Name": "ETH Kipu"
+                },
+                {
+                    "ID": "1712878033",
+                    "Username": "yo_mmart",
+                    "Name": "Mart.\u2310\u25e8-\u25e8.base.eth \ud83c\uddec\ud83c\uddf9"
+                },
+                {
+                    "ID": "196247738",
+                    "Username": "lorenzz29",
+                    "Name": "lorenz29.eth"
+                },
+                {
+                    "ID": "1402311668747603969",
+                    "Username": "jorgethewalker",
+                    "Name": "Jorge the Walker"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853597054448394593",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ETHKipu @yo_mmart @lorenzz29 @jorgethewalker \u00bfComo puedo adquirir uno o ser parte de tener un nodo? \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T00:35:50Z",
+            "Timestamp": 1730766950,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 43,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853576130210443545",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Maximio79\">@Maximio79</a> <a href=\"https://twitter.com/skyempire90\">@skyempire90</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> Se\u00f1or ballena, buenas tardes",
+            "ID": "1853596240014929926",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853582445230063746",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1437057116",
+                    "Username": "Maximio79",
+                    "Name": "herimax.rsk \ud83e\udd89 (\u220e, \u2206) .\u2310\u25e8-\u25e8 \ud83d\udc09"
+                },
+                {
+                    "ID": "1354060910906761217",
+                    "Username": "skyempire90",
+                    "Name": "skyempire90"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853596240014929926",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Maximio79 @skyempire90 @meta_pool Se\u00f1or ballena, buenas tardes",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T00:32:36Z",
+            "Timestamp": 1730766756,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 11,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853550839823995253",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/abruzuc\">@abruzuc</a> <a href=\"https://twitter.com/marrowng\">@marrowng</a> <a href=\"https://twitter.com/marcrypted\">@marcrypted</a> <a href=\"https://twitter.com/Rous_cripto\">@Rous_cripto</a>",
+            "ID": "1853572207823233161",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853550839823995253",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1435425854344077315",
+                    "Username": "abruzuc",
+                    "Name": "Abril Zucchi"
+                },
+                {
+                    "ID": "778368371192582144",
+                    "Username": "marrowng",
+                    "Name": "unrobot (\ud83d\udcab, \ud83d\udc99)"
+                },
+                {
+                    "ID": "172387972",
+                    "Username": "marcrypted",
+                    "Name": "POAPQueen\ud83d\udcab"
+                },
+                {
+                    "ID": "1447769270902009856",
+                    "Username": "Rous_cripto",
+                    "Name": "Rous~\ud83d\udc26\ud83c\udde6\ud83c\uddf7\ud83d\udd0d"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853572207823233161",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@abruzuc @marrowng @marcrypted @Rous_cripto",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T22:57:06Z",
+            "Timestamp": 1730761026,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 43,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853534188529745921",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/shitzuonnear\">@shitzuonnear</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> I want",
+            "ID": "1853571835717161206",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853534188529745921",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1799466871101562880",
+                    "Username": "shitzuonnear",
+                    "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853571835717161206",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@shitzuonnear @NEARProtocol I want",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T22:55:37Z",
+            "Timestamp": 1730760937,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853504375102038241",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/abrahamrivv\">@abrahamrivv</a> <a href=\"https://twitter.com/digitalizadosco\">@digitalizadosco</a> <a href=\"https://twitter.com/Juminstock\">@Juminstock</a> \ud83d\ude31",
+            "ID": "1853525241320083766",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853504375102038241",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 5,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "4741462968",
+                    "Username": "abrahamrivv",
+                    "Name": "Abraham Rivv"
+                },
+                {
+                    "ID": "1349142197845827585",
+                    "Username": "digitalizadosco",
+                    "Name": "DIGITALIZADOS\u26a1"
+                },
+                {
+                    "ID": "1526920393625423910",
+                    "Username": "Juminstock",
+                    "Name": "Carlos Rodr\u00edguez \ud83d\udcbf"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853525241320083766",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@abrahamrivv @digitalizadosco @Juminstock \ud83d\ude31",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T19:50:29Z",
+            "Timestamp": 1730749829,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 31,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853488409538412766",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "C\u00f3mo ya es de costumbre cada tercer d\u00eda de mes \ud83e\udee1 <br><a href=\"https://t.co/C6W84OhrHH\"><img src=\"https://pbs.twimg.com/media/Gbjp4vUXIAAITN7.jpg\"/></a>",
+            "ID": "1853488409538412766",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853488409538412766",
+            "Photos": [
+                {
+                    "ID": "1853488407646773248",
+                    "URL": "https://pbs.twimg.com/media/Gbjp4vUXIAAITN7.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1853421104364134739",
+            "Replies": 1,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "C\u00f3mo ya es de costumbre cada tercer d\u00eda de mes \ud83e\udee1 https://t.co/C6W84OhrHH",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T17:24:07Z",
+            "Timestamp": 1730741047,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 112,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853458283215954274",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> Coming votes by the community with <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> \ud83d\udc40",
+            "ID": "1853486525574488067",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853458283215954274",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1853486525574488067",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ShitzuCommunity Coming votes by the community with @meta_pool \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T17:16:38Z",
+            "Timestamp": 1730740598,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852717625178042550",
+            "GIFs": [
+                {
+                    "ID": "1852717618324537344",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbYs25VXgAAUPPv.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbYs25VXgAAUPPv.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "Talking on rewards with the new incentives for $mpDAO / $stNEAR Pool on <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> <br><a href=\"https://t.co/9NL553OWUM\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbYs25VXgAAUPPv.jpg\"/></a>",
+            "ID": "1852717625178042550",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1852717625178042550",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1852712309178696124",
+            "Replies": 0,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Talking on rewards with the new incentives for $mpDAO / $stNEAR Pool on @finance_ref https://t.co/9NL553OWUM",
+            "Thread": null,
+            "TimeParsed": "2024-11-02T14:21:18Z",
+            "Timestamp": 1730557278,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 1405,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852421231045152833",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/holaivory\">@holaivory</a> Normal, ahaha",
+            "ID": "1852450498265416135",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852421231045152833",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1743303438924996608",
+                    "Username": "holaivory",
+                    "Name": "Ivory"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1852450498265416135",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@holaivory Normal, ahaha",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T20:39:50Z",
+            "Timestamp": 1730493590,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 20,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852418977685016845",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/openwebacademy_\">@openwebacademy_</a> Lleva tu Astronauta <a href=\"https://twitter.com/alannetwork_\">@alannetwork_</a>",
+            "ID": "1852450392757440897",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852418977685016845",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1514757335163588615",
+                    "Username": "openwebacademy_",
+                    "Name": "Open Web Academy"
+                },
+                {
+                    "ID": "228967834",
+                    "Username": "alannetwork_",
+                    "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1852450392757440897",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@openwebacademy_ Lleva tu Astronauta @alannetwork_",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T20:39:25Z",
+            "Timestamp": 1730493565,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 39,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852076679436345374",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/alannetwork_\">@alannetwork_</a> <a href=\"https://twitter.com/Kalipssoh\">@Kalipssoh</a> <a href=\"https://twitter.com/Bitso\">@Bitso</a> <a href=\"https://twitter.com/RosaGlez_eth\">@RosaGlez_eth</a> <a href=\"https://twitter.com/ValeCreativo\">@ValeCreativo</a> <a href=\"https://twitter.com/luzmargaritas\">@luzmargaritas</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/lablockatoon\">@lablockatoon</a> \ud83d\udc9b",
+            "ID": "1852413489572110544",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852399572049395921",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "228967834",
+                    "Username": "alannetwork_",
+                    "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f"
+                },
+                {
+                    "ID": "47174939",
+                    "Username": "Kalipssoh",
+                    "Name": "Cande"
+                },
+                {
+                    "ID": "2241683586",
+                    "Username": "Bitso",
+                    "Name": "Bitso"
+                },
+                {
+                    "ID": "1748965503865937920",
+                    "Username": "RosaGlez_eth",
+                    "Name": "Rosa Glez. Art"
+                },
+                {
+                    "ID": "1364625354657173508",
+                    "Username": "ValeCreativo",
+                    "Name": "Valent\u00edn Mart\u00ednez\ud83e\udd77\ud83c\udffb\ud83c\udf33"
+                },
+                {
+                    "ID": "313534028",
+                    "Username": "luzmargaritas",
+                    "Name": "Margarita Saucedo"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1727366629132996614",
+                    "Username": "lablockatoon",
+                    "Name": "La Blocka \u3290"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1852413489572110544",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@alannetwork_ @Kalipssoh @Bitso @RosaGlez_eth @ValeCreativo @luzmargaritas @meta_pool @lablockatoon \ud83d\udc9b",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T18:12:46Z",
+            "Timestamp": 1730484766,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 35,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852308640687906825",
+            "GIFs": null,
+            "Hashtags": [
+                "Ethereum",
+                "RideThe4"
+            ],
+            "HTML": "Aprovechando los fees de fin de semana en <a href=\"https://twitter.com/hashtag/Ethereum\">#Ethereum</a>, estoy dentro por <a href=\"https://twitter.com/hashtag/RideThe4\">#RideThe4</a> el cual actualmente <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> ofrece un APY superior del 4% gracias a las recompensas de <a href=\"https://twitter.com/ssv_network\">@ssv_network</a> que Meta Pool distribuye a sus stakers en Ethereum \ud83d\ude09<br><br>Stakea ahora \ud83d\udc40<br><a href=\"https://www.metapool.app/stake/?referralCode=5\">https://t.co/hGxVPLk8jy</a> <br><a href=\"https://t.co/6UeaqRhecG\"><img src=\"https://pbs.twimg.com/media/GbS4cDuWsAAxK28.png\"/></a>",
+            "ID": "1852308640687906825",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "809512948788064257",
+                    "Username": "ssv_network",
+                    "Name": "SSV Network"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1852308640687906825",
+            "Photos": [
+                {
+                    "ID": "1852308138931695616",
+                    "URL": "https://pbs.twimg.com/media/GbS4cDuWsAAxK28.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846914166503715066",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Aprovechando los fees de fin de semana en #Ethereum, estoy dentro por #RideThe4 el cual actualmente @meta_pool ofrece un APY superior del 4% gracias a las recompensas de @ssv_network que Meta Pool distribuye a sus stakers en Ethereum \ud83d\ude09\n\nStakea ahora \ud83d\udc40\nhttps://t.co/hGxVPLk8jy https://t.co/6UeaqRhecG",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T11:16:08Z",
+            "Timestamp": 1730459768,
+            "URLs": [
+                "https://www.metapool.app/stake/?referralCode=5"
+            ],
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 92,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852182310935810471",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Luacantu\">@Luacantu</a> <a href=\"https://twitter.com/playoffthegrid\">@playoffthegrid</a> <a href=\"https://twitter.com/GamingOnAvax\">@GamingOnAvax</a> send invite",
+            "ID": "1852265759336014031",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852182310935810471",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "442096128",
+                    "Username": "Luacantu",
+                    "Name": "Luana"
+                },
+                {
+                    "ID": "1511391804393934848",
+                    "Username": "playoffthegrid",
+                    "Name": "Off The Grid"
+                },
+                {
+                    "ID": "1286936072",
+                    "Username": "GamingOnAvax",
+                    "Name": "AvalancheGaming9000 \ud83d\udd3a"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1852265759336014031",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Luacantu @playoffthegrid @GamingOnAvax send invite",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T08:25:45Z",
+            "Timestamp": 1730449545,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 33,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852093932240351586",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/MariaFiorenti\">@MariaFiorenti</a> <a href=\"https://twitter.com/labitconf\">@labitconf</a> <a href=\"https://twitter.com/CostanzaBianch1\">@CostanzaBianch1</a> \ud83e\udee1",
+            "ID": "1852097505699176722",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852093932240351586",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1375427890398031873",
+                    "Username": "MariaFiorenti",
+                    "Name": "Mery Fiorentini \ud83d\udd1c Devcon \ud83c\uddf9\ud83c\udded"
+                },
+                {
+                    "ID": "1642784672",
+                    "Username": "labitconf",
+                    "Name": "LABITCONF"
+                },
+                {
+                    "ID": "1401981414380347396",
+                    "Username": "CostanzaBianch1",
+                    "Name": "Connie B \ud83d\udd2e"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1852097505699176722",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@MariaFiorenti @labitconf @CostanzaBianch1 \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T21:17:10Z",
+            "Timestamp": 1730409430,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 30,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851662851590750415",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Musica_W3\">@Musica_W3</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/fblockchain_ar\">@fblockchain_ar</a> \u00a1Que buena presentaci\u00f3n! <br><br>Bravo para <a href=\"https://twitter.com/Musica_W3\">@Musica_W3</a> y <a href=\"https://twitter.com/fblockchain_ar\">@fblockchain_ar</a> \ud83d\udc4f",
+            "ID": "1852006713714442626",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851662851590750415",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1710058464150429696",
+                    "Username": "Musica_W3",
+                    "Name": "M\u00fasica W3"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1567966485921906688",
+                    "Username": "fblockchain_ar",
+                    "Name": "Fundaci\u00f3n Blockchain"
+                },
+                {
+                    "ID": "1710058464150429696",
+                    "Username": "Musica_W3",
+                    "Name": "M\u00fasica W3"
+                },
+                {
+                    "ID": "1567966485921906688",
+                    "Username": "fblockchain_ar",
+                    "Name": "Fundaci\u00f3n Blockchain"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1852006713714442626",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Musica_W3 @meta_pool @fblockchain_ar \u00a1Que buena presentaci\u00f3n! \n\nBravo para @Musica_W3 y @fblockchain_ar \ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T15:16:23Z",
+            "Timestamp": 1730387783,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 25,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851278399488012297",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> stNEAR \ud83e\udee1",
+            "ID": "1851279226051125643",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851278399488012297",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1851279226051125643",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK stNEAR \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T15:05:37Z",
+            "Timestamp": 1730214337,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 61,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850943906269303074",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "gm",
+            "ID": "1850943906269303074",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1850943906269303074",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1850903183205269935",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "gm",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T16:53:10Z",
+            "Timestamp": 1730134390,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850924072164888745",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NacionBankless\">@NacionBankless</a> <a href=\"https://twitter.com/OctantApp\">@OctantApp</a> Estaba por entrar en el epoch 1, pero quer\u00eda ver como de desarrollada y contenido como el que me acabas de comprar, gracias por ello. Estar\u00e9 entrando (esperando los bajos fees)",
+            "ID": "1850936109083267488",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850929167300460594",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1455364849999958025",
+                    "Username": "NacionBankless",
+                    "Name": "NacionBankless.eth \ud83c\udff4"
+                },
+                {
+                    "ID": "1572000098917445633",
+                    "Username": "OctantApp",
+                    "Name": "Octant"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1850936109083267488",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NacionBankless @OctantApp Estaba por entrar en el epoch 1, pero quer\u00eda ver como de desarrollada y contenido como el que me acabas de comprar, gracias por ello. Estar\u00e9 entrando (esperando los bajos fees)",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T16:22:11Z",
+            "Timestamp": 1730132531,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850924072164888745",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NacionBankless\">@NacionBankless</a> <a href=\"https://twitter.com/OctantApp\">@OctantApp</a> \u00a1Gracias!",
+            "ID": "1850935785828262234",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850930847899394322",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1455364849999958025",
+                    "Username": "NacionBankless",
+                    "Name": "NacionBankless.eth \ud83c\udff4"
+                },
+                {
+                    "ID": "1572000098917445633",
+                    "Username": "OctantApp",
+                    "Name": "Octant"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1850935785828262234",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NacionBankless @OctantApp \u00a1Gracias!",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T16:20:54Z",
+            "Timestamp": 1730132454,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 5,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850911411788030356",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/auroraisnear\">@auroraisnear</a> <a href=\"https://twitter.com/Near_ES\">@Near_ES</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/ilblackdragon\">@ilblackdragon</a> <a href=\"https://twitter.com/AlexAuroraDev\">@AlexAuroraDev</a> <a href=\"https://twitter.com/AlexSkidanov\">@AlexSkidanov</a> <a href=\"https://twitter.com/lazonatres\">@lazonatres</a> <a href=\"https://twitter.com/nativocryptohub\">@nativocryptohub</a> <a href=\"https://twitter.com/nativoart_\">@nativoart_</a> \u00a1Vamos! \ud83d\udc40\ud83e\udee1\ud83e\udde1",
+            "ID": "1850928813410021398",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850926261537054851",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1360461034377654272",
+                    "Username": "auroraisnear",
+                    "Name": "Aurora"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "81185431",
+                    "Username": "ilblackdragon",
+                    "Name": "Illia (root.near) (\ud83c\uddfa\ud83c\udde6, \u22c8)"
+                },
+                {
+                    "ID": "883100511507009536",
+                    "Username": "AlexAuroraDev",
+                    "Name": "Alex Shevchenko \ud83c\uddfa\ud83c\udde6"
+                },
+                {
+                    "ID": "1034268067331694593",
+                    "Username": "AlexSkidanov",
+                    "Name": "Alex Skidanov (alex.near)"
+                },
+                {
+                    "ID": "1556015308749410306",
+                    "Username": "lazonatres",
+                    "Name": "Zona Tres"
+                },
+                {
+                    "ID": "1382886644404015106",
+                    "Username": "nativocryptohub",
+                    "Name": "Nativo Crypto"
+                },
+                {
+                    "ID": "1454898513947594759",
+                    "Username": "nativoart_",
+                    "Name": "Nativo.art \ud83d\uddbc\ud83c\udfa8 | Tu arte en Web 3"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1850928813410021398",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@auroraisnear @Near_ES @meta_pool @NEARProtocol @ilblackdragon @AlexAuroraDev @AlexSkidanov @lazonatres @nativocryptohub @nativoart_ \u00a1Vamos! \ud83d\udc40\ud83e\udee1\ud83e\udde1",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T15:53:12Z",
+            "Timestamp": 1730130792,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 38,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850924072164888745",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NacionBankless\">@NacionBankless</a> <a href=\"https://twitter.com/OctantApp\">@OctantApp</a> Aproveche los fees del fin de semana \u00bfC\u00f3mo aporto?",
+            "ID": "1850926188983996484",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850924072164888745",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1455364849999958025",
+                    "Username": "NacionBankless",
+                    "Name": "NacionBankless.eth \ud83c\udff4"
+                },
+                {
+                    "ID": "1572000098917445633",
+                    "Username": "OctantApp",
+                    "Name": "Octant"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1850926188983996484",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NacionBankless @OctantApp Aproveche los fees del fin de semana \u00bfC\u00f3mo aporto?",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T15:42:46Z",
+            "Timestamp": 1730130166,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850732215514386870",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/wenewsec\">@wenewsec</a> Que siga as\u00ed toda la semana \ud83d\ude4f\ud83d\ude4f",
+            "ID": "1850763162477383886",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850732215514386870",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "350597119",
+                    "Username": "wenewsec",
+                    "Name": "We News"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1850763162477383886",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@wenewsec Que siga as\u00ed toda la semana \ud83d\ude4f\ud83d\ude4f",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T04:54:58Z",
+            "Timestamp": 1730091298,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 720,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849408009077698870",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marcus_NEAR\">@marcus_NEAR</a> <a href=\"https://twitter.com/MeteorWallet\">@MeteorWallet</a> Let me try",
+            "ID": "1849430295008694779",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849408009077698870",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1401917448140595203",
+                    "Username": "marcus_NEAR",
+                    "Name": "Marcus"
+                },
+                {
+                    "ID": "1527219489351385088",
+                    "Username": "MeteorWallet",
+                    "Name": "Meteor Wallet"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1849430295008694779",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marcus_NEAR @MeteorWallet Let me try",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T12:38:37Z",
+            "Timestamp": 1729773517,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 23,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849200056592658885",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Luacantu\">@Luacantu</a> <a href=\"https://twitter.com/TheArenaApp\">@TheArenaApp</a> send invite please",
+            "ID": "1849234565610557845",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849200056592658885",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "442096128",
+                    "Username": "Luacantu",
+                    "Name": "Luana"
+                },
+                {
+                    "ID": "1655607241595056128",
+                    "Username": "TheArenaApp",
+                    "Name": "The Arena \u2694\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1849234565610557845",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Luacantu @TheArenaApp send invite please",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T23:40:52Z",
+            "Timestamp": 1729726852,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849156618065199129",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Masi_DN\">@Masi_DN</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "ID": "1849176030562673093",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849156618065199129",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1074664618352619520",
+                    "Username": "Masi_DN",
+                    "Name": "Masi"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1849176030562673093",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Masi_DN @meta_pool @NEARProtocol \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T19:48:16Z",
+            "Timestamp": 1729712896,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 17,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849175984769061065",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Road to 24M $NEAR staked \ud83e\udee1",
+            "ID": "1849175984769061065",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1849175984769061065",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1849156618065199129",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Road to 24M $NEAR staked \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T19:48:05Z",
+            "Timestamp": 1729712885,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 120,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849073223192736042",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/meta_pool\">@meta_pool</a> Meta Pool is proud to be part of <a href=\"https://twitter.com/ssv_network's\">@ssv_network's</a> grants program! <br><br>We've shared our latest report and data so far:<br><a href=\"https://forum.ssv.network/t/ssv-x-meta-pool-grant-proposal-liquid-staking-platform/904/5\">https://t.co/XQTBICDg0F</a>",
+            "ID": "1849083160203497558",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849073223192736042",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "809512948788064257",
+                    "Username": "ssv_network",
+                    "Name": "SSV Network"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1849083160203497558",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@meta_pool Meta Pool is proud to be part of @ssv_network's grants program! \n\nWe've shared our latest report and data so far:\nhttps://t.co/XQTBICDg0F",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T13:39:14Z",
+            "Timestamp": 1729690754,
+            "URLs": [
+                "https://forum.ssv.network/t/ssv-x-meta-pool-grant-proposal-liquid-staking-platform/904/5"
+            ],
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848773118493659512",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Masi_DN\">@Masi_DN</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/meta_pool_vn\">@meta_pool_vn</a> As Always, AMAZING INSIGHTS! \ud83d\ude0e",
+            "ID": "1848947326649356421",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848773118493659512",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1074664618352619520",
+                    "Username": "Masi_DN",
+                    "Name": "Masi"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1764647845377015808",
+                    "Username": "meta_pool_vn",
+                    "Name": "Meta Pool Vietnam \ud83c\uddfb\ud83c\uddf3"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1848947326649356421",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Masi_DN @NEARProtocol @meta_pool @meta_pool_vn As Always, AMAZING INSIGHTS! \ud83d\ude0e",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T04:39:29Z",
+            "Timestamp": 1729658369,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 11,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848523720714825988",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/openwebacademy_\">@openwebacademy_</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/Near_ES\">@Near_ES</a> <a href=\"https://twitter.com/NEARDevHub\">@NEARDevHub</a> <a href=\"https://twitter.com/NayaritJoven\">@NayaritJoven</a> jujuy! <br><br>Preciosa",
+            "ID": "1848524760017473991",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848523720714825988",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1514757335163588615",
+                    "Username": "openwebacademy_",
+                    "Name": "Open Web Academy"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                },
+                {
+                    "ID": "1587575461181534209",
+                    "Username": "NEARDevHub",
+                    "Name": "NEAR DevHub"
+                },
+                {
+                    "ID": "993580909751422976",
+                    "Username": "NayaritJoven",
+                    "Name": "Instituto Nayarita de la Juventud"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1848524760017473991",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@openwebacademy_ @NEARProtocol @Near_ES @NEARDevHub @NayaritJoven jujuy! \n\nPreciosa",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T00:40:21Z",
+            "Timestamp": 1729557621,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 44,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848433039061487640",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/meximalist\">@meximalist</a> <a href=\"https://twitter.com/solana\">@solana</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/abrahamrivv\">@abrahamrivv</a> <a href=\"https://twitter.com/marcrypted\">@marcrypted</a> <a href=\"https://twitter.com/srpuuul\">@srpuuul</a> <a href=\"https://twitter.com/ccossio\">@ccossio</a> M\u00e1s bien creo que es de phantom, por blinks, dado que es un recurso de un tercero, son ventanas de advertencias comunes en componentes as\u00ed, pero todo lo dem\u00e1s, va fluido seg\u00fan el v\u00eddeo \ud83e\udee1",
+            "ID": "1848453672792891588",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848433039061487640",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "49796607",
+                    "Username": "meximalist",
+                    "Name": "mexi.wtf"
+                },
+                {
+                    "ID": "951329744804392960",
+                    "Username": "solana",
+                    "Name": "Solana"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "4741462968",
+                    "Username": "abrahamrivv",
+                    "Name": "Abraham Rivv"
+                },
+                {
+                    "ID": "172387972",
+                    "Username": "marcrypted",
+                    "Name": "POAPQueen\ud83d\udcab"
+                },
+                {
+                    "ID": "1750305017121136640",
+                    "Username": "srpuuul",
+                    "Name": "Sr. Puuul"
+                },
+                {
+                    "ID": "20304727",
+                    "Username": "ccossio",
+                    "Name": "Claudio Cossio"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1848453672792891588",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@meximalist @solana @meta_pool @abrahamrivv @marcrypted @srpuuul @ccossio M\u00e1s bien creo que es de phantom, por blinks, dado que es un recurso de un tercero, son ventanas de advertencias comunes en componentes as\u00ed, pero todo lo dem\u00e1s, va fluido seg\u00fan el v\u00eddeo \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T19:57:52Z",
+            "Timestamp": 1729540672,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 34,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848383347203920320",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/cripterosnear\">@cripterosnear</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/Masi_DN\">@Masi_DN</a> \u00a1Son geniales los insights de <a href=\"https://twitter.com/Masi_DN\">@Masi_DN</a>!",
+            "ID": "1848407109555126663",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848383347203920320",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1473804952803893253",
+                    "Username": "cripterosnear",
+                    "Name": "Cripteras \ud83d\udcab\ud83d\udc9c \u22c8"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1074664618352619520",
+                    "Username": "Masi_DN",
+                    "Name": "Masi"
+                },
+                {
+                    "ID": "1074664618352619520",
+                    "Username": "Masi_DN",
+                    "Name": "Masi"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1848407109555126663",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@cripterosnear @NEARProtocol @Masi_DN \u00a1Son geniales los insights de @Masi_DN!",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T16:52:51Z",
+            "Timestamp": 1729529571,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 104,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848275295205282078",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0x_Ali3N\">@0x_Ali3N</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/flipsidecrypto\">@flipsidecrypto</a> <a href=\"https://twitter.com/meta_pool_vn\">@meta_pool_vn</a> <a href=\"https://twitter.com/meta_poolKR\">@meta_poolKR</a> <a href=\"https://twitter.com/ccossio\">@ccossio</a> <a href=\"https://twitter.com/srpuuul\">@srpuuul</a> <a href=\"https://twitter.com/BrazillianCare\">@BrazillianCare</a> <a href=\"https://twitter.com/ekosubagyo\">@ekosubagyo</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> \ud83e\udee1",
+            "ID": "1848288672023519536",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848275295205282078",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1526630164662300676",
+                    "Username": "0x_Ali3N",
+                    "Name": "RebornAli3N \ud83d\udd3a"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "925712018937712640",
+                    "Username": "flipsidecrypto",
+                    "Name": "Flipside \ud83d\udcca"
+                },
+                {
+                    "ID": "1764647845377015808",
+                    "Username": "meta_pool_vn",
+                    "Name": "Meta Pool Vietnam \ud83c\uddfb\ud83c\uddf3"
+                },
+                {
+                    "ID": "1808746904626606081",
+                    "Username": "meta_poolKR",
+                    "Name": "Meta Pool Korea"
+                },
+                {
+                    "ID": "20304727",
+                    "Username": "ccossio",
+                    "Name": "Claudio Cossio"
+                },
+                {
+                    "ID": "1750305017121136640",
+                    "Username": "srpuuul",
+                    "Name": "Sr. Puuul"
+                },
+                {
+                    "ID": "220287627",
+                    "Username": "BrazillianCare",
+                    "Name": "BrazillianCare \u2666\ufe0f"
+                },
+                {
+                    "ID": "98319622",
+                    "Username": "ekosubagyo",
+                    "Name": "maxone"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1848288672023519536",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0x_Ali3N @meta_pool @flipsidecrypto @meta_pool_vn @meta_poolKR @ccossio @srpuuul @BrazillianCare @ekosubagyo @NEARProtocol \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T09:02:13Z",
+            "Timestamp": 1729501333,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 37,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847170757547155476",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BitMartExchange\">@BitMartExchange</a> $mpDAO from <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <br><br>Get rewarded every month!",
+            "ID": "1847471376854118439",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847170757547155476",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "937166242208763904",
+                    "Username": "BitMartExchange",
+                    "Name": "BitMart"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1847471376854118439",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BitMartExchange $mpDAO from @meta_pool \n\nGet rewarded every month!",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T02:54:35Z",
+            "Timestamp": 1729306475,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 6,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847427947717677137",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/marcrypted\">@marcrypted</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/solana\">@solana</a> <a href=\"https://twitter.com/androgavidia\">@androgavidia</a> \ud83d\ude4c",
+            "ID": "1847438596619321779",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847427947717677137",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "172387972",
+                    "Username": "marcrypted",
+                    "Name": "POAPQueen\ud83d\udcab"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "951329744804392960",
+                    "Username": "solana",
+                    "Name": "Solana"
+                },
+                {
+                    "ID": "1210539900082237441",
+                    "Username": "androgavidia",
+                    "Name": "Leandro Gavidia \ud83c\uddfb\ud83c\uddea"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1847438596619321779",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@marcrypted @meta_pool @solana @androgavidia \ud83d\ude4c",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T00:44:19Z",
+            "Timestamp": 1729298659,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 16,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847430466598801701",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "*modo fin de semana* <br><a href=\"https://t.co/vDitzcHfbN\"><img src=\"https://pbs.twimg.com/media/GaNkOBkXAAAupef.jpg\"/></a>",
+            "ID": "1847430466598801701",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1847430466598801701",
+            "Photos": [
+                {
+                    "ID": "1847430464253919232",
+                    "URL": "https://pbs.twimg.com/media/GaNkOBkXAAAupef.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "*modo fin de semana* https://t.co/vDitzcHfbN",
+            "Thread": null,
+            "TimeParsed": "2024-10-19T00:12:01Z",
+            "Timestamp": 1729296721,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 86,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1847062570449965424",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/iworibofun_jd\">@iworibofun_jd</a> <a href=\"https://twitter.com/Near_ES\">@Near_ES</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> Grande <a href=\"https://twitter.com/Near_ES\">@Near_ES</a> \ud83e\udee1",
+            "ID": "1847292073357062244",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1847062570449965424",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1545353813200146433",
+                    "Username": "iworibofun_jd",
+                    "Name": "IWORIBOFUN"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1847292073357062244",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@iworibofun_jd @Near_ES @meta_pool Grande @Near_ES \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T15:02:05Z",
+            "Timestamp": 1729263725,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 15,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846595745035563385",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/GnearAi\">@GnearAi</a> <a href=\"https://twitter.com/finance_ref\">@finance_ref</a> soon <a href=\"https://twitter.com/meta_pool\">@meta_pool</a>",
+            "ID": "1847075132726272004",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846595745035563385",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1845765845647056907",
+                    "Username": "GnearAi",
+                    "Name": "GNEAR"
+                },
+                {
+                    "ID": "1370594513857691648",
+                    "Username": "finance_ref",
+                    "Name": "Ref Finance"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1847075132726272004",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@GnearAi @finance_ref soon @meta_pool",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T00:40:03Z",
+            "Timestamp": 1729212003,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846974463780241569",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ICPHUBS\">@ICPHUBS</a> <a href=\"https://twitter.com/icphub_MX\">@icphub_MX</a> <a href=\"https://twitter.com/ccossio\">@ccossio</a> Master! \ud83d\ude4c",
+            "ID": "1847074147450438113",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846974463780241569",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1621556084807970816",
+                    "Username": "ICPHUBS",
+                    "Name": "ICP HUBS NETWORK"
+                },
+                {
+                    "ID": "1654217068198375424",
+                    "Username": "icphub_MX",
+                    "Name": "ICP HUB M\u00e9xico"
+                },
+                {
+                    "ID": "20304727",
+                    "Username": "ccossio",
+                    "Name": "Claudio Cossio"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1847074147450438113",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ICPHUBS @icphub_MX @ccossio Master! \ud83d\ude4c",
+            "Thread": null,
+            "TimeParsed": "2024-10-18T00:36:08Z",
+            "Timestamp": 1729211768,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 35,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846641698614469037",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/iworibofun_jd\">@iworibofun_jd</a> <a href=\"https://twitter.com/Near_ES\">@Near_ES</a> La mejor comunidad;! \ud83e\udee1",
+            "ID": "1846970305442660692",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846641698614469037",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1545353813200146433",
+                    "Username": "iworibofun_jd",
+                    "Name": "IWORIBOFUN"
+                },
+                {
+                    "ID": "1404625502065860608",
+                    "Username": "Near_ES",
+                    "Name": "NEAR ES"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1846970305442660692",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@iworibofun_jd @Near_ES La mejor comunidad;! \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T17:43:30Z",
+            "Timestamp": 1729187010,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 5,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846968487014813852",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NounsDAOAmigos\">@NounsDAOAmigos</a> <a href=\"https://twitter.com/PlazaNouns\">@PlazaNouns</a> \ud83e\udee1",
+            "ID": "1846970072167842292",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846968487014813852",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1531339906525671426",
+                    "Username": "NounsDAOAmigos",
+                    "Name": "Nouns Amigos"
+                },
+                {
+                    "ID": "1610721870156025856",
+                    "Username": "PlazaNouns",
+                    "Name": "La Plaza \u2310\u25e8-\u25e8"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1846970072167842292",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NounsDAOAmigos @PlazaNouns \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T17:42:34Z",
+            "Timestamp": 1729186954,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846944099108077714",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/meta_pool\">@meta_pool</a> I am REDACTED, you are REDACTED :)",
+            "ID": "1846946742987534397",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846944099108077714",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1846946742987534397",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@meta_pool I am REDACTED, you are REDACTED :)",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T16:09:52Z",
+            "Timestamp": 1729181392,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 65,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846552587098624355",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/meta_pool_vn\">@meta_pool_vn</a> <a href=\"https://twitter.com/NearVietnamHub\">@NearVietnamHub</a> <a href=\"https://twitter.com/NearKoreaHub\">@NearKoreaHub</a> <a href=\"https://twitter.com/NearKoreaDAO\">@NearKoreaDAO</a> <a href=\"https://twitter.com/Coiniseasy\">@Coiniseasy</a> <a href=\"https://twitter.com/SuperteamVN\">@SuperteamVN</a> <a href=\"https://twitter.com/SuperteamKR\">@SuperteamKR</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a> <a href=\"https://twitter.com/shitzuonnear\">@shitzuonnear</a> \uac10\uc0ac\ud569\ub2c8\ub2e4 \ud83d\ude4c",
+            "ID": "1846553034895085717",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846552587098624355",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1764647845377015808",
+                    "Username": "meta_pool_vn",
+                    "Name": "Meta Pool Vietnam \ud83c\uddfb\ud83c\uddf3"
+                },
+                {
+                    "ID": "1558792208090034176",
+                    "Username": "NearVietnamHub",
+                    "Name": "NEAR Vietnam Hub - NEAR APAC \ud83c\uddfb\ud83c\uddf3\u22c8"
+                },
+                {
+                    "ID": "1587683212096327680",
+                    "Username": "NearKoreaHub",
+                    "Name": "NEAR Korea"
+                },
+                {
+                    "ID": "1513252764100481032",
+                    "Username": "NearKoreaDAO",
+                    "Name": "NEAR Korea DAO"
+                },
+                {
+                    "ID": "1427199750747553793",
+                    "Username": "Coiniseasy",
+                    "Name": "CoinEasy | DevCon 2024 \ud83c\uddf9\ud83c\udded"
+                },
+                {
+                    "ID": "1578004618289635330",
+                    "Username": "SuperteamVN",
+                    "Name": "Superteam Vietnam"
+                },
+                {
+                    "ID": "1664222581824823298",
+                    "Username": "SuperteamKR",
+                    "Name": "Superteam Korea"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                },
+                {
+                    "ID": "1799466871101562880",
+                    "Username": "shitzuonnear",
+                    "Name": "S\u0334H\u0336I\u0336T\u0334Z\u0335U\u0334"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1846553034895085717",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@meta_pool @NEARWEEK @meta_pool_vn @NearVietnamHub @NearKoreaHub @NearKoreaDAO @Coiniseasy @SuperteamVN @SuperteamKR @ShitzuCommunity @shitzuonnear \uac10\uc0ac\ud569\ub2c8\ub2e4 \ud83d\ude4c",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T14:05:25Z",
+            "Timestamp": 1729087525,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 58,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845950022065836115",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Rous_cripto\">@Rous_cripto</a> <a href=\"https://twitter.com/AleRaMo30\">@AleRaMo30</a> \u00a1A toda disposici\u00f3n! <a href=\"https://twitter.com/AleRaMo30\">@AleRaMo30</a> <br><br>Gracias Rosaura \ud83e\udd13",
+            "ID": "1846215923432116652",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846214702419906956",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1447769270902009856",
+                    "Username": "Rous_cripto",
+                    "Name": "Rous~\ud83d\udc26\ud83c\udde6\ud83c\uddf7\ud83d\udd0d"
+                },
+                {
+                    "ID": "1193724774192566272",
+                    "Username": "AleRaMo30",
+                    "Name": "Ale RaMo"
+                },
+                {
+                    "ID": "1193724774192566272",
+                    "Username": "AleRaMo30",
+                    "Name": "Ale RaMo"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1846215923432116652",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Rous_cripto @AleRaMo30 \u00a1A toda disposici\u00f3n! @AleRaMo30 \n\nGracias Rosaura \ud83e\udd13",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T15:45:51Z",
+            "Timestamp": 1729007151,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 19,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846189319796510789",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/meta_pool\">@meta_pool</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1846207144200114192",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1846189319796510789",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1846207144200114192",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@meta_pool !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T15:10:58Z",
+            "Timestamp": 1729005058,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846195572102828363",
+            "GIFs": [
+                {
+                    "ID": "1846195565362548736",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GZ8BFctWEAAnvf-.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GZ8BFctWEAAnvf-.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "Conoce en detalle que hay para este ultimo trimestre del 2024 en <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> DAO \ud83d\ude09 <br><a href=\"https://t.co/HHTkFBS2Yi\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GZ8BFctWEAAnvf-.jpg\"/></a>",
+            "ID": "1846195572102828363",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1846195572102828363",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846189319796510789",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Conoce en detalle que hay para este ultimo trimestre del 2024 en @meta_pool DAO \ud83d\ude09 https://t.co/HHTkFBS2Yi",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T14:24:59Z",
+            "Timestamp": 1729002299,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 75,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845738650627174598",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/altcryptocom\">@altcryptocom</a> $mpDAO from <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> \ud83e\udee1",
+            "ID": "1846002864549687404",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845738650627174598",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "4375004836",
+                    "Username": "altcryptocom",
+                    "Name": "Alt Crypto Moon"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1846002864549687404",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@altcryptocom $mpDAO from @meta_pool \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T01:39:14Z",
+            "Timestamp": 1728956354,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 7,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845934030883115263",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ben_kurrek\">@ben_kurrek</a> See you there! \ud83e\udee1",
+            "ID": "1845999878440095949",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845934030883115263",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1476970491516702724",
+                    "Username": "ben_kurrek",
+                    "Name": "Ben Kurrek"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1845999878440095949",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ben_kurrek See you there! \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-15T01:27:22Z",
+            "Timestamp": 1728955642,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 11,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845931012317966371",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Uno de los eventos m\u00e1s grandes de <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a>! \ud83e\udee1<br><br>Este jueves los co-founders de <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> estar\u00e1n platicando sobre el hackathon [REDACTED] junto a grandes expones del ecosistema <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> \ud83d\udc40<br><br>M\u00e1s de 700k en premios para los hackers \ud83d\udc41\ufe0f",
+            "ID": "1845931012317966371",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 9,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1845931012317966371",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845926043330531803",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Uno de los eventos m\u00e1s grandes de @NEARProtocol! \ud83e\udee1\n\nEste jueves los co-founders de @meta_pool estar\u00e1n platicando sobre el hackathon [REDACTED] junto a grandes expones del ecosistema #NEAR \ud83d\udc40\n\nM\u00e1s de 700k en premios para los hackers \ud83d\udc41\ufe0f",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T20:53:43Z",
+            "Timestamp": 1728939223,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 222,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845868292503666732",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Empezando la semana stakeando y aportando al TVL de <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> DAO para la distribuci\u00f3n del 3 de Noviembre<br><br>Empieza stakeando de manera f\u00e1cil, segura y sencilla \ud83d\udc4c<br><br><a href=\"http://metapool.app\">https://t.co/uKI92OUUu8</a> <br><a href=\"https://t.co/un4kgwdQr8\"><img src=\"https://pbs.twimg.com/media/GZ3XGihXwAAyVyT.png\"/></a>",
+            "ID": "1845868292503666732",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1845868292503666732",
+            "Photos": [
+                {
+                    "ID": "1845867929637732352",
+                    "URL": "https://pbs.twimg.com/media/GZ3XGihXwAAyVyT.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Empezando la semana stakeando y aportando al TVL de @meta_pool DAO para la distribuci\u00f3n del 3 de Noviembre\n\nEmpieza stakeando de manera f\u00e1cil, segura y sencilla \ud83d\udc4c\n\nhttps://t.co/uKI92OUUu8 https://t.co/un4kgwdQr8",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T16:44:30Z",
+            "Timestamp": 1728924270,
+            "URLs": [
+                "http://metapool.app"
+            ],
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 113,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845827027141550300",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/waxnear\">@waxnear</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> gm gm sir!",
+            "ID": "1845867903498981610",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845827027141550300",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1471856279626858510",
+                    "Username": "waxnear",
+                    "Name": "Wax"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1845867903498981610",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@waxnear @NEARProtocol gm gm sir!",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T16:42:57Z",
+            "Timestamp": 1728924177,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 25,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845788743090970639",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SolanaFloor\">@SolanaFloor</a> <a href=\"https://twitter.com/Grayscale\">@Grayscale</a> <a href=\"https://twitter.com/JupiterExchange\">@JupiterExchange</a> Wen $mpDAO from <a href=\"https://twitter.com/meta_pool\">@meta_pool</a>, <a href=\"https://twitter.com/Grayscale\">@Grayscale</a> ? \ud83d\udc40",
+            "ID": "1845840103291126151",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845788743090970639",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1435897632581357572",
+                    "Username": "SolanaFloor",
+                    "Name": "SolanaFloor"
+                },
+                {
+                    "ID": "2800345565",
+                    "Username": "Grayscale",
+                    "Name": "Grayscale"
+                },
+                {
+                    "ID": "1446489618208067586",
+                    "Username": "JupiterExchange",
+                    "Name": "Jupiter \ud83e\ude90"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "2800345565",
+                    "Username": "Grayscale",
+                    "Name": "Grayscale"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1845840103291126151",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SolanaFloor @Grayscale @JupiterExchange Wen $mpDAO from @meta_pool, @Grayscale ? \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T14:52:29Z",
+            "Timestamp": 1728917549,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 27,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845831110963429726",
+            "GIFs": null,
+            "Hashtags": [
+                "restake"
+            ],
+            "HTML": "A fresh new way to <a href=\"https://twitter.com/hashtag/restake\">#restake</a> $SOL, $mSOL, $BSOL, and $JitoSOL on Meta Pool, thanks to <a href=\"https://twitter.com/FoxWallet\">@FoxWallet</a> <br><br>Dive into the details! \ud83d\ude0e",
+            "ID": "1845831110963429726",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1441967818610597890",
+                    "Username": "FoxWallet",
+                    "Name": "FoxWallet Official"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1845831110963429726",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845826990433304784",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "A fresh new way to #restake $SOL, $mSOL, $BSOL, and $JitoSOL on Meta Pool, thanks to @FoxWallet \n\nDive into the details! \ud83d\ude0e",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T14:16:45Z",
+            "Timestamp": 1728915405,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 137,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844845928512909568",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/lematecat\">@lematecat</a> <a href=\"https://twitter.com/SEEDLatam\">@SEEDLatam</a> <a href=\"https://twitter.com/Stacklydapp\">@Stacklydapp</a> \ud83d\udc4f\ud83d\udc4f",
+            "ID": "1844846636586979572",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844845928512909568",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1703777622520430593",
+                    "Username": "lematecat",
+                    "Name": "Mate \ud83d\udcab \ud83d\udd1c Devcon \ud83c\uddf9\ud83c\udded"
+                },
+                {
+                    "ID": "1252210377858965504",
+                    "Username": "SEEDLatam",
+                    "Name": "SEED Latam \ud83d\ude80 \ud83d\udd0a"
+                },
+                {
+                    "ID": "1645775367339212804",
+                    "Username": "Stacklydapp",
+                    "Name": "Stackly DCA"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1844846636586979572",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@lematecat @SEEDLatam @Stacklydapp \ud83d\udc4f\ud83d\udc4f",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T21:04:48Z",
+            "Timestamp": 1728680688,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 46,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844503580386246796",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "La gente lo pide, hay que apurarle <a href=\"https://twitter.com/marrowng\">@marrowng</a>",
+            "ID": "1844503580386246796",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "778368371192582144",
+                    "Username": "marrowng",
+                    "Name": "unrobot (\ud83d\udcab, \ud83d\udc99)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1844503580386246796",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844499610343178585",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "La gente lo pide, hay que apurarle @marrowng",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T22:21:37Z",
+            "Timestamp": 1728598897,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 100,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844326748126851196",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CryptoindoJogja\">@CryptoindoJogja</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/ekosubagyo\">@ekosubagyo</a> As always, great Max! \ud83e\udee1",
+            "ID": "1844428868998082954",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844326748126851196",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "597548721",
+                    "Username": "CryptoindoJogja",
+                    "Name": "CryptoIndo Jogja"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "98319622",
+                    "Username": "ekosubagyo",
+                    "Name": "maxone"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1844428868998082954",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CryptoindoJogja @meta_pool @ekosubagyo As always, great Max! \ud83e\udee1",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T17:24:44Z",
+            "Timestamp": 1728581084,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 24,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844373252057203034",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Maximio79\">@Maximio79</a> Espero no perdermelo",
+            "ID": "1844405358284132584",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844373252057203034",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1437057116",
+                    "Username": "Maximio79",
+                    "Name": "herimax.rsk \ud83e\udd89 (\u220e, \u2206) .\u2310\u25e8-\u25e8 \ud83d\udc09"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1844405358284132584",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Maximio79 Espero no perdermelo",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T15:51:19Z",
+            "Timestamp": 1728575479,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 8,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844060289488331090",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> ahah suits!<br><br>What a great way to kick off the spaceeeee!",
+            "ID": "1844060915618152842",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844060289488331090",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1844060915618152842",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK ahah suits!\n\nWhat a great way to kick off the spaceeeee!",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T17:02:37Z",
+            "Timestamp": 1728493357,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 104,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844022325735514563",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/yo_mmart\">@yo_mmart</a> A la madre, \u00bfDonde me apunto?",
+            "ID": "1844056869536772362",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844022325735514563",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1712878033",
+                    "Username": "yo_mmart",
+                    "Name": "Mart.\u2310\u25e8-\u25e8.base.eth \ud83c\uddec\ud83c\uddf9"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1844056869536772362",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@yo_mmart A la madre, \u00bfDonde me apunto?",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T16:46:33Z",
+            "Timestamp": 1728492393,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 30,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843813569051406363",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/ekosubagyo\">@ekosubagyo</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> Haha, just a little contribution to boost DAO Rewards for November! \ud83d\ude19",
+            "ID": "1844056386407485463",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844035259844964703",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "98319622",
+                    "Username": "ekosubagyo",
+                    "Name": "maxone"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1844056386407485463",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@ekosubagyo @meta_pool Haha, just a little contribution to boost DAO Rewards for November! \ud83d\ude19",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T16:44:38Z",
+            "Timestamp": 1728492278,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 11,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844056072337883478",
+            "GIFs": null,
+            "Hashtags": [
+                "mpDAO"
+            ],
+            "HTML": "Ha sido un trimestre muy emocionante, ambicioso y gratificante! \ud83d\udc4f<br><br>Desde el aniversario de Meta Pool con +17 horas en Space, 2 integraciones en 2 semanas. M\u00e1s por venir...<br><br>Alfa... Programa de Referidos en base beta con embajadores y propuestas que participaron en <a href=\"https://twitter.com/hashtag/mpDAO\">#mpDAO</a> Grants",
+            "ID": "1844056072337883478",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 7,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": null,
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1844056072337883478",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844015813193343386",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Ha sido un trimestre muy emocionante, ambicioso y gratificante! \ud83d\udc4f\n\nDesde el aniversario de Meta Pool con +17 horas en Space, 2 integraciones en 2 semanas. M\u00e1s por venir...\n\nAlfa... Programa de Referidos en base beta con embajadores y propuestas que participaron en #mpDAO Grants",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T16:43:23Z",
+            "Timestamp": 1728492203,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 127,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844035020685803623",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/alannetwork_\">@alannetwork_</a> Rola link para verlo",
+            "ID": "1844054857319317721",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844035020685803623",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "228967834",
+                    "Username": "alannetwork_",
+                    "Name": "Alan Buidling Web 3 \u26d3\u26a1\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1844054857319317721",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@alannetwork_ Rola link para verlo",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T16:38:33Z",
+            "Timestamp": 1728491913,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 33,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843799635116339201",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/QueenDDebbie\">@QueenDDebbie</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> \ud83d\ude0e",
+            "ID": "1843892715173597547",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843799635116339201",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1413895695283671040",
+                    "Username": "QueenDDebbie",
+                    "Name": "Debbie \ud83e\udd77"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1843892715173597547",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@QueenDDebbie @meta_pool \ud83d\ude0e",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T05:54:15Z",
+            "Timestamp": 1728453255,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 83,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843839219560788081",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/_Irvinggg\">@_Irvinggg</a> <a href=\"https://twitter.com/peterktodd\">@peterktodd</a> \u00a1Bingo!",
+            "ID": "1843855917856763930",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843839219560788081",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1423064966966300673",
+                    "Username": "_Irvinggg",
+                    "Name": "Irving Cancino \ud83d\udccdGdl\ud83c\uddf2\ud83c\uddfd"
+                },
+                {
+                    "ID": "1471313300",
+                    "Username": "peterktodd",
+                    "Name": "Peter Todd"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1843855917856763930",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@_Irvinggg @peterktodd \u00a1Bingo!",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T03:28:02Z",
+            "Timestamp": 1728444482,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 16,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843813569051406363",
+            "GIFs": null,
+            "Hashtags": [
+                "meta_pool",
+                "meta_pool"
+            ],
+            "HTML": "I just staked my $NEARs on Meta Pool<br><br>Staking contributes directly to the DAO Rewards for November \u26a1\ufe0f<br><br>Stake now and unleash your rewards!<br> <a href=\"https://www.metapool.app/stake?token=near\">https://t.co/0Ozgg9jJLj</a><br><br> <a href=\"https://twitter.com/hashtag/meta_pool\">#meta_pool</a> <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> <a href=\"https://twitter.com/hashtag/meta_pool\">#meta_pool</a> <br><a href=\"https://t.co/nBkiBK3673\"><img src=\"https://pbs.twimg.com/media/GZaJ78aW8AAgqQf.png\"/></a>",
+            "ID": "1843813569051406363",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 8,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1843813569051406363",
+            "Photos": [
+                {
+                    "ID": "1843812760376766464",
+                    "URL": "https://pbs.twimg.com/media/GZaJ78aW8AAgqQf.png"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "I just staked my $NEARs on Meta Pool\n\nStaking contributes directly to the DAO Rewards for November \u26a1\ufe0f\n\nStake now and unleash your rewards!\n https://t.co/0Ozgg9jJLj\n\n #meta_pool @meta_pool #meta_pool https://t.co/nBkiBK3673",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T00:39:45Z",
+            "Timestamp": 1728434385,
+            "URLs": [
+                "https://www.metapool.app/stake?token=near"
+            ],
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 149,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843699078053671285",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Hey, <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> Community!<br><br>I've posted the <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> DAO Rewards (September) on the NEAR Forum.<br><br><a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/neardc\">@neardc</a> <a href=\"https://twitter.com/ShitzuCommunity\">@ShitzuCommunity</a><br><br>If you're there, leave a comment! \ud83d\ude00<br><a href=\"https://gov.near.org/t/dao-rewards-for-voters-in-meta-pool-s-governance-september-2024/40290\">https://t.co/qv1rtqyvun</a>",
+            "ID": "1843699078053671285",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 10,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                },
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1527822641834303488",
+                    "Username": "ShitzuCommunity",
+                    "Name": "$SHITZU intern"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1843699078053671285",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hey, #NEAR Community!\n\nI've posted the @meta_pool DAO Rewards (September) on the NEAR Forum.\n\n@NEARWEEK @neardc @ShitzuCommunity\n\nIf you're there, leave a comment! \ud83d\ude00\nhttps://t.co/qv1rtqyvun",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T17:04:49Z",
+            "Timestamp": 1728407089,
+            "URLs": [
+                "https://gov.near.org/t/dao-rewards-for-voters-in-meta-pool-s-governance-september-2024/40290"
+            ],
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 141,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843407355926511902",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/meta_pool\">@meta_pool</a> Both \ud83d\udc40",
+            "ID": "1843429442770874530",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843407355926511902",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1843429442770874530",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@meta_pool Both \ud83d\udc40",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T23:13:23Z",
+            "Timestamp": 1728342803,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843281465812853160",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/entigdd\">@entigdd</a> incredible, Ecuador is here \ud83d\ude0e",
+            "ID": "1843412597355491652",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843281465812853160",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "713219000268754944",
+                    "Username": "entigdd",
+                    "Name": "enti \ud83e\udd87\ud83d\udd0a"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1843412597355491652",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@entigdd incredible, Ecuador is here \ud83d\ude0e",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T22:06:26Z",
+            "Timestamp": 1728338786,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 48,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843161234008584599",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AvbNear\">@AvbNear</a> <a href=\"https://twitter.com/slimedrgn\">@slimedrgn</a> <a href=\"https://twitter.com/marior_dev\">@marior_dev</a> <a href=\"https://twitter.com/joespano_\">@joespano_</a> \ud83d\udc4d",
+            "ID": "1843164537174008180",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843161234008584599",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "1329286069028675585",
+                    "Username": "AvbNear",
+                    "Name": "AVB | avBrownDragon.near"
+                },
+                {
+                    "ID": "1507969473600536576",
+                    "Username": "slimedrgn",
+                    "Name": "slimedragon.near"
+                },
+                {
+                    "ID": "1308661819536535552",
+                    "Username": "marior_dev",
+                    "Name": "Mario Reder (marior.near)"
+                },
+                {
+                    "ID": "20245489",
+                    "Username": "joespano_",
+                    "Name": "Joe"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1843164537174008180",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AvbNear @slimedrgn @marior_dev @joespano_ \ud83d\udc4d",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T05:40:44Z",
+            "Timestamp": 1728279644,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 107,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843020831527682199",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/jarednotjerry1\">@jarednotjerry1</a> <a href=\"https://twitter.com/joespano_\">@joespano_</a> <a href=\"https://twitter.com/sharddog\">@sharddog</a> \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "ID": "1843159101339267090",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843020831527682199",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "Francisco\ud83e\uddd9\u200d\u2642\ufe0f\ud83d\udef0\ufe0f\u26a1| metapool.app",
+            "Mentions": [
+                {
+                    "ID": "373467250",
+                    "Username": "jarednotjerry1",
+                    "Name": "Jared | ShardDog | RLO"
+                },
+                {
+                    "ID": "20245489",
+                    "Username": "joespano_",
+                    "Name": "Joe"
+                },
+                {
+                    "ID": "1533539203149078529",
+                    "Username": "sharddog",
+                    "Name": "ShardDog"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearMultiverse/status/1843159101339267090",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@jarednotjerry1 @joespano_ @sharddog \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "Thread": null,
+            "TimeParsed": "2024-10-07T05:19:08Z",
+            "Timestamp": 1728278348,
+            "URLs": null,
+            "UserID": "3494135668",
+            "Username": "NearMultiverse",
+            "Videos": null,
+            "Views": 41,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

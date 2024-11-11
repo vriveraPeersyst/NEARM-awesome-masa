@@ -1,0 +1,352 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1852390475170234735",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1852437913893753153",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852390475170234735",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "GUS",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/GUS_DAO/status/1852437913893753153",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-11-01T19:49:49Z",
+            "Timestamp": 1730490589,
+            "URLs": null,
+            "UserID": "281823512",
+            "Username": "GUS_DAO",
+            "Videos": null,
+            "Views": 54,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852027599339307037",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> <a href=\"https://twitter.com/nearhorizon\">@nearhorizon</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1852040743034196031",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852027599339307037",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "GUS",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                },
+                {
+                    "ID": "1651859609299066880",
+                    "Username": "nearhorizon",
+                    "Name": "NEAR Horizon"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/GUS_DAO/status/1852040743034196031",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK @nearhorizon !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T17:31:37Z",
+            "Timestamp": 1730395897,
+            "URLs": null,
+            "UserID": "281823512",
+            "Username": "GUS_DAO",
+            "Videos": null,
+            "Views": 25,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1797645031135904023",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/EverclearOrg\">@EverclearOrg</a> <a href=\"https://twitter.com/safe\">@safe</a> <a href=\"https://twitter.com/OneBalance_io\">@OneBalance_io</a> <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> <a href=\"https://twitter.com/avowallet\">@avowallet</a> <a href=\"https://twitter.com/ParticleNtwrk\">@ParticleNtwrk</a> <a href=\"https://twitter.com/SocketProtocol\">@SocketProtocol</a> <a href=\"https://twitter.com/aori_io\">@aori_io</a> <a href=\"https://twitter.com/EnsoFinance\">@EnsoFinance</a> <a href=\"https://twitter.com/wintermute_t\">@wintermute_t</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1849406372485439969",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1797645069677371810",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "GUS",
+            "Mentions": [
+                {
+                    "ID": "872256542443134976",
+                    "Username": "EverclearOrg",
+                    "Name": "Everclear (prev Connext)"
+                },
+                {
+                    "ID": "8467082",
+                    "Username": "safe",
+                    "Name": "Safe"
+                },
+                {
+                    "ID": "1773406111682437120",
+                    "Username": "OneBalance_io",
+                    "Name": "\u2609neBalance"
+                },
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1614028212887080960",
+                    "Username": "avowallet",
+                    "Name": "Avocado \ud83e\udd51"
+                },
+                {
+                    "ID": "1502187805463638018",
+                    "Username": "ParticleNtwrk",
+                    "Name": "Particle Network"
+                },
+                {
+                    "ID": "1395754141348028416",
+                    "Username": "SocketProtocol",
+                    "Name": "Socket"
+                },
+                {
+                    "ID": "1604849711331962881",
+                    "Username": "aori_io",
+                    "Name": "aori \u2441"
+                },
+                {
+                    "ID": "1354016140956200962",
+                    "Username": "EnsoFinance",
+                    "Name": "EnsoFinance"
+                },
+                {
+                    "ID": "1274667314147921920",
+                    "Username": "wintermute_t",
+                    "Name": "Wintermute"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/GUS_DAO/status/1849406372485439969",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@EverclearOrg @safe @OneBalance_io @NEARProtocol @avowallet @ParticleNtwrk @SocketProtocol @aori_io @EnsoFinance @wintermute_t !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T11:03:34Z",
+            "Timestamp": 1729767814,
+            "URLs": null,
+            "UserID": "281823512",
+            "Username": "GUS_DAO",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849053803900715117",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NEARWEEK\">@NEARWEEK</a> Gnear",
+            "ID": "1849072684514025911",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849053803900715117",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "GUS",
+            "Mentions": [
+                {
+                    "ID": "1377963859730911232",
+                    "Username": "NEARWEEK",
+                    "Name": "NEARWEEK"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/GUS_DAO/status/1849072684514025911",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARWEEK Gnear",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T12:57:36Z",
+            "Timestamp": 1729688256,
+            "URLs": null,
+            "UserID": "281823512",
+            "Username": "GUS_DAO",
+            "Videos": null,
+            "Views": 11,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848060479727435967",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/arrington\">@arrington</a> !submit <a href=\"https://twitter.com/nearweekbot\">@nearweekbot</a>",
+            "ID": "1849067208812482932",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848060479727435967",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "GUS",
+            "Mentions": [
+                {
+                    "ID": "37570179",
+                    "Username": "arrington",
+                    "Name": "Michael Arrington \ud83c\udff4\u200d\u2620\ufe0f"
+                },
+                {
+                    "ID": "1568340791302422529",
+                    "Username": "nearweekbot",
+                    "Name": "NEARWEEK NEWSBOT \ud83d\udef0"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/GUS_DAO/status/1849067208812482932",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@arrington !submit @nearweekbot",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T12:35:51Z",
+            "Timestamp": 1729686951,
+            "URLs": null,
+            "UserID": "281823512",
+            "Username": "GUS_DAO",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848736576559300964",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/_czepluch\">@_czepluch</a> <a href=\"https://twitter.com/phylaxsystems\">@phylaxsystems</a> Gz, good to see you <a href=\"https://twitter.com/_czepluch\">@_czepluch</a> back in the DevRel game",
+            "ID": "1848759674889175204",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848736576559300964",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "GUS",
+            "Mentions": [
+                {
+                    "ID": "330527151",
+                    "Username": "_czepluch",
+                    "Name": "Jacob Czepluch"
+                },
+                {
+                    "ID": "1686426884286926848",
+                    "Username": "phylaxsystems",
+                    "Name": "Phylax Systems"
+                },
+                {
+                    "ID": "330527151",
+                    "Username": "_czepluch",
+                    "Name": "Jacob Czepluch"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/GUS_DAO/status/1848759674889175204",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@_czepluch @phylaxsystems Gz, good to see you @_czepluch back in the DevRel game",
+            "Thread": null,
+            "TimeParsed": "2024-10-22T16:13:49Z",
+            "Timestamp": 1729613629,
+            "URLs": null,
+            "UserID": "281823512",
+            "Username": "GUS_DAO",
+            "Videos": null,
+            "Views": 97,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

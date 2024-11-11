@@ -1,0 +1,1625 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1853756664777748594",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/efrogs_on_linea\">@efrogs_on_linea</a> \ud83d\udc38\ud83d\udc38\ud83d\udc38",
+            "ID": "1853772297032839288",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853756664777748594",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1759964139412189184",
+                    "Username": "efrogs_on_linea",
+                    "Name": "Efrogs \ud83d\udc38"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1853772297032839288",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@efrogs_on_linea \ud83d\udc38\ud83d\udc38\ud83d\udc38",
+            "Thread": null,
+            "TimeParsed": "2024-11-05T12:12:11Z",
+            "Timestamp": 1730808731,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 21,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853456934109639042",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NileExchange\">@NileExchange</a> \ud83e\udd1c\ud83e\udd1b",
+            "ID": "1853493930530394363",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853456934109639042",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1733341682111041536",
+                    "Username": "NileExchange",
+                    "Name": "NILE on LINEA"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1853493930530394363",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NileExchange \ud83e\udd1c\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T17:46:03Z",
+            "Timestamp": 1730742363,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 5,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853482773409087822",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/KodiakFi\">@KodiakFi</a> \ud83e\udd1c\ud83e\udd1b",
+            "ID": "1853488122228834335",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853482773409087822",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1655598345325346818",
+                    "Username": "KodiakFi",
+                    "Name": "Kodiak"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1853488122228834335",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@KodiakFi \ud83e\udd1c\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T17:22:59Z",
+            "Timestamp": 1730740979,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 32,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853272461061521850",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/BeraRodman\">@BeraRodman</a> <a href=\"https://twitter.com/shogunfi\">@shogunfi</a> <a href=\"https://twitter.com/Berabot_\">@Berabot_</a> Too much alpha<br><br>Now dap me up bera \ud83e\udd1c\ud83d\udc3b\ud83e\udd1b",
+            "ID": "1853482655788027909",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853272461061521850",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1050899079969017856",
+                    "Username": "BeraRodman",
+                    "Name": "Bera Rodman (\ud83d\udc3b\u200d\u2744\ufe0f, \ud83c\udfdd\ufe0f)"
+                },
+                {
+                    "ID": "1617970575766605825",
+                    "Username": "shogunfi",
+                    "Name": "Shogun \u5c06\u8ecd"
+                },
+                {
+                    "ID": "1745132639856504832",
+                    "Username": "Berabot_",
+                    "Name": "Berabot \ud83d\udc3b\u26d3"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1853482655788027909",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@BeraRodman @shogunfi @Berabot_ Too much alpha\n\nNow dap me up bera \ud83e\udd1c\ud83d\udc3b\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T17:01:15Z",
+            "Timestamp": 1730739675,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 18,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853471675977015649",
+            "GIFs": [
+                {
+                    "ID": "1853475160432467969",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/Gbjd1pmWYAEnMZR.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/Gbjd1pmWYAEnMZR.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> <a href=\"https://twitter.com/berachain\">@berachain</a> <a href=\"https://twitter.com/Dolomite_io\">@Dolomite_io</a> <a href=\"https://twitter.com/beraborrow\">@beraborrow</a> <a href=\"https://twitter.com/KodiakFi\">@KodiakFi</a> <a href=\"https://twitter.com/KingdomlyApp\">@KingdomlyApp</a> <a href=\"https://twitter.com/0xoogabooga\">@0xoogabooga</a> <a href=\"https://twitter.com/0xBeraHome\">@0xBeraHome</a> <a href=\"https://twitter.com/Bera_Land\">@Bera_Land</a> <br><a href=\"https://t.co/tD8hUlm5cy\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/Gbjd1pmWYAEnMZR.jpg\"/></a>",
+            "ID": "1853475172021330021",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853471675977015649",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "1471917994762670081",
+                    "Username": "berachain",
+                    "Name": "Berachain \ud83d\udc3b\u26d3"
+                },
+                {
+                    "ID": "990716955236749312",
+                    "Username": "Dolomite_io",
+                    "Name": "Dolomite \ud83c\udfd4\ufe0f"
+                },
+                {
+                    "ID": "1749741017484378112",
+                    "Username": "beraborrow",
+                    "Name": "Beraborrow (\ud83d\udc3b\u26d3\ufe0f\ud83c\udf6f)"
+                },
+                {
+                    "ID": "1655598345325346818",
+                    "Username": "KodiakFi",
+                    "Name": "Kodiak"
+                },
+                {
+                    "ID": "1496601946446131203",
+                    "Username": "KingdomlyApp",
+                    "Name": "Kingdomly \ud83c\udff0"
+                },
+                {
+                    "ID": "1646282879922569218",
+                    "Username": "0xoogabooga",
+                    "Name": "Ooga Booga"
+                },
+                {
+                    "ID": "1750065214798938112",
+                    "Username": "0xBeraHome",
+                    "Name": "\u5c0f\u718a\u4e4b\u5bb6 | BeraHome \ud83d\udc3b\u26d3\ufe0f"
+                },
+                {
+                    "ID": "1570074517518548992",
+                    "Username": "Bera_Land",
+                    "Name": "BeraLand"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1853475172021330021",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DapDapMeUp @berachain @Dolomite_io @beraborrow @KodiakFi @KingdomlyApp @0xoogabooga @0xBeraHome @Bera_Land https://t.co/tD8hUlm5cy",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T16:31:31Z",
+            "Timestamp": 1730737891,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 88,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853362494213103906",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/dapdap_intern\">@dapdap_intern</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> <a href=\"https://twitter.com/berachain\">@berachain</a> <a href=\"https://twitter.com/0xBeraHome\">@0xBeraHome</a> <a href=\"https://twitter.com/Bera_Land\">@Bera_Land</a> <a href=\"https://twitter.com/BeraInternTH\">@BeraInternTH</a> u failed",
+            "ID": "1853459331779539147",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853365848548716961",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1729489766083883008",
+                    "Username": "dapdap_intern",
+                    "Name": "DapDap Intern | d\u2019Avinci.eth (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "1471917994762670081",
+                    "Username": "berachain",
+                    "Name": "Berachain \ud83d\udc3b\u26d3"
+                },
+                {
+                    "ID": "1750065214798938112",
+                    "Username": "0xBeraHome",
+                    "Name": "\u5c0f\u718a\u4e4b\u5bb6 | BeraHome \ud83d\udc3b\u26d3\ufe0f"
+                },
+                {
+                    "ID": "1570074517518548992",
+                    "Username": "Bera_Land",
+                    "Name": "BeraLand"
+                },
+                {
+                    "ID": "1815992119527690240",
+                    "Username": "BeraInternTH",
+                    "Name": "BERA InternTH \ud83d\udc3b \u26d3\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1853459331779539147",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@dapdap_intern @DapDapMeUp @berachain @0xBeraHome @Bera_Land @BeraInternTH u failed",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T15:28:34Z",
+            "Timestamp": 1730734114,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1853362494213103906",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> <a href=\"https://twitter.com/berachain\">@berachain</a> <a href=\"https://twitter.com/0xBeraHome\">@0xBeraHome</a> <a href=\"https://twitter.com/Bera_Land\">@Bera_Land</a> <a href=\"https://twitter.com/BeraInternTH\">@BeraInternTH</a> bm",
+            "ID": "1853459274309222468",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1853362494213103906",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "1471917994762670081",
+                    "Username": "berachain",
+                    "Name": "Berachain \ud83d\udc3b\u26d3"
+                },
+                {
+                    "ID": "1750065214798938112",
+                    "Username": "0xBeraHome",
+                    "Name": "\u5c0f\u718a\u4e4b\u5bb6 | BeraHome \ud83d\udc3b\u26d3\ufe0f"
+                },
+                {
+                    "ID": "1570074517518548992",
+                    "Username": "Bera_Land",
+                    "Name": "BeraLand"
+                },
+                {
+                    "ID": "1815992119527690240",
+                    "Username": "BeraInternTH",
+                    "Name": "BERA InternTH \ud83d\udc3b \u26d3\ufe0f"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1853459274309222468",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DapDapMeUp @berachain @0xBeraHome @Bera_Land @BeraInternTH bm",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T15:28:21Z",
+            "Timestamp": 1730734101,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 11,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1852002575966703748",
+            "GIFs": [
+                {
+                    "ID": "1852008198359994368",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GbOnpOBb0AARB4T.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GbOnpOBb0AARB4T.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> <br><a href=\"https://t.co/1NNJzGfQWC\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GbOnpOBb0AARB4T.jpg\"/></a>",
+            "ID": "1852008205335040254",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1852002575966703748",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1852008205335040254",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DapDapMeUp https://t.co/1NNJzGfQWC",
+            "Thread": null,
+            "TimeParsed": "2024-10-31T15:22:19Z",
+            "Timestamp": 1730388139,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 246,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851678632139235778",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/NileExchange\">@NileExchange</a> <a href=\"https://twitter.com/LineaBuild\">@LineaBuild</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> \ud83e\udd1c\ud83e\udd1b",
+            "ID": "1851689803890507783",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851678632139235778",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1733341682111041536",
+                    "Username": "NileExchange",
+                    "Name": "NILE on LINEA"
+                },
+                {
+                    "ID": "1636106911085912069",
+                    "Username": "LineaBuild",
+                    "Name": "Linea"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1851689803890507783",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NileExchange @LineaBuild @DapDapMeUp \ud83e\udd1c\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T18:17:06Z",
+            "Timestamp": 1730312226,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 14,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1851462771768012850",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/AggLayer\">@AggLayer</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> \ud83e\udd1c\ud83e\udd1b",
+            "ID": "1851474640117678413",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1851462771768012850",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1458496303080644619",
+                    "Username": "AggLayer",
+                    "Name": "AggLayer @ AggSummit | Nov 10-11 (\u203b,\u203b)"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1851474640117678413",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@AggLayer @DapDapMeUp \ud83e\udd1c\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-10-30T04:02:07Z",
+            "Timestamp": 1730260927,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 21,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850991440274313578",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Abstract_Eco\">@Abstract_Eco</a> <a href=\"https://twitter.com/AbstractChain\">@AbstractChain</a> <a href=\"https://twitter.com/kemonokaki\">@kemonokaki</a> <a href=\"https://twitter.com/MiaMadCat\">@MiaMadCat</a> <a href=\"https://twitter.com/willsnitch\">@willsnitch</a> <a href=\"https://twitter.com/0xKiwi_\">@0xKiwi_</a> <a href=\"https://twitter.com/TheLlamaBro\">@TheLlamaBro</a> <a href=\"https://twitter.com/0xrodent\">@0xrodent</a> <a href=\"https://twitter.com/notsofast\">@notsofast</a> <a href=\"https://twitter.com/SorcererMerlon\">@SorcererMerlon</a> bom dia",
+            "ID": "1851139508374552946",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850991440274313578",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1664305536844828672",
+                    "Username": "Abstract_Eco",
+                    "Name": "Abstract Ecosystem"
+                },
+                {
+                    "ID": "1806389563788587009",
+                    "Username": "AbstractChain",
+                    "Name": "Abstract"
+                },
+                {
+                    "ID": "1754654250507055104",
+                    "Username": "kemonokaki",
+                    "Name": "Kemonokaki"
+                },
+                {
+                    "ID": "1633914223590887424",
+                    "Username": "MiaMadCat",
+                    "Name": "mia"
+                },
+                {
+                    "ID": "1349407245948358673",
+                    "Username": "willsnitch",
+                    "Name": "Will Snitch \ud83c\udf4a"
+                },
+                {
+                    "ID": "2329426282",
+                    "Username": "0xKiwi_",
+                    "Name": "kiwi.eth uwu"
+                },
+                {
+                    "ID": "1157087591679721472",
+                    "Username": "TheLlamaBro",
+                    "Name": "TheLlamaBro\ud83e\udd87\ud83d\udd0a\ud83e\udd99"
+                },
+                {
+                    "ID": "1771888320278409217",
+                    "Username": "0xrodent",
+                    "Name": "mouse? - bnuuy mode"
+                },
+                {
+                    "ID": "2631709828",
+                    "Username": "notsofast",
+                    "Name": "notsofast"
+                },
+                {
+                    "ID": "1392555499363655684",
+                    "Username": "SorcererMerlon",
+                    "Name": "mellobaby\ud83d\udc52\ud83d\udc52\ud83d\udc52"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1851139508374552946",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Abstract_Eco @AbstractChain @kemonokaki @MiaMadCat @willsnitch @0xKiwi_ @TheLlamaBro @0xrodent @notsofast @SorcererMerlon bom dia",
+            "Thread": null,
+            "TimeParsed": "2024-10-29T05:50:25Z",
+            "Timestamp": 1730181025,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 61,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1850492247973806570",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/redrum21e8\">@redrum21e8</a> \ud83e\udd1c\ud83e\udd1b",
+            "ID": "1850801191355310109",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1850492247973806570",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "565851907",
+                    "Username": "redrum21e8",
+                    "Name": "\ud835\udd97\ud835\udd8a\ud835\udd89\ud835\udd97\ud835\udd9a\ud835\udd92"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1850801191355310109",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@redrum21e8 \ud83e\udd1c\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-10-28T07:26:04Z",
+            "Timestamp": 1730100364,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 10,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849478086829752747",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/mikee_uwu\">@mikee_uwu</a> <a href=\"https://twitter.com/kemonokaki\">@kemonokaki</a> Bom dia",
+            "ID": "1849510466336571525",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849478086829752747",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1599321024880726016",
+                    "Username": "mikee_uwu",
+                    "Name": "Mikeeuwu"
+                },
+                {
+                    "ID": "1754654250507055104",
+                    "Username": "kemonokaki",
+                    "Name": "Kemonokaki"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1849510466336571525",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@mikee_uwu @kemonokaki Bom dia",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T17:57:12Z",
+            "Timestamp": 1729792632,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 19,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849489411358208445",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/KodiakFi\">@KodiakFi</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> \ud83e\udd1c\ud83e\udd1b",
+            "ID": "1849491738483978567",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849489411358208445",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1655598345325346818",
+                    "Username": "KodiakFi",
+                    "Name": "Kodiak"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1849491738483978567",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@KodiakFi @DapDapMeUp \ud83e\udd1c\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T16:42:47Z",
+            "Timestamp": 1729788167,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849473143204700366",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/YogiBera420\">@YogiBera420</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> \ud83e\udd1c\ud83e\udd1b",
+            "ID": "1849476098004033796",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849473143204700366",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1672619336530374657",
+                    "Username": "YogiBera420",
+                    "Name": "Yogi Bera"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1849476098004033796",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@YogiBera420 @DapDapMeUp \ud83e\udd1c\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:40:38Z",
+            "Timestamp": 1729784438,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 29,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849473123629851114",
+            "GIFs": [
+                {
+                    "ID": "1849475410691846144",
+                    "Preview": "https://pbs.twimg.com/tweet_video_thumb/GaqoFksbcAA84t8.jpg",
+                    "URL": "https://video.twimg.com/tweet_video/GaqoFksbcAA84t8.mp4"
+                }
+            ],
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/CoreyCaplan3\">@CoreyCaplan3</a> <a href=\"https://twitter.com/berachain\">@berachain</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> \ud83e\udd1c\ud83e\udd1b <br><a href=\"https://t.co/URX89IFErN\"><img src=\"https://pbs.twimg.com/tweet_video_thumb/GaqoFksbcAA84t8.jpg\"/></a>",
+            "ID": "1849475422465233233",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849473123629851114",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "922532896757469184",
+                    "Username": "CoreyCaplan3",
+                    "Name": "CoreyCaplan.eth \ud83c\udfd4\ufe0f"
+                },
+                {
+                    "ID": "1471917994762670081",
+                    "Username": "berachain",
+                    "Name": "Berachain \ud83d\udc3b\u26d3"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1849475422465233233",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@CoreyCaplan3 @berachain @DapDapMeUp \ud83e\udd1c\ud83e\udd1b https://t.co/URX89IFErN",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:37:56Z",
+            "Timestamp": 1729784276,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 43,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849471681431027810",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/redrum21e8\">@redrum21e8</a> <br><a href=\"https://t.co/RJc9HYMT5B\"><img src=\"https://pbs.twimg.com/media/Gaql0hyagAA91HJ.jpg\"/></a>",
+            "ID": "1849472922806878228",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849472554043314446",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "565851907",
+                    "Username": "redrum21e8",
+                    "Name": "\ud835\udd97\ud835\udd8a\ud835\udd89\ud835\udd97\ud835\udd9a\ud835\udd92"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1849472922806878228",
+            "Photos": [
+                {
+                    "ID": "1849472918830612480",
+                    "URL": "https://pbs.twimg.com/media/Gaql0hyagAA91HJ.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@redrum21e8 https://t.co/RJc9HYMT5B",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:28:00Z",
+            "Timestamp": 1729783680,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 28,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849471681431027810",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/redrum21e8\">@redrum21e8</a> I\u2019m literally u",
+            "ID": "1849472025527775671",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849471681431027810",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "565851907",
+                    "Username": "redrum21e8",
+                    "Name": "\ud835\udd97\ud835\udd8a\ud835\udd89\ud835\udd97\ud835\udd9a\ud835\udd92"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1849472025527775671",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@redrum21e8 I\u2019m literally u",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:24:27Z",
+            "Timestamp": 1729783467,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 112,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849471332750385594",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0x_socratic\">@0x_socratic</a> \ud83e\udd1c\ud83d\udc3b\u26d3\ufe0f\ud83e\udd1b",
+            "ID": "1849471663286718614",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849471332750385594",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "3140089392",
+                    "Username": "0x_socratic",
+                    "Name": "0xSocratic (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1849471663286718614",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0x_socratic \ud83e\udd1c\ud83d\udc3b\u26d3\ufe0f\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:23:00Z",
+            "Timestamp": 1729783380,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849465943539519930",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> <a href=\"https://twitter.com/berachain\">@berachain</a> \ud83e\udd1c\ud83d\udc3b\u26d3\ufe0f\ud83e\udd1b",
+            "ID": "1849471363444281772",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849465943539519930",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 3,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "1471917994762670081",
+                    "Username": "berachain",
+                    "Name": "Berachain \ud83d\udc3b\u26d3"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1849471363444281772",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@DapDapMeUp @berachain \ud83e\udd1c\ud83d\udc3b\u26d3\ufe0f\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:21:49Z",
+            "Timestamp": 1729783309,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 79,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1849469160973336616",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/cudam321\">@cudam321</a> \ud83e\udd1c\ud83d\udc3b\u26d3\ufe0f\ud83e\udd1b",
+            "ID": "1849471316145168406",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1849469160973336616",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1325791563209871360",
+                    "Username": "cudam321",
+                    "Name": "cudam321 (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1849471316145168406",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@cudam321 \ud83e\udd1c\ud83d\udc3b\u26d3\ufe0f\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-10-24T15:21:37Z",
+            "Timestamp": 1729783297,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 4,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848913855923257488",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/vincent_fey1631\">@vincent_fey1631</a> gm <br><a href=\"https://t.co/gjnjEsHTxM\"><img src=\"https://pbs.twimg.com/media/Gai_1J7bEAEEpHG.jpg\"/></a>",
+            "ID": "1848938571497193506",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848913855923257488",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1720637932686454784",
+                    "Username": "vincent_fey1631",
+                    "Name": "Vincent Fey (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1848938571497193506",
+            "Photos": [
+                {
+                    "ID": "1848938566954717185",
+                    "URL": "https://pbs.twimg.com/media/Gai_1J7bEAEEpHG.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@vincent_fey1631 gm https://t.co/gjnjEsHTxM",
+            "Thread": null,
+            "TimeParsed": "2024-10-23T04:04:41Z",
+            "Timestamp": 1729656281,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 13,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1848349293637230679",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/LineaBuild\">@LineaBuild</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> \ud83e\udd1c\ud83e\udd1b",
+            "ID": "1848374852123803757",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1848349293637230679",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 0,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1636106911085912069",
+                    "Username": "LineaBuild",
+                    "Name": "Linea"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1848374852123803757",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@LineaBuild @DapDapMeUp \ud83e\udd1c\ud83e\udd1b",
+            "Thread": null,
+            "TimeParsed": "2024-10-21T14:44:40Z",
+            "Timestamp": 1729521880,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 46,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845682703460634924",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/cudam321\">@cudam321</a> <a href=\"https://twitter.com/kemonokaki\">@kemonokaki</a> <a href=\"https://twitter.com/OekakiConnect\">@OekakiConnect</a> <a href=\"https://twitter.com/H8KUcom\">@H8KUcom</a> bom dia",
+            "ID": "1845710944774819855",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1845682703460634924",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1325791563209871360",
+                    "Username": "cudam321",
+                    "Name": "cudam321 (\ud83e\udd1c,\ud83e\udd1b)"
+                },
+                {
+                    "ID": "1754654250507055104",
+                    "Username": "kemonokaki",
+                    "Name": "Kemonokaki"
+                },
+                {
+                    "ID": "1612756599235567616",
+                    "Username": "OekakiConnect",
+                    "Name": "Oekaki Connect"
+                },
+                {
+                    "ID": "826998919217319937",
+                    "Username": "H8KUcom",
+                    "Name": "Haiku"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1845710944774819855",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@cudam321 @kemonokaki @OekakiConnect @H8KUcom bom dia",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T06:19:15Z",
+            "Timestamp": 1728886755,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844915750622158911",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/Smokey_titan\">@Smokey_titan</a> <a href=\"https://twitter.com/shaiss\">@shaiss</a> <a href=\"https://twitter.com/0xPolygon\">@0xPolygon</a> Idk without a <a href=\"https://twitter.com/kemonokaki\">@kemonokaki</a>",
+            "ID": "1844940704289571316",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844915750622158911",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1529700919238987776",
+                    "Username": "Smokey_titan",
+                    "Name": "Smokey (\u203b,\u203b)"
+                },
+                {
+                    "ID": "13795652",
+                    "Username": "shaiss",
+                    "Name": "Shai Perednik \ud83c\udde6\ud83c\uddf7"
+                },
+                {
+                    "ID": "914738730740715521",
+                    "Username": "0xPolygon",
+                    "Name": "Polygon (\u203b,\u203b)"
+                },
+                {
+                    "ID": "1754654250507055104",
+                    "Username": "kemonokaki",
+                    "Name": "Kemonokaki"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1844940704289571316",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 2,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@Smokey_titan @shaiss @0xPolygon Idk without a @kemonokaki",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T03:18:35Z",
+            "Timestamp": 1728703115,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 62,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844610431886753870",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/yuyumannn\">@yuyumannn</a> So cute",
+            "ID": "1844940598081466540",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844610431886753870",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1345046851108573184",
+                    "Username": "yuyumannn",
+                    "Name": "\ud835\udd9e\ud835\udd9a\ud835\udd9e\ud835\udd9a\ud835\udd92\ud835\udd86\ud835\udd93\ud83d\udd28\u2733\ufe0f\ud83c\uddef\ud83c\uddf5"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1844940598081466540",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@yuyumannn So cute",
+            "Thread": null,
+            "TimeParsed": "2024-10-12T03:18:10Z",
+            "Timestamp": 1728703090,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 36,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844794534493896724",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/0xPolygonDeFi\">@0xPolygonDeFi</a> <a href=\"https://twitter.com/0xPolygon\">@0xPolygon</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> \ud83e\udd1c\ud83e\udd1b <br><a href=\"https://t.co/cJZCkb6S4M\"><img src=\"https://pbs.twimg.com/media/GZo5tbqXYAs06ai.jpg\"/></a>",
+            "ID": "1844850465353167316",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844794534493896724",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1321398370104004608",
+                    "Username": "0xPolygonDeFi",
+                    "Name": "Polygon DeFi"
+                },
+                {
+                    "ID": "914738730740715521",
+                    "Username": "0xPolygon",
+                    "Name": "Polygon (\u203b,\u203b)"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1844850465353167316",
+            "Photos": [
+                {
+                    "ID": "1844850450043985931",
+                    "URL": "https://pbs.twimg.com/media/GZo5tbqXYAs06ai.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@0xPolygonDeFi @0xPolygon @DapDapMeUp \ud83e\udd1c\ud83e\udd1b https://t.co/cJZCkb6S4M",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T21:20:01Z",
+            "Timestamp": 1728681601,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 40,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844634332918341740",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/okxweb3\">@okxweb3</a> <a href=\"https://twitter.com/DapDapMeUp\">@DapDapMeUp</a> <br><a href=\"https://t.co/lenjdEfPpt\"><img src=\"https://pbs.twimg.com/media/GZnZ8QcagAEbce7.jpg\"/></a>",
+            "ID": "1844745157150917078",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844634332918341740",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1422839229592178689",
+                    "Username": "okxweb3",
+                    "Name": "OKX Wallet"
+                },
+                {
+                    "ID": "1698550610445103106",
+                    "Username": "DapDapMeUp",
+                    "Name": "DapDap (\ud83e\udd1c,\ud83e\udd1b)"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1844745157150917078",
+            "Photos": [
+                {
+                    "ID": "1844745151614451713",
+                    "URL": "https://pbs.twimg.com/media/GZnZ8QcagAEbce7.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@okxweb3 @DapDapMeUp https://t.co/lenjdEfPpt",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T14:21:33Z",
+            "Timestamp": 1728656493,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 26,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844404431590453310",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SorcererMerlon\">@SorcererMerlon</a> Bom dia",
+            "ID": "1844454028635468132",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844404431590453310",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1392555499363655684",
+                    "Username": "SorcererMerlon",
+                    "Name": "mellobaby\ud83d\udc52\ud83d\udc52\ud83d\udc52"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1844454028635468132",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SorcererMerlon Bom dia",
+            "Thread": null,
+            "TimeParsed": "2024-10-10T19:04:43Z",
+            "Timestamp": 1728587083,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 41,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1843673750769938608",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "<a href=\"https://twitter.com/SorcererMerlon\">@SorcererMerlon</a> Bom dia",
+            "ID": "1843731778072391955",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1843673750769938608",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "shadowbrown.dapdap | \u82f1\u96c4 (\ud83e\udd1c,\ud83e\udd1b)",
+            "Mentions": [
+                {
+                    "ID": "1392555499363655684",
+                    "Username": "SorcererMerlon",
+                    "Name": "mellobaby\ud83d\udc52\ud83d\udc52\ud83d\udc52"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/0xshadowbrown/status/1843731778072391955",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@SorcererMerlon Bom dia",
+            "Thread": null,
+            "TimeParsed": "2024-10-08T19:14:45Z",
+            "Timestamp": 1728414885,
+            "URLs": null,
+            "UserID": "1369638707159007233",
+            "Username": "0xshadowbrown",
+            "Videos": null,
+            "Views": 33,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]

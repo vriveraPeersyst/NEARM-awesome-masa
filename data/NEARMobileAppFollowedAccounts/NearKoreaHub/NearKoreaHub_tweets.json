@@ -1,0 +1,496 @@
+[
+    {
+        "Tweet": {
+            "ConversationID": "1853385854817096089",
+            "GIFs": null,
+            "Hashtags": [
+                "NEAR"
+            ],
+            "HTML": "Hey!<br>how about diving deeper into <a href=\"https://twitter.com/nearprotocol's\">@nearprotocol's</a> <a href=\"https://twitter.com/SweatEconomy\">@SweatEconomy</a>\ud83d\udc5f<br><br>Sweat Economy is leveraging <a href=\"https://twitter.com/hashtag/NEAR\">#NEAR</a> to boost transparency and security in its rewards system.<br><br>Join the journey toward a healthier, wealthier world!\u2728<br><br>\ud83d\udc49\ud83c\udffb <a href=\"https://medium.com/@NearKoreaHub/near-article-9-sweat-wallet-%EB%8D%94-%EA%B1%B4%EA%B0%95%ED%95%98%EA%B3%A0-%EB%B6%80%EC%9C%A0%ED%95%9C-%EC%84%B8%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC-bb53a8b7941b\">https://t.co/nxNQSeFzE0</a>",
+            "ID": "1853385854817096089",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 37,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1485617600239489028",
+                    "Username": "SweatEconomy",
+                    "Name": "Sweat \u0415conomy \ud83d\udca7"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1853385854817096089",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 0,
+            "Retweets": 3,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hey!\nhow about diving deeper into @nearprotocol's @SweatEconomy\ud83d\udc5f\n\nSweat Economy is leveraging #NEAR to boost transparency and security in its rewards system.\n\nJoin the journey toward a healthier, wealthier world!\u2728\n\n\ud83d\udc49\ud83c\udffb https://t.co/nxNQSeFzE0",
+            "Thread": null,
+            "TimeParsed": "2024-11-04T10:36:36Z",
+            "Timestamp": 1730716596,
+            "URLs": [
+                "https://medium.com/@NearKoreaHub/near-article-9-sweat-wallet-%EB%8D%94-%EA%B1%B4%EA%B0%95%ED%95%98%EA%B3%A0-%EB%B6%80%EC%9C%A0%ED%95%9C-%EC%84%B8%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC-bb53a8b7941b"
+            ],
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 640,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846823994907152572",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\ud83c\udf0e <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> supports as many languages as the chains it integrates with.<br><br>How about meeting it in familiar Korean?",
+            "ID": "1846823994907152572",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 17,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1846823994907152572",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846552587098624355",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\ud83c\udf0e @meta_pool supports as many languages as the chains it integrates with.\n\nHow about meeting it in familiar Korean?",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T08:02:07Z",
+            "Timestamp": 1729152127,
+            "URLs": null,
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 343,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846745096315982239",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u2712\ufe0f <a href=\"https://twitter.com/a16zcrypto\">@a16zcrypto</a> Report.<br><br>AI\u2019s centralization challenges are almost the exact inverse of the opportunities for decentralization that blockchain networks offer.<br>- NEAR Protocol (leveraging open-source, user-owned protocols to run AI)<br>- 31M active addresses (2nd largest among all",
+            "ID": "1846745096315982239",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 2,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1539681011696603137",
+                    "Username": "a16zcrypto",
+                    "Name": "a16z crypto"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1846745096315982239",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846598239899808048",
+            "Replies": 1,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u2712\ufe0f @a16zcrypto Report.\n\nAI\u2019s centralization challenges are almost the exact inverse of the opportunities for decentralization that blockchain networks offer.\n- NEAR Protocol (leveraging open-source, user-owned protocols to run AI)\n- 31M active addresses (2nd largest among all",
+            "Thread": null,
+            "TimeParsed": "2024-10-17T02:48:36Z",
+            "Timestamp": 1729133316,
+            "URLs": null,
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 115,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1846349802197643428",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "For next Web3 &amp; AI projects,<br><br>Finally <a href=\"https://twitter.com/nearhorizon\">@nearhorizon</a> and <a href=\"https://twitter.com/delphi_labs\">@delphi_labs</a> powered up! <br><br>Don\u2019t miss up to 250K of investments and incubating opportunity\ud83d\udd25",
+            "ID": "1846349802197643428",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 14,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1651859609299066880",
+                    "Username": "nearhorizon",
+                    "Name": "NEAR Horizon"
+                },
+                {
+                    "ID": "1542879561368870914",
+                    "Username": "delphi_labs",
+                    "Name": "Delphi Labs"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1846349802197643428",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1846249706760163482",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "For next Web3 &amp; AI projects,\n\nFinally @nearhorizon and @delphi_labs powered up! \n\nDon\u2019t miss up to 250K of investments and incubating opportunity\ud83d\udd25",
+            "Thread": null,
+            "TimeParsed": "2024-10-16T00:37:51Z",
+            "Timestamp": 1729039071,
+            "URLs": null,
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 318,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845746179084255639",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Hey hey, curious about NEAR AI? \ud83e\udd16<br>Check out this article on <a href=\"https://twitter.com/NEARProtocol's\">@NEARProtocol's</a> User-Owned AI!<br><br>User-Owned AGI isn\u2019t far off\u2014future is NEAR \ud83d\ude80<br><br>\ud83d\udc49\ud83c\udffb <a href=\"https://medium.com/@NearKoreaHub/near-article-ai-%EC%9C%A0%EC%A6%88%EC%BC%80%EC%9D%B4%EC%8A%A4-bitte%EC%99%80-user-owned-agi%EB%A5%BC-%ED%96%A5%ED%95%9C-%ED%88%AC%EC%9E%90-05fe60782bc6\">https://t.co/yQaIEjxULN</a>",
+            "ID": "1845746179084255639",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 59,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1845746179084255639",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 6,
+            "Retweets": 6,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Hey hey, curious about NEAR AI? \ud83e\udd16\nCheck out this article on @NEARProtocol's User-Owned AI!\n\nUser-Owned AGI isn\u2019t far off\u2014future is NEAR \ud83d\ude80\n\n\ud83d\udc49\ud83c\udffb https://t.co/yQaIEjxULN",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T08:39:16Z",
+            "Timestamp": 1728895156,
+            "URLs": [
+                "https://medium.com/@NearKoreaHub/near-article-ai-%EC%9C%A0%EC%A6%88%EC%BC%80%EC%9D%B4%EC%8A%A4-bitte%EC%99%80-user-owned-agi%EB%A5%BC-%ED%96%A5%ED%95%9C-%ED%88%AC%EC%9E%90-05fe60782bc6"
+            ],
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 1666,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1845661079558578216",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Don\u2019t miss the insightful session with <a href=\"https://twitter.com/FoxWallet\">@FoxWallet</a> and <a href=\"https://twitter.com/meta_pool\">@meta_pool</a>, hosting today at 2 PM(UTC)! \ud83d\udd25<br><br>The innovation of re-staking continues.",
+            "ID": "1845661079558578216",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 4,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1441967818610597890",
+                    "Username": "FoxWallet",
+                    "Name": "FoxWallet Official"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1845661079558578216",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1845117682284204504",
+            "Replies": 0,
+            "Retweets": 1,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Don\u2019t miss the insightful session with @FoxWallet and @meta_pool, hosting today at 2 PM(UTC)! \ud83d\udd25\n\nThe innovation of re-staking continues.",
+            "Thread": null,
+            "TimeParsed": "2024-10-14T03:01:06Z",
+            "Timestamp": 1728874866,
+            "URLs": null,
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 104,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844717084544045209",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35\u0e17\u0e38\u0e01\u0e04\u0e19 \ud83d\ude4f<br><br>Mark your calendars for [REDACTED], presented by <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> in Bangkok, Nov. 9-11 \ud83c\uddf9\ud83c\udded\u2708\ufe0f<br><br>More than an event, it\u2019s a movement \u26a1\ufe0f<br>FREE tickets, limited spots \ud83c\udf9f\ufe0f\ud83c\udf7f<br>Reclaim your sovereignty and be part of this IRL experience!\ud83c\udfaa <br><a href=\"https://redactedbangkok.ai/\">https://t.co/0fUL8xFecp</a> <br><a href=\"https://t.co/pAUandzKD9\"><img src=\"https://pbs.twimg.com/media/GZlrpsyaAAQJdjS.jpg\"/></a>",
+            "ID": "1844717084544045209",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": false,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 46,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1844717084544045209",
+            "Photos": [
+                {
+                    "ID": "1844623886526316548",
+                    "URL": "https://pbs.twimg.com/media/GZlrpsyaAAQJdjS.jpg"
+                }
+            ],
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "",
+            "Replies": 1,
+            "Retweets": 9,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35\u0e17\u0e38\u0e01\u0e04\u0e19 \ud83d\ude4f\n\nMark your calendars for [REDACTED], presented by @NEARProtocol in Bangkok, Nov. 9-11 \ud83c\uddf9\ud83c\udded\u2708\ufe0f\n\nMore than an event, it\u2019s a movement \u26a1\ufe0f\nFREE tickets, limited spots \ud83c\udf9f\ufe0f\ud83c\udf7f\nReclaim your sovereignty and be part of this IRL experience!\ud83c\udfaa \nhttps://t.co/0fUL8xFecp https://t.co/pAUandzKD9",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T12:30:00Z",
+            "Timestamp": 1728649800,
+            "URLs": [
+                "https://redactedbangkok.ai/"
+            ],
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 798,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844570061425738210",
+            "GIFs": null,
+            "Hashtags": [
+                "DeFi"
+            ],
+            "HTML": "<a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> Interested in <a href=\"https://twitter.com/hashtag/DeFi\">#DeFi</a>? <br>Join the evolution of real products with <a href=\"https://twitter.com/meta_pool\">@meta_pool</a> 's integrated SDK.<br><br><a href=\"https://x.com/meta_pool/status/1841540639512563764\">https://t.co/Hcc0F4Seye</a>",
+            "ID": "1844571346531123436",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "1844570061425738210",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": true,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 1,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1844571346531123436",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1841540639512563764",
+            "Replies": 0,
+            "Retweets": 0,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "@NEARProtocol Interested in #DeFi? \nJoin the evolution of real products with @meta_pool 's integrated SDK.\n\nhttps://t.co/Hcc0F4Seye",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T02:50:54Z",
+            "Timestamp": 1728615054,
+            "URLs": [
+                "https://x.com/meta_pool/status/1841540639512563764"
+            ],
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 69,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844570061425738210",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "$954,500 in <a href=\"https://twitter.com/NEARProtocol\">@NEARProtocol</a> [REDACTED] Hackathon prizes up for grabs.<br><br>Over 1M?\u2026 <br>This is more than just a pitstop along the way\ud83e\udd13<br><br>Join us at the cutting edge of AI and Web3.<br>- <a href=\"https://redactedbangkok.ai/\">https://t.co/0fUL8xFM1X</a>",
+            "ID": "1844570061425738210",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 23,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1844570061425738210",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844427895256547584",
+            "Replies": 1,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "$954,500 in @NEARProtocol [REDACTED] Hackathon prizes up for grabs.\n\nOver 1M?\u2026 \nThis is more than just a pitstop along the way\ud83e\udd13\n\nJoin us at the cutting edge of AI and Web3.\n- https://t.co/0fUL8xFM1X",
+            "Thread": null,
+            "TimeParsed": "2024-10-11T02:45:47Z",
+            "Timestamp": 1728614747,
+            "URLs": [
+                "https://redactedbangkok.ai/"
+            ],
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 664,
+            "SensitiveContent": false
+        },
+        "Error": null
+    },
+    {
+        "Tweet": {
+            "ConversationID": "1844056915044860165",
+            "GIFs": null,
+            "Hashtags": null,
+            "HTML": "Let's Check <a href=\"https://twitter.com/Nearprotocol\">@Nearprotocol</a> DeFi <a href=\"https://twitter.com/meta_pool's\">@meta_pool's</a> Q3 Highlights! \ud83d\ude80<br><br>Meta Pool Anniversary: Celebrating Three Years of Impact \ud83c\udf89 Meta Pool marks 3 years of growth, bringing together global ambassadors.<br><br>Launch of the mpDAO-stNEAR Liquidity Pool\ud83d\udca7: The new mpDAO-stNEAR pool on Ref",
+            "ID": "1844056915044860165",
+            "InReplyToStatus": null,
+            "InReplyToStatusID": "",
+            "IsQuoted": true,
+            "IsPin": false,
+            "IsReply": false,
+            "IsRetweet": false,
+            "IsSelfThread": false,
+            "Likes": 40,
+            "Name": "NEAR Korea",
+            "Mentions": [
+                {
+                    "ID": "1031949518609121280",
+                    "Username": "NEARProtocol",
+                    "Name": "NEAR Protocol"
+                },
+                {
+                    "ID": "1411017234269585408",
+                    "Username": "meta_pool",
+                    "Name": "Meta Pool"
+                }
+            ],
+            "PermanentURL": "https://twitter.com/NearKoreaHub/status/1844056915044860165",
+            "Photos": null,
+            "Place": null,
+            "QuotedStatus": null,
+            "QuotedStatusID": "1844015813193343386",
+            "Replies": 0,
+            "Retweets": 4,
+            "RetweetedStatus": null,
+            "RetweetedStatusID": "",
+            "Text": "Let's Check @Nearprotocol DeFi @meta_pool's Q3 Highlights! \ud83d\ude80\n\nMeta Pool Anniversary: Celebrating Three Years of Impact \ud83c\udf89 Meta Pool marks 3 years of growth, bringing together global ambassadors.\n\nLaunch of the mpDAO-stNEAR Liquidity Pool\ud83d\udca7: The new mpDAO-stNEAR pool on Ref",
+            "Thread": null,
+            "TimeParsed": "2024-10-09T16:46:44Z",
+            "Timestamp": 1728492404,
+            "URLs": null,
+            "UserID": "1587683212096327680",
+            "Username": "NearKoreaHub",
+            "Videos": null,
+            "Views": 936,
+            "SensitiveContent": false
+        },
+        "Error": null
+    }
+]
