@@ -1,20 +1,22 @@
-name: awesome-masa
+name: nearm-awesome-masa
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
-  - python=3.12
-  - pip
-  - jupyter
-  - notebook
-  - ipykernel
-  - matplotlib
-  - numpy
-  - pandas
-  - scikit-learn
+  - python=3.10
+  - numpy=1.23.5
   - streamlit
-  - requests
-  - python-dotenv
-  - feedparser
+  - faiss-cpu
+  - pip
   - pip:
-    - -r requirements.txt
+    - langchain
+    - langgraph
+    - langchain-openai
+    - langchain-core
+    - langchain-huggingface
+    - langchain-community
+    - python-dotenv
+    - streamlit-extras
+    - pydantic
+    - transformers
+    - sentence-transformers

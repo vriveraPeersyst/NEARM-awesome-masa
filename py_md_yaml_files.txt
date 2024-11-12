@@ -1,0 +1,1231 @@
+--- File: ./README.md ---
+# 🌟 Awesome Masa
+
+A curated collection of datasets, tools, and agents for AI developers using the Masa protocol.
+
+[Masa Protocol](https://github.com/masa-finance/masa-oracle)
+
+## 🚀 Quick Start
+
+1. Ensure you have Conda installed.
+2. Create the environment:
+
+   ```bash
+   conda env create -f environment.yml
+   conda activate awesome-masa
+   ```
+
+3. Set up environment variables:
+   - Copy `env.example` to `.env`
+   - Fill in the required values
+
+## 📚 Contents
+
+### [Datasets](#datasets)
+
+### [Scrapers](#scrapers)
+
+### [Agents](#agents)
+
+### [Contribution](#contribution)
+
+### [License](#license)
+
+## 📊 Datasets
+
+Our repository includes various datasets scraped and processed using the Masa Protocol:
+
+### 🐦 Twitter Data
+
+Scraped tweets related to various topics, including memecoin discussions.
+
+*For more details, check out the [datasets README](datasets/README.md).*
+
+### 🎙️ Podcast Data
+
+- **Diarized Transcripts**: Podcast episodes with speaker identification and timestamps.
+- **Examples**: Bankless, Huberman Lab, Laura Shin, Real Vision, The Mint Condition
+
+### 💬 Discord Data
+
+- **Channel Data**: Messages from Discord channels, including user information and timestamps.
+- **Examples**: Guild: Masa, Channel ID: 1217114388373311640
+
+This dataset contains community conversations related to Masa.
+
+### 📺 YouTube Data
+
+A collection of YouTube video transcripts, diarized with speaker labels.
+
+## 🕷️ Scrapers
+
+We provide several scraper libraries to collect data from different sources using the Masa Protocol:
+
+- **Tweet Fetcher**: Retrieve tweets from specified Twitter accounts.
+- **Discord Scraper**: Fetch and save messages from Discord channels.
+
+*For usage instructions, refer to the respective README files in the `scrapers` directory.*
+
+## 🤖 Agents
+
+We provide example code for simple RAG (Retrieval-Augmented Generation) agents using our datasets. These agents demonstrate how to leverage the Masa protocol's structured data in AI applications.
+
+### Example RAG Agent
+
+Our example RAG agent showcases:
+
+- Loading and preprocessing Masa datasets
+- Implementing vector search for relevant context retrieval
+- Integrating retrieved context with a language model for enhanced responses
+
+*For the full implementation, see the [RAG example agent](agents/rag_example.py) file.*
+
+## 🤝 Contribution
+
+We welcome contributions! If you have a dataset, tool, or agent that fits well with our collection, feel free to submit a pull request or open an issue.
+
+For more information on using these datasets or contributing, please refer to the documentation or contact us directly.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+### *Made with ❤️ by the Masa Foundation*
+
+
+--- File: ./scrapers/__init__.py ---
+
+
+--- File: ./scrapers/tweets/README.md ---
+# Getting Started with the Tweet Fetcher
+
+## Introduction
+The Tweet Fetcher is a Python script designed for developers to fetch tweets from a specified Twitter account within a given date range. This README provides instructions on setting up and using the Tweet Fetcher.
+
+## Prerequisites
+- Conda installed on your system.
+- An environment set up using the provided `environment.yml` file. To set up the environment, run:
+  ```bash
+  conda env create -f environment.yml
+  ```
+  Activate the environment with:
+  ```bash
+  conda activate awesome-masa
+  ```
+
+## Configuration
+Before running the script, you need to configure it to specify the API endpoint, query parameters, and other settings.
+
+1. **API Settings**: Specify the API endpoint and headers for the request.
+2. **Query Settings**: Define the query for fetching tweets, including the Twitter account and the number of tweets per request.
+3. **Date Range**: Set the `start_date` and `end_date` for the period from which you want to fetch tweets.
+4. **Iteration Settings**: Adjust `days_per_iteration` to control how many days' worth of tweets are fetched per iteration within the date range.
+5. **File and Logging Settings**: Specify the directory for saving fetched tweets and configure logging preferences.
+
+Refer to the configuration file section for more details:
+
+
+--- File: ./src/__init__.py ---
+from . import agent
+
+--- File: ./src/nearm-twit-agent.py/__init__.py ---
+from . import agent
+
+--- File: ./src/nearm-twit-agent.py/streamlit_app.py ---
+import sys
+import os
+import logging
+import time
+import streamlit as st
+from streamlit_extras.add_vertical_space import add_vertical_space
+from dotenv import load_dotenv
+
+
+
+st.set_page_config(page_title="💬 NEARMobile Twit Cooker", page_icon="💬")
+
+# Load environment variables
+load_dotenv()
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+project_root = os.path.dirname(parent_dir)
+sys.path.append(project_root)
+
+from src.agent import rag_agent
+
+# Initialize the agent only once per session
+@st.cache_resource
+def initialize_agent_cached():
+    return rag_agent  # Adjust if the initialization returns a different object
+
+# Use the cached agent initialization
+graph = initialize_agent_cached()
+
+def get_streaming_rag_response(task: str):
+    logging.info(f"Generating tweet for task: {task}")
+
+    # Construct conversation history
+    history = ""
+    for msg in st.session_state['message_history']:
+        role = "User" if msg["role"] == "user" else "Assistant"
+        content = msg["content"]
+        history += f"{role}: {content}\n"
+
+    response, steps = rag_agent(graph, task, history)  # Adjust according to your agent's API
+
+    words = response.split()
+    for word in words:
+        yield word + " "
+        time.sleep(0.05)
+
+st.title("💬 NEARMobile Twit Cooker")
+
+st.markdown("""
+Welcome to **NEARMobile Twit Cooker**!
+
+I am an assistant specialized in creating **"degen style"** tweets that are both educational and informative. I can help you generate tweets based on NEAR Protocol's Twitter posts and NEARMobile partners. Let's bring your presence in the crypto community to life with fresh and relevant content!
+""")
+
+st.markdown("---")
+
+if 'message_history' not in st.session_state:
+    st.session_state['message_history'] = []
+
+def display_chat_history():
+    for msg in st.session_state['message_history']:
+        with st.chat_message(msg["role"]):
+            st.markdown(msg["content"])
+
+display_chat_history()
+
+if prompt := st.chat_input("Enter your task to generate a tweet:"):
+    st.session_state.message_history.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+
+    with st.chat_message("assistant"):
+        message_placeholder = st.empty()
+        full_response = ""
+        
+        # Display thinking animation
+        thinking_placeholder = st.empty()
+        with thinking_placeholder:
+            for i in range(3):
+                for dot in [".", "..", "..."]:
+                    thinking_placeholder.markdown(f"Thinking{dot}")
+                    time.sleep(0.3)
+        
+        # Start streaming the response
+        for chunk in get_streaming_rag_response(prompt):
+            thinking_placeholder.empty()  # Remove thinking animation
+            full_response += chunk
+            message_placeholder.markdown(full_response + "▌")
+        message_placeholder.markdown(full_response)
+
+    st.session_state.message_history.append({"role": "assistant", "content": full_response})
+
+add_vertical_space(5)
+
+
+--- File: ./src/agent/agent.py ---
+import os
+import json
+import logging
+from typing import List, Optional
+from pydantic import BaseModel, Field
+from langgraph.graph import StateGraph, START, END
+from langgraph.graph.message import add_messages
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.prompts import PromptTemplate
+from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain.schema import Document
+
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+
+# Define the state
+class GraphState(BaseModel):
+    messages: List[dict] = Field(default_factory=list)
+    prompt: str = ""
+    retrieved_docs: List[Document] = Field(default_factory=list)
+    generation: str = ""
+    steps: List[str] = Field(default_factory=list)
+    iterations: int = 0
+
+    """Represents the state of the graph.
+
+    Attributes:
+        doc (Document): The document associated with the state.
+    """
+    doc: Optional[Document] = None
+
+    class Config:
+        """Pydantic configuration for the GraphState model."""
+        arbitrary_types_allowed = True
+
+# Agent class for retrieval
+class RetrieveAgent:
+    def __init__(self, retriever):
+        self.retriever = retriever
+
+    def __call__(self, state: GraphState):
+        logging.info("Retrieving relevant documents...")
+        task = state.prompt
+        retrieved_docs = self.retriever.invoke(task)
+        state.retrieved_docs = retrieved_docs
+        state.steps.append("retrieved_docs")
+        return state
+
+# Agent class for generating response
+class GenerateAgent:
+    def __init__(self, env):
+        self.env = env
+        self.prompt_template = self.create_prompt_template()
+
+    def create_prompt_template(self):
+        """Sets up the prompt template for generating responses."""
+        prompt = PromptTemplate(
+            template="""You are an AI assistant specialized in creating engaging, "degen style" tweets that are both educational and informative. Your task is to craft tweets based on NEAR Protocol's Twitter posts and content from NEARMobile partners. Ensure that the tweets resonate with the crypto community, incorporating trending slang and a lively tone while conveying valuable information.
+
+Guidelines:
+1. Analyze the provided NEAR Protocol Twitter posts and NEARMobile partner content.
+2. Create tweets that blend a "degen" (degenerate) style—characterized by high energy, enthusiasm, and crypto slang—with educational and informative content.
+3. Highlight key updates, features, partnerships, and other relevant information from NEAR Protocol and NEARMobile.
+4. Use hashtags appropriately to increase visibility within the crypto community.
+5. Keep tweets concise, engaging, and within the 280-character limit.
+6. Avoid repetitive phrases and strive for creativity in expression.
+7. Ensure factual accuracy based on the provided data.
+
+Current Task:
+{task}
+
+Data from NEAR Protocol and NEARMobile:
+{data}
+
+Tweet:
+""",
+            input_variables=["task", "data"],
+        )
+        return prompt
+
+    def __call__(self, state: GraphState):
+        """Generates a tweet based on the current state."""
+        logging.info("Generating tweet...")
+        task = state.prompt
+        data_texts = "\n".join([doc.page_content for doc in state.retrieved_docs])
+
+        # Prepare the prompt using the template
+        prompt = self.prompt_template.format(task=task, data=data_texts)
+
+        # Get the conversation history
+        messages = self.env.list_messages()
+
+        # Add the detailed prompt as a system message
+        messages.append({"role": "system", "content": prompt})
+
+        # Add the user's task as a user message
+        messages.append({"role": "user", "content": task})
+
+        # Call the language model
+        response = self.env.completion(messages)
+        state.generation = response
+        state.steps.append("generated_tweet")
+        return state
+
+def load_documents(file_path):
+    """Load documents from a JSON file."""
+    try:
+        with open(file_path, 'r') as file:
+            tweet_data = json.load(file)
+        docs = []
+        for tweet_entry in tweet_data:
+            if tweet_entry.get('Error') is None and 'Tweet' in tweet_entry:
+                tweet = tweet_entry['Tweet']
+                tweet_text = f"[Author: {tweet['Username']}] {tweet['Text']}"
+                docs.append(Document(page_content=tweet_text))
+        # Split documents
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=250, chunk_overlap=0)
+        split_docs = []
+        for doc in docs:
+            splits = text_splitter.split_text(doc.page_content)
+            for split in splits:
+                split_docs.append(Document(page_content=split))
+        return split_docs
+    except Exception as e:
+        logging.error(f"Error loading tweets: {e}")
+        return []
+
+def create_vectorstore_and_retriever(documents):
+    """
+    Create vector store and retriever.
+
+    :param documents: The list of documents.
+    :type documents: List[Document]
+    :return: The retriever object.
+    :rtype: Retrieval
+    """
+    # Define tokenizer arguments to avoid the warning
+    tokenizer_kwargs = {
+        'clean_up_tokenization_spaces': True
+    }
+
+    # Initialize embeddings with tokenizer arguments
+    embeddings = HuggingFaceEmbeddings(
+        model_name="all-MiniLM-L6-v2",
+        model_kwargs={
+            'tokenizer_kwargs': tokenizer_kwargs
+        }
+    )
+    vectorstore = FAISS.from_documents(documents, embeddings)
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
+    return retriever
+
+# Define the main function
+def main(env):
+    """Main function to run the agent."""
+    # Initialize the agent only once
+    if not hasattr(main, "agent_initialized"):
+        main.agent_initialized = True
+        # Load and prepare data
+        data_path = "data/twitter_data/near_mobile_tweets.json"  # Updated to NEARMobile tweets data file
+        documents = load_documents(data_path)
+        retriever = create_vectorstore_and_retriever(documents)
+        # Assign agents
+        main.retrieve_agent = RetrieveAgent(retriever)
+        main.generate_agent = GenerateAgent(env)
+        # Compile the graph
+        graph_builder = StateGraph(GraphState)
+        graph_builder.add_node("retrieve", main.retrieve_agent)
+        graph_builder.add_node("generate", main.generate_agent)
+        graph_builder.add_edge(START, "retrieve")
+        graph_builder.add_edge("retrieve", "generate")
+        graph_builder.add_edge("generate", END)
+        main.graph = graph_builder.compile()
+
+    messages = env.list_messages()
+    next_actor = env.get_next_actor()
+
+    if not messages:
+        # No previous messages, initialize conversation
+        env.set_next_actor("user")
+        env.request_user_input()
+        return
+
+    if next_actor == "user":
+        # After the user inputs a message, set next_actor to 'agent'
+        env.set_next_actor("agent")
+    elif next_actor == "agent":
+        last_message = messages[-1]
+        if last_message['role'] == 'user':
+            task = last_message['content']
+            initial_state = GraphState(prompt=task)
+            # Invoke the graph and get the result
+            result = main.graph.invoke(initial_state)
+            agent_response = result.generation
+            # Add the agent's response to the environment
+            env.add_message("agent", agent_response)
+            env.set_next_actor("user")
+    else:
+        # Default behavior: request user input
+        env.set_next_actor("user")
+        env.request_user_input()
+        return
+
+    # Request user input if it's the user's turn
+    if env.get_next_actor() == "user":
+        env.request_user_input()
+
+# Entry point for the agent
+if __name__ == "__main__":
+    main(env)
+
+
+--- File: ./src/agent/evaluation/evaluation.py ---
+from langchain import hub
+from langchain_openai import ChatOpenAI
+
+grade_prompt_answer_accuracy = hub.pull("langchain-ai/rag-answer-vs-reference")
+
+def answer_evaluator(run, example) -> dict:
+    """
+    A simple evaluator for RAG answer accuracy
+    """
+    input_question = example.inputs["input"]
+    reference = example.outputs["output"]
+    prediction = run.outputs["response"]
+
+    llm = ChatOpenAI(model="gpt-4", temperature=0)
+    answer_grader = grade_prompt_answer_accuracy | llm
+
+    score = answer_grader.invoke(
+        {
+            "question": input_question,
+            "correct_answer": reference,
+            "student_answer": prediction,
+        }
+    )
+    score = score["Score"]
+    return {"key": "answer_v_reference_score", "score": score}
+
+def check_trajectory_custom(root_run, example) -> dict:
+    """
+    Check if all expected tools are called in exact order and without any additional tool calls.
+    """
+    expected_trajectory_1 = [
+        "retrieve_data",
+        "grade_data_retrieval",
+        "web_search",
+        "generate_answer",
+    ]
+    expected_trajectory_2 = [
+        "retrieve_data",
+        "grade_data_retrieval",
+        "generate_answer",
+    ]
+
+    tool_calls = root_run.outputs["steps"]
+    print(f"Tool calls custom agent: {tool_calls}")
+    if tool_calls == expected_trajectory_1 or tool_calls == expected_trajectory_2:
+        score = 1
+    else:
+        score = 0
+
+    return {"score": int(score), "key": "tool_calls_in_exact_order"}
+
+--- File: ./src/agent/__init__.py ---
+from .rag_agent import get_rag_response
+
+
+--- File: ./src/agent/utils.py ---
+
+import re
+import unicodedata
+from src.agent.data.account_mappings import ACCOUNT_MAPPINGS
+
+def normalize_text(text):
+    # Remove accents and convert to lowercase
+    text = ''.join(
+        c for c in unicodedata.normalize('NFD', text)
+        if unicodedata.category(c) != 'Mn'
+    )
+    return text.lower()
+
+def extract_team_names(question, history):
+    question_normalized = normalize_text(question)
+    history_normalized = normalize_text(history)
+    combined_text = question_normalized + " " + history_normalized
+    mentioned_teams = set()
+
+    for folder_name, name_variations in ACCOUNT_MAPPINGS.items():
+        for name in name_variations:
+            name_normalized = normalize_text(name)
+            # Use word boundaries to avoid partial matches
+            pattern = r'\b' + re.escape(name_normalized) + r'\b'
+            if re.search(pattern, combined_text):
+                mentioned_teams.add(folder_name)
+                break  # Stop checking other variations for this team
+
+    return list(mentioned_teams)
+
+
+--- File: ./src/agent/search_tools/search_tools.py ---
+from langchain_community.tools.tavily_search import TavilySearchResults
+
+
+--- File: ./src/agent/data/data_management.py ---
+import logging
+from src.agent.data.data_loader import load_documents
+from src.agent.data.vector_store import create_vectorstore_and_retriever
+
+def load_and_prepare_data(file_paths):
+    logging.info("Loading data...")
+    data = load_documents(file_paths)
+    logging.info("Creating vectorstore and retriever...")
+    retriever = create_vectorstore_and_retriever(data)
+    return retriever
+
+--- File: ./src/agent/data/tweet_preprocessor.py ---
+import json
+import logging
+
+# src/agent/data/tweet_preprocessor.py
+
+def load_and_process_tweets(file_path):
+    with open(file_path, 'r') as file:
+        tweet_data = json.load(file)
+    
+    processed_tweets = []
+    for tweet_entry in tweet_data:
+        if tweet_entry['Error'] is None and 'Tweet' in tweet_entry:
+            tweet = tweet_entry['Tweet']
+            # Annotate tweet text with the username to indicate the author explicitly.
+            tweet_text = f"[Author: {tweet['Username']}] {tweet['Text']}"
+            processed_tweets.append(tweet_text)
+    
+    return processed_tweets
+
+
+def process_tweets(tweet_data):
+    processed_tweets = []
+    for tweet_entry in tweet_data:
+        if tweet_entry['Error'] is None and 'Tweet' in tweet_entry:
+            tweet = tweet_entry['Tweet']
+            # Annotate tweet text with the username to indicate the author explicitly.
+            tweet_text = f"[Author: {tweet['Username']}] {tweet['Text']}"
+            processed_tweets.append(tweet_text)
+    
+    return processed_tweets
+
+
+
+--- File: ./src/agent/data/vector_store.py ---
+# #src/agent/data/vector_store.py
+
+# from langchain_community.vectorstores import Annoy
+# from langchain_community.embeddings import HuggingFaceEmbeddings
+# from langchain.schema import Document
+# import logging
+
+# def create_vectorstore_and_retriever(data):
+#     if not data:
+#         logging.error("No data provided to create vector store.")
+#         raise ValueError("No data provided to create vector store.")
+#     logging.info(f"Creating vector store with {len(data)} documents.")
+
+#     # Convert text to Document objects
+#     documents = [Document(page_content=text) for text in data]
+
+#     # Use a multilingual embeddings model suitable for Spanish
+#     embeddings = HuggingFaceEmbeddings(
+#         model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+#     )
+
+#     # Pass the embeddings instance directly
+#     vectorstore = Annoy.from_documents(
+#         documents=documents,
+#         embedding=embeddings,
+#         n_trees=20
+#     )
+
+#     retriever = vectorstore.as_retriever(k=10)
+#     return retriever
+
+
+# src/agent/data/vector_store.py
+
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS  # Adjust if necessary
+from langchain.schema import Document
+
+def create_vectorstore_and_retriever(documents):
+    """
+    Create vector store and retriever.
+
+    :param documents: The list of documents.
+    :type documents: List[Document]
+    :return: The retriever object.
+    :rtype: Retrieval
+    """
+    # Define tokenizer arguments to avoid the warning
+    tokenizer_kwargs = {
+        'clean_up_tokenization_spaces': True
+    }
+
+    # Initialize embeddings with tokenizer arguments
+    embeddings = HuggingFaceEmbeddings(
+        model_name="all-MiniLM-L6-v2",
+        model_kwargs={
+            'tokenizer_kwargs': tokenizer_kwargs
+        }
+    )
+    vectorstore = FAISS.from_documents(documents, embeddings)
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
+    return retriever
+
+
+
+# # src/data_processing/vector_store.py
+# from langchain.vectorstores import FAISS
+# from langchain.embeddings import OpenAIEmbeddings
+# import os
+
+# def create_vector_store(processed_data_dir):
+#     texts = []
+#     for filename in os.listdir(processed_data_dir):
+#         with open(os.path.join(processed_data_dir, filename), 'r') as file:
+#             texts.append(file.read())
+
+#     embeddings = OpenAIEmbeddings()
+#     vectorstore = FAISS.from_texts(texts, embeddings)
+#     vectorstore.save_local('data/vectorstores/faiss_index')
+#     return vectorstore
+
+# # Usage
+# vectorstore = create_vector_store('data/processed/')
+
+# # src/agents/retriever_agent.py
+# from langchain.vectorstores import FAISS
+
+# def get_retriever(vectorstore_path):
+#     vectorstore = FAISS.load_local(vectorstore_path)
+#     retriever = vectorstore.as_retriever(search_type="similarity", k=5)
+#     return retriever
+
+# # Usage
+# retriever = get_retriever('data/vectorstores/faiss_index')
+
+
+
+--- File: ./src/agent/data/data_loader.py ---
+# src/agent/data/data_loader.py
+
+import os
+import logging
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from src.agent.data.tweet_preprocessor import load_and_process_tweets
+
+def load_documents(tw_accounts):
+    docs = []
+    for tw_account_folder in tw_accounts:
+        folder_path = os.path.join('data', 'NEARMobileAppFollowedAccounts', tw_account_folder)
+        if os.path.isdir(folder_path):
+            logging.info(f"Loading data from {folder_path}")
+            file_count = 0
+            for root, dirs, files in os.walk(folder_path):
+                for file in files:
+                    if file.endswith('.json'):
+                        file_count += 1
+                        full_path = os.path.join(root, file)
+                        logging.info(f"Processing file: {full_path}")
+                        tweets = load_and_process_tweets(full_path)
+                        docs.extend(tweets)
+            if file_count == 0:
+                logging.warning(f"No JSON files found in {folder_path}")
+        else:
+            logging.warning(f"Folder {folder_path} does not exist.")
+
+    if not docs:
+        logging.warning("No documents found for the specified team folders.")
+    else:
+        logging.info(f"Loaded {len(docs)} documents from account folders.")
+
+    # Text splitting
+    text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
+        chunk_size=250, chunk_overlap=0
+    )
+
+    # Join the list of tweets and split
+    combined_text = "\n".join(docs)
+    doc_splits = text_splitter.split_text(combined_text)
+    return doc_splits
+
+
+--- File: ./src/agent/graph/graph_state.py ---
+from typing import List, TypedDict
+import logging
+
+class GraphState(TypedDict):
+    question: str
+    history: str
+    generation: str
+    search: str
+    data: List[str]
+    steps: List[str]
+
+def retrieve(state):
+    retriever = state.get("retriever")
+    if not retriever:
+        logging.error("No retriever provided in state.")
+        return state  # Handle the error as appropriate
+
+    logging.info(f"Retrieving data for question: {state['question']}")
+
+    question = state["question"]
+    retrieved_docs = retriever.get_relevant_documents(question)
+    data = [doc.page_content for doc in retrieved_docs]
+    steps = state["steps"]
+    steps.append("retrieve_data")
+    return {
+        "data": data,
+        "question": question,
+        "history": state.get("history", ""),
+        "steps": steps,
+        "retriever": retriever
+    }
+def generate(state):
+    from src.agent.rag_agent import rag_chain
+    logging.info(f"Generating answer for question: {state['question']}")
+    question = state["question"]
+    data = state.get("data", [])
+    history = state.get("history", "")
+
+    # Ensure data is a list of strings
+    data_texts = []
+    for item in data:
+        if isinstance(item, dict):
+            # Extract text from the dictionary
+            # Adjust the key based on your web search result structure
+            text = item.get('snippet') or item.get('text') or item.get('content', '')
+            if text:
+                data_texts.append(text)
+        elif isinstance(item, str):
+            data_texts.append(item)
+        else:
+            logging.warning(f"Unexpected data type in data: {type(item)}")
+
+    data_text = "\n".join(data_texts)
+
+    # Prepare inputs for the chain
+    chain_inputs = {
+        "history": history,
+        "question": question,
+        "data": data_text
+    }
+
+    generation = rag_chain.invoke(chain_inputs)
+    steps = state["steps"]
+    steps.append("generate_answer")
+    return {
+        "data": data,
+        "question": question,
+        "history": history,
+        "generation": generation,
+        "steps": steps,
+        "retriever": state.get("retriever")  # Include retriever if needed
+    }
+
+def web_search(state):
+    from src.agent.rag_agent import web_search_tool
+    logging.info(f"Performing web search for question: {state['question']}")
+    question = state["question"]
+    data = state.get("data", [])
+    steps = state["steps"]
+    steps.append("web_search")
+    web_results = web_search_tool.invoke({"query": question})
+    data.extend(web_results)
+    return {"data": data, "question": question, "history": state.get("history", ""), "steps": steps}
+
+def decide_to_generate(state):
+    logging.info("Deciding whether to generate or search...")
+    data = state.get("data", [])
+    if not data:
+        logging.info("No data found, deciding to search.")
+        return "search"
+    else:
+        logging.info("Data found, deciding to generate.")
+        return "generate"
+
+
+
+--- File: ./src/agent/graph/graph_workflow.py ---
+import logging
+from langgraph.graph import StateGraph
+from src.agent.graph.graph_state import GraphState, retrieve, generate, web_search, decide_to_generate
+
+def setup_workflow():
+    logging.info("Setting up the workflow graph...")
+    workflow = StateGraph(GraphState)
+    workflow.add_node("retrieve", retrieve)
+    workflow.add_node("generate", generate)
+    workflow.add_node("web_search", web_search)
+
+    workflow.set_entry_point("retrieve")
+    workflow.add_conditional_edges(
+        "retrieve",
+        decide_to_generate,
+        {
+            "search": "web_search",
+            "generate": "generate",
+        },
+    )
+    workflow.add_edge("web_search", "generate")
+
+    graph = workflow.compile()
+    return graph
+
+--- File: ./src/agent/rag_agent.py ---
+# src/agent/rag_agent.py
+
+import os
+import logging
+from src.agent.data.data_loader import load_documents
+from src.agent.rag.rag_chain_setup import setup_rag_chain
+from src.agent.graph.graph_workflow import setup_workflow
+from src.agent.search_tools.search_tools import get_web_search_tool
+from src.agent.data.vector_store import create_vectorstore_and_retriever
+from src.agent.utils import extract_team_names
+
+# Global variables
+rag_chain = None
+web_search_tool = None
+
+def initialize_agent():
+    global rag_chain, web_search_tool
+    rag_chain = setup_rag_chain()
+    graph = setup_workflow()
+    web_search_tool = get_web_search_tool()
+    return graph
+
+def get_rag_response(graph, question: str, history: str):
+    logging.info(f"Generating response for question: {question}")
+
+    # Extract team names from the question
+    tw_account_folders = extract_team_names(question, history)
+    if not tw_account_folders:
+        logging.info("No account found in question. Loading all data.")
+        # Optionally, load all teams or handle differently
+        tw_account_folders = os.listdir('data/NEARMobileAppFollowedAccounts')  # Load all teams
+    else:
+        logging.info(f"Found team folders: {tw_account_folders}")
+
+    # Load documents from relevant team folders
+    data = load_documents(tw_account_folders)
+    if not data:
+        logging.warning("No data loaded. Proceeding without data.")
+        data = []
+
+    # Create vectorstore and retriever
+    retriever = create_vectorstore_and_retriever(data)
+    if retriever is None:
+        logging.error("Failed to create retriever.")
+    else:
+        logging.info("Retriever created successfully.")
+
+    # Pass the retriever to the graph's state
+    response = graph.invoke({
+        "question": question,
+        "history": history,
+        "steps": [],
+        "retriever": retriever
+    })
+    return response["generation"], response["steps"]
+
+
+
+--- File: ./src/agent/core/config.py ---
+# Existing imports and configurations
+import logging
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# URLs for data loading
+# TODO: Extend to other data types, Web, Discord, Telegram, YouTube, and Podcast
+DATA_URLS = [
+    "data/NEARMobileAppFollowedAccounts",
+]
+
+
+--- File: ./src/agent/rag/rag_chain_setup.py ---
+# src/agent/rag/rag_chain_setup.py
+
+from langchain.prompts import PromptTemplate
+from langchain_openai import ChatOpenAI
+from langchain_core.output_parsers import StrOutputParser
+
+def setup_rag_chain():
+    prompt = PromptTemplate(
+        template="""
+You are an AI assistant specialized in creating engaging, "degen style" tweets that are both educational and informative. Your task is to craft tweets based on NEAR Protocol's Twitter posts and content from NEARMobile partners. Ensure that the tweets resonate with the crypto community, incorporating trending slang and a lively tone while conveying valuable information.
+
+Conversation History:
+{history}
+
+Guidelines:
+
+- Analyze the provided NEAR Protocol Twitter posts and NEARMobile partner content.
+- Create tweets that blend a "degen" (degenerate) style—characterized by high energy, enthusiasm, and crypto slang—with educational and informative content.
+- Highlight key updates, features, partnerships, and other relevant information from NEAR Protocol and NEARMobile.
+- Use hashtags appropriately to increase visibility within the crypto community.
+- Keep tweets concise, engaging, and within the 280-character limit.
+- Avoid repetitive phrases and strive for creativity in expression.
+- Ensure factual accuracy based on the provided data.
+
+Current Task:
+{task}
+
+Data from NEAR Protocol and NEARMobile:
+{data}
+
+Tweet:
+""",
+        input_variables=["history", "task", "data"],
+    )
+
+    llm = ChatOpenAI(model="gpt-4", temperature=0.7)
+    rag_chain = prompt | llm | StrOutputParser()
+    return rag_chain
+
+
+--- File: ./src/twitter-bitcoin-price.py/__init__.py ---
+from . import agent
+
+--- File: ./src/twitter-bitcoin-price.py/streamlit_app.py ---
+import sys
+import os
+import logging
+import time
+import streamlit as st
+from streamlit_extras.add_vertical_space import add_vertical_space
+from dotenv import load_dotenv
+import re
+
+st.set_page_config(page_title="Masa Chat", page_icon="💬")
+
+# Load environment variables
+load_dotenv()
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# URLs for data loading
+DATA_URLS = [
+    "data/__Bitcoin_Price__.json",
+]
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+project_root = os.path.dirname(parent_dir)
+sys.path.append(project_root)
+
+from src.agent import rag_agent
+
+# Initialize the agent only once per session
+@st.cache_resource
+def initialize_agent_cached():
+    return rag_agent.initialize_agent(DATA_URLS)
+
+# Use the cached agent initialization
+graph = initialize_agent_cached()
+
+def get_streaming_rag_response(question: str):
+    logging.info(f"Generating response for question: {question}")
+    try:
+        response, steps = rag_agent.get_rag_response(graph, question)
+        if not response:
+            yield "No response generated."
+        else:
+            # Process the response to maintain formatting
+            # Replace bullet points with markdown bullets and newlines if necessary
+            response = response.replace("•", "\n\n• ")
+            # Split the response into paragraphs for streaming
+            paragraphs = response.split('\n\n')
+            for paragraph in paragraphs:
+                # Correct the spacing around numbers and words
+                paragraph = re.sub(r'(\d+)([a-zA-Z])', r'\1 \2', paragraph)
+                paragraph = re.sub(r'([a-zA-Z])(\d+)', r'\1 \2', paragraph)
+                # Correct the spacing for special cases like '70k by August 5th'
+                paragraph = re.sub(r'(\d+)(k)(by)([A-Za-z]+)(\d+)(th)', r'\1 \2 \3 \4 \5\6', paragraph)
+                paragraph = re.sub(r'(\d+)(k)', r'\1 \2', paragraph)
+                # Add space after currency symbol if missing
+                paragraph = re.sub(r'(\$\d+)([^\s])', r'\1 \2', paragraph)
+                # Add space between words and numbers glued together without spaces
+                paragraph = re.sub(r'(\w)(\d+)(k)', r'\1 \2\3', paragraph)
+                paragraph = re.sub(r'(\d+)([a-zA-Z])', r'\1 \2', paragraph)
+                # Ensure space around 'or even' phrase
+                paragraph = re.sub(r'(or even)(\d+)', r'\1 \2', paragraph)
+                # Ensure space around currency values
+                paragraph = re.sub(r'(\d+)(k)', r'\1\2', paragraph)
+                paragraph = re.sub(r'(\$\d+)(k)', r'\1 \2', paragraph)
+                paragraph = re.sub(r'(\d+)(\s?)(k)', r'\1k', paragraph)
+                yield paragraph + "\n\n"
+                time.sleep(1)  # Increase sleep duration to slow down the streaming
+    except Exception as e:
+        logging.error(f"Error generating response: {e}")
+        yield "An error occurred while generating the response."
+
+st.title("💬 Masa Chat")
+
+st.markdown("""
+    Welcome to the Masa Dataset Chat!
+    
+    This interactive application is designed to let you explore and interact with datasets scraped by the Masa protocol. 
+    It leverages a sophisticated AI to provide insights, answer questions, and facilitate understanding of complex datasets.
+    
+    Dive into the data collected by Masa, ask questions, and uncover hidden insights with the help of our AI assistant.
+""")
+
+st.markdown("---")
+
+if 'message_history' not in st.session_state:
+    st.session_state['message_history'] = []
+
+def display_chat_history():
+    for msg in st.session_state['message_history']:
+        with st.chat_message(msg["role"]):
+            st.markdown(msg["content"])
+
+display_chat_history()
+
+if prompt := st.chat_input("Ask a question:"):
+    st.session_state.message_history.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+
+    with st.chat_message("assistant"):
+        message_placeholder = st.empty()
+        full_response = ""
+        
+        # Display thinking animation
+        thinking_placeholder = st.empty()
+        with thinking_placeholder:
+            for i in range(3):
+                for dot in [".", "..", "..."]:
+                    thinking_placeholder.markdown(f"Thinking{dot}")
+                    time.sleep(0.3)
+        
+        # Start streaming the response
+        try:
+            for chunk in get_streaming_rag_response(prompt):
+                thinking_placeholder.empty()  # Remove thinking animation
+                full_response += chunk
+                # Display the response directly without appending cursor-like character
+                message_placeholder.markdown(full_response)
+        except Exception as e:
+            st.error(f"An error occurred: {e}")
+
+    st.session_state.message_history.append({"role": "assistant", "content": full_response})
+
+add_vertical_space(5)
+
+--- File: ./hugging_face/README.md ---
+# Hugging Face Dataset Management Tool
+
+This tool provides functionality for managing datasets and collections on Hugging Face. It allows you to process local datasets, upload them to Hugging Face, and manage collections and datasets within your organization.
+
+## Features
+
+1. Process and upload datasets to Hugging Face
+2. Create and manage collections
+3. Delete collections
+4. Delete datasets
+
+## Prerequisites
+
+- Anaconda or Miniconda
+- Hugging Face account and API token
+
+## Setup
+
+1. Clone this repository
+2. Create and activate the Conda environment using the `environment.yml` file:
+
+   ```bash
+   conda env create -f environment.yml
+   conda activate awesome-masa
+   ```
+
+3. Create a `.env` file in the project root with the following content:
+
+   ```bash
+   HF_ORG_NAME=your_organization_name
+   HF_TOKEN=your_huggingface_api_token
+   ```
+
+## Usage
+
+The script supports three main actions: process, delete_collection, and delete_dataset.
+
+### Process Datasets
+
+To process and upload datasets:
+
+```bash
+python hf_refactor.py process
+```
+
+This will:
+
+- Iterate through the `datasets` folder
+- Create collections based on folder structure
+- Upload datasets to Hugging Face
+- Add datasets to appropriate collections
+
+To process datasets in a specific subfolder:
+
+```bash
+python hf_refactor.py process --subfolder <subfolder_name>
+```
+
+To process datasets in a specific folder within a subfolder:
+
+```bash
+python hf_refactor.py process --subfolder <subfolder_name> --folder <folder_name>
+```
+
+### Delete Collection
+
+To delete a collection:
+
+```bash
+python hf_refactor.py delete_collection
+```
+
+This will:
+
+- List all collections in your organization
+- Allow you to choose a collection to delete or delete all collections
+
+### Delete Dataset
+
+To delete datasets:
+
+```bash
+python hf_refactor.py delete_dataset
+```
+
+This will:
+
+- List all datasets in your organization
+- Prompt for confirmation to delete all datasets
+
+## File Structure
+
+The script expects the following file structure for datasets:
+
+```bash
+datasets/
+├── collection1/
+│   ├── subfolder1/
+│   │   ├── dataset1.csv
+│   │   └── dataset2.json
+│   └── subfolder2/
+│       └── dataset3.txt
+└── collection2/
+    └── subfolder3/
+        └── dataset4.csv
+```
+
+## Error Handling
+
+The script includes error handling for:
+
+- Rate limiting (429 errors)
+- File processing errors
+- API errors
+
+Failed file uploads are logged and summarized at the end of the process.
+
+## Notes
+
+- The script uses a local JSON file (`hf_upload_record.json`) to keep track of uploaded files and avoid re-uploading unchanged files.
+- There's a 5-second delay between file uploads to avoid overloading the API.
+- Dataset names are sanitized to comply with Hugging Face naming conventions.
+- The script now supports processing specific subfolders and folders within subfolders.
+
+## Caution
+
+Be careful when using the delete functions, as they can permanently remove data from your Hugging Face account. Always double-check before confirming deletions.

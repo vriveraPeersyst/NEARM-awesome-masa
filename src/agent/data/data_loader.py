@@ -4,11 +4,12 @@ import os
 import logging
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from src.agent.data.tweet_preprocessor import load_and_process_tweets
+from langchain.schema import Document  # Added import
 
-def load_documents(team_folders):
+def load_documents(tw_accounts):
     docs = []
-    for team_folder in team_folders:
-        folder_path = os.path.join('data', 'LaLigaEquipos', team_folder)
+    for tw_account_folder in tw_accounts:
+        folder_path = os.path.join('data', 'NEARMobileAppFollowedAccounts', tw_account_folder)
         if os.path.isdir(folder_path):
             logging.info(f"Loading data from {folder_path}")
             file_count = 0
@@ -28,7 +29,7 @@ def load_documents(team_folders):
     if not docs:
         logging.warning("No documents found for the specified team folders.")
     else:
-        logging.info(f"Loaded {len(docs)} documents from team folders.")
+        logging.info(f"Loaded {len(docs)} documents from account folders.")
 
     # Text splitting
     text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
@@ -38,4 +39,8 @@ def load_documents(team_folders):
     # Join the list of tweets and split
     combined_text = "\n".join(docs)
     doc_splits = text_splitter.split_text(combined_text)
-    return doc_splits
+
+    # Convert each split text into a Document object
+    document_objects = [Document(page_content=split) for split in doc_splits]  # Added conversion
+
+    return document_objects  # Return Document objects

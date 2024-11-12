@@ -1,3 +1,5 @@
+# src/agent/graph/graph_state.py
+
 from typing import List, TypedDict
 import logging
 
@@ -29,6 +31,7 @@ def retrieve(state):
         "steps": steps,
         "retriever": retriever
     }
+
 def generate(state):
     from src.agent.rag_agent import rag_chain
     logging.info(f"Generating answer for question: {state['question']}")
@@ -91,4 +94,3 @@ def decide_to_generate(state):
     else:
         logging.info("Data found, deciding to generate.")
         return "generate"
-

@@ -24,16 +24,16 @@ def get_rag_response(graph, question: str, history: str):
     logging.info(f"Generating response for question: {question}")
 
     # Extract team names from the question
-    team_folders = extract_team_names(question, history)
-    if not team_folders:
-        logging.info("No team names found in question. Loading all data.")
+    tw_account_folders = extract_team_names(question, history)
+    if not tw_account_folders:
+        logging.info("No account found in question. Loading all data.")
         # Optionally, load all teams or handle differently
-        team_folders = os.listdir('data/LaLigaEquipos')  # Load all teams
+        tw_account_folders = os.listdir('data/NEARMobileAppFollowedAccounts')  # Load all teams
     else:
-        logging.info(f"Found team folders: {team_folders}")
+        logging.info(f"Found team folders: {tw_account_folders}")
 
     # Load documents from relevant team folders
-    data = load_documents(team_folders)
+    data = load_documents(tw_account_folders)
     if not data:
         logging.warning("No data loaded. Proceeding without data.")
         data = []
@@ -53,4 +53,3 @@ def get_rag_response(graph, question: str, history: str):
         "retriever": retriever
     })
     return response["generation"], response["steps"]
-

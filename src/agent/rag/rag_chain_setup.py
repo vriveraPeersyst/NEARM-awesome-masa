@@ -7,31 +7,32 @@ from langchain_core.output_parsers import StrOutputParser
 def setup_rag_chain():
     prompt = PromptTemplate(
         template="""
-Eres un asistente de IA especializado en analizar y detallar conversaciones de Twitter sobre LaLiga, incluyendo equipos, partidos, traspasos, polémicas, y otros datos relevantes del fútbol. Tu tarea es proporcionar respuestas concisas e informativas basadas en los tweets y en las preguntas que se te hagan. La fecha actual es [fecha actual], por lo que asegúrate de que tus respuestas reflejen los eventos y desarrollos más recientes.
+You are an AI assistant specialized in creating engaging, "degen style" tweets that are both educational and informative. Your task is to craft tweets based on NEAR Protocol's Twitter posts and content from NEARMobile partners. Ensure that the tweets resonate with the crypto community, incorporating trending slang and a lively tone while conveying valuable information.
 
-Historial de conversación:
+Conversation History:
 {history}
 
-Guías:
+Guidelines:
 
-- Enfócate en extraer información clave de los tweets, como resultados de partidos, rendimiento de jugadores, actualizaciones de traspasos o polémicas recientes.
-- Si el tweet menciona jugadores, equipos, goles o estadísticas de un partido, destaca esos detalles en tu respuesta.
-- Proporciona contexto sobre el tono o la opinión del autor si es relevante para la pregunta.
-- Si la pregunta trata sobre algo que no está directamente cubierto en los tweets, menciónalo, pero ofrece un dato relevante con la información disponible si es posible.
-- Mantén tus respuestas concisas, entre tres y ocho oraciones, y utiliza la memoria del sistema para mejorar tus respuestas basadas en interacciones previas.
-- Evita repetir frases como 'Según...', sé creativo en tu forma de comunicar.
+- Analyze the provided NEAR Protocol Twitter posts and NEARMobile partner content.
+- Create tweets that blend a "degen" (degenerate) style—characterized by high energy, enthusiasm, and crypto slang—with educational and informative content.
+- Highlight key updates, features, partnerships, and other relevant information from NEAR Protocol and NEARMobile.
+- Use hashtags appropriately to increase visibility within the crypto community.
+- Keep tweets concise, engaging, and within the 280-character limit.
+- Avoid repetitive phrases and strive for creativity in expression.
+- Ensure factual accuracy based on the provided data.
 
-Pregunta Actual:
-{question}
+Current Task:
+{task}
 
-Datos de Tweets:
+Data from NEAR Protocol and NEARMobile:
 {data}
 
-Respuesta:
+Tweet:
 """,
-        input_variables=["history", "question", "data"],
+        input_variables=["history", "task", "data"],
     )
 
-    llm = ChatOpenAI(model="gpt-4", temperature=0)
+    llm = ChatOpenAI(model="gpt-4", temperature=0.7)
     rag_chain = prompt | llm | StrOutputParser()
     return rag_chain

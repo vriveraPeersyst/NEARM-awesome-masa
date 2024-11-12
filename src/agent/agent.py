@@ -7,13 +7,14 @@ from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.prompts import PromptTemplate
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
+
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 # Configure logging
-#logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.INFO)
 
 # Define the state
 class GraphState(BaseModel):
@@ -42,8 +43,8 @@ class RetrieveAgent:
 
     def __call__(self, state: GraphState):
         logging.info("Retrieving relevant documents...")
-        question = state.prompt
-        retrieved_docs = self.retriever.invoke(question)
+        task = state.prompt
+        retrieved_docs = self.retriever.invoke(task)
         state.retrieved_docs = retrieved_docs
         state.steps.append("retrieved_docs")
         return state
@@ -57,29 +58,37 @@ class GenerateAgent:
     def create_prompt_template(self):
         """Sets up the prompt template for generating responses."""
         prompt = PromptTemplate(
-            template="""You are an AI assistant specializing in analyzing and summarizing Twitter conversations about trading and cryptocurrency based on KOL tweet streams from the author's twitter replies. Your task is to provide concise, informative answers based on the given tweet data and my questions. It's currently July 28th 2024, so make sure you are getting data that is relevant to that date.
+            template="""You are an AI assistant specialized in creating engaging, "degen style" tweets that are both educational and informative. Your task is to craft tweets based on NEAR Protocol's Twitter posts and content from NEARMobile partners. Ensure that the tweets resonate with the crypto community, incorporating trending slang and a lively tone while conveying valuable information.
 
 Guidelines:
-1. Focus on extracting key information from the tweets, such as trading strategies, price movements, or market sentiment.
-2. If the tweet mentions specific cryptocurrencies, trading pairs, or price levels, highlight these in your answer.
-3. Provide context about the author's perspective or sentiment if relevant.
-4. If the question asks about something not directly addressed in the tweets, say so, but offer a relevant insight from the available data if possible.
-5. Keep your answer concise, vary your response between three to eight sentences, and use the system memory to improve your response from our previous chats. Do not use "Based on..." to start every response; be creative in your speech.
+1. Analyze the provided NEAR Protocol Twitter posts and NEARMobile partner content.
+2. Create tweets that blend a "degen" (degenerate) style—characterized by high energy, enthusiasm, and crypto slang—with educational and informative content.
+3. Highlight key updates, features, partnerships, and other relevant information from NEAR Protocol and NEARMobile.
+4. Use hashtags appropriately to increase visibility within the crypto community.
+5. Keep tweets concise, engaging, and within the 280-character limit.
+6. Avoid repetitive phrases and strive for creativity in expression.
+7. Ensure factual accuracy based on the provided data.
 
-Relevant Tweet Data:
-{data}""",
-            input_variables=["data"],
+Current Task:
+{task}
+
+Data from NEAR Protocol and NEARMobile:
+{data}
+
+Tweet:
+""",
+            input_variables=["task", "data"],
         )
         return prompt
 
     def __call__(self, state: GraphState):
-        """Generates a response based on the current state."""
-        logging.info("Generating response...")
-        question = state.prompt
+        """Generates a tweet based on the current state."""
+        logging.info("Generating tweet...")
+        task = state.prompt
         data_texts = "\n".join([doc.page_content for doc in state.retrieved_docs])
 
         # Prepare the prompt using the template
-        prompt = self.prompt_template.format(data=data_texts)
+        prompt = self.prompt_template.format(task=task, data=data_texts)
 
         # Get the conversation history
         messages = self.env.list_messages()
@@ -87,13 +96,13 @@ Relevant Tweet Data:
         # Add the detailed prompt as a system message
         messages.append({"role": "system", "content": prompt})
 
-        # Add the user's question as a user message
-        messages.append({"role": "user", "content": question})
+        # Add the user's task as a user message
+        messages.append({"role": "user", "content": task})
 
         # Call the language model
         response = self.env.completion(messages)
         state.generation = response
-        state.steps.append("generated_answer")
+        state.steps.append("generated_tweet")
         return state
 
 def load_documents(file_path):
@@ -141,9 +150,8 @@ def create_vectorstore_and_retriever(documents):
         }
     )
     vectorstore = FAISS.from_documents(documents, embeddings)
-    retriever = vectorstore.as_retriever(k=4)
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
     return retriever
-
 
 # Define the main function
 def main(env):
@@ -152,7 +160,7 @@ def main(env):
     if not hasattr(main, "agent_initialized"):
         main.agent_initialized = True
         # Load and prepare data
-        data_path = "data/twitter_data/memecoin_tweets.json"
+        data_path = "data/twitter_data/near_mobile_tweets.json"  # Updated to NEARMobile tweets data file
         documents = load_documents(data_path)
         retriever = create_vectorstore_and_retriever(documents)
         # Assign agents
@@ -182,11 +190,11 @@ def main(env):
     elif next_actor == "agent":
         last_message = messages[-1]
         if last_message['role'] == 'user':
-            question = last_message['content']
-            initial_state = GraphState(prompt=question)
+            task = last_message['content']
+            initial_state = GraphState(prompt=task)
             # Invoke the graph and get the result
             result = main.graph.invoke(initial_state)
-            agent_response = result['generation']
+            agent_response = result.generation
             # Add the agent's response to the environment
             env.add_message("agent", agent_response)
             env.set_next_actor("user")
@@ -199,7 +207,6 @@ def main(env):
     # Request user input if it's the user's turn
     if env.get_next_actor() == "user":
         env.request_user_input()
-
 
 # Entry point for the agent
 if __name__ == "__main__":
