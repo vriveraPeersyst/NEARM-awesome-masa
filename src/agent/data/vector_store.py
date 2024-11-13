@@ -1,11 +1,10 @@
+# src/agent/data/vector_store.py
+
 from langchain_community.vectorstores import SKLearnVectorStore
 from langchain_openai import OpenAIEmbeddings
-from langchain.schema import Document
 
-def create_vectorstore_and_retriever(data):
-    # Convert text to Document objects
-    documents = [Document(page_content=text) for text in data]
-    
+def create_vectorstore_and_retriever(documents):
+    # No need to convert documents if they are already Document objects
     vectorstore = SKLearnVectorStore.from_documents(
         documents=documents,
         embedding=OpenAIEmbeddings(),

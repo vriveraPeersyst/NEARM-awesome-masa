@@ -10,7 +10,6 @@ import time
 import streamlit as st
 from streamlit_extras.add_vertical_space import add_vertical_space
 
-
 # Adjust the following lines to set up the correct module path
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
@@ -21,21 +20,17 @@ sys.path.insert(0, project_root)  # Changed from append to insert
 
 # Optional: Log the current project_root and sys.path for debugging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 logging.info(f"Project Root: {project_root}")
 logging.info(f"sys.path: {sys.path}")
 
 # Now import the necessary functions from src.agent.rag_agent
-from src.agent.rag_agent import get_rag_response, initialize_agent
+from src.agent.rag_agent import get_rag_response
+from src.agent.data.account_mappings import ACCOUNT_MAPPINGS
 
 st.set_page_config(page_title="💬 NEARMobile Twit Cooker", page_icon="💬")
 
-# Initialize the agent only once per session
-# @st.cache_resource
-def initialize_agent_cached():
-    return initialize_agent()  # Call the function to get the graph
-
-# Use the cached agent initialization
-graph = initialize_agent_cached()
+# We no longer need to initialize the agent upfront since data is loaded dynamically
 
 def get_streaming_rag_response(task: str):
     logging.info(f"Generating tweet for task: {task}")
@@ -47,8 +42,8 @@ def get_streaming_rag_response(task: str):
         content = msg["content"]
         history += f"{role}: {content}\n"
 
-    # Call the imported function directly
-    response, steps = get_rag_response(graph, task, history)  # Correct function call
+    # Call the get_rag_response function directly
+    response, steps = get_rag_response(task, history)
 
     words = response.split()
     for word in words:
@@ -101,6 +96,7 @@ if prompt := st.chat_input("Enter your task to generate a tweet:"):
             message_placeholder.markdown(full_response)
         except Exception as e:
             st.error(f"An error occurred: {e}")
+            logging.error(f"Error during response generation: {e}")
 
     st.session_state.message_history.append({"role": "assistant", "content": full_response})
 

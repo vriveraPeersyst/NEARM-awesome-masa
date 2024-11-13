@@ -1,15 +1,12 @@
-# src/agent/data/data_loader.py
-
 import os
 import logging
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from src.agent.data.tweet_preprocessor import load_and_process_tweets
-from langchain.schema import Document  # Added import
-
-def load_documents(tw_accounts):
+from langchain.schema import Document
+def load_documents(accounts_to_load):
     docs = []
-    for tw_account_folder in tw_accounts:
-        folder_path = os.path.join('data', 'NEARMobileAppFollowedAccounts', tw_account_folder)
+    for account in accounts_to_load:
+        folder_path = os.path.join('data', 'NEARMobileAppFollowedAccounts', account)
         if os.path.isdir(folder_path):
             logging.info(f"Loading data from {folder_path}")
             file_count = 0
@@ -27,7 +24,7 @@ def load_documents(tw_accounts):
             logging.warning(f"Folder {folder_path} does not exist.")
 
     if not docs:
-        logging.warning("No documents found for the specified team folders.")
+        logging.warning("No documents found for the specified accounts.")
     else:
         logging.info(f"Loaded {len(docs)} documents from account folders.")
 
@@ -36,11 +33,17 @@ def load_documents(tw_accounts):
         chunk_size=250, chunk_overlap=0
     )
 
-    # Join the list of tweets and split
-    combined_text = "\n".join(docs)
-    doc_splits = text_splitter.split_text(combined_text)
+    # Split documents
+    split_docs = []
+    for doc in docs:
+        # Ensure doc is a string
+        if isinstance(doc, Document):
+            text = doc.page_content
+        else:
+            text = doc
+        splits = text_splitter.split_text(text)
+        for split in splits:
+            split_docs.append(Document(page_content=split))
 
-    # Convert each split text into a Document object
-    document_objects = [Document(page_content=split) for split in doc_splits]  # Added conversion
-
-    return document_objects  # Return Document objects
+    logging.info(f"Total split documents: {len(split_docs)}")
+    return split_docs
