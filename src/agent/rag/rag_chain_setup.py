@@ -15,10 +15,8 @@ Conversation History:
 Guidelines:
 
 - Analyze the provided NEAR Protocol Twitter posts and NEARMobile partner content.
-- Create tweets that blend a "degen" (degenerate) style—characterized by high energy, enthusiasm, and crypto slang—with educational and informative content.
+- Create tweets that blend an educational and informative content.
 - Highlight key updates, features, partnerships, and other relevant information from NEAR Protocol and NEARMobile.
-- Use hashtags appropriately to increase visibility within the crypto community.
-- Keep tweets concise, engaging, and within the 280-character limit.
 - Avoid repetitive phrases and strive for creativity in expression.
 - Ensure factual accuracy based on the provided data.
 
@@ -33,6 +31,6 @@ Tweet:
         input_variables=["history", "question", "data"],
     )
 
-    llm = ChatOpenAI(model="gpt-4", temperature=0.7)
+    llm = ChatOpenAI(model="gpt-4", temperature=0.7, max_tokens=500)
     rag_chain = prompt | llm | StrOutputParser()
     return rag_chain

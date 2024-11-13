@@ -65,11 +65,12 @@ Current history: {history}
 Users question: {question}
 Guidelines:
 1. Analyze the provided NEAR Protocol Twitter posts and NEARMobile partner content.
-2. Create tweets that blend a "degen" (degenerate) style—characterized by high energy, enthusiasm, and crypto slang—with educational and informative content.
+2. Create long tweets that blend a "degen" (degenerate) style—characterized by high energy, enthusiasm, and crypto slang—with educational and informative content.
 3. Highlight key updates, features, partnerships, and other relevant information from NEAR Protocol and NEARMobile.
 4. Use hashtags appropriately to increase visibility within the crypto community.
 6. Avoid repetitive phrases and strive for creativity in expression.
 7. Ensure factual accuracy based on the provided data.
+8. Twits must be long and inlcude detailed info.
 
 
 Data:

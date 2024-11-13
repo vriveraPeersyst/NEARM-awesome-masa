@@ -30,7 +30,7 @@ def load_documents(accounts_to_load):
 
     # Text splitting
     text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
-        chunk_size=250, chunk_overlap=0
+        chunk_size=2500, chunk_overlap=0
     )
 
     # Split documents
