@@ -23,14 +23,14 @@ Guidelines:
 - Ensure factual accuracy based on the provided data.
 
 Current Task:
-{task}
+{question}
 
 Data from NEAR Protocol and NEARMobile:
 {data}
 
 Tweet:
 """,
-        input_variables=["history", "task", "data"],
+        input_variables=["history", "question", "data"],
     )
 
     llm = ChatOpenAI(model="gpt-4", temperature=0.7)

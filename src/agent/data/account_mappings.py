@@ -50,7 +50,7 @@ ACCOUNT_MAPPINGS = {
         'dca', 'trade', 'gachapon', 'airdrop', 'swing', 'bots', 'ai',
         'stablecoin', 'usdc', 'usdt', 'aibot', 'tradebot', 'tokens',
         'auto', 'dapp', 'Delta Bot Team', 'automated trading', 'NEAR',
-        'cryptocurrency', 'trading signals'
+        'cryptocurrency', 'trading signals', 'deltatrade'
     ],
     'shitzuonnear': [
         'dogshit', 'shitzu', 'meme', 'stake', 'validator', 'dev', 'build',

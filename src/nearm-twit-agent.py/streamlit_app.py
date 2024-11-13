@@ -2,11 +2,14 @@
 
 import sys
 import os
+from dotenv import load_dotenv
+# Load environment variables
+load_dotenv()
 import logging
 import time
 import streamlit as st
 from streamlit_extras.add_vertical_space import add_vertical_space
-from dotenv import load_dotenv
+
 
 # Adjust the following lines to set up the correct module path
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -26,11 +29,8 @@ from src.agent.rag_agent import get_rag_response, initialize_agent
 
 st.set_page_config(page_title="💬 NEARMobile Twit Cooker", page_icon="💬")
 
-# Load environment variables
-load_dotenv()
-
 # Initialize the agent only once per session
-@st.cache_resource
+# @st.cache_resource
 def initialize_agent_cached():
     return initialize_agent()  # Call the function to get the graph
 

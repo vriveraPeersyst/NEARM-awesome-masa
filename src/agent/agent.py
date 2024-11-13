@@ -7,14 +7,13 @@ from langgraph.graph import StateGraph, START, END
 from langgraph.graph.message import add_messages
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.prompts import PromptTemplate
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
-
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 # Configure logging
-logging.basicConfig(level=logging.INFO)
+#logging.basicConfig(level=logging.INFO)
 
 # Define the state
 class GraphState(BaseModel):
@@ -43,8 +42,8 @@ class RetrieveAgent:
 
     def __call__(self, state: GraphState):
         logging.info("Retrieving relevant documents...")
-        task = state.prompt
-        retrieved_docs = self.retriever.invoke(task)
+        question = state.prompt
+        retrieved_docs = self.retriever.invoke(question)
         state.retrieved_docs = retrieved_docs
         state.steps.append("retrieved_docs")
         return state
@@ -69,26 +68,24 @@ Guidelines:
 6. Avoid repetitive phrases and strive for creativity in expression.
 7. Ensure factual accuracy based on the provided data.
 
-Current Task:
-{task}
 
 Data from NEAR Protocol and NEARMobile:
 {data}
 
 Tweet:
 """,
-            input_variables=["task", "data"],
+            input_variables=["data"],
         )
         return prompt
 
     def __call__(self, state: GraphState):
-        """Generates a tweet based on the current state."""
-        logging.info("Generating tweet...")
-        task = state.prompt
+        """Generates a response based on the current state."""
+        logging.info("Generating response...")
+        question = state.prompt
         data_texts = "\n".join([doc.page_content for doc in state.retrieved_docs])
 
         # Prepare the prompt using the template
-        prompt = self.prompt_template.format(task=task, data=data_texts)
+        prompt = self.prompt_template.format(data=data_texts)
 
         # Get the conversation history
         messages = self.env.list_messages()
@@ -96,13 +93,13 @@ Tweet:
         # Add the detailed prompt as a system message
         messages.append({"role": "system", "content": prompt})
 
-        # Add the user's task as a user message
-        messages.append({"role": "user", "content": task})
+        # Add the user's question as a user message
+        messages.append({"role": "user", "content": question})
 
         # Call the language model
         response = self.env.completion(messages)
         state.generation = response
-        state.steps.append("generated_tweet")
+        state.steps.append("generated_answer")
         return state
 
 def load_documents(file_path):
@@ -150,8 +147,9 @@ def create_vectorstore_and_retriever(documents):
         }
     )
     vectorstore = FAISS.from_documents(documents, embeddings)
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
+    retriever = vectorstore.as_retriever(k=4)
     return retriever
+
 
 # Define the main function
 def main(env):
@@ -160,7 +158,7 @@ def main(env):
     if not hasattr(main, "agent_initialized"):
         main.agent_initialized = True
         # Load and prepare data
-        data_path = "data/twitter_data/near_mobile_tweets.json"  # Updated to NEARMobile tweets data file
+        data_path = "data/twitter_data/memecoin_tweets.json"
         documents = load_documents(data_path)
         retriever = create_vectorstore_and_retriever(documents)
         # Assign agents
@@ -190,11 +188,11 @@ def main(env):
     elif next_actor == "agent":
         last_message = messages[-1]
         if last_message['role'] == 'user':
-            task = last_message['content']
-            initial_state = GraphState(prompt=task)
+            question = last_message['content']
+            initial_state = GraphState(prompt=question)
             # Invoke the graph and get the result
             result = main.graph.invoke(initial_state)
-            agent_response = result.generation
+            agent_response = result['generation']
             # Add the agent's response to the environment
             env.add_message("agent", agent_response)
             env.set_next_actor("user")
@@ -207,6 +205,7 @@ def main(env):
     # Request user input if it's the user's turn
     if env.get_next_actor() == "user":
         env.request_user_input()
+
 
 # Entry point for the agent
 if __name__ == "__main__":
