@@ -27,7 +27,7 @@ def get_rag_response(question: str, history=""):
 
     # Retrieve documents
     logging.info(f"Retrieving data for question: {question}")
-    docs = retriever.get_relevant_documents(question)
+    docs = retriever.invoke(question)
 
     # If no documents found, perform web search
     if not docs:
@@ -38,6 +38,9 @@ def get_rag_response(question: str, history=""):
     else:
         # Prepare data texts from retrieved documents
         data_texts = "\n".join([doc.page_content for doc in docs])
+
+        # Log the data being passed to the prompt
+    logging.info(f"Data passed to the prompt:\n{data_texts}")
 
     # Generate response using RAG chain
     response = rag_chain.invoke({"question": question, "data": data_texts, "history": history})
