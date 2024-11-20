@@ -9,5 +9,5 @@ def create_vectorstore_and_retriever(documents):
         documents=documents,
         embedding=OpenAIEmbeddings(),
     )
-    retriever = vectorstore.as_retriever(search_kwargs={'k': 50})
+    retriever = vectorstore.as_retriever(search_kwargs={'k': 30})
     return retriever
